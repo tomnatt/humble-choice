@@ -1,2 +1,3 @@
-# humble-choice
-Humble Choice marked up as YAML
+# Humble Choice markup
+
+Humble Choice marked up as YAML.
