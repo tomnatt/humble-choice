@@ -1,3 +1,7 @@
+# Project ignores
+data
+
+# Ruby directories
 *.gem
 *.rbc
 /.config
