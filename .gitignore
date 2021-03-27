@@ -1,5 +1,4 @@
 # Project ignores
-data
 
 # Ruby directories
 *.gem
