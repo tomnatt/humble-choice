@@ -14,14 +14,8 @@ CSV.read(humble_montly, { headers: true }).each do |row|
 
   games = []
 
-  row['Early Unlock(s)'].split(';').each { |game| games << game.strip }
-  row['Other Games'].split(';').each do |game|
-    if game.include?(' + ')
-      game.split(' + ').each { |g| games << g.strip }
-    else
-      games << game.strip
-    end
-  end
+  row['Early Unlock(s)'].split(';').each { |game| games.concat(clean_games_list(game)) }
+  row['Other Games'].split(';').each { |game| games.concat(clean_games_list(game)) }
 
   games.each do |game|
     output[year] << { game: { year: year, month: month, game: game } } unless game.empty?
@@ -35,3 +29,24 @@ output.each_key do |year|
   f << o.to_yaml
   f.close
 end
+
+BEGIN {
+
+  def clean_games_list(game)
+    games = []
+
+    # Remove [ if first character
+    game.delete_prefix!('[')
+
+    if game.include?(' + ')
+      game.split(' + ').each { |g| games << g.strip }
+    elsif game.include?('] OR [')
+      game.split('] OR [').each { |g| games << g.strip }
+    else
+      games << game.strip
+    end
+
+    games
+  end
+
+}
