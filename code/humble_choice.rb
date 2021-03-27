@@ -25,7 +25,7 @@ CSV.read(humble_present, { headers: true }).each do |row|
 end
 
 output.each_key do |year|
-  o = { year => output[year] }
+  o = { year => output[year].reverse }
 
   f = File.open("output/humble-choice-#{year}.yml", 'w+')
   f << o.to_yaml
