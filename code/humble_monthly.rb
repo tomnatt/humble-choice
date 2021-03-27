@@ -18,7 +18,7 @@ CSV.read(humble_montly, { headers: true }).each do |row|
   row['Other Games'].split(';').each { |game| games.concat(clean_games_list(game)) }
 
   games.each do |game|
-    output[year] << { game: { year: year, month: month, game: game } } unless game.empty?
+    output[year] << { 'game' => { 'year' => year, 'month' => month, 'game' => game } } unless game.empty?
   end
 end
 
@@ -41,7 +41,7 @@ BEGIN {
     if game.include?(' + ')
       game.split(' + ').each { |g| games << g.strip }
     elsif game.include?('] OR [')
-      game.split('] OR [').each { |g| games << g.strip }
+      game.split('] OR [').each { |g| games << g.strip.delete_suffix(']') }
     else
       games << game.strip
     end
