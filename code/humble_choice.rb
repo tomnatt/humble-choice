@@ -17,7 +17,7 @@ CSV.read(humble_present, { headers: true }).each do |row|
   games = []
 
   available_games = row['Available Games']&.split(';')
-  available_games&.each { |game| games.concat(clean_games_list(game)) }
+  available_games&.each { |games_list| games.concat(clean_games_list(games_list)) }
 
   games.each do |game|
     output[year] << { 'game' => { 'year' => year, 'month' => month, 'game' => game } } unless game.empty?
@@ -34,21 +34,47 @@ end
 
 BEGIN {
 
-  def clean_games_list(game)
+  def clean_games_list(games_list)
+    # Remove [ if first character
+    games_list.delete_prefix!('[')
+
+    # Split by the common delimeters
+    games = split_on_common_delimeters(games_list)
+
+    # Remove costs and split on commas
+    remove_costs_split_on_commas(games)
+
+    games
+  end
+
+  def split_on_common_delimeters(games_list)
     games = []
 
-    # Remove [ if first character
-    game.delete_prefix!('[')
+    if games_list.include?(' + ')
+      games_list.split(' + ').each { |g| games << g.strip }
 
-    if game.include?(' + ')
-      game.split(' + ').each { |g| games << g.strip }
-    elsif game.include?('] OR [')
-      game.split('] OR [').each { |g| games << g.strip.delete_suffix(']') }
+    elsif games_list.include?('] OR [')
+      games_list.split('] OR [').each { |g| games << g.strip.delete_suffix(']') }
+
     else
-      games << game.strip
+      games << games_list.strip
     end
 
     games
+  end
+
+  def remove_costs_split_on_commas(games)
+    games.each_with_index do |g, index|
+      case g
+      when / \(\$\d+\),/
+        g.gsub!(/ \(\$\d+\)/, '')
+        games[index] = g.split(',').map(&:strip)
+        games.flatten!
+
+      when / \(\$\d+\)/
+        games[index] = g.gsub(/ \(\$\d+\)/, '')
+      end
+    end
   end
 
 }
