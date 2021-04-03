@@ -1,638 +1,797 @@
 ---
 2020:
-- game:
-    year: 2020
-    month: January
-    game: 1 DLC
-- game:
-    year: 2020
-    month: January
-    game: GRIP
-- game:
-    year: 2020
-    month: January
-    game: Mages of Mystralia
-- game:
-    year: 2020
-    month: January
-    game: Them's Fightin' Herds
-- game:
-    year: 2020
-    month: January
-    game: Whispers of a Machine
-- game:
-    year: 2020
-    month: January
-    game: Unrailed!
-- game:
-    year: 2020
-    month: January
-    game: Trailmakers
-- game:
-    year: 2020
-    month: January
-    game: 'Bad North: Jotunn Edition'
-- game:
-    year: 2020
-    month: January
-    game: Street Fighter V
-- game:
-    year: 2020
-    month: January
-    game: 3 DLCs
-- game:
-    year: 2020
-    month: January
-    game: DiRT Rally 2.0
-- game:
-    year: 2020
-    month: January
-    game: Two Point Hospital
-- game:
-    year: 2020
-    month: January
-    game: Graveyard Keeper
-- game:
-    year: 2020
-    month: January
-    game: 'Middle-earth™: Shadow of War™'
-- game:
-    year: 2020
-    month: February
-    game: Night Call
-- game:
-    year: 2020
-    month: February
-    game: Underhero
-- game:
-    year: 2020
-    month: February
-    game: Warstone TD
-- game:
-    year: 2020
-    month: February
-    game: The Hex
-- game:
-    year: 2020
-    month: February
-    game: Project Warlock
-- game:
-    year: 2020
-    month: February
-    game: SHENZHEN I/O
-- game:
-    year: 2020
-    month: February
-    game: Eliza
-- game:
-    year: 2020
-    month: February
-    game: Okami HD
-- game:
-    year: 2020
-    month: February
-    game: CryoFall
-- game:
-    year: 2020
-    month: February
-    game: Book of Demons
-- game:
-    year: 2020
-    month: February
-    game: 'Pathfinder: Kingmaker Explorer Edition'
-- game:
-    year: 2020
-    month: February
-    game: 1 DLC
-- game:
-    year: 2020
-    month: February
-    game: Frostpunk
-- game:
-    year: 2020
-    month: March
-    game: Etherborn
-- game:
-    year: 2020
-    month: March
-    game: AI War 2
-- game:
-    year: 2020
-    month: March
-    game: Niffelheim
-- game:
-    year: 2020
-    month: March
-    game: 198X
-- game:
-    year: 2020
-    month: March
-    game: Death's Gambit
-- game:
-    year: 2020
-    month: March
-    game: Turok
-- game:
-    year: 2020
-    month: March
-    game: EXAPUNKS
-- game:
-    year: 2020
-    month: March
-    game: 'Battle Chasers: Nightwar'
-- game:
-    year: 2020
-    month: March
-    game: 'Fell Seal: Arbiter''s Mark'
-- game:
-    year: 2020
-    month: March
-    game: F1 2019 Anniversary Edition
-- game:
-    year: 2020
-    month: March
-    game: 1 DLC
-- game:
-    year: 2020
-    month: March
-    game: Planet Coaster
-- game:
-    year: 2020
-    month: March
-    game: My Friend Pedro
-- game:
-    year: 2020
-    month: April
-    game: Capitalism 2
-- game:
-    year: 2020
-    month: April
-    game: Shoppe Keep 2
-- game:
-    year: 2020
-    month: April
-    game: 'The Bard''s Tale IV: Director''s Cut'
-- game:
-    year: 2020
-    month: April
-    game: Trüberbrook
-- game:
-    year: 2020
-    month: April
-    game: 'Turok 2: Seeds of Evil'
-- game:
-    year: 2020
-    month: April
-    game: 'Driftland: The Magic Revival'
-- game:
-    year: 2020
-    month: April
-    game: 'Raiden V: Director''s Cut'
-- game:
-    year: 2020
-    month: April
-    game: MOLEK-SYNTEZ
-- game:
-    year: 2020
-    month: April
-    game: Opus Magnum
-- game:
-    year: 2020
-    month: April
-    game: This Is the Police 2
-- game:
-    year: 2020
-    month: April
-    game: GRIS
-- game:
-    year: 2020
-    month: April
-    game: HITMAN 2
-- game:
-    year: 2020
-    month: May
-    game: Horace
-- game:
-    year: 2020
-    month: May
-    game: Chess Ultra
-- game:
-    year: 2020
-    month: May
-    game: Neoverse
-- game:
-    year: 2020
-    month: May
-    game: MO:Astray
-- game:
-    year: 2020
-    month: May
-    game: Heave Ho
-- game:
-    year: 2020
-    month: May
-    game: Warsaw
-- game:
-    year: 2020
-    month: May
-    game: 'The Swords of Ditto: Mormo''s Curse'
-- game:
-    year: 2020
-    month: May
-    game: '000: Gladius - Relics of War'
-- game:
-    year: 2020
-    month: May
-    game: Warhammer 40
-- game:
-    year: 2020
-    month: May
-    game: Niche - a genetics survival game
-- game:
-    year: 2020
-    month: May
-    game: Rise of Industry
-- game:
-    year: 2020
-    month: May
-    game: 2 DLC
-- game:
-    year: 2020
-    month: May
-    game: XCOM® 2
-- game:
-    year: 2020
-    month: May
-    game: 1 DLC
-- game:
-    year: 2020
-    month: May
-    game: Jurassic World Evolution
-- game:
-    year: 2020
-    month: June
-    game: The King's Bird
-- game:
-    year: 2020
-    month: June
-    game: The Stillness of the Wind
-- game:
-    year: 2020
-    month: June
-    game: Overload
-- game:
-    year: 2020
-    month: June
-    game: Remnants of Naezith
-- game:
-    year: 2020
-    month: June
-    game: 'Stygian: Reign of the Old Ones'
-- game:
-    year: 2020
-    month: June
-    game: 'Men of War: Assault Squad 2 - War Chest Edition'
-- game:
-    year: 2020
-    month: June
-    game: Felix The Reaper
-- game:
-    year: 2020
-    month: June
-    game: Barotrauma
-- game:
-    year: 2020
-    month: June
-    game: The Messenger
-- game:
-    year: 2020
-    month: June
-    game: 'Hellblade: Senua''s Sacrifice'
-- game:
-    year: 2020
-    month: June
-    game: GRID Ultimate Edition
-- game:
-    year: 2020
-    month: June
-    game: Supraland
-- game:
-    year: 2020
-    month: July
-    game: Earthlock
-- game:
-    year: 2020
-    month: July
-    game: Basingstoke
-- game:
-    year: 2020
-    month: July
-    game: Verlet Swing
-- game:
-    year: 2020
-    month: July
-    game: 'Don''t Escape: 4 Days to Survive'
-- game:
-    year: 2020
-    month: July
-    game: Metal Unit
-- game:
-    year: 2020
-    month: July
-    game: 'Sigma Theory: Global Cold War'
-- game:
-    year: 2020
-    month: July
-    game: Beat Hazard 2
-- game:
-    year: 2020
-    month: July
-    game: Yuppie Psycho ($16.66)
-- game:
-    year: 2020
-    month: July
-    game: Battlestar Galactica Deadlock
-- game:
-    year: 2020
-    month: July
-    game: Railway Empire
-- game:
-    year: 2020
-    month: July
-    game: Void Bastards
-- game:
-    year: 2020
-    month: July
-    game: 'Age of Wonders: Planetfall Deluxe Edition'
-- game:
-    year: 2020
-    month: August
-    game: A Case of Distrust
-- game:
-    year: 2020
-    month: August
-    game: We Were Here Together
-- game:
-    year: 2020
-    month: August
-    game: 'The Coma 2: Vicious Sisters'
-- game:
-    year: 2020
-    month: August
-    game: American Fugitive
-- game:
-    year: 2020
-    month: August
-    game: Through the Darkest of Times
-- game:
-    year: 2020
-    month: August
-    game: Automachef
-- game:
-    year: 2020
-    month: August
-    game: Genesis Alpha One Deluxe Edition
-- game:
-    year: 2020
-    month: August
-    game: Little Big Workshop
-- game:
-    year: 2020
-    month: August
-    game: Call of Cthulhu
-- game:
-    year: 2020
-    month: August
-    game: Wargroove
-- game:
-    year: 2020
-    month: August
-    game: 'Hello Neighbor: Hide and Seek'
-- game:
-    year: 2020
-    month: August
-    game: Hello Neighbor
-- game:
-    year: 2020
-    month: August
-    game: Vampyr
-- game:
-    year: 2020
-    month: September
-    game: The Shapeshifting Detective
-- game:
-    year: 2020
-    month: September
-    game: The Occupation
-- game:
-    year: 2020
-    month: September
-    game: Catherine Classic
-- game:
-    year: 2020
-    month: September
-    game: Yooka-Laylee and the Impossible Lair
-- game:
-    year: 2020
-    month: September
-    game: 'Evoland: Legendary Edition'
-- game:
-    year: 2020
-    month: September
-    game: Strange Brigade
-- game:
-    year: 2020
-    month: September
-    game: Lethal League Blaze
-- game:
-    year: 2020
-    month: September
-    game: 'Fun with Ragdolls: The Game'
-- game:
-    year: 2020
-    month: September
-    game: 'Vampire: The Masquerade – Coteries of New York'
-- game:
-    year: 2020
-    month: September
-    game: Forager
-- game:
-    year: 2020
-    month: September
-    game: Generation Zero
-- game:
-    year: 2020
-    month: September
-    game: OST
-- game:
-    year: 2020
-    month: September
-    game: Caddypack DLC
-- game:
-    year: 2020
-    month: September
-    game: Golf with Your Friends
-- game:
-    year: 2020
-    month: October
-    game: Lightmatter
-- game:
-    year: 2020
-    month: October
-    game: Basement
-- game:
-    year: 2020
-    month: October
-    game: 'The Uncertain: Last Quiet Day'
-- game:
-    year: 2020
-    month: October
-    game: GOAT OF DUTY
-- game:
-    year: 2020
-    month: October
-    game: The Suicide of Rachel Foster
-- game:
-    year: 2020
-    month: October
-    game: Fantasy Blacksmith
-- game:
-    year: 2020
-    month: October
-    game: 'Shadows: Awakening'
-- game:
-    year: 2020
-    month: October
-    game: Autonauts
-- game:
-    year: 2020
-    month: October
-    game: Iron Danger
-- game:
-    year: 2020
-    month: October
-    game: Sunless Sea)
-- game:
-    year: 2020
-    month: October
-    game: Sunless Bundle (Sunless Skies
-- game:
-    year: 2020
-    month: October
-    game: Fae Tactics
-- game:
-    year: 2020
-    month: October
-    game: Tropico 6 - El Prez Edition
-- game:
-    year: 2020
-    month: November
-    game: Townsmen - A Kingdom Rebuilt
-- game:
-    year: 2020
-    month: November
-    game: Youropa
-- game:
-    year: 2020
-    month: November
-    game: Rover Mechanic Simulator
-- game:
-    year: 2020
-    month: November
-    game: Tsioque
-- game:
-    year: 2020
-    month: November
-    game: Darkwood
-- game:
-    year: 2020
-    month: November
-    game: Smile For Me
-- game:
-    year: 2020
-    month: November
-    game: Little Misfortune
-- game:
-    year: 2020
-    month: November
-    game: Darksburg
-- game:
-    year: 2020
-    month: November
-    game: Crying Suns
-- game:
-    year: 2020
-    month: November
-    game: 'Imperator: Rome'
-- game:
-    year: 2020
-    month: November
-    game: Yakuza Kiwami 2
-- game:
-    year: 2020
-    month: November
-    game: Darksiders III
-- game:
-    year: 2020
-    month: December
-    game: Path of Giants
-- game:
-    year: 2020
-    month: December
-    game: Struggling
-- game:
-    year: 2020
-    month: December
-    game: Still There
-- game:
-    year: 2020
-    month: December
-    game: 'Frog Detective 2: The Case of the Invisible Wizard'
-- game:
-    year: 2020
-    month: December
-    game: The Haunted Island, a Frog Detective Game
-- game:
-    year: 2020
-    month: December
-    game: Tabletop Playground
-- game:
-    year: 2020
-    month: December
-    game: 'Zwei: The Ilvard Insurrection'
-- game:
-    year: 2020
-    month: December
-    game: 'Zwei: The Arges Adventure'
-- game:
-    year: 2020
-    month: December
-    game: Shining Resonance Refrain
-- game:
-    year: 2020
-    month: December
-    game: Indivisible
-- game:
-    year: 2020
-    month: December
-    game: The Beast Inside
-- game:
-    year: 2020
-    month: December
-    game: One Step From Eden
-- game:
-    year: 2020
-    month: December
-    game: Children of Morta
-- game:
-    year: 2020
-    month: December
-    game: Surf 'N' Turf Pack
-- game:
-    year: 2020
-    month: December
-    game: Too Many Cooks
-- game:
-    year: 2020
-    month: December
-    game: Overcooked! 2
+- !ruby/object:Game
+  name: 1 DLC
+  month: January
+  year: 2020
+  steam_id: 
+- !ruby/object:Game
+  name: GRIP
+  month: January
+  year: 2020
+  steam_id: 
+- !ruby/object:Game
+  name: Mages of Mystralia
+  month: January
+  year: 2020
+  steam_id: 
+- !ruby/object:Game
+  name: Them's Fightin' Herds
+  month: January
+  year: 2020
+  steam_id: 
+- !ruby/object:Game
+  name: Whispers of a Machine
+  month: January
+  year: 2020
+  steam_id: 
+- !ruby/object:Game
+  name: Unrailed!
+  month: January
+  year: 2020
+  steam_id: 
+- !ruby/object:Game
+  name: Trailmakers
+  month: January
+  year: 2020
+  steam_id: 
+- !ruby/object:Game
+  name: 'Bad North: Jotunn Edition'
+  month: January
+  year: 2020
+  steam_id: 
+- !ruby/object:Game
+  name: Street Fighter V
+  month: January
+  year: 2020
+  steam_id: 
+- !ruby/object:Game
+  name: 3 DLCs
+  month: January
+  year: 2020
+  steam_id: 
+- !ruby/object:Game
+  name: DiRT Rally 2.0
+  month: January
+  year: 2020
+  steam_id: 
+- !ruby/object:Game
+  name: Two Point Hospital
+  month: January
+  year: 2020
+  steam_id: 
+- !ruby/object:Game
+  name: Graveyard Keeper
+  month: January
+  year: 2020
+  steam_id: 
+- !ruby/object:Game
+  name: 'Middle-earth™: Shadow of War™'
+  month: January
+  year: 2020
+  steam_id: 
+- !ruby/object:Game
+  name: Etherborn
+  month: March
+  year: 2020
+  steam_id: 
+- !ruby/object:Game
+  name: AI War 2
+  month: March
+  year: 2020
+  steam_id: 
+- !ruby/object:Game
+  name: Niffelheim
+  month: March
+  year: 2020
+  steam_id: 
+- !ruby/object:Game
+  name: 198X
+  month: March
+  year: 2020
+  steam_id: 
+- !ruby/object:Game
+  name: Death's Gambit
+  month: March
+  year: 2020
+  steam_id: 
+- !ruby/object:Game
+  name: Turok
+  month: March
+  year: 2020
+  steam_id: 
+- !ruby/object:Game
+  name: EXAPUNKS
+  month: March
+  year: 2020
+  steam_id: 
+- !ruby/object:Game
+  name: 'Battle Chasers: Nightwar'
+  month: March
+  year: 2020
+  steam_id: 
+- !ruby/object:Game
+  name: 'Fell Seal: Arbiter''s Mark'
+  month: March
+  year: 2020
+  steam_id: 
+- !ruby/object:Game
+  name: F1 2019 Anniversary Edition
+  month: March
+  year: 2020
+  steam_id: 
+- !ruby/object:Game
+  name: 1 DLC
+  month: March
+  year: 2020
+  steam_id: 
+- !ruby/object:Game
+  name: Planet Coaster
+  month: March
+  year: 2020
+  steam_id: 
+- !ruby/object:Game
+  name: My Friend Pedro
+  month: March
+  year: 2020
+  steam_id: 
+- !ruby/object:Game
+  name: Horace
+  month: May
+  year: 2020
+  steam_id: 
+- !ruby/object:Game
+  name: Chess Ultra
+  month: May
+  year: 2020
+  steam_id: 
+- !ruby/object:Game
+  name: Neoverse
+  month: May
+  year: 2020
+  steam_id: 
+- !ruby/object:Game
+  name: MO:Astray
+  month: May
+  year: 2020
+  steam_id: 
+- !ruby/object:Game
+  name: Heave Ho
+  month: May
+  year: 2020
+  steam_id: 
+- !ruby/object:Game
+  name: Warsaw
+  month: May
+  year: 2020
+  steam_id: 
+- !ruby/object:Game
+  name: 'The Swords of Ditto: Mormo''s Curse'
+  month: May
+  year: 2020
+  steam_id: 
+- !ruby/object:Game
+  name: '000: Gladius - Relics of War'
+  month: May
+  year: 2020
+  steam_id: 
+- !ruby/object:Game
+  name: Warhammer 40
+  month: May
+  year: 2020
+  steam_id: 
+- !ruby/object:Game
+  name: Niche - a genetics survival game
+  month: May
+  year: 2020
+  steam_id: 
+- !ruby/object:Game
+  name: Rise of Industry
+  month: May
+  year: 2020
+  steam_id: 
+- !ruby/object:Game
+  name: 2 DLC
+  month: May
+  year: 2020
+  steam_id: 
+- !ruby/object:Game
+  name: XCOM® 2
+  month: May
+  year: 2020
+  steam_id: 
+- !ruby/object:Game
+  name: 1 DLC
+  month: May
+  year: 2020
+  steam_id: 
+- !ruby/object:Game
+  name: Jurassic World Evolution
+  month: May
+  year: 2020
+  steam_id: 
+- !ruby/object:Game
+  name: Earthlock
+  month: July
+  year: 2020
+  steam_id: 
+- !ruby/object:Game
+  name: Basingstoke
+  month: July
+  year: 2020
+  steam_id: 
+- !ruby/object:Game
+  name: Verlet Swing
+  month: July
+  year: 2020
+  steam_id: 
+- !ruby/object:Game
+  name: 'Don''t Escape: 4 Days to Survive'
+  month: July
+  year: 2020
+  steam_id: 
+- !ruby/object:Game
+  name: Metal Unit
+  month: July
+  year: 2020
+  steam_id: 
+- !ruby/object:Game
+  name: 'Sigma Theory: Global Cold War'
+  month: July
+  year: 2020
+  steam_id: 
+- !ruby/object:Game
+  name: Beat Hazard 2
+  month: July
+  year: 2020
+  steam_id: 
+- !ruby/object:Game
+  name: Yuppie Psycho ($16.66)
+  month: July
+  year: 2020
+  steam_id: 
+- !ruby/object:Game
+  name: Battlestar Galactica Deadlock
+  month: July
+  year: 2020
+  steam_id: 
+- !ruby/object:Game
+  name: Railway Empire
+  month: July
+  year: 2020
+  steam_id: 
+- !ruby/object:Game
+  name: Void Bastards
+  month: July
+  year: 2020
+  steam_id: 
+- !ruby/object:Game
+  name: 'Age of Wonders: Planetfall Deluxe Edition'
+  month: July
+  year: 2020
+  steam_id: 
+- !ruby/object:Game
+  name: The Shapeshifting Detective
+  month: September
+  year: 2020
+  steam_id: 
+- !ruby/object:Game
+  name: The Occupation
+  month: September
+  year: 2020
+  steam_id: 
+- !ruby/object:Game
+  name: Catherine Classic
+  month: September
+  year: 2020
+  steam_id: 
+- !ruby/object:Game
+  name: Yooka-Laylee and the Impossible Lair
+  month: September
+  year: 2020
+  steam_id: 
+- !ruby/object:Game
+  name: 'Evoland: Legendary Edition'
+  month: September
+  year: 2020
+  steam_id: 
+- !ruby/object:Game
+  name: Strange Brigade
+  month: September
+  year: 2020
+  steam_id: 
+- !ruby/object:Game
+  name: Lethal League Blaze
+  month: September
+  year: 2020
+  steam_id: 
+- !ruby/object:Game
+  name: 'Fun with Ragdolls: The Game'
+  month: September
+  year: 2020
+  steam_id: 
+- !ruby/object:Game
+  name: 'Vampire: The Masquerade – Coteries of New York'
+  month: September
+  year: 2020
+  steam_id: 
+- !ruby/object:Game
+  name: Forager
+  month: September
+  year: 2020
+  steam_id: 
+- !ruby/object:Game
+  name: Generation Zero
+  month: September
+  year: 2020
+  steam_id: 
+- !ruby/object:Game
+  name: OST
+  month: September
+  year: 2020
+  steam_id: 
+- !ruby/object:Game
+  name: Caddypack DLC
+  month: September
+  year: 2020
+  steam_id: 
+- !ruby/object:Game
+  name: Golf with Your Friends
+  month: September
+  year: 2020
+  steam_id: 
+- !ruby/object:Game
+  name: Townsmen - A Kingdom Rebuilt
+  month: November
+  year: 2020
+  steam_id: 
+- !ruby/object:Game
+  name: Youropa
+  month: November
+  year: 2020
+  steam_id: 
+- !ruby/object:Game
+  name: Rover Mechanic Simulator
+  month: November
+  year: 2020
+  steam_id: 
+- !ruby/object:Game
+  name: Tsioque
+  month: November
+  year: 2020
+  steam_id: 
+- !ruby/object:Game
+  name: Darkwood
+  month: November
+  year: 2020
+  steam_id: 
+- !ruby/object:Game
+  name: Smile For Me
+  month: November
+  year: 2020
+  steam_id: 
+- !ruby/object:Game
+  name: Little Misfortune
+  month: November
+  year: 2020
+  steam_id: 
+- !ruby/object:Game
+  name: Darksburg
+  month: November
+  year: 2020
+  steam_id: 
+- !ruby/object:Game
+  name: Crying Suns
+  month: November
+  year: 2020
+  steam_id: 
+- !ruby/object:Game
+  name: 'Imperator: Rome'
+  month: November
+  year: 2020
+  steam_id: 
+- !ruby/object:Game
+  name: Yakuza Kiwami 2
+  month: November
+  year: 2020
+  steam_id: 
+- !ruby/object:Game
+  name: Darksiders III
+  month: November
+  year: 2020
+  steam_id: 
+- !ruby/object:Game
+  name: Overcooked! 2
+  month: December
+  year: 2020
+  steam_id: 
+- !ruby/object:Game
+  name: Too Many Cooks
+  month: December
+  year: 2020
+  steam_id: 
+- !ruby/object:Game
+  name: Surf 'N' Turf Pack
+  month: December
+  year: 2020
+  steam_id: 
+- !ruby/object:Game
+  name: Children of Morta
+  month: December
+  year: 2020
+  steam_id: 
+- !ruby/object:Game
+  name: One Step From Eden
+  month: December
+  year: 2020
+  steam_id: 
+- !ruby/object:Game
+  name: The Beast Inside
+  month: December
+  year: 2020
+  steam_id: 
+- !ruby/object:Game
+  name: Indivisible
+  month: December
+  year: 2020
+  steam_id: 
+- !ruby/object:Game
+  name: Shining Resonance Refrain
+  month: December
+  year: 2020
+  steam_id: 
+- !ruby/object:Game
+  name: 'Zwei: The Arges Adventure'
+  month: December
+  year: 2020
+  steam_id: 
+- !ruby/object:Game
+  name: 'Zwei: The Ilvard Insurrection'
+  month: December
+  year: 2020
+  steam_id: 
+- !ruby/object:Game
+  name: Tabletop Playground
+  month: December
+  year: 2020
+  steam_id: 
+- !ruby/object:Game
+  name: The Haunted Island, a Frog Detective Game
+  month: December
+  year: 2020
+  steam_id: 
+- !ruby/object:Game
+  name: 'Frog Detective 2: The Case of the Invisible Wizard'
+  month: December
+  year: 2020
+  steam_id: 
+- !ruby/object:Game
+  name: Still There
+  month: December
+  year: 2020
+  steam_id: 
+- !ruby/object:Game
+  name: Struggling
+  month: December
+  year: 2020
+  steam_id: 
+- !ruby/object:Game
+  name: Path of Giants
+  month: December
+  year: 2020
+  steam_id: 
+- !ruby/object:Game
+  name: Tropico 6 - El Prez Edition
+  month: October
+  year: 2020
+  steam_id: 
+- !ruby/object:Game
+  name: Fae Tactics
+  month: October
+  year: 2020
+  steam_id: 
+- !ruby/object:Game
+  name: Sunless Bundle (Sunless Skies
+  month: October
+  year: 2020
+  steam_id: 
+- !ruby/object:Game
+  name: Sunless Sea)
+  month: October
+  year: 2020
+  steam_id: 
+- !ruby/object:Game
+  name: Iron Danger
+  month: October
+  year: 2020
+  steam_id: 
+- !ruby/object:Game
+  name: Autonauts
+  month: October
+  year: 2020
+  steam_id: 
+- !ruby/object:Game
+  name: 'Shadows: Awakening'
+  month: October
+  year: 2020
+  steam_id: 
+- !ruby/object:Game
+  name: Fantasy Blacksmith
+  month: October
+  year: 2020
+  steam_id: 
+- !ruby/object:Game
+  name: The Suicide of Rachel Foster
+  month: October
+  year: 2020
+  steam_id: 
+- !ruby/object:Game
+  name: GOAT OF DUTY
+  month: October
+  year: 2020
+  steam_id: 
+- !ruby/object:Game
+  name: 'The Uncertain: Last Quiet Day'
+  month: October
+  year: 2020
+  steam_id: 
+- !ruby/object:Game
+  name: Basement
+  month: October
+  year: 2020
+  steam_id: 
+- !ruby/object:Game
+  name: Lightmatter
+  month: October
+  year: 2020
+  steam_id: 
+- !ruby/object:Game
+  name: Vampyr
+  month: August
+  year: 2020
+  steam_id: 
+- !ruby/object:Game
+  name: Hello Neighbor
+  month: August
+  year: 2020
+  steam_id: 
+- !ruby/object:Game
+  name: 'Hello Neighbor: Hide and Seek'
+  month: August
+  year: 2020
+  steam_id: 
+- !ruby/object:Game
+  name: Wargroove
+  month: August
+  year: 2020
+  steam_id: 
+- !ruby/object:Game
+  name: Call of Cthulhu
+  month: August
+  year: 2020
+  steam_id: 
+- !ruby/object:Game
+  name: Little Big Workshop
+  month: August
+  year: 2020
+  steam_id: 
+- !ruby/object:Game
+  name: Genesis Alpha One Deluxe Edition
+  month: August
+  year: 2020
+  steam_id: 
+- !ruby/object:Game
+  name: Automachef
+  month: August
+  year: 2020
+  steam_id: 
+- !ruby/object:Game
+  name: Through the Darkest of Times
+  month: August
+  year: 2020
+  steam_id: 
+- !ruby/object:Game
+  name: American Fugitive
+  month: August
+  year: 2020
+  steam_id: 
+- !ruby/object:Game
+  name: 'The Coma 2: Vicious Sisters'
+  month: August
+  year: 2020
+  steam_id: 
+- !ruby/object:Game
+  name: We Were Here Together
+  month: August
+  year: 2020
+  steam_id: 
+- !ruby/object:Game
+  name: A Case of Distrust
+  month: August
+  year: 2020
+  steam_id: 
+- !ruby/object:Game
+  name: Supraland
+  month: June
+  year: 2020
+  steam_id: 
+- !ruby/object:Game
+  name: GRID Ultimate Edition
+  month: June
+  year: 2020
+  steam_id: 
+- !ruby/object:Game
+  name: 'Hellblade: Senua''s Sacrifice'
+  month: June
+  year: 2020
+  steam_id: 
+- !ruby/object:Game
+  name: The Messenger
+  month: June
+  year: 2020
+  steam_id: 
+- !ruby/object:Game
+  name: Barotrauma
+  month: June
+  year: 2020
+  steam_id: 
+- !ruby/object:Game
+  name: Felix The Reaper
+  month: June
+  year: 2020
+  steam_id: 
+- !ruby/object:Game
+  name: 'Men of War: Assault Squad 2 - War Chest Edition'
+  month: June
+  year: 2020
+  steam_id: 
+- !ruby/object:Game
+  name: 'Stygian: Reign of the Old Ones'
+  month: June
+  year: 2020
+  steam_id: 
+- !ruby/object:Game
+  name: Remnants of Naezith
+  month: June
+  year: 2020
+  steam_id: 
+- !ruby/object:Game
+  name: Overload
+  month: June
+  year: 2020
+  steam_id: 
+- !ruby/object:Game
+  name: The Stillness of the Wind
+  month: June
+  year: 2020
+  steam_id: 
+- !ruby/object:Game
+  name: The King's Bird
+  month: June
+  year: 2020
+  steam_id: 
+- !ruby/object:Game
+  name: HITMAN 2
+  month: April
+  year: 2020
+  steam_id: 
+- !ruby/object:Game
+  name: GRIS
+  month: April
+  year: 2020
+  steam_id: 
+- !ruby/object:Game
+  name: This Is the Police 2
+  month: April
+  year: 2020
+  steam_id: 
+- !ruby/object:Game
+  name: Opus Magnum
+  month: April
+  year: 2020
+  steam_id: 
+- !ruby/object:Game
+  name: MOLEK-SYNTEZ
+  month: April
+  year: 2020
+  steam_id: 
+- !ruby/object:Game
+  name: 'Raiden V: Director''s Cut'
+  month: April
+  year: 2020
+  steam_id: 
+- !ruby/object:Game
+  name: 'Driftland: The Magic Revival'
+  month: April
+  year: 2020
+  steam_id: 
+- !ruby/object:Game
+  name: 'Turok 2: Seeds of Evil'
+  month: April
+  year: 2020
+  steam_id: 
+- !ruby/object:Game
+  name: Trüberbrook
+  month: April
+  year: 2020
+  steam_id: 
+- !ruby/object:Game
+  name: 'The Bard''s Tale IV: Director''s Cut'
+  month: April
+  year: 2020
+  steam_id: 
+- !ruby/object:Game
+  name: Shoppe Keep 2
+  month: April
+  year: 2020
+  steam_id: 
+- !ruby/object:Game
+  name: Capitalism 2
+  month: April
+  year: 2020
+  steam_id: 
+- !ruby/object:Game
+  name: Frostpunk
+  month: February
+  year: 2020
+  steam_id: 
+- !ruby/object:Game
+  name: 1 DLC
+  month: February
+  year: 2020
+  steam_id: 
+- !ruby/object:Game
+  name: 'Pathfinder: Kingmaker Explorer Edition'
+  month: February
+  year: 2020
+  steam_id: 
+- !ruby/object:Game
+  name: Book of Demons
+  month: February
+  year: 2020
+  steam_id: 
+- !ruby/object:Game
+  name: CryoFall
+  month: February
+  year: 2020
+  steam_id: 
+- !ruby/object:Game
+  name: Okami HD
+  month: February
+  year: 2020
+  steam_id: 
+- !ruby/object:Game
+  name: Eliza
+  month: February
+  year: 2020
+  steam_id: 
+- !ruby/object:Game
+  name: SHENZHEN I/O
+  month: February
+  year: 2020
+  steam_id: 
+- !ruby/object:Game
+  name: Project Warlock
+  month: February
+  year: 2020
+  steam_id: 
+- !ruby/object:Game
+  name: The Hex
+  month: February
+  year: 2020
+  steam_id: 
+- !ruby/object:Game
+  name: Warstone TD
+  month: February
+  year: 2020
+  steam_id: 
+- !ruby/object:Game
+  name: Underhero
+  month: February
+  year: 2020
+  steam_id: 
+- !ruby/object:Game
+  name: Night Call
+  month: February
+  year: 2020
+  steam_id: 

@@ -1,382 +1,477 @@
 ---
 2019:
-- game:
-    year: 2019
-    month: January
-    game: Just Cause 3 XXL Edition
-- game:
-    year: 2019
-    month: January
-    game: Wizard of Legend
-- game:
-    year: 2019
-    month: January
-    game: Project CARS 2
-- game:
-    year: 2019
-    month: January
-    game: Q.U.B.E. 2
-- game:
-    year: 2019
-    month: January
-    game: ">observer_"
-- game:
-    year: 2019
-    month: January
-    game: 'Sundered®: Eldritch Edition'
-- game:
-    year: 2019
-    month: January
-    game: Regions of Ruin
-- game:
-    year: 2019
-    month: January
-    game: Darkside Detective
-- game:
-    year: 2019
-    month: February
-    game: Yakuza 0
-- game:
-    year: 2019
-    month: February
-    game: Tom Clancy's The Division
-- game:
-    year: 2019
-    month: February
-    game: Rapture Rejects
-- game:
-    year: 2019
-    month: February
-    game: Sniper Elite 3
-- game:
-    year: 2019
-    month: February
-    game: 'Rock of Ages 2: Bigger & Boulder'
-- game:
-    year: 2019
-    month: February
-    game: Tom Clancy's The Division - Survival
-- game:
-    year: 2019
-    month: February
-    game: Full Metal Furies
-- game:
-    year: 2019
-    month: February
-    game: Aaero
-- game:
-    year: 2019
-    month: February
-    game: Bleed 2
-- game:
-    year: 2019
-    month: February
-    game: Super Daryl Deluxe
-- game:
-    year: 2019
-    month: March
-    game: 'Warhammer: Vermintide 2 - Collector''s Edition'
-- game:
-    year: 2019
-    month: March
-    game: EARTH DEFENSE FORCE 4.1 The Shadow of New Despair
-- game:
-    year: 2019
-    month: March
-    game: all DLC
-- game:
-    year: 2019
-    month: March
-    game: Cultist Simulator
-- game:
-    year: 2019
-    month: March
-    game: Tower Unite
-- game:
-    year: 2019
-    month: March
-    game: Late Shift
-- game:
-    year: 2019
-    month: March
-    game: Paradigm
-- game:
-    year: 2019
-    month: March
-    game: Fight'N Rage
-- game:
-    year: 2019
-    month: March
-    game: Slipstream
-- game:
-    year: 2019
-    month: April
-    game: Northgard
-- game:
-    year: 2019
-    month: April
-    game: 'Mutant Year Zero: Road to Eden'
-- game:
-    year: 2019
-    month: April
-    game: Absolver
-- game:
-    year: 2019
-    month: April
-    game: Tannenburg
-- game:
-    year: 2019
-    month: April
-    game: Minit
-- game:
-    year: 2019
-    month: April
-    game: She Remembered Caterpillars
-- game:
-    year: 2019
-    month: April
-    game: Steel Rats
-- game:
-    year: 2019
-    month: April
-    game: Dandara
-- game:
-    year: 2019
-    month: May
-    game: Assassin's Creed® Origins
-- game:
-    year: 2019
-    month: May
-    game: Wandersong
-- game:
-    year: 2019
-    month: May
-    game: Finding Paradise
-- game:
-    year: 2019
-    month: May
-    game: Monster Prom
-- game:
-    year: 2019
-    month: May
-    game: 'The Journey Down: Chapter Three'
-- game:
-    year: 2019
-    month: May
-    game: Do Not Feed the Monkeys
-- game:
-    year: 2019
-    month: May
-    game: I am not a Monster
-- game:
-    year: 2019
-    month: June
-    game: Black Ops 4 Battle Edition
-- game:
-    year: 2019
-    month: June
-    game: 911 Operator
-- game:
-    year: 2019
-    month: June
-    game: Special Resources DLC
-- game:
-    year: 2019
-    month: June
-    game: Red Faction Guerrilla Re-Mars-tered
-- game:
-    year: 2019
-    month: June
-    game: Duskers
-- game:
-    year: 2019
-    month: June
-    game: Paratopic
-- game:
-    year: 2019
-    month: June
-    game: Pool Panic
-- game:
-    year: 2019
-    month: July
-    game: 'Hellblade: Senua''s Sacrifice'
-- game:
-    year: 2019
-    month: July
-    game: Moonlighter
-- game:
-    year: 2019
-    month: July
-    game: Road Redemption
-- game:
-    year: 2019
-    month: July
-    game: Warhammer 40
-- game:
-    year: 2019
-    month: July
-    game: '000: Mechanicus'
-- game:
-    year: 2019
-    month: July
-    game: Love is Dead
-- game:
-    year: 2019
-    month: July
-    game: 60 Parsecs
-- game:
-    year: 2019
-    month: July
-    game: 'NAIRI: Tower of Shirin'
-- game:
-    year: 2019
-    month: August
-    game: 'Kingdom Come: Deliverance'
-- game:
-    year: 2019
-    month: August
-    game: Surviving Mars
-- game:
-    year: 2019
-    month: August
-    game: 'Rising Storm 2: Vietnam'
-- game:
-    year: 2019
-    month: August
-    game: 2 DLCs
-- game:
-    year: 2019
-    month: August
-    game: Yoku's Island Express
-- game:
-    year: 2019
-    month: August
-    game: The Adventure Pals
-- game:
-    year: 2019
-    month: August
-    game: 'Almost There: The Platformer'
-- game:
-    year: 2019
-    month: August
-    game: Swords and Soldiers 2 Shawarmageddon
-- game:
-    year: 2019
-    month: September
-    game: Slay the Spire
-- game:
-    year: 2019
-    month: September
-    game: Squad
-- game:
-    year: 2019
-    month: September
-    game: Distance
-- game:
-    year: 2019
-    month: September
-    game: Guacamelee! 2
-- game:
-    year: 2019
-    month: September
-    game: MOTHERGUNSHIP
-- game:
-    year: 2019
-    month: September
-    game: State of Mind
-- game:
-    year: 2019
-    month: September
-    game: God's Trigger
-- game:
-    year: 2019
-    month: October
-    game: BATTLETECH
-- game:
-    year: 2019
-    month: October
-    game: BATTLETECH Flashpoint
-- game:
-    year: 2019
-    month: October
-    game: BATTLETECH Shadow Hawk Pack
-- game:
-    year: 2019
-    month: October
-    game: Sonic Mania
-- game:
-    year: 2019
-    month: October
-    game: The Spiral Scouts
-- game:
-    year: 2019
-    month: October
-    game: PLANET ALPHA
-- game:
-    year: 2019
-    month: October
-    game: 'Override: Mech City Brawl'
-- game:
-    year: 2019
-    month: October
-    game: PUSS!
-- game:
-    year: 2019
-    month: October
-    game: 'Avernum 3: Ruined World'
-- game:
-    year: 2019
-    month: November
-    game: 'Call of Duty: WWII'
-- game:
-    year: 2019
-    month: November
-    game: Crash Bandicoot N. Sane Trilogy
-- game:
-    year: 2019
-    month: November
-    game: Spyro Reignited Trilogy
-- game:
-    year: 2019
-    month: November
-    game: Shenmue I & II
-- game:
-    year: 2019
-    month: November
-    game: 11-11 Memories Retold
-- game:
-    year: 2019
-    month: November
-    game: 'SYNTHETIK: Legion Rising'
-- game:
-    year: 2019
-    month: November
-    game: Evergarden
-- game:
-    year: 2019
-    month: December
-    game: Yakuza Kiwami
-- game:
-    year: 2019
-    month: December
-    game: SOULCALIBUR VI
-- game:
-    year: 2019
-    month: December
-    game: My Time At Portia
-- game:
-    year: 2019
-    month: December
-    game: Fluffy Horde
-- game:
-    year: 2019
-    month: December
-    game: Chasm
-- game:
-    year: 2019
-    month: December
-    game: Regular Human Basketball
-- game:
-    year: 2019
-    month: December
-    game: Sword Legacy Omen
+- !ruby/object:Game
+  name: Just Cause 3 XXL Edition
+  month: January
+  year: 2019
+  steam_id: 
+- !ruby/object:Game
+  name: Wizard of Legend
+  month: January
+  year: 2019
+  steam_id: 
+- !ruby/object:Game
+  name: Project CARS 2
+  month: January
+  year: 2019
+  steam_id: 
+- !ruby/object:Game
+  name: Q.U.B.E. 2
+  month: January
+  year: 2019
+  steam_id: 
+- !ruby/object:Game
+  name: ">observer_"
+  month: January
+  year: 2019
+  steam_id: 
+- !ruby/object:Game
+  name: 'Sundered®: Eldritch Edition'
+  month: January
+  year: 2019
+  steam_id: 
+- !ruby/object:Game
+  name: Regions of Ruin
+  month: January
+  year: 2019
+  steam_id: 
+- !ruby/object:Game
+  name: Darkside Detective
+  month: January
+  year: 2019
+  steam_id: 
+- !ruby/object:Game
+  name: Yakuza 0
+  month: February
+  year: 2019
+  steam_id: 
+- !ruby/object:Game
+  name: Tom Clancy's The Division
+  month: February
+  year: 2019
+  steam_id: 
+- !ruby/object:Game
+  name: Rapture Rejects
+  month: February
+  year: 2019
+  steam_id: 
+- !ruby/object:Game
+  name: Sniper Elite 3
+  month: February
+  year: 2019
+  steam_id: 
+- !ruby/object:Game
+  name: 'Rock of Ages 2: Bigger & Boulder'
+  month: February
+  year: 2019
+  steam_id: 
+- !ruby/object:Game
+  name: Tom Clancy's The Division - Survival
+  month: February
+  year: 2019
+  steam_id: 
+- !ruby/object:Game
+  name: Full Metal Furies
+  month: February
+  year: 2019
+  steam_id: 
+- !ruby/object:Game
+  name: Aaero
+  month: February
+  year: 2019
+  steam_id: 
+- !ruby/object:Game
+  name: Bleed 2
+  month: February
+  year: 2019
+  steam_id: 
+- !ruby/object:Game
+  name: Super Daryl Deluxe
+  month: February
+  year: 2019
+  steam_id: 
+- !ruby/object:Game
+  name: 'Warhammer: Vermintide 2 - Collector''s Edition'
+  month: March
+  year: 2019
+  steam_id: 
+- !ruby/object:Game
+  name: EARTH DEFENSE FORCE 4.1 The Shadow of New Despair
+  month: March
+  year: 2019
+  steam_id: 
+- !ruby/object:Game
+  name: all DLC
+  month: March
+  year: 2019
+  steam_id: 
+- !ruby/object:Game
+  name: Cultist Simulator
+  month: March
+  year: 2019
+  steam_id: 
+- !ruby/object:Game
+  name: Tower Unite
+  month: March
+  year: 2019
+  steam_id: 
+- !ruby/object:Game
+  name: Late Shift
+  month: March
+  year: 2019
+  steam_id: 
+- !ruby/object:Game
+  name: Paradigm
+  month: March
+  year: 2019
+  steam_id: 
+- !ruby/object:Game
+  name: Fight'N Rage
+  month: March
+  year: 2019
+  steam_id: 
+- !ruby/object:Game
+  name: Slipstream
+  month: March
+  year: 2019
+  steam_id: 
+- !ruby/object:Game
+  name: Northgard
+  month: April
+  year: 2019
+  steam_id: 
+- !ruby/object:Game
+  name: 'Mutant Year Zero: Road to Eden'
+  month: April
+  year: 2019
+  steam_id: 
+- !ruby/object:Game
+  name: Absolver
+  month: April
+  year: 2019
+  steam_id: 
+- !ruby/object:Game
+  name: Tannenburg
+  month: April
+  year: 2019
+  steam_id: 
+- !ruby/object:Game
+  name: Minit
+  month: April
+  year: 2019
+  steam_id: 
+- !ruby/object:Game
+  name: She Remembered Caterpillars
+  month: April
+  year: 2019
+  steam_id: 
+- !ruby/object:Game
+  name: Steel Rats
+  month: April
+  year: 2019
+  steam_id: 
+- !ruby/object:Game
+  name: Dandara
+  month: April
+  year: 2019
+  steam_id: 
+- !ruby/object:Game
+  name: Assassin's Creed® Origins
+  month: May
+  year: 2019
+  steam_id: 
+- !ruby/object:Game
+  name: Wandersong
+  month: May
+  year: 2019
+  steam_id: 
+- !ruby/object:Game
+  name: Finding Paradise
+  month: May
+  year: 2019
+  steam_id: 
+- !ruby/object:Game
+  name: Monster Prom
+  month: May
+  year: 2019
+  steam_id: 
+- !ruby/object:Game
+  name: 'The Journey Down: Chapter Three'
+  month: May
+  year: 2019
+  steam_id: 
+- !ruby/object:Game
+  name: Do Not Feed the Monkeys
+  month: May
+  year: 2019
+  steam_id: 
+- !ruby/object:Game
+  name: I am not a Monster
+  month: May
+  year: 2019
+  steam_id: 
+- !ruby/object:Game
+  name: Black Ops 4 Battle Edition
+  month: June
+  year: 2019
+  steam_id: 
+- !ruby/object:Game
+  name: 911 Operator
+  month: June
+  year: 2019
+  steam_id: 
+- !ruby/object:Game
+  name: Special Resources DLC
+  month: June
+  year: 2019
+  steam_id: 
+- !ruby/object:Game
+  name: Red Faction Guerrilla Re-Mars-tered
+  month: June
+  year: 2019
+  steam_id: 
+- !ruby/object:Game
+  name: Duskers
+  month: June
+  year: 2019
+  steam_id: 
+- !ruby/object:Game
+  name: Paratopic
+  month: June
+  year: 2019
+  steam_id: 
+- !ruby/object:Game
+  name: Pool Panic
+  month: June
+  year: 2019
+  steam_id: 
+- !ruby/object:Game
+  name: 'Hellblade: Senua''s Sacrifice'
+  month: July
+  year: 2019
+  steam_id: 
+- !ruby/object:Game
+  name: Moonlighter
+  month: July
+  year: 2019
+  steam_id: 
+- !ruby/object:Game
+  name: Road Redemption
+  month: July
+  year: 2019
+  steam_id: 
+- !ruby/object:Game
+  name: Warhammer 40
+  month: July
+  year: 2019
+  steam_id: 
+- !ruby/object:Game
+  name: '000: Mechanicus'
+  month: July
+  year: 2019
+  steam_id: 
+- !ruby/object:Game
+  name: Love is Dead
+  month: July
+  year: 2019
+  steam_id: 
+- !ruby/object:Game
+  name: 60 Parsecs
+  month: July
+  year: 2019
+  steam_id: 
+- !ruby/object:Game
+  name: 'NAIRI: Tower of Shirin'
+  month: July
+  year: 2019
+  steam_id: 
+- !ruby/object:Game
+  name: 'Kingdom Come: Deliverance'
+  month: August
+  year: 2019
+  steam_id: 
+- !ruby/object:Game
+  name: Surviving Mars
+  month: August
+  year: 2019
+  steam_id: 
+- !ruby/object:Game
+  name: 'Rising Storm 2: Vietnam'
+  month: August
+  year: 2019
+  steam_id: 
+- !ruby/object:Game
+  name: 2 DLCs
+  month: August
+  year: 2019
+  steam_id: 
+- !ruby/object:Game
+  name: Yoku's Island Express
+  month: August
+  year: 2019
+  steam_id: 
+- !ruby/object:Game
+  name: The Adventure Pals
+  month: August
+  year: 2019
+  steam_id: 
+- !ruby/object:Game
+  name: 'Almost There: The Platformer'
+  month: August
+  year: 2019
+  steam_id: 
+- !ruby/object:Game
+  name: Swords and Soldiers 2 Shawarmageddon
+  month: August
+  year: 2019
+  steam_id: 
+- !ruby/object:Game
+  name: Slay the Spire
+  month: September
+  year: 2019
+  steam_id: 
+- !ruby/object:Game
+  name: Squad
+  month: September
+  year: 2019
+  steam_id: 
+- !ruby/object:Game
+  name: Distance
+  month: September
+  year: 2019
+  steam_id: 
+- !ruby/object:Game
+  name: Guacamelee! 2
+  month: September
+  year: 2019
+  steam_id: 
+- !ruby/object:Game
+  name: MOTHERGUNSHIP
+  month: September
+  year: 2019
+  steam_id: 
+- !ruby/object:Game
+  name: State of Mind
+  month: September
+  year: 2019
+  steam_id: 
+- !ruby/object:Game
+  name: God's Trigger
+  month: September
+  year: 2019
+  steam_id: 
+- !ruby/object:Game
+  name: BATTLETECH
+  month: October
+  year: 2019
+  steam_id: 
+- !ruby/object:Game
+  name: BATTLETECH Flashpoint
+  month: October
+  year: 2019
+  steam_id: 
+- !ruby/object:Game
+  name: BATTLETECH Shadow Hawk Pack
+  month: October
+  year: 2019
+  steam_id: 
+- !ruby/object:Game
+  name: Sonic Mania
+  month: October
+  year: 2019
+  steam_id: 
+- !ruby/object:Game
+  name: The Spiral Scouts
+  month: October
+  year: 2019
+  steam_id: 
+- !ruby/object:Game
+  name: PLANET ALPHA
+  month: October
+  year: 2019
+  steam_id: 
+- !ruby/object:Game
+  name: 'Override: Mech City Brawl'
+  month: October
+  year: 2019
+  steam_id: 
+- !ruby/object:Game
+  name: PUSS!
+  month: October
+  year: 2019
+  steam_id: 
+- !ruby/object:Game
+  name: 'Avernum 3: Ruined World'
+  month: October
+  year: 2019
+  steam_id: 
+- !ruby/object:Game
+  name: 'Call of Duty: WWII'
+  month: November
+  year: 2019
+  steam_id: 
+- !ruby/object:Game
+  name: Crash Bandicoot N. Sane Trilogy
+  month: November
+  year: 2019
+  steam_id: 
+- !ruby/object:Game
+  name: Spyro Reignited Trilogy
+  month: November
+  year: 2019
+  steam_id: 
+- !ruby/object:Game
+  name: Shenmue I & II
+  month: November
+  year: 2019
+  steam_id: 
+- !ruby/object:Game
+  name: 11-11 Memories Retold
+  month: November
+  year: 2019
+  steam_id: 
+- !ruby/object:Game
+  name: 'SYNTHETIK: Legion Rising'
+  month: November
+  year: 2019
+  steam_id: 
+- !ruby/object:Game
+  name: Evergarden
+  month: November
+  year: 2019
+  steam_id: 
+- !ruby/object:Game
+  name: Yakuza Kiwami
+  month: December
+  year: 2019
+  steam_id: 
+- !ruby/object:Game
+  name: SOULCALIBUR VI
+  month: December
+  year: 2019
+  steam_id: 
+- !ruby/object:Game
+  name: My Time At Portia
+  month: December
+  year: 2019
+  steam_id: 
+- !ruby/object:Game
+  name: Fluffy Horde
+  month: December
+  year: 2019
+  steam_id: 
+- !ruby/object:Game
+  name: Chasm
+  month: December
+  year: 2019
+  steam_id: 
+- !ruby/object:Game
+  name: Regular Human Basketball
+  month: December
+  year: 2019
+  steam_id: 
+- !ruby/object:Game
+  name: Sword Legacy Omen
+  month: December
+  year: 2019
+  steam_id: 

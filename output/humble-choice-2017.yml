@@ -1,358 +1,447 @@
 ---
 2017:
-- game:
-    year: 2017
-    month: January
-    game: Warhammer The End Times Vermintide
-- game:
-    year: 2017
-    month: January
-    game: Project CARS
-- game:
-    year: 2017
-    month: January
-    game: Mother Russia Bleeds
-- game:
-    year: 2017
-    month: January
-    game: 'The Legend of Heroes: Trails in the Sky'
-- game:
-    year: 2017
-    month: January
-    game: Neon Chrome
-- game:
-    year: 2017
-    month: January
-    game: Jotun
-- game:
-    year: 2017
-    month: January
-    game: Hopiko
-- game:
-    year: 2017
-    month: February
-    game: XCOM 2
-- game:
-    year: 2017
-    month: February
-    game: 'Ryse: Son of Rome'
-- game:
-    year: 2017
-    month: February
-    game: ABZU
-- game:
-    year: 2017
-    month: February
-    game: SteamWorld Heist
-- game:
-    year: 2017
-    month: February
-    game: Okhlos
-- game:
-    year: 2017
-    month: February
-    game: Project Highrise
-- game:
-    year: 2017
-    month: February
-    game: Husk
-- game:
-    year: 2017
-    month: March
-    game: Total War Warhammer
-- game:
-    year: 2017
-    month: March
-    game: Poly Bridge
-- game:
-    year: 2017
-    month: March
-    game: Space Run Galaxy
-- game:
-    year: 2017
-    month: March
-    game: ONE PIECE PIRATE WARRIORS 3
-- game:
-    year: 2017
-    month: March
-    game: Flat Heroes
-- game:
-    year: 2017
-    month: March
-    game: 'RIVE: Wreck Hack Die Retry'
-- game:
-    year: 2017
-    month: March
-    game: Morphblade
-- game:
-    year: 2017
-    month: April
-    game: The Witness
-- game:
-    year: 2017
-    month: April
-    game: 'Layers of Fear: Masterpiece Edition'
-- game:
-    year: 2017
-    month: April
-    game: Black Mesa
-- game:
-    year: 2017
-    month: April
-    game: 'Kingdom: New Lands Royal Edition'
-- game:
-    year: 2017
-    month: April
-    game: Event[0]
-- game:
-    year: 2017
-    month: April
-    game: Tumblestone
-- game:
-    year: 2017
-    month: April
-    game: Slime-san
-- game:
-    year: 2017
-    month: May
-    game: Dirt Rally
-- game:
-    year: 2017
-    month: May
-    game: Inside
-- game:
-    year: 2017
-    month: May
-    game: This Is the Police
-- game:
-    year: 2017
-    month: May
-    game: UNDERTALE
-- game:
-    year: 2017
-    month: May
-    game: Metrico+
-- game:
-    year: 2017
-    month: May
-    game: GoNNER - Press Jump To Die Edition
-- game:
-    year: 2017
-    month: May
-    game: The Turing Test
-- game:
-    year: 2017
-    month: May
-    game: Super Rude Bear Resurrection
-- game:
-    year: 2017
-    month: June
-    game: Stellaris
-- game:
-    year: 2017
-    month: June
-    game: 'Plague Inc: Evolved'
-- game:
-    year: 2017
-    month: June
-    game: SUPERHOT
-- game:
-    year: 2017
-    month: June
-    game: 'Ashes of the Singularity: Escalation'
-- game:
-    year: 2017
-    month: June
-    game: 'Brigador: Up-Armored Edition'
-- game:
-    year: 2017
-    month: June
-    game: Shoppe Keep
-- game:
-    year: 2017
-    month: June
-    game: Maize
-- game:
-    year: 2017
-    month: July
-    game: 'Dark Souls II: Scholar of the First Sin'
-- game:
-    year: 2017
-    month: July
-    game: Galactic Civilizations III - Core Edition
-- game:
-    year: 2017
-    month: July
-    game: Hyper Light Drifter
-- game:
-    year: 2017
-    month: July
-    game: Armello
-- game:
-    year: 2017
-    month: July
-    game: SimplePlanes
-- game:
-    year: 2017
-    month: July
-    game: 'Sherlock Holmes: The Devil''s Daughter'
-- game:
-    year: 2017
-    month: July
-    game: Kero Blaster
-- game:
-    year: 2017
-    month: August
-    game: NBA 2K17
-- game:
-    year: 2017
-    month: August
-    game: Pillars of Eternity
-- game:
-    year: 2017
-    month: August
-    game: ONE PIECE BURNING BLOOD
-- game:
-    year: 2017
-    month: August
-    game: Offworld Trading Company
-- game:
-    year: 2017
-    month: August
-    game: War for the Overworld
-- game:
-    year: 2017
-    month: August
-    game: Overcooked
-- game:
-    year: 2017
-    month: August
-    game: Wuppo
-- game:
-    year: 2017
-    month: August
-    game: Nongünz
-- game:
-    year: 2017
-    month: September
-    game: Killing Floor 2
-- game:
-    year: 2017
-    month: September
-    game: Banner Saga 2
-- game:
-    year: 2017
-    month: September
-    game: 'Momodora: Reverie Under the Moonlight'
-- game:
-    year: 2017
-    month: September
-    game: Worms W.M.D
-- game:
-    year: 2017
-    month: September
-    game: Stories Untold
-- game:
-    year: 2017
-    month: September
-    game: HackyZack
-- game:
-    year: 2017
-    month: September
-    game: Eterium
-- game:
-    year: 2017
-    month: October
-    game: Rise of the Tomb Raider
-- game:
-    year: 2017
-    month: October
-    game: 'Wargame: Red Dragon'
-- game:
-    year: 2017
-    month: October
-    game: Furi
-- game:
-    year: 2017
-    month: October
-    game: 'Orwell: Keeping an Eye On You'
-- game:
-    year: 2017
-    month: October
-    game: Seasons after Fall
-- game:
-    year: 2017
-    month: October
-    game: The Shrouded Isle
-- game:
-    year: 2017
-    month: October
-    game: Scanner Sombre
-- game:
-    year: 2017
-    month: November
-    game: Quake Champions
-- game:
-    year: 2017
-    month: November
-    game: The Elder Scrolls Online
-- game:
-    year: 2017
-    month: November
-    game: The Elder Scrolls Legends
-- game:
-    year: 2017
-    month: November
-    game: Resident Evil 5 Gold Edition
-- game:
-    year: 2017
-    month: November
-    game: 'Shadow Tactics: Blades of the Shogun'
-- game:
-    year: 2017
-    month: November
-    game: Dead Rising 2
-- game:
-    year: 2017
-    month: November
-    game: Silence
-- game:
-    year: 2017
-    month: November
-    game: Emily is Away Too
-- game:
-    year: 2017
-    month: November
-    game: World to the West
-- game:
-    year: 2017
-    month: December
-    game: H1Z1
-- game:
-    year: 2017
-    month: December
-    game: Rivals of Aether
-- game:
-    year: 2017
-    month: December
-    game: 'BlazBlue: Chronophantasma Extend'
-- game:
-    year: 2017
-    month: December
-    game: Nex Machina
-- game:
-    year: 2017
-    month: December
-    game: The Sexy Brutale
-- game:
-    year: 2017
-    month: December
-    game: 'STRAFE: Millennium Edition'
-- game:
-    year: 2017
-    month: December
-    game: 'Passpartout: The Starving Artist'
-- game:
-    year: 2017
-    month: December
-    game: Way of the Passive Fist
+- !ruby/object:Game
+  name: Warhammer The End Times Vermintide
+  month: January
+  year: 2017
+  steam_id: 
+- !ruby/object:Game
+  name: Project CARS
+  month: January
+  year: 2017
+  steam_id: 
+- !ruby/object:Game
+  name: Mother Russia Bleeds
+  month: January
+  year: 2017
+  steam_id: 
+- !ruby/object:Game
+  name: 'The Legend of Heroes: Trails in the Sky'
+  month: January
+  year: 2017
+  steam_id: 
+- !ruby/object:Game
+  name: Neon Chrome
+  month: January
+  year: 2017
+  steam_id: 
+- !ruby/object:Game
+  name: Jotun
+  month: January
+  year: 2017
+  steam_id: 
+- !ruby/object:Game
+  name: Hopiko
+  month: January
+  year: 2017
+  steam_id: 
+- !ruby/object:Game
+  name: XCOM 2
+  month: February
+  year: 2017
+  steam_id: 
+- !ruby/object:Game
+  name: 'Ryse: Son of Rome'
+  month: February
+  year: 2017
+  steam_id: 
+- !ruby/object:Game
+  name: ABZU
+  month: February
+  year: 2017
+  steam_id: 
+- !ruby/object:Game
+  name: SteamWorld Heist
+  month: February
+  year: 2017
+  steam_id: 
+- !ruby/object:Game
+  name: Okhlos
+  month: February
+  year: 2017
+  steam_id: 
+- !ruby/object:Game
+  name: Project Highrise
+  month: February
+  year: 2017
+  steam_id: 
+- !ruby/object:Game
+  name: Husk
+  month: February
+  year: 2017
+  steam_id: 
+- !ruby/object:Game
+  name: Total War Warhammer
+  month: March
+  year: 2017
+  steam_id: 
+- !ruby/object:Game
+  name: Poly Bridge
+  month: March
+  year: 2017
+  steam_id: 
+- !ruby/object:Game
+  name: Space Run Galaxy
+  month: March
+  year: 2017
+  steam_id: 
+- !ruby/object:Game
+  name: ONE PIECE PIRATE WARRIORS 3
+  month: March
+  year: 2017
+  steam_id: 
+- !ruby/object:Game
+  name: Flat Heroes
+  month: March
+  year: 2017
+  steam_id: 
+- !ruby/object:Game
+  name: 'RIVE: Wreck Hack Die Retry'
+  month: March
+  year: 2017
+  steam_id: 
+- !ruby/object:Game
+  name: Morphblade
+  month: March
+  year: 2017
+  steam_id: 
+- !ruby/object:Game
+  name: The Witness
+  month: April
+  year: 2017
+  steam_id: 
+- !ruby/object:Game
+  name: 'Layers of Fear: Masterpiece Edition'
+  month: April
+  year: 2017
+  steam_id: 
+- !ruby/object:Game
+  name: Black Mesa
+  month: April
+  year: 2017
+  steam_id: 
+- !ruby/object:Game
+  name: 'Kingdom: New Lands Royal Edition'
+  month: April
+  year: 2017
+  steam_id: 
+- !ruby/object:Game
+  name: Event[0]
+  month: April
+  year: 2017
+  steam_id: 
+- !ruby/object:Game
+  name: Tumblestone
+  month: April
+  year: 2017
+  steam_id: 
+- !ruby/object:Game
+  name: Slime-san
+  month: April
+  year: 2017
+  steam_id: 
+- !ruby/object:Game
+  name: Dirt Rally
+  month: May
+  year: 2017
+  steam_id: 
+- !ruby/object:Game
+  name: Inside
+  month: May
+  year: 2017
+  steam_id: 
+- !ruby/object:Game
+  name: This Is the Police
+  month: May
+  year: 2017
+  steam_id: 
+- !ruby/object:Game
+  name: UNDERTALE
+  month: May
+  year: 2017
+  steam_id: 
+- !ruby/object:Game
+  name: Metrico+
+  month: May
+  year: 2017
+  steam_id: 
+- !ruby/object:Game
+  name: GoNNER - Press Jump To Die Edition
+  month: May
+  year: 2017
+  steam_id: 
+- !ruby/object:Game
+  name: The Turing Test
+  month: May
+  year: 2017
+  steam_id: 
+- !ruby/object:Game
+  name: Super Rude Bear Resurrection
+  month: May
+  year: 2017
+  steam_id: 
+- !ruby/object:Game
+  name: Stellaris
+  month: June
+  year: 2017
+  steam_id: 
+- !ruby/object:Game
+  name: 'Plague Inc: Evolved'
+  month: June
+  year: 2017
+  steam_id: 
+- !ruby/object:Game
+  name: SUPERHOT
+  month: June
+  year: 2017
+  steam_id: 
+- !ruby/object:Game
+  name: 'Ashes of the Singularity: Escalation'
+  month: June
+  year: 2017
+  steam_id: 
+- !ruby/object:Game
+  name: 'Brigador: Up-Armored Edition'
+  month: June
+  year: 2017
+  steam_id: 
+- !ruby/object:Game
+  name: Shoppe Keep
+  month: June
+  year: 2017
+  steam_id: 
+- !ruby/object:Game
+  name: Maize
+  month: June
+  year: 2017
+  steam_id: 
+- !ruby/object:Game
+  name: 'Dark Souls II: Scholar of the First Sin'
+  month: July
+  year: 2017
+  steam_id: 
+- !ruby/object:Game
+  name: Galactic Civilizations III - Core Edition
+  month: July
+  year: 2017
+  steam_id: 
+- !ruby/object:Game
+  name: Hyper Light Drifter
+  month: July
+  year: 2017
+  steam_id: 
+- !ruby/object:Game
+  name: Armello
+  month: July
+  year: 2017
+  steam_id: 
+- !ruby/object:Game
+  name: SimplePlanes
+  month: July
+  year: 2017
+  steam_id: 
+- !ruby/object:Game
+  name: 'Sherlock Holmes: The Devil''s Daughter'
+  month: July
+  year: 2017
+  steam_id: 
+- !ruby/object:Game
+  name: Kero Blaster
+  month: July
+  year: 2017
+  steam_id: 
+- !ruby/object:Game
+  name: NBA 2K17
+  month: August
+  year: 2017
+  steam_id: 
+- !ruby/object:Game
+  name: Pillars of Eternity
+  month: August
+  year: 2017
+  steam_id: 
+- !ruby/object:Game
+  name: ONE PIECE BURNING BLOOD
+  month: August
+  year: 2017
+  steam_id: 
+- !ruby/object:Game
+  name: Offworld Trading Company
+  month: August
+  year: 2017
+  steam_id: 
+- !ruby/object:Game
+  name: War for the Overworld
+  month: August
+  year: 2017
+  steam_id: 
+- !ruby/object:Game
+  name: Overcooked
+  month: August
+  year: 2017
+  steam_id: 
+- !ruby/object:Game
+  name: Wuppo
+  month: August
+  year: 2017
+  steam_id: 
+- !ruby/object:Game
+  name: Nongünz
+  month: August
+  year: 2017
+  steam_id: 
+- !ruby/object:Game
+  name: Killing Floor 2
+  month: September
+  year: 2017
+  steam_id: 
+- !ruby/object:Game
+  name: Banner Saga 2
+  month: September
+  year: 2017
+  steam_id: 
+- !ruby/object:Game
+  name: 'Momodora: Reverie Under the Moonlight'
+  month: September
+  year: 2017
+  steam_id: 
+- !ruby/object:Game
+  name: Worms W.M.D
+  month: September
+  year: 2017
+  steam_id: 
+- !ruby/object:Game
+  name: Stories Untold
+  month: September
+  year: 2017
+  steam_id: 
+- !ruby/object:Game
+  name: HackyZack
+  month: September
+  year: 2017
+  steam_id: 
+- !ruby/object:Game
+  name: Eterium
+  month: September
+  year: 2017
+  steam_id: 
+- !ruby/object:Game
+  name: Rise of the Tomb Raider
+  month: October
+  year: 2017
+  steam_id: 
+- !ruby/object:Game
+  name: 'Wargame: Red Dragon'
+  month: October
+  year: 2017
+  steam_id: 
+- !ruby/object:Game
+  name: Furi
+  month: October
+  year: 2017
+  steam_id: 
+- !ruby/object:Game
+  name: 'Orwell: Keeping an Eye On You'
+  month: October
+  year: 2017
+  steam_id: 
+- !ruby/object:Game
+  name: Seasons after Fall
+  month: October
+  year: 2017
+  steam_id: 
+- !ruby/object:Game
+  name: The Shrouded Isle
+  month: October
+  year: 2017
+  steam_id: 
+- !ruby/object:Game
+  name: Scanner Sombre
+  month: October
+  year: 2017
+  steam_id: 
+- !ruby/object:Game
+  name: Quake Champions
+  month: November
+  year: 2017
+  steam_id: 
+- !ruby/object:Game
+  name: The Elder Scrolls Online
+  month: November
+  year: 2017
+  steam_id: 
+- !ruby/object:Game
+  name: The Elder Scrolls Legends
+  month: November
+  year: 2017
+  steam_id: 
+- !ruby/object:Game
+  name: Resident Evil 5 Gold Edition
+  month: November
+  year: 2017
+  steam_id: 
+- !ruby/object:Game
+  name: 'Shadow Tactics: Blades of the Shogun'
+  month: November
+  year: 2017
+  steam_id: 
+- !ruby/object:Game
+  name: Dead Rising 2
+  month: November
+  year: 2017
+  steam_id: 
+- !ruby/object:Game
+  name: Silence
+  month: November
+  year: 2017
+  steam_id: 
+- !ruby/object:Game
+  name: Emily is Away Too
+  month: November
+  year: 2017
+  steam_id: 
+- !ruby/object:Game
+  name: World to the West
+  month: November
+  year: 2017
+  steam_id: 
+- !ruby/object:Game
+  name: H1Z1
+  month: December
+  year: 2017
+  steam_id: 
+- !ruby/object:Game
+  name: Rivals of Aether
+  month: December
+  year: 2017
+  steam_id: 
+- !ruby/object:Game
+  name: 'BlazBlue: Chronophantasma Extend'
+  month: December
+  year: 2017
+  steam_id: 
+- !ruby/object:Game
+  name: Nex Machina
+  month: December
+  year: 2017
+  steam_id: 
+- !ruby/object:Game
+  name: The Sexy Brutale
+  month: December
+  year: 2017
+  steam_id: 
+- !ruby/object:Game
+  name: 'STRAFE: Millennium Edition'
+  month: December
+  year: 2017
+  steam_id: 
+- !ruby/object:Game
+  name: 'Passpartout: The Starving Artist'
+  month: December
+  year: 2017
+  steam_id: 
+- !ruby/object:Game
+  name: Way of the Passive Fist
+  month: December
+  year: 2017
+  steam_id: 
