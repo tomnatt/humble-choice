@@ -9,8 +9,4 @@ class Game
     @year = year
     @steam_id = nil
   end
-
-  def to_yaml
-    'foo'
-  end
 end
