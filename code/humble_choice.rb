@@ -14,14 +14,14 @@ class HumbleChoice
 
   def read_choice_data
     CSV.read(@humble_present, { headers: true }).each do |row|
-      date = Date.parse(row['Month/Year'])
+      date = Date.parse(row['Month'])
       year = date.year
       month = date.strftime('%B')
 
       next if year == 2019
 
       games = []
-      split_game_list(row['Available Games'], games)
+      split_game_list(row['Game'], games)
 
       create_game_objects(games, month, year)
     end
