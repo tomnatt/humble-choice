@@ -1,36 +1,41 @@
 require 'csv'
 require 'yaml'
+require './code/game'
 
-humble_montly = 'data/humble-choice-2015-2019.csv'
+class HumbleMonthly
+  attr_reader :output
 
-output = {}
+  def initialize
+    @humble_montly = 'data/humble-choice-2015-2019.csv'
+    @output = {}
 
-CSV.read(humble_montly, { headers: true }).each do |row|
-  date = Date.parse(row['Month/Year'])
-  year = date.year
-  month = date.strftime('%B')
-
-  output[year] = [] unless output[year]
-
-  games = []
-
-  row['Early Unlock(s)'].split(';').each { |game| games.concat(clean_games_list(game)) }
-  row['Other Games'].split(';').each { |game| games.concat(clean_games_list(game)) }
-
-  games.each do |game|
-    output[year] << { 'game' => { 'year' => year, 'month' => month, 'game' => game } } unless game.empty?
+    read_monthly_data
   end
-end
 
-output.each_key do |year|
-  o = { year => output[year] }
+  def read_monthly_data
+    CSV.read(@humble_montly, { headers: true }).each do |row|
+      date = Date.parse(row['Month/Year'])
+      year = date.year
+      month = date.strftime('%B')
 
-  f = File.open("output/humble-choice-#{year}.yml", 'w+')
-  f << o.to_yaml
-  f.close
-end
+      games = []
+      split_game_list(row['Early Unlock(s)'], games)
+      split_game_list(row['Other Games'], games)
 
-BEGIN {
+      create_game_objects(games, month, year)
+    end
+  end
+
+  def split_game_list(list, games)
+    list.split(';').each { |game| games.concat(clean_games_list(game)) }
+  end
+
+  def create_game_objects(games, month, year)
+    @output[year] = [] unless @output[year]
+    games.each do |game|
+      @output[year] << Game.new(game, month, year) unless game.empty?
+    end
+  end
 
   def clean_games_list(game)
     games = []
@@ -48,5 +53,4 @@ BEGIN {
 
     games
   end
-
-}
+end

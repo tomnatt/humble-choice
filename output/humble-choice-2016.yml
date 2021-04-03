@@ -1,338 +1,422 @@
 ---
 2016:
-- game:
-    year: 2016
-    month: January
-    game: PAYDAY 2
-- game:
-    year: 2016
-    month: January
-    game: The Talos Principle
-- game:
-    year: 2016
-    month: January
-    game: The Masterplan
-- game:
-    year: 2016
-    month: January
-    game: Mushroom 11
-- game:
-    year: 2016
-    month: January
-    game: Grim Fandango Remastered
-- game:
-    year: 2016
-    month: January
-    game: Spelunky
-- game:
-    year: 2016
-    month: January
-    game: Fistful of Gun
-- game:
-    year: 2016
-    month: February
-    game: Alien Isolation
-- game:
-    year: 2016
-    month: February
-    game: Titan Souls
-- game:
-    year: 2016
-    month: February
-    game: Broken Age
-- game:
-    year: 2016
-    month: February
-    game: Volume
-- game:
-    year: 2016
-    month: February
-    game: Penarium
-- game:
-    year: 2016
-    month: February
-    game: Dropsy
-- game:
-    year: 2016
-    month: March
-    game: ARK Survival Evolved
-- game:
-    year: 2016
-    month: March
-    game: 'Wasteland 2: Director''s Cut - Classic Edition'
-- game:
-    year: 2016
-    month: March
-    game: GRAV
-- game:
-    year: 2016
-    month: March
-    game: Shantae and the Pirate's Curse
-- game:
-    year: 2016
-    month: March
-    game: I am Bread
-- game:
-    year: 2016
-    month: March
-    game: Sentinels of the Multiverse
-- game:
-    year: 2016
-    month: March
-    game: Switchcars
-- game:
-    year: 2016
-    month: April
-    game: This War of Mine
-- game:
-    year: 2016
-    month: April
-    game: South Park the Stick of Truth
-- game:
-    year: 2016
-    month: April
-    game: Nuclear Throne
-- game:
-    year: 2016
-    month: April
-    game: 'Renowned Explorers: International Society'
-- game:
-    year: 2016
-    month: April
-    game: Nova-111
-- game:
-    year: 2016
-    month: April
-    game: The Magic Circle
-- game:
-    year: 2016
-    month: April
-    game: Super Avalanche
-- game:
-    year: 2016
-    month: April
-    game: Stickbold! A Dodgeball Adventure
-- game:
-    year: 2016
-    month: May
-    game: MAD MAX
-- game:
-    year: 2016
-    month: May
-    game: Infinifactory
-- game:
-    year: 2016
-    month: May
-    game: Crawl
-- game:
-    year: 2016
-    month: May
-    game: Galak-Z
-- game:
-    year: 2016
-    month: May
-    game: JumpJet Rex
-- game:
-    year: 2016
-    month: May
-    game: Fran Bow
-- game:
-    year: 2016
-    month: May
-    game: 'Oddworld: New ''n'' Tasty'
-- game:
-    year: 2016
-    month: May
-    game: 1993 Space Machine
-- game:
-    year: 2016
-    month: June
-    game: Rocket League
-- game:
-    year: 2016
-    month: June
-    game: The Forest
-- game:
-    year: 2016
-    month: June
-    game: 'Planetary Annihilation: TITANS'
-- game:
-    year: 2016
-    month: June
-    game: Keep Talking and Nobody Explodes
-- game:
-    year: 2016
-    month: June
-    game: Dungeon of the Endless - Crystal Edition
-- game:
-    year: 2016
-    month: June
-    game: Steredenn
-- game:
-    year: 2016
-    month: June
-    game: WASTED
-- game:
-    year: 2016
-    month: July
-    game: Hurtworld
-- game:
-    year: 2016
-    month: July
-    game: Kentucky Route Zero
-- game:
-    year: 2016
-    month: July
-    game: Satellite Reign
-- game:
-    year: 2016
-    month: July
-    game: TIS-100
-- game:
-    year: 2016
-    month: July
-    game: The Red Solstice
-- game:
-    year: 2016
-    month: July
-    game: 'Avernum 2: Crystal Souls'
-- game:
-    year: 2016
-    month: July
-    game: Cthulhu Realms - Full Version
-- game:
-    year: 2016
-    month: August
-    game: 'Call of Duty: Black Ops III - Multiplayer Starter Pack'
-- game:
-    year: 2016
-    month: August
-    game: The Incredible Adventures of Van Helsing Final Cut
-- game:
-    year: 2016
-    month: August
-    game: The Jackbox Party Pack 2
-- game:
-    year: 2016
-    month: August
-    game: Poi (Early Access)
-- game:
-    year: 2016
-    month: August
-    game: Planet of the Eyes
-- game:
-    year: 2016
-    month: August
-    game: Starward Rogue
-- game:
-    year: 2016
-    month: August
-    game: Random Access Murder
-- game:
-    year: 2016
-    month: September
-    game: SOMA
-- game:
-    year: 2016
-    month: September
-    game: The Banner Saga
-- game:
-    year: 2016
-    month: September
-    game: WWE 2K16
-- game:
-    year: 2016
-    month: September
-    game: Sheltered
-- game:
-    year: 2016
-    month: September
-    game: Epistory - Typing Chronicles
-- game:
-    year: 2016
-    month: September
-    game: Town of Salem
-- game:
-    year: 2016
-    month: October
-    game: Grim Dawn
-- game:
-    year: 2016
-    month: October
-    game: Slime Rancher (Early Access)
-- game:
-    year: 2016
-    month: October
-    game: 'Hotline Miami 2: Wrong Number'
-- game:
-    year: 2016
-    month: October
-    game: Deponia Doomsday
-- game:
-    year: 2016
-    month: October
-    game: Train Valley
-- game:
-    year: 2016
-    month: October
-    game: Action Henk
-- game:
-    year: 2016
-    month: October
-    game: THOTH
-- game:
-    year: 2016
-    month: November
-    game: Stardew Valley
-- game:
-    year: 2016
-    month: November
-    game: BROFORCE
-- game:
-    year: 2016
-    month: November
-    game: Rebel Galaxy
-- game:
-    year: 2016
-    month: November
-    game: Beyond Eyes
-- game:
-    year: 2016
-    month: November
-    game: Kathy Rain
-- game:
-    year: 2016
-    month: November
-    game: 'Styx: Master of Shadows'
-- game:
-    year: 2016
-    month: November
-    game: Pirate Pop Plus
-- game:
-    year: 2016
-    month: December
-    game: 'Dragon''s Dogma: Dark Ariser'
-- game:
-    year: 2016
-    month: December
-    game: 'The Escapists: Supermax Edition'
-- game:
-    year: 2016
-    month: December
-    game: 'Mordheim: City of the Damned'
-- game:
-    year: 2016
-    month: December
-    game: Hacknet
-- game:
-    year: 2016
-    month: December
-    game: Western Press
-- game:
-    year: 2016
-    month: December
-    game: The Flame in the Flood
-- game:
-    year: 2016
-    month: December
-    game: Minion Masters
+- !ruby/object:Game
+  name: PAYDAY 2
+  month: January
+  year: 2016
+  steam_id: 
+- !ruby/object:Game
+  name: The Talos Principle
+  month: January
+  year: 2016
+  steam_id: 
+- !ruby/object:Game
+  name: The Masterplan
+  month: January
+  year: 2016
+  steam_id: 
+- !ruby/object:Game
+  name: Mushroom 11
+  month: January
+  year: 2016
+  steam_id: 
+- !ruby/object:Game
+  name: Grim Fandango Remastered
+  month: January
+  year: 2016
+  steam_id: 
+- !ruby/object:Game
+  name: Spelunky
+  month: January
+  year: 2016
+  steam_id: 
+- !ruby/object:Game
+  name: Fistful of Gun
+  month: January
+  year: 2016
+  steam_id: 
+- !ruby/object:Game
+  name: Alien Isolation
+  month: February
+  year: 2016
+  steam_id: 
+- !ruby/object:Game
+  name: Titan Souls
+  month: February
+  year: 2016
+  steam_id: 
+- !ruby/object:Game
+  name: Broken Age
+  month: February
+  year: 2016
+  steam_id: 
+- !ruby/object:Game
+  name: Volume
+  month: February
+  year: 2016
+  steam_id: 
+- !ruby/object:Game
+  name: Penarium
+  month: February
+  year: 2016
+  steam_id: 
+- !ruby/object:Game
+  name: Dropsy
+  month: February
+  year: 2016
+  steam_id: 
+- !ruby/object:Game
+  name: ARK Survival Evolved
+  month: March
+  year: 2016
+  steam_id: 
+- !ruby/object:Game
+  name: 'Wasteland 2: Director''s Cut - Classic Edition'
+  month: March
+  year: 2016
+  steam_id: 
+- !ruby/object:Game
+  name: GRAV
+  month: March
+  year: 2016
+  steam_id: 
+- !ruby/object:Game
+  name: Shantae and the Pirate's Curse
+  month: March
+  year: 2016
+  steam_id: 
+- !ruby/object:Game
+  name: I am Bread
+  month: March
+  year: 2016
+  steam_id: 
+- !ruby/object:Game
+  name: Sentinels of the Multiverse
+  month: March
+  year: 2016
+  steam_id: 
+- !ruby/object:Game
+  name: Switchcars
+  month: March
+  year: 2016
+  steam_id: 
+- !ruby/object:Game
+  name: This War of Mine
+  month: April
+  year: 2016
+  steam_id: 
+- !ruby/object:Game
+  name: South Park the Stick of Truth
+  month: April
+  year: 2016
+  steam_id: 
+- !ruby/object:Game
+  name: Nuclear Throne
+  month: April
+  year: 2016
+  steam_id: 
+- !ruby/object:Game
+  name: 'Renowned Explorers: International Society'
+  month: April
+  year: 2016
+  steam_id: 
+- !ruby/object:Game
+  name: Nova-111
+  month: April
+  year: 2016
+  steam_id: 
+- !ruby/object:Game
+  name: The Magic Circle
+  month: April
+  year: 2016
+  steam_id: 
+- !ruby/object:Game
+  name: Super Avalanche
+  month: April
+  year: 2016
+  steam_id: 
+- !ruby/object:Game
+  name: Stickbold! A Dodgeball Adventure
+  month: April
+  year: 2016
+  steam_id: 
+- !ruby/object:Game
+  name: MAD MAX
+  month: May
+  year: 2016
+  steam_id: 
+- !ruby/object:Game
+  name: Infinifactory
+  month: May
+  year: 2016
+  steam_id: 
+- !ruby/object:Game
+  name: Crawl
+  month: May
+  year: 2016
+  steam_id: 
+- !ruby/object:Game
+  name: Galak-Z
+  month: May
+  year: 2016
+  steam_id: 
+- !ruby/object:Game
+  name: JumpJet Rex
+  month: May
+  year: 2016
+  steam_id: 
+- !ruby/object:Game
+  name: Fran Bow
+  month: May
+  year: 2016
+  steam_id: 
+- !ruby/object:Game
+  name: 'Oddworld: New ''n'' Tasty'
+  month: May
+  year: 2016
+  steam_id: 
+- !ruby/object:Game
+  name: 1993 Space Machine
+  month: May
+  year: 2016
+  steam_id: 
+- !ruby/object:Game
+  name: Rocket League
+  month: June
+  year: 2016
+  steam_id: 
+- !ruby/object:Game
+  name: The Forest
+  month: June
+  year: 2016
+  steam_id: 
+- !ruby/object:Game
+  name: 'Planetary Annihilation: TITANS'
+  month: June
+  year: 2016
+  steam_id: 
+- !ruby/object:Game
+  name: Keep Talking and Nobody Explodes
+  month: June
+  year: 2016
+  steam_id: 
+- !ruby/object:Game
+  name: Dungeon of the Endless - Crystal Edition
+  month: June
+  year: 2016
+  steam_id: 
+- !ruby/object:Game
+  name: Steredenn
+  month: June
+  year: 2016
+  steam_id: 
+- !ruby/object:Game
+  name: WASTED
+  month: June
+  year: 2016
+  steam_id: 
+- !ruby/object:Game
+  name: Hurtworld
+  month: July
+  year: 2016
+  steam_id: 
+- !ruby/object:Game
+  name: Kentucky Route Zero
+  month: July
+  year: 2016
+  steam_id: 
+- !ruby/object:Game
+  name: Satellite Reign
+  month: July
+  year: 2016
+  steam_id: 
+- !ruby/object:Game
+  name: TIS-100
+  month: July
+  year: 2016
+  steam_id: 
+- !ruby/object:Game
+  name: The Red Solstice
+  month: July
+  year: 2016
+  steam_id: 
+- !ruby/object:Game
+  name: 'Avernum 2: Crystal Souls'
+  month: July
+  year: 2016
+  steam_id: 
+- !ruby/object:Game
+  name: Cthulhu Realms - Full Version
+  month: July
+  year: 2016
+  steam_id: 
+- !ruby/object:Game
+  name: 'Call of Duty: Black Ops III - Multiplayer Starter Pack'
+  month: August
+  year: 2016
+  steam_id: 
+- !ruby/object:Game
+  name: The Incredible Adventures of Van Helsing Final Cut
+  month: August
+  year: 2016
+  steam_id: 
+- !ruby/object:Game
+  name: The Jackbox Party Pack 2
+  month: August
+  year: 2016
+  steam_id: 
+- !ruby/object:Game
+  name: Poi (Early Access)
+  month: August
+  year: 2016
+  steam_id: 
+- !ruby/object:Game
+  name: Planet of the Eyes
+  month: August
+  year: 2016
+  steam_id: 
+- !ruby/object:Game
+  name: Starward Rogue
+  month: August
+  year: 2016
+  steam_id: 
+- !ruby/object:Game
+  name: Random Access Murder
+  month: August
+  year: 2016
+  steam_id: 
+- !ruby/object:Game
+  name: SOMA
+  month: September
+  year: 2016
+  steam_id: 
+- !ruby/object:Game
+  name: The Banner Saga
+  month: September
+  year: 2016
+  steam_id: 
+- !ruby/object:Game
+  name: WWE 2K16
+  month: September
+  year: 2016
+  steam_id: 
+- !ruby/object:Game
+  name: Sheltered
+  month: September
+  year: 2016
+  steam_id: 
+- !ruby/object:Game
+  name: Epistory - Typing Chronicles
+  month: September
+  year: 2016
+  steam_id: 
+- !ruby/object:Game
+  name: Town of Salem
+  month: September
+  year: 2016
+  steam_id: 
+- !ruby/object:Game
+  name: Grim Dawn
+  month: October
+  year: 2016
+  steam_id: 
+- !ruby/object:Game
+  name: Slime Rancher (Early Access)
+  month: October
+  year: 2016
+  steam_id: 
+- !ruby/object:Game
+  name: 'Hotline Miami 2: Wrong Number'
+  month: October
+  year: 2016
+  steam_id: 
+- !ruby/object:Game
+  name: Deponia Doomsday
+  month: October
+  year: 2016
+  steam_id: 
+- !ruby/object:Game
+  name: Train Valley
+  month: October
+  year: 2016
+  steam_id: 
+- !ruby/object:Game
+  name: Action Henk
+  month: October
+  year: 2016
+  steam_id: 
+- !ruby/object:Game
+  name: THOTH
+  month: October
+  year: 2016
+  steam_id: 
+- !ruby/object:Game
+  name: Stardew Valley
+  month: November
+  year: 2016
+  steam_id: 
+- !ruby/object:Game
+  name: BROFORCE
+  month: November
+  year: 2016
+  steam_id: 
+- !ruby/object:Game
+  name: Rebel Galaxy
+  month: November
+  year: 2016
+  steam_id: 
+- !ruby/object:Game
+  name: Beyond Eyes
+  month: November
+  year: 2016
+  steam_id: 
+- !ruby/object:Game
+  name: Kathy Rain
+  month: November
+  year: 2016
+  steam_id: 
+- !ruby/object:Game
+  name: 'Styx: Master of Shadows'
+  month: November
+  year: 2016
+  steam_id: 
+- !ruby/object:Game
+  name: Pirate Pop Plus
+  month: November
+  year: 2016
+  steam_id: 
+- !ruby/object:Game
+  name: 'Dragon''s Dogma: Dark Ariser'
+  month: December
+  year: 2016
+  steam_id: 
+- !ruby/object:Game
+  name: 'The Escapists: Supermax Edition'
+  month: December
+  year: 2016
+  steam_id: 
+- !ruby/object:Game
+  name: 'Mordheim: City of the Damned'
+  month: December
+  year: 2016
+  steam_id: 
+- !ruby/object:Game
+  name: Hacknet
+  month: December
+  year: 2016
+  steam_id: 
+- !ruby/object:Game
+  name: Western Press
+  month: December
+  year: 2016
+  steam_id: 
+- !ruby/object:Game
+  name: The Flame in the Flood
+  month: December
+  year: 2016
+  steam_id: 
+- !ruby/object:Game
+  name: Minion Masters
+  month: December
+  year: 2016
+  steam_id: 

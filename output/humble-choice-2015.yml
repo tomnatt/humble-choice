@@ -1,62 +1,77 @@
 ---
 2015:
-- game:
-    year: 2015
-    month: November
-    game: Legend of Grimrock II
-- game:
-    year: 2015
-    month: November
-    game: Saints Row IV
-- game:
-    year: 2015
-    month: November
-    game: Besiege
-- game:
-    year: 2015
-    month: November
-    game: Valkyria Chronicles
-- game:
-    year: 2015
-    month: November
-    game: Lethal League
-- game:
-    year: 2015
-    month: November
-    game: 'SanctuaryRPG: Black Edition'
-- game:
-    year: 2015
-    month: November
-    game: TowerFall Ascension
-- game:
-    year: 2015
-    month: November
-    game: Legend of Grimrock
-- game:
-    year: 2015
-    month: December
-    game: TowerFall Ascension
-- game:
-    year: 2015
-    month: December
-    game: Banished
-- game:
-    year: 2015
-    month: December
-    game: Rust
-- game:
-    year: 2015
-    month: December
-    game: PAYDAY 2
-- game:
-    year: 2015
-    month: December
-    game: NEON STRUCT Deluxe Edition
-- game:
-    year: 2015
-    month: December
-    game: Chroma Squad
-- game:
-    year: 2015
-    month: December
-    game: Company of Heroes 2
+- !ruby/object:Game
+  name: Legend of Grimrock II
+  month: November
+  year: 2015
+  steam_id: 
+- !ruby/object:Game
+  name: Saints Row IV
+  month: November
+  year: 2015
+  steam_id: 
+- !ruby/object:Game
+  name: Besiege
+  month: November
+  year: 2015
+  steam_id: 
+- !ruby/object:Game
+  name: Valkyria Chronicles
+  month: November
+  year: 2015
+  steam_id: 
+- !ruby/object:Game
+  name: Lethal League
+  month: November
+  year: 2015
+  steam_id: 
+- !ruby/object:Game
+  name: 'SanctuaryRPG: Black Edition'
+  month: November
+  year: 2015
+  steam_id: 
+- !ruby/object:Game
+  name: TowerFall Ascension
+  month: November
+  year: 2015
+  steam_id: 
+- !ruby/object:Game
+  name: Legend of Grimrock
+  month: November
+  year: 2015
+  steam_id: 
+- !ruby/object:Game
+  name: TowerFall Ascension
+  month: December
+  year: 2015
+  steam_id: 
+- !ruby/object:Game
+  name: Banished
+  month: December
+  year: 2015
+  steam_id: 
+- !ruby/object:Game
+  name: Rust
+  month: December
+  year: 2015
+  steam_id: 
+- !ruby/object:Game
+  name: PAYDAY 2
+  month: December
+  year: 2015
+  steam_id: 
+- !ruby/object:Game
+  name: NEON STRUCT Deluxe Edition
+  month: December
+  year: 2015
+  steam_id: 
+- !ruby/object:Game
+  name: Chroma Squad
+  month: December
+  year: 2015
+  steam_id: 
+- !ruby/object:Game
+  name: Company of Heroes 2
+  month: December
+  year: 2015
+  steam_id: 
