@@ -14,8 +14,8 @@ class SteamIds
   def populate_all_games(output)
     output.each_value do |games_list|
       games_list.each do |game|
-        g = @steam_ids['applist']['apps'].filter { |a| a['name'].downcase == game.name.downcase }
-        game.steam_id = g.first['appid'] unless g.empty?
+        g = @steam_ids['applist']['apps'].filter { |a| a['name'].strip.downcase == game.name.strip.downcase }
+        game.steam_id = g.last['appid'] unless g.empty?
       end
     end
 
