@@ -9,12 +9,12 @@
   name: Saints Row IV
   month: November
   year: 2015
-  steam_id: 
+  steam_id: 206420
 - !ruby/object:Game
   name: Besiege
   month: November
   year: 2015
-  steam_id: 
+  steam_id: 346010
 - !ruby/object:Game
   name: Valkyria Chronicles
   month: November
@@ -24,42 +24,42 @@
   name: Lethal League
   month: November
   year: 2015
-  steam_id: 
+  steam_id: 261180
 - !ruby/object:Game
   name: 'SanctuaryRPG: Black Edition'
   month: November
   year: 2015
-  steam_id: 
+  steam_id: 328760
 - !ruby/object:Game
   name: TowerFall Ascension
   month: November
   year: 2015
-  steam_id: 
+  steam_id: 251470
 - !ruby/object:Game
   name: Legend of Grimrock
   month: November
   year: 2015
-  steam_id: 
+  steam_id: 207170
 - !ruby/object:Game
   name: TowerFall Ascension
   month: December
   year: 2015
-  steam_id: 
+  steam_id: 251470
 - !ruby/object:Game
   name: Banished
   month: December
   year: 2015
-  steam_id: 
+  steam_id: 242920
 - !ruby/object:Game
   name: Rust
   month: December
   year: 2015
-  steam_id: 
+  steam_id: 980030
 - !ruby/object:Game
   name: PAYDAY 2
   month: December
   year: 2015
-  steam_id: 
+  steam_id: 218620
 - !ruby/object:Game
   name: NEON STRUCT Deluxe Edition
   month: December
@@ -69,9 +69,9 @@
   name: Chroma Squad
   month: December
   year: 2015
-  steam_id: 
+  steam_id: 251130
 - !ruby/object:Game
   name: Company of Heroes 2
   month: December
   year: 2015
-  steam_id: 
+  steam_id: 231430

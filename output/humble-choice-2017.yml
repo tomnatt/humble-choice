@@ -9,22 +9,22 @@
   name: Project CARS
   month: January
   year: 2017
-  steam_id: 
+  steam_id: 234630
 - !ruby/object:Game
   name: Mother Russia Bleeds
   month: January
   year: 2017
-  steam_id: 
+  steam_id: 361300
 - !ruby/object:Game
   name: 'The Legend of Heroes: Trails in the Sky'
   month: January
   year: 2017
-  steam_id: 
+  steam_id: 251150
 - !ruby/object:Game
   name: Neon Chrome
   month: January
   year: 2017
-  steam_id: 
+  steam_id: 428750
 - !ruby/object:Game
   name: Jotun
   month: January
@@ -34,17 +34,17 @@
   name: Hopiko
   month: January
   year: 2017
-  steam_id: 
+  steam_id: 437390
 - !ruby/object:Game
   name: XCOM 2
   month: February
   year: 2017
-  steam_id: 
+  steam_id: 268500
 - !ruby/object:Game
   name: 'Ryse: Son of Rome'
   month: February
   year: 2017
-  steam_id: 
+  steam_id: 302510
 - !ruby/object:Game
   name: ABZU
   month: February
@@ -54,7 +54,7 @@
   name: SteamWorld Heist
   month: February
   year: 2017
-  steam_id: 
+  steam_id: 322190
 - !ruby/object:Game
   name: Okhlos
   month: February
@@ -64,12 +64,12 @@
   name: Project Highrise
   month: February
   year: 2017
-  steam_id: 
+  steam_id: 423580
 - !ruby/object:Game
   name: Husk
   month: February
   year: 2017
-  steam_id: 
+  steam_id: 553960
 - !ruby/object:Game
   name: Total War Warhammer
   month: March
@@ -79,22 +79,22 @@
   name: Poly Bridge
   month: March
   year: 2017
-  steam_id: 
+  steam_id: 367450
 - !ruby/object:Game
   name: Space Run Galaxy
   month: March
   year: 2017
-  steam_id: 
+  steam_id: 355800
 - !ruby/object:Game
   name: ONE PIECE PIRATE WARRIORS 3
   month: March
   year: 2017
-  steam_id: 
+  steam_id: 331600
 - !ruby/object:Game
   name: Flat Heroes
   month: March
   year: 2017
-  steam_id: 
+  steam_id: 508790
 - !ruby/object:Game
   name: 'RIVE: Wreck Hack Die Retry'
   month: March
@@ -104,12 +104,12 @@
   name: Morphblade
   month: March
   year: 2017
-  steam_id: 
+  steam_id: 494720
 - !ruby/object:Game
   name: The Witness
   month: April
   year: 2017
-  steam_id: 
+  steam_id: 210970
 - !ruby/object:Game
   name: 'Layers of Fear: Masterpiece Edition'
   month: April
@@ -119,7 +119,7 @@
   name: Black Mesa
   month: April
   year: 2017
-  steam_id: 
+  steam_id: 362890
 - !ruby/object:Game
   name: 'Kingdom: New Lands Royal Edition'
   month: April
@@ -129,42 +129,42 @@
   name: Event[0]
   month: April
   year: 2017
-  steam_id: 
+  steam_id: 470260
 - !ruby/object:Game
   name: Tumblestone
   month: April
   year: 2017
-  steam_id: 
+  steam_id: 269710
 - !ruby/object:Game
   name: Slime-san
   month: April
   year: 2017
-  steam_id: 
+  steam_id: 473530
 - !ruby/object:Game
   name: Dirt Rally
   month: May
   year: 2017
-  steam_id: 
+  steam_id: 310560
 - !ruby/object:Game
   name: Inside
   month: May
   year: 2017
-  steam_id: 
+  steam_id: 304430
 - !ruby/object:Game
   name: This Is the Police
   month: May
   year: 2017
-  steam_id: 
+  steam_id: 443810
 - !ruby/object:Game
   name: UNDERTALE
   month: May
   year: 2017
-  steam_id: 
+  steam_id: 391540
 - !ruby/object:Game
   name: Metrico+
   month: May
   year: 2017
-  steam_id: 
+  steam_id: 373990
 - !ruby/object:Game
   name: GoNNER - Press Jump To Die Edition
   month: May
@@ -174,47 +174,47 @@
   name: The Turing Test
   month: May
   year: 2017
-  steam_id: 
+  steam_id: 499520
 - !ruby/object:Game
   name: Super Rude Bear Resurrection
   month: May
   year: 2017
-  steam_id: 
+  steam_id: 384250
 - !ruby/object:Game
   name: Stellaris
   month: June
   year: 2017
-  steam_id: 
+  steam_id: 281990
 - !ruby/object:Game
   name: 'Plague Inc: Evolved'
   month: June
   year: 2017
-  steam_id: 
+  steam_id: 246620
 - !ruby/object:Game
   name: SUPERHOT
   month: June
   year: 2017
-  steam_id: 
+  steam_id: 322500
 - !ruby/object:Game
   name: 'Ashes of the Singularity: Escalation'
   month: June
   year: 2017
-  steam_id: 
+  steam_id: 507490
 - !ruby/object:Game
   name: 'Brigador: Up-Armored Edition'
   month: June
   year: 2017
-  steam_id: 
+  steam_id: 274500
 - !ruby/object:Game
   name: Shoppe Keep
   month: June
   year: 2017
-  steam_id: 
+  steam_id: 381120
 - !ruby/object:Game
   name: Maize
   month: June
   year: 2017
-  steam_id: 
+  steam_id: 284240
 - !ruby/object:Game
   name: 'Dark Souls II: Scholar of the First Sin'
   month: July
@@ -229,57 +229,57 @@
   name: Hyper Light Drifter
   month: July
   year: 2017
-  steam_id: 
+  steam_id: 257850
 - !ruby/object:Game
   name: Armello
   month: July
   year: 2017
-  steam_id: 
+  steam_id: 290340
 - !ruby/object:Game
   name: SimplePlanes
   month: July
   year: 2017
-  steam_id: 
+  steam_id: 397340
 - !ruby/object:Game
   name: 'Sherlock Holmes: The Devil''s Daughter'
   month: July
   year: 2017
-  steam_id: 
+  steam_id: 350640
 - !ruby/object:Game
   name: Kero Blaster
   month: July
   year: 2017
-  steam_id: 
+  steam_id: 292500
 - !ruby/object:Game
   name: NBA 2K17
   month: August
   year: 2017
-  steam_id: 
+  steam_id: 385760
 - !ruby/object:Game
   name: Pillars of Eternity
   month: August
   year: 2017
-  steam_id: 
+  steam_id: 291650
 - !ruby/object:Game
   name: ONE PIECE BURNING BLOOD
   month: August
   year: 2017
-  steam_id: 
+  steam_id: 425220
 - !ruby/object:Game
   name: Offworld Trading Company
   month: August
   year: 2017
-  steam_id: 
+  steam_id: 271240
 - !ruby/object:Game
   name: War for the Overworld
   month: August
   year: 2017
-  steam_id: 
+  steam_id: 230190
 - !ruby/object:Game
   name: Overcooked
   month: August
   year: 2017
-  steam_id: 
+  steam_id: 448510
 - !ruby/object:Game
   name: Wuppo
   month: August
@@ -294,7 +294,7 @@
   name: Killing Floor 2
   month: September
   year: 2017
-  steam_id: 
+  steam_id: 232090
 - !ruby/object:Game
   name: Banner Saga 2
   month: September
@@ -304,42 +304,42 @@
   name: 'Momodora: Reverie Under the Moonlight'
   month: September
   year: 2017
-  steam_id: 
+  steam_id: 428550
 - !ruby/object:Game
   name: Worms W.M.D
   month: September
   year: 2017
-  steam_id: 
+  steam_id: 327030
 - !ruby/object:Game
   name: Stories Untold
   month: September
   year: 2017
-  steam_id: 
+  steam_id: 558420
 - !ruby/object:Game
   name: HackyZack
   month: September
   year: 2017
-  steam_id: 
+  steam_id: 508530
 - !ruby/object:Game
   name: Eterium
   month: September
   year: 2017
-  steam_id: 
+  steam_id: 280200
 - !ruby/object:Game
   name: Rise of the Tomb Raider
   month: October
   year: 2017
-  steam_id: 
+  steam_id: 391220
 - !ruby/object:Game
   name: 'Wargame: Red Dragon'
   month: October
   year: 2017
-  steam_id: 
+  steam_id: 251060
 - !ruby/object:Game
   name: Furi
   month: October
   year: 2017
-  steam_id: 
+  steam_id: 423230
 - !ruby/object:Game
   name: 'Orwell: Keeping an Eye On You'
   month: October
@@ -349,27 +349,27 @@
   name: Seasons after Fall
   month: October
   year: 2017
-  steam_id: 
+  steam_id: 366320
 - !ruby/object:Game
   name: The Shrouded Isle
   month: October
   year: 2017
-  steam_id: 
+  steam_id: 501320
 - !ruby/object:Game
   name: Scanner Sombre
   month: October
   year: 2017
-  steam_id: 
+  steam_id: 475190
 - !ruby/object:Game
   name: Quake Champions
   month: November
   year: 2017
-  steam_id: 
+  steam_id: 611500
 - !ruby/object:Game
   name: The Elder Scrolls Online
   month: November
   year: 2017
-  steam_id: 
+  steam_id: 306130
 - !ruby/object:Game
   name: The Elder Scrolls Legends
   month: November
@@ -384,27 +384,27 @@
   name: 'Shadow Tactics: Blades of the Shogun'
   month: November
   year: 2017
-  steam_id: 
+  steam_id: 418240
 - !ruby/object:Game
   name: Dead Rising 2
   month: November
   year: 2017
-  steam_id: 
+  steam_id: 45740
 - !ruby/object:Game
   name: Silence
   month: November
   year: 2017
-  steam_id: 
+  steam_id: 314790
 - !ruby/object:Game
   name: Emily is Away Too
   month: November
   year: 2017
-  steam_id: 
+  steam_id: 523780
 - !ruby/object:Game
   name: World to the West
   month: November
   year: 2017
-  steam_id: 
+  steam_id: 530020
 - !ruby/object:Game
   name: H1Z1
   month: December
@@ -414,22 +414,22 @@
   name: Rivals of Aether
   month: December
   year: 2017
-  steam_id: 
+  steam_id: 383980
 - !ruby/object:Game
   name: 'BlazBlue: Chronophantasma Extend'
   month: December
   year: 2017
-  steam_id: 
+  steam_id: 388750
 - !ruby/object:Game
   name: Nex Machina
   month: December
   year: 2017
-  steam_id: 
+  steam_id: 404540
 - !ruby/object:Game
   name: The Sexy Brutale
   month: December
   year: 2017
-  steam_id: 
+  steam_id: 552590
 - !ruby/object:Game
   name: 'STRAFE: Millennium Edition'
   month: December
@@ -439,9 +439,9 @@
   name: 'Passpartout: The Starving Artist'
   month: December
   year: 2017
-  steam_id: 
+  steam_id: 582550
 - !ruby/object:Game
   name: Way of the Passive Fist
   month: December
   year: 2017
-  steam_id: 
+  steam_id: 625680
