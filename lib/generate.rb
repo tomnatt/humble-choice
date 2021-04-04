@@ -1,6 +1,6 @@
-require './code/humble_monthly'
-require './code/humble_choice'
-require './code/game'
+require_relative './humble_monthly'
+require_relative './humble_choice'
+require_relative './game'
 
 monthly = HumbleMonthly.new
 choice = HumbleChoice.new

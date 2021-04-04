@@ -1,6 +1,6 @@
 require 'csv'
 require 'yaml'
-require './code/game'
+require_relative './game'
 
 class HumbleChoice
   attr_reader :output
