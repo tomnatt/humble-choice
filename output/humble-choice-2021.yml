@@ -4,22 +4,22 @@
   name: 'The Ambassador: Fractured Timelines'
   month: January
   year: 2021
-  steam_id: 
+  steam_id: 1171660
 - !ruby/object:Game
   name: Deleveled
   month: January
   year: 2021
-  steam_id: 
+  steam_id: 1045580
 - !ruby/object:Game
   name: Minoria
   month: January
   year: 2021
-  steam_id: 
+  steam_id: 940910
 - !ruby/object:Game
   name: Tales of the Neon Sea
   month: January
   year: 2021
-  steam_id: 
+  steam_id: 828740
 - !ruby/object:Game
   name: 'Vampire: The Masquerade – Shadows of New York'
   month: January
@@ -29,7 +29,7 @@
   name: Not Tonight
   month: January
   year: 2021
-  steam_id: 
+  steam_id: 733790
 - !ruby/object:Game
   name: 'Song of Horror: Complete Edition'
   month: January
@@ -39,17 +39,17 @@
   name: Total Tank Simulator
   month: January
   year: 2021
-  steam_id: 
+  steam_id: 674500
 - !ruby/object:Game
   name: 'Warhammer: Chaosbane'
   month: January
   year: 2021
-  steam_id: 
+  steam_id: 774241
 - !ruby/object:Game
   name: Pathologic 2
   month: January
   year: 2021
-  steam_id: 
+  steam_id: 505230
 - !ruby/object:Game
   name: 'Ancestors: The Humankind Odyssey'
   month: January
@@ -59,22 +59,22 @@
   name: PC Building Simulator
   month: January
   year: 2021
-  steam_id: 
+  steam_id: 621060
 - !ruby/object:Game
   name: Boomerang Fu
   month: February
   year: 2021
-  steam_id: 
+  steam_id: 965680
 - !ruby/object:Game
   name: Iris and the Giant
   month: February
   year: 2021
-  steam_id: 
+  steam_id: 1127610
 - !ruby/object:Game
   name: Lovecraft's Untold Stories
   month: February
   year: 2021
-  steam_id: 
+  steam_id: 871420
 - !ruby/object:Game
   name: 'Werewolf: The Apocalypse – Heart of the Forest'
   month: February
@@ -84,27 +84,27 @@
   name: Valfaris
   month: February
   year: 2021
-  steam_id: 
+  steam_id: 600130
 - !ruby/object:Game
   name: Train Station Renovation
   month: February
   year: 2021
-  steam_id: 
+  steam_id: 914010
 - !ruby/object:Game
   name: The Wild Eight
   month: February
   year: 2021
-  steam_id: 
+  steam_id: 526160
 - !ruby/object:Game
   name: 'Trine 4: The Nightmare Prince'
   month: February
   year: 2021
-  steam_id: 
+  steam_id: 690640
 - !ruby/object:Game
   name: Moving Out
   month: February
   year: 2021
-  steam_id: 
+  steam_id: 996770
 - !ruby/object:Game
   name: Endless Space® 2 - Digital Deluxe Edition
   month: February
@@ -114,7 +114,7 @@
   name: Valkyria Chronicles 4 Complete Edition
   month: February
   year: 2021
-  steam_id: 
+  steam_id: 790820
 - !ruby/object:Game
   name: The Soroboreans and Outward Soundtrack
   month: February
@@ -124,64 +124,64 @@
   name: Outward
   month: February
   year: 2021
-  steam_id: 
+  steam_id: 794260
 - !ruby/object:Game
-  name: AGELESS
+  name: Ageless
   month: March
   year: 2021
-  steam_id: 
+  steam_id: 1210150
 - !ruby/object:Game
-  name: BOREAL BLADE
+  name: Boreal Blade
   month: March
   year: 2021
-  steam_id: 
+  steam_id: 598780
 - !ruby/object:Game
-  name: WILDFIRE
+  name: Wildfire
   month: March
   year: 2021
-  steam_id: 
+  steam_id: 431940
 - !ruby/object:Game
-  name: PESTERQUEST
+  name: Pesterquest
   month: March
   year: 2021
-  steam_id: 
+  steam_id: 1144030
 - !ruby/object:Game
-  name: CYBER HOOK
+  name: Cyber Hook
   month: March
   year: 2021
-  steam_id: 
+  steam_id: 1130410
 - !ruby/object:Game
-  name: 'PEAKY BLINDERS: MASTERMIND'
+  name: 'Peaky Blinders: Mastermind'
   month: March
   year: 2021
-  steam_id: 
+  steam_id: 1013310
 - !ruby/object:Game
-  name: HOTSHOT RACING
+  name: Hotshot Racing
   month: March
   year: 2021
-  steam_id: 
+  steam_id: 609920
 - !ruby/object:Game
-  name: WWE 2K BATTLEGROUNDS
+  name: WWE 2K Battlegrounds
   month: March
   year: 2021
-  steam_id: 
+  steam_id: 1142100
 - !ruby/object:Game
-  name: KINGDOM TWO CROWNS
+  name: Kingdom Two Crowns
   month: March
   year: 2021
-  steam_id: 
+  steam_id: 701160
 - !ruby/object:Game
-  name: ELEX
+  name: Elex
   month: March
   year: 2021
-  steam_id: 
+  steam_id: 411300
 - !ruby/object:Game
-  name: 'XCOM: CHIMERA SQUAD'
+  name: 'XCOM: Chimera Squad'
   month: March
   year: 2021
-  steam_id: 
+  steam_id: 882100
 - !ruby/object:Game
-  name: CONTROL STANDARD EDITION
+  name: Control Standard Edition
   month: March
   year: 2021
   steam_id: 

@@ -9,17 +9,17 @@
   name: Wizard of Legend
   month: January
   year: 2019
-  steam_id: 
+  steam_id: 445980
 - !ruby/object:Game
   name: Project CARS 2
   month: January
   year: 2019
-  steam_id: 
+  steam_id: 378860
 - !ruby/object:Game
   name: Q.U.B.E. 2
   month: January
   year: 2019
-  steam_id: 
+  steam_id: 359100
 - !ruby/object:Game
   name: ">observer_"
   month: January
@@ -34,7 +34,7 @@
   name: Regions of Ruin
   month: January
   year: 2019
-  steam_id: 
+  steam_id: 680360
 - !ruby/object:Game
   name: Darkside Detective
   month: January
@@ -44,22 +44,22 @@
   name: Yakuza 0
   month: February
   year: 2019
-  steam_id: 
+  steam_id: 638970
 - !ruby/object:Game
   name: Tom Clancy's The Division
   month: February
   year: 2019
-  steam_id: 
+  steam_id: 365590
 - !ruby/object:Game
   name: Rapture Rejects
   month: February
   year: 2019
-  steam_id: 
+  steam_id: 686600
 - !ruby/object:Game
   name: Sniper Elite 3
   month: February
   year: 2019
-  steam_id: 
+  steam_id: 238090
 - !ruby/object:Game
   name: 'Rock of Ages 2: Bigger & Boulder'
   month: February
@@ -69,32 +69,32 @@
   name: Tom Clancy's The Division - Survival
   month: February
   year: 2019
-  steam_id: 
+  steam_id: 556470
 - !ruby/object:Game
   name: Full Metal Furies
   month: February
   year: 2019
-  steam_id: 
+  steam_id: 416600
 - !ruby/object:Game
   name: Aaero
   month: February
   year: 2019
-  steam_id: 
+  steam_id: 499890
 - !ruby/object:Game
   name: Bleed 2
   month: February
   year: 2019
-  steam_id: 
+  steam_id: 396350
 - !ruby/object:Game
   name: Super Daryl Deluxe
   month: February
   year: 2019
-  steam_id: 
+  steam_id: 361230
 - !ruby/object:Game
   name: 'Warhammer: Vermintide 2 - Collector''s Edition'
   month: March
   year: 2019
-  steam_id: 
+  steam_id: 737040
 - !ruby/object:Game
   name: EARTH DEFENSE FORCE 4.1 The Shadow of New Despair
   month: March
@@ -109,47 +109,47 @@
   name: Cultist Simulator
   month: March
   year: 2019
-  steam_id: 
+  steam_id: 718670
 - !ruby/object:Game
   name: Tower Unite
   month: March
   year: 2019
-  steam_id: 
+  steam_id: 394690
 - !ruby/object:Game
   name: Late Shift
   month: March
   year: 2019
-  steam_id: 
+  steam_id: 584980
 - !ruby/object:Game
   name: Paradigm
   month: March
   year: 2019
-  steam_id: 
+  steam_id: 600370
 - !ruby/object:Game
   name: Fight'N Rage
   month: March
   year: 2019
-  steam_id: 
+  steam_id: 674520
 - !ruby/object:Game
   name: Slipstream
   month: March
   year: 2019
-  steam_id: 
+  steam_id: 732810
 - !ruby/object:Game
   name: Northgard
   month: April
   year: 2019
-  steam_id: 
+  steam_id: 466560
 - !ruby/object:Game
   name: 'Mutant Year Zero: Road to Eden'
   month: April
   year: 2019
-  steam_id: 
+  steam_id: 760060
 - !ruby/object:Game
   name: Absolver
   month: April
   year: 2019
-  steam_id: 
+  steam_id: 473690
 - !ruby/object:Game
   name: Tannenburg
   month: April
@@ -159,17 +159,17 @@
   name: Minit
   month: April
   year: 2019
-  steam_id: 
+  steam_id: 609490
 - !ruby/object:Game
   name: She Remembered Caterpillars
   month: April
   year: 2019
-  steam_id: 
+  steam_id: 470780
 - !ruby/object:Game
   name: Steel Rats
   month: April
   year: 2019
-  steam_id: 
+  steam_id: 619700
 - !ruby/object:Game
   name: Dandara
   month: April
@@ -184,27 +184,27 @@
   name: Wandersong
   month: May
   year: 2019
-  steam_id: 
+  steam_id: 530320
 - !ruby/object:Game
   name: Finding Paradise
   month: May
   year: 2019
-  steam_id: 
+  steam_id: 337340
 - !ruby/object:Game
   name: Monster Prom
   month: May
   year: 2019
-  steam_id: 
+  steam_id: 743450
 - !ruby/object:Game
   name: 'The Journey Down: Chapter Three'
   month: May
   year: 2019
-  steam_id: 
+  steam_id: 579760
 - !ruby/object:Game
   name: Do Not Feed the Monkeys
   month: May
   year: 2019
-  steam_id: 
+  steam_id: 658850
 - !ruby/object:Game
   name: I am not a Monster
   month: May
@@ -219,7 +219,7 @@
   name: 911 Operator
   month: June
   year: 2019
-  steam_id: 
+  steam_id: 503560
 - !ruby/object:Game
   name: Special Resources DLC
   month: June
@@ -229,37 +229,37 @@
   name: Red Faction Guerrilla Re-Mars-tered
   month: June
   year: 2019
-  steam_id: 
+  steam_id: 667720
 - !ruby/object:Game
   name: Duskers
   month: June
   year: 2019
-  steam_id: 
+  steam_id: 254320
 - !ruby/object:Game
   name: Paratopic
   month: June
   year: 2019
-  steam_id: 
+  steam_id: 897030
 - !ruby/object:Game
   name: Pool Panic
   month: June
   year: 2019
-  steam_id: 
+  steam_id: 522240
 - !ruby/object:Game
   name: 'Hellblade: Senua''s Sacrifice'
   month: July
   year: 2019
-  steam_id: 
+  steam_id: 414340
 - !ruby/object:Game
   name: Moonlighter
   month: July
   year: 2019
-  steam_id: 
+  steam_id: 606150
 - !ruby/object:Game
   name: Road Redemption
   month: July
   year: 2019
-  steam_id: 
+  steam_id: 300380
 - !ruby/object:Game
   name: Warhammer 40
   month: July
@@ -274,7 +274,7 @@
   name: Love is Dead
   month: July
   year: 2019
-  steam_id: 
+  steam_id: 453910
 - !ruby/object:Game
   name: 60 Parsecs
   month: July
@@ -284,22 +284,22 @@
   name: 'NAIRI: Tower of Shirin'
   month: July
   year: 2019
-  steam_id: 
+  steam_id: 802450
 - !ruby/object:Game
   name: 'Kingdom Come: Deliverance'
   month: August
   year: 2019
-  steam_id: 
+  steam_id: 379430
 - !ruby/object:Game
   name: Surviving Mars
   month: August
   year: 2019
-  steam_id: 
+  steam_id: 464920
 - !ruby/object:Game
   name: 'Rising Storm 2: Vietnam'
   month: August
   year: 2019
-  steam_id: 
+  steam_id: 418460
 - !ruby/object:Game
   name: 2 DLCs
   month: August
@@ -309,67 +309,67 @@
   name: Yoku's Island Express
   month: August
   year: 2019
-  steam_id: 
+  steam_id: 334940
 - !ruby/object:Game
   name: The Adventure Pals
   month: August
   year: 2019
-  steam_id: 
+  steam_id: 396710
 - !ruby/object:Game
   name: 'Almost There: The Platformer'
   month: August
   year: 2019
-  steam_id: 
+  steam_id: 951940
 - !ruby/object:Game
   name: Swords and Soldiers 2 Shawarmageddon
   month: August
   year: 2019
-  steam_id: 
+  steam_id: 703880
 - !ruby/object:Game
   name: Slay the Spire
   month: September
   year: 2019
-  steam_id: 
+  steam_id: 646570
 - !ruby/object:Game
   name: Squad
   month: September
   year: 2019
-  steam_id: 
+  steam_id: 393380
 - !ruby/object:Game
   name: Distance
   month: September
   year: 2019
-  steam_id: 
+  steam_id: 233610
 - !ruby/object:Game
   name: Guacamelee! 2
   month: September
   year: 2019
-  steam_id: 
+  steam_id: 534550
 - !ruby/object:Game
   name: MOTHERGUNSHIP
   month: September
   year: 2019
-  steam_id: 
+  steam_id: 574090
 - !ruby/object:Game
   name: State of Mind
   month: September
   year: 2019
-  steam_id: 
+  steam_id: 437630
 - !ruby/object:Game
   name: God's Trigger
   month: September
   year: 2019
-  steam_id: 
+  steam_id: 488730
 - !ruby/object:Game
   name: BATTLETECH
   month: October
   year: 2019
-  steam_id: 
+  steam_id: 637090
 - !ruby/object:Game
   name: BATTLETECH Flashpoint
   month: October
   year: 2019
-  steam_id: 
+  steam_id: 911930
 - !ruby/object:Game
   name: BATTLETECH Shadow Hawk Pack
   month: October
@@ -379,17 +379,17 @@
   name: Sonic Mania
   month: October
   year: 2019
-  steam_id: 
+  steam_id: 584400
 - !ruby/object:Game
   name: The Spiral Scouts
   month: October
   year: 2019
-  steam_id: 
+  steam_id: 862480
 - !ruby/object:Game
   name: PLANET ALPHA
   month: October
   year: 2019
-  steam_id: 
+  steam_id: 485030
 - !ruby/object:Game
   name: 'Override: Mech City Brawl'
   month: October
@@ -399,17 +399,17 @@
   name: PUSS!
   month: October
   year: 2019
-  steam_id: 
+  steam_id: 719750
 - !ruby/object:Game
   name: 'Avernum 3: Ruined World'
   month: October
   year: 2019
-  steam_id: 
+  steam_id: 691830
 - !ruby/object:Game
   name: 'Call of Duty: WWII'
   month: November
   year: 2019
-  steam_id: 
+  steam_id: 476600
 - !ruby/object:Game
   name: Crash Bandicoot N. Sane Trilogy
   month: November
@@ -424,12 +424,12 @@
   name: Shenmue I & II
   month: November
   year: 2019
-  steam_id: 
+  steam_id: 758330
 - !ruby/object:Game
   name: 11-11 Memories Retold
   month: November
   year: 2019
-  steam_id: 
+  steam_id: 735580
 - !ruby/object:Game
   name: 'SYNTHETIK: Legion Rising'
   month: November
@@ -439,39 +439,39 @@
   name: Evergarden
   month: November
   year: 2019
-  steam_id: 
+  steam_id: 576500
 - !ruby/object:Game
   name: Yakuza Kiwami
   month: December
   year: 2019
-  steam_id: 
+  steam_id: 834530
 - !ruby/object:Game
   name: SOULCALIBUR VI
   month: December
   year: 2019
-  steam_id: 
+  steam_id: 544750
 - !ruby/object:Game
   name: My Time At Portia
   month: December
   year: 2019
-  steam_id: 
+  steam_id: 666140
 - !ruby/object:Game
   name: Fluffy Horde
   month: December
   year: 2019
-  steam_id: 
+  steam_id: 777880
 - !ruby/object:Game
   name: Chasm
   month: December
   year: 2019
-  steam_id: 
+  steam_id: 312200
 - !ruby/object:Game
   name: Regular Human Basketball
   month: December
   year: 2019
-  steam_id: 
+  steam_id: 661940
 - !ruby/object:Game
   name: Sword Legacy Omen
   month: December
   year: 2019
-  steam_id: 
+  steam_id: 690140

@@ -14,13 +14,13 @@ class HumbleMonthly
 
   def read_monthly_data
     CSV.read(@humble_montly, { headers: true }).each do |row|
-      date = Date.parse(row['Month/Year'])
+      date = Date.parse(row['Month'])
       year = date.year
       month = date.strftime('%B')
 
       games = []
-      split_game_list(row['Early Unlock(s)'], games)
-      split_game_list(row['Other Games'], games)
+      split_game_list(row['Game'], games)
+      split_game_list(row['More games'], games)
 
       create_game_objects(games, month, year)
     end
