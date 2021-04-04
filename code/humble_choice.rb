@@ -14,17 +14,22 @@ class HumbleChoice
 
   def read_choice_data
     CSV.read(@humble_present, { headers: true }).each do |row|
-      date = Date.parse(row['Month/Year'])
+      date = Date.parse(row['Month'])
       year = date.year
       month = date.strftime('%B')
 
       next if year == 2019
 
       games = []
-      split_game_list(row['Available Games'], games)
+      split_game_list(row['Game'], games)
 
       create_game_objects(games, month, year)
     end
+    reverse_years
+  end
+
+  def reverse_years
+    @output.each_key { |year| @output[year].reverse! }
   end
 
   def split_game_list(list, games)
@@ -37,7 +42,6 @@ class HumbleChoice
     games.each do |game|
       @output[year] << Game.new(game, month, year) unless game.empty?
     end
-    @output[year].reverse!
   end
 
   def clean_games_list(games_list)

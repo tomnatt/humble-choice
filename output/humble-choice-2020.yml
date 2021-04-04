@@ -71,6 +71,71 @@
   year: 2020
   steam_id: 
 - !ruby/object:Game
+  name: Night Call
+  month: February
+  year: 2020
+  steam_id: 
+- !ruby/object:Game
+  name: Underhero
+  month: February
+  year: 2020
+  steam_id: 
+- !ruby/object:Game
+  name: Warstone TD
+  month: February
+  year: 2020
+  steam_id: 
+- !ruby/object:Game
+  name: The Hex
+  month: February
+  year: 2020
+  steam_id: 
+- !ruby/object:Game
+  name: Project Warlock
+  month: February
+  year: 2020
+  steam_id: 
+- !ruby/object:Game
+  name: SHENZHEN I/O
+  month: February
+  year: 2020
+  steam_id: 
+- !ruby/object:Game
+  name: Eliza
+  month: February
+  year: 2020
+  steam_id: 
+- !ruby/object:Game
+  name: Okami HD
+  month: February
+  year: 2020
+  steam_id: 
+- !ruby/object:Game
+  name: CryoFall
+  month: February
+  year: 2020
+  steam_id: 
+- !ruby/object:Game
+  name: Book of Demons
+  month: February
+  year: 2020
+  steam_id: 
+- !ruby/object:Game
+  name: 'Pathfinder: Kingmaker Explorer Edition'
+  month: February
+  year: 2020
+  steam_id: 
+- !ruby/object:Game
+  name: 1 DLC
+  month: February
+  year: 2020
+  steam_id: 
+- !ruby/object:Game
+  name: Frostpunk
+  month: February
+  year: 2020
+  steam_id: 
+- !ruby/object:Game
   name: Etherborn
   month: March
   year: 2020
@@ -133,6 +198,66 @@
 - !ruby/object:Game
   name: My Friend Pedro
   month: March
+  year: 2020
+  steam_id: 
+- !ruby/object:Game
+  name: Capitalism 2
+  month: April
+  year: 2020
+  steam_id: 
+- !ruby/object:Game
+  name: Shoppe Keep 2
+  month: April
+  year: 2020
+  steam_id: 
+- !ruby/object:Game
+  name: 'The Bard''s Tale IV: Director''s Cut'
+  month: April
+  year: 2020
+  steam_id: 
+- !ruby/object:Game
+  name: Trüberbrook
+  month: April
+  year: 2020
+  steam_id: 
+- !ruby/object:Game
+  name: 'Turok 2: Seeds of Evil'
+  month: April
+  year: 2020
+  steam_id: 
+- !ruby/object:Game
+  name: 'Driftland: The Magic Revival'
+  month: April
+  year: 2020
+  steam_id: 
+- !ruby/object:Game
+  name: 'Raiden V: Director''s Cut'
+  month: April
+  year: 2020
+  steam_id: 
+- !ruby/object:Game
+  name: MOLEK-SYNTEZ
+  month: April
+  year: 2020
+  steam_id: 
+- !ruby/object:Game
+  name: Opus Magnum
+  month: April
+  year: 2020
+  steam_id: 
+- !ruby/object:Game
+  name: This Is the Police 2
+  month: April
+  year: 2020
+  steam_id: 
+- !ruby/object:Game
+  name: GRIS
+  month: April
+  year: 2020
+  steam_id: 
+- !ruby/object:Game
+  name: HITMAN 2
+  month: April
   year: 2020
   steam_id: 
 - !ruby/object:Game
@@ -211,6 +336,66 @@
   year: 2020
   steam_id: 
 - !ruby/object:Game
+  name: The King's Bird
+  month: June
+  year: 2020
+  steam_id: 
+- !ruby/object:Game
+  name: The Stillness of the Wind
+  month: June
+  year: 2020
+  steam_id: 
+- !ruby/object:Game
+  name: Overload
+  month: June
+  year: 2020
+  steam_id: 
+- !ruby/object:Game
+  name: Remnants of Naezith
+  month: June
+  year: 2020
+  steam_id: 
+- !ruby/object:Game
+  name: 'Stygian: Reign of the Old Ones'
+  month: June
+  year: 2020
+  steam_id: 
+- !ruby/object:Game
+  name: 'Men of War: Assault Squad 2 - War Chest Edition'
+  month: June
+  year: 2020
+  steam_id: 
+- !ruby/object:Game
+  name: Felix The Reaper
+  month: June
+  year: 2020
+  steam_id: 
+- !ruby/object:Game
+  name: Barotrauma
+  month: June
+  year: 2020
+  steam_id: 
+- !ruby/object:Game
+  name: The Messenger
+  month: June
+  year: 2020
+  steam_id: 
+- !ruby/object:Game
+  name: 'Hellblade: Senua''s Sacrifice'
+  month: June
+  year: 2020
+  steam_id: 
+- !ruby/object:Game
+  name: GRID Ultimate Edition
+  month: June
+  year: 2020
+  steam_id: 
+- !ruby/object:Game
+  name: Supraland
+  month: June
+  year: 2020
+  steam_id: 
+- !ruby/object:Game
   name: Earthlock
   month: July
   year: 2020
@@ -268,6 +453,71 @@
 - !ruby/object:Game
   name: 'Age of Wonders: Planetfall Deluxe Edition'
   month: July
+  year: 2020
+  steam_id: 
+- !ruby/object:Game
+  name: A Case of Distrust
+  month: August
+  year: 2020
+  steam_id: 
+- !ruby/object:Game
+  name: We Were Here Together
+  month: August
+  year: 2020
+  steam_id: 
+- !ruby/object:Game
+  name: 'The Coma 2: Vicious Sisters'
+  month: August
+  year: 2020
+  steam_id: 
+- !ruby/object:Game
+  name: American Fugitive
+  month: August
+  year: 2020
+  steam_id: 
+- !ruby/object:Game
+  name: Through the Darkest of Times
+  month: August
+  year: 2020
+  steam_id: 
+- !ruby/object:Game
+  name: Automachef
+  month: August
+  year: 2020
+  steam_id: 
+- !ruby/object:Game
+  name: Genesis Alpha One Deluxe Edition
+  month: August
+  year: 2020
+  steam_id: 
+- !ruby/object:Game
+  name: Little Big Workshop
+  month: August
+  year: 2020
+  steam_id: 
+- !ruby/object:Game
+  name: Call of Cthulhu
+  month: August
+  year: 2020
+  steam_id: 
+- !ruby/object:Game
+  name: Wargroove
+  month: August
+  year: 2020
+  steam_id: 
+- !ruby/object:Game
+  name: 'Hello Neighbor: Hide and Seek'
+  month: August
+  year: 2020
+  steam_id: 
+- !ruby/object:Game
+  name: Hello Neighbor
+  month: August
+  year: 2020
+  steam_id: 
+- !ruby/object:Game
+  name: Vampyr
+  month: August
   year: 2020
   steam_id: 
 - !ruby/object:Game
@@ -341,6 +591,71 @@
   year: 2020
   steam_id: 
 - !ruby/object:Game
+  name: Lightmatter
+  month: October
+  year: 2020
+  steam_id: 
+- !ruby/object:Game
+  name: Basement
+  month: October
+  year: 2020
+  steam_id: 
+- !ruby/object:Game
+  name: 'The Uncertain: Last Quiet Day'
+  month: October
+  year: 2020
+  steam_id: 
+- !ruby/object:Game
+  name: GOAT OF DUTY
+  month: October
+  year: 2020
+  steam_id: 
+- !ruby/object:Game
+  name: The Suicide of Rachel Foster
+  month: October
+  year: 2020
+  steam_id: 
+- !ruby/object:Game
+  name: Fantasy Blacksmith
+  month: October
+  year: 2020
+  steam_id: 
+- !ruby/object:Game
+  name: 'Shadows: Awakening'
+  month: October
+  year: 2020
+  steam_id: 
+- !ruby/object:Game
+  name: Autonauts
+  month: October
+  year: 2020
+  steam_id: 
+- !ruby/object:Game
+  name: Iron Danger
+  month: October
+  year: 2020
+  steam_id: 
+- !ruby/object:Game
+  name: Sunless Sea)
+  month: October
+  year: 2020
+  steam_id: 
+- !ruby/object:Game
+  name: Sunless Bundle (Sunless Skies
+  month: October
+  year: 2020
+  steam_id: 
+- !ruby/object:Game
+  name: Fae Tactics
+  month: October
+  year: 2020
+  steam_id: 
+- !ruby/object:Game
+  name: Tropico 6 - El Prez Edition
+  month: October
+  year: 2020
+  steam_id: 
+- !ruby/object:Game
   name: Townsmen - A Kingdom Rebuilt
   month: November
   year: 2020
@@ -401,72 +716,7 @@
   year: 2020
   steam_id: 
 - !ruby/object:Game
-  name: Overcooked! 2
-  month: December
-  year: 2020
-  steam_id: 
-- !ruby/object:Game
-  name: Too Many Cooks
-  month: December
-  year: 2020
-  steam_id: 
-- !ruby/object:Game
-  name: Surf 'N' Turf Pack
-  month: December
-  year: 2020
-  steam_id: 
-- !ruby/object:Game
-  name: Children of Morta
-  month: December
-  year: 2020
-  steam_id: 
-- !ruby/object:Game
-  name: One Step From Eden
-  month: December
-  year: 2020
-  steam_id: 
-- !ruby/object:Game
-  name: The Beast Inside
-  month: December
-  year: 2020
-  steam_id: 
-- !ruby/object:Game
-  name: Indivisible
-  month: December
-  year: 2020
-  steam_id: 
-- !ruby/object:Game
-  name: Shining Resonance Refrain
-  month: December
-  year: 2020
-  steam_id: 
-- !ruby/object:Game
-  name: 'Zwei: The Arges Adventure'
-  month: December
-  year: 2020
-  steam_id: 
-- !ruby/object:Game
-  name: 'Zwei: The Ilvard Insurrection'
-  month: December
-  year: 2020
-  steam_id: 
-- !ruby/object:Game
-  name: Tabletop Playground
-  month: December
-  year: 2020
-  steam_id: 
-- !ruby/object:Game
-  name: The Haunted Island, a Frog Detective Game
-  month: December
-  year: 2020
-  steam_id: 
-- !ruby/object:Game
-  name: 'Frog Detective 2: The Case of the Invisible Wizard'
-  month: December
-  year: 2020
-  steam_id: 
-- !ruby/object:Game
-  name: Still There
+  name: Path of Giants
   month: December
   year: 2020
   steam_id: 
@@ -476,322 +726,72 @@
   year: 2020
   steam_id: 
 - !ruby/object:Game
-  name: Path of Giants
+  name: Still There
   month: December
   year: 2020
   steam_id: 
 - !ruby/object:Game
-  name: Tropico 6 - El Prez Edition
-  month: October
+  name: 'Frog Detective 2: The Case of the Invisible Wizard'
+  month: December
   year: 2020
   steam_id: 
 - !ruby/object:Game
-  name: Fae Tactics
-  month: October
+  name: The Haunted Island, a Frog Detective Game
+  month: December
   year: 2020
   steam_id: 
 - !ruby/object:Game
-  name: Sunless Bundle (Sunless Skies
-  month: October
+  name: Tabletop Playground
+  month: December
   year: 2020
   steam_id: 
 - !ruby/object:Game
-  name: Sunless Sea)
-  month: October
+  name: 'Zwei: The Ilvard Insurrection'
+  month: December
   year: 2020
   steam_id: 
 - !ruby/object:Game
-  name: Iron Danger
-  month: October
+  name: 'Zwei: The Arges Adventure'
+  month: December
   year: 2020
   steam_id: 
 - !ruby/object:Game
-  name: Autonauts
-  month: October
+  name: Shining Resonance Refrain
+  month: December
   year: 2020
   steam_id: 
 - !ruby/object:Game
-  name: 'Shadows: Awakening'
-  month: October
+  name: Indivisible
+  month: December
   year: 2020
   steam_id: 
 - !ruby/object:Game
-  name: Fantasy Blacksmith
-  month: October
+  name: The Beast Inside
+  month: December
   year: 2020
   steam_id: 
 - !ruby/object:Game
-  name: The Suicide of Rachel Foster
-  month: October
+  name: One Step From Eden
+  month: December
   year: 2020
   steam_id: 
 - !ruby/object:Game
-  name: GOAT OF DUTY
-  month: October
+  name: Children of Morta
+  month: December
   year: 2020
   steam_id: 
 - !ruby/object:Game
-  name: 'The Uncertain: Last Quiet Day'
-  month: October
+  name: Surf 'N' Turf Pack
+  month: December
   year: 2020
   steam_id: 
 - !ruby/object:Game
-  name: Basement
-  month: October
+  name: Too Many Cooks
+  month: December
   year: 2020
   steam_id: 
 - !ruby/object:Game
-  name: Lightmatter
-  month: October
-  year: 2020
-  steam_id: 
-- !ruby/object:Game
-  name: Vampyr
-  month: August
-  year: 2020
-  steam_id: 
-- !ruby/object:Game
-  name: Hello Neighbor
-  month: August
-  year: 2020
-  steam_id: 
-- !ruby/object:Game
-  name: 'Hello Neighbor: Hide and Seek'
-  month: August
-  year: 2020
-  steam_id: 
-- !ruby/object:Game
-  name: Wargroove
-  month: August
-  year: 2020
-  steam_id: 
-- !ruby/object:Game
-  name: Call of Cthulhu
-  month: August
-  year: 2020
-  steam_id: 
-- !ruby/object:Game
-  name: Little Big Workshop
-  month: August
-  year: 2020
-  steam_id: 
-- !ruby/object:Game
-  name: Genesis Alpha One Deluxe Edition
-  month: August
-  year: 2020
-  steam_id: 
-- !ruby/object:Game
-  name: Automachef
-  month: August
-  year: 2020
-  steam_id: 
-- !ruby/object:Game
-  name: Through the Darkest of Times
-  month: August
-  year: 2020
-  steam_id: 
-- !ruby/object:Game
-  name: American Fugitive
-  month: August
-  year: 2020
-  steam_id: 
-- !ruby/object:Game
-  name: 'The Coma 2: Vicious Sisters'
-  month: August
-  year: 2020
-  steam_id: 
-- !ruby/object:Game
-  name: We Were Here Together
-  month: August
-  year: 2020
-  steam_id: 
-- !ruby/object:Game
-  name: A Case of Distrust
-  month: August
-  year: 2020
-  steam_id: 
-- !ruby/object:Game
-  name: Supraland
-  month: June
-  year: 2020
-  steam_id: 
-- !ruby/object:Game
-  name: GRID Ultimate Edition
-  month: June
-  year: 2020
-  steam_id: 
-- !ruby/object:Game
-  name: 'Hellblade: Senua''s Sacrifice'
-  month: June
-  year: 2020
-  steam_id: 
-- !ruby/object:Game
-  name: The Messenger
-  month: June
-  year: 2020
-  steam_id: 
-- !ruby/object:Game
-  name: Barotrauma
-  month: June
-  year: 2020
-  steam_id: 
-- !ruby/object:Game
-  name: Felix The Reaper
-  month: June
-  year: 2020
-  steam_id: 
-- !ruby/object:Game
-  name: 'Men of War: Assault Squad 2 - War Chest Edition'
-  month: June
-  year: 2020
-  steam_id: 
-- !ruby/object:Game
-  name: 'Stygian: Reign of the Old Ones'
-  month: June
-  year: 2020
-  steam_id: 
-- !ruby/object:Game
-  name: Remnants of Naezith
-  month: June
-  year: 2020
-  steam_id: 
-- !ruby/object:Game
-  name: Overload
-  month: June
-  year: 2020
-  steam_id: 
-- !ruby/object:Game
-  name: The Stillness of the Wind
-  month: June
-  year: 2020
-  steam_id: 
-- !ruby/object:Game
-  name: The King's Bird
-  month: June
-  year: 2020
-  steam_id: 
-- !ruby/object:Game
-  name: HITMAN 2
-  month: April
-  year: 2020
-  steam_id: 
-- !ruby/object:Game
-  name: GRIS
-  month: April
-  year: 2020
-  steam_id: 
-- !ruby/object:Game
-  name: This Is the Police 2
-  month: April
-  year: 2020
-  steam_id: 
-- !ruby/object:Game
-  name: Opus Magnum
-  month: April
-  year: 2020
-  steam_id: 
-- !ruby/object:Game
-  name: MOLEK-SYNTEZ
-  month: April
-  year: 2020
-  steam_id: 
-- !ruby/object:Game
-  name: 'Raiden V: Director''s Cut'
-  month: April
-  year: 2020
-  steam_id: 
-- !ruby/object:Game
-  name: 'Driftland: The Magic Revival'
-  month: April
-  year: 2020
-  steam_id: 
-- !ruby/object:Game
-  name: 'Turok 2: Seeds of Evil'
-  month: April
-  year: 2020
-  steam_id: 
-- !ruby/object:Game
-  name: Trüberbrook
-  month: April
-  year: 2020
-  steam_id: 
-- !ruby/object:Game
-  name: 'The Bard''s Tale IV: Director''s Cut'
-  month: April
-  year: 2020
-  steam_id: 
-- !ruby/object:Game
-  name: Shoppe Keep 2
-  month: April
-  year: 2020
-  steam_id: 
-- !ruby/object:Game
-  name: Capitalism 2
-  month: April
-  year: 2020
-  steam_id: 
-- !ruby/object:Game
-  name: Frostpunk
-  month: February
-  year: 2020
-  steam_id: 
-- !ruby/object:Game
-  name: 1 DLC
-  month: February
-  year: 2020
-  steam_id: 
-- !ruby/object:Game
-  name: 'Pathfinder: Kingmaker Explorer Edition'
-  month: February
-  year: 2020
-  steam_id: 
-- !ruby/object:Game
-  name: Book of Demons
-  month: February
-  year: 2020
-  steam_id: 
-- !ruby/object:Game
-  name: CryoFall
-  month: February
-  year: 2020
-  steam_id: 
-- !ruby/object:Game
-  name: Okami HD
-  month: February
-  year: 2020
-  steam_id: 
-- !ruby/object:Game
-  name: Eliza
-  month: February
-  year: 2020
-  steam_id: 
-- !ruby/object:Game
-  name: SHENZHEN I/O
-  month: February
-  year: 2020
-  steam_id: 
-- !ruby/object:Game
-  name: Project Warlock
-  month: February
-  year: 2020
-  steam_id: 
-- !ruby/object:Game
-  name: The Hex
-  month: February
-  year: 2020
-  steam_id: 
-- !ruby/object:Game
-  name: Warstone TD
-  month: February
-  year: 2020
-  steam_id: 
-- !ruby/object:Game
-  name: Underhero
-  month: February
-  year: 2020
-  steam_id: 
-- !ruby/object:Game
-  name: Night Call
-  month: February
+  name: Overcooked! 2
+  month: December
   year: 2020
   steam_id: 
