@@ -54,7 +54,7 @@
   name: 'Ancestors: The Humankind Odyssey'
   month: January
   year: 2021
-  steam_id: 
+  steam_id: 536270
 - !ruby/object:Game
   name: PC Building Simulator
   month: January
@@ -76,10 +76,10 @@
   year: 2021
   steam_id: 871420
 - !ruby/object:Game
-  name: 'Werewolf: The Apocalypse – Heart of the Forest'
+  name: 'Werewolf: The Apocalypse - Heart of the Forest'
   month: February
   year: 2021
-  steam_id: 
+  steam_id: 1342620
 - !ruby/object:Game
   name: Valfaris
   month: February
@@ -106,20 +106,25 @@
   year: 2021
   steam_id: 996770
 - !ruby/object:Game
-  name: Endless Space® 2 - Digital Deluxe Edition
+  name: Endless Space® 2
   month: February
   year: 2021
-  steam_id: 
+  steam_id: 392110
 - !ruby/object:Game
   name: Valkyria Chronicles 4 Complete Edition
   month: February
   year: 2021
   steam_id: 790820
 - !ruby/object:Game
-  name: The Soroboreans and Outward Soundtrack
+  name: Outward Soundtrack
   month: February
   year: 2021
-  steam_id: 
+  steam_id: 1244560
+- !ruby/object:Game
+  name: Outward - The Soroboreans
+  month: February
+  year: 2021
+  steam_id: 1194010
 - !ruby/object:Game
   name: Outward
   month: February
@@ -181,7 +186,7 @@
   year: 2021
   steam_id: 882100
 - !ruby/object:Game
-  name: Control Standard Edition
+  name: Control Ultimate Edition
   month: March
   year: 2021
-  steam_id: 
+  steam_id: 870780
