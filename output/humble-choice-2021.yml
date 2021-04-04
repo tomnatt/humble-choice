@@ -61,6 +61,71 @@
   year: 2021
   steam_id: 
 - !ruby/object:Game
+  name: Boomerang Fu
+  month: February
+  year: 2021
+  steam_id: 
+- !ruby/object:Game
+  name: Iris and the Giant
+  month: February
+  year: 2021
+  steam_id: 
+- !ruby/object:Game
+  name: Lovecraft's Untold Stories
+  month: February
+  year: 2021
+  steam_id: 
+- !ruby/object:Game
+  name: 'Werewolf: The Apocalypse – Heart of the Forest'
+  month: February
+  year: 2021
+  steam_id: 
+- !ruby/object:Game
+  name: Valfaris
+  month: February
+  year: 2021
+  steam_id: 
+- !ruby/object:Game
+  name: Train Station Renovation
+  month: February
+  year: 2021
+  steam_id: 
+- !ruby/object:Game
+  name: The Wild Eight
+  month: February
+  year: 2021
+  steam_id: 
+- !ruby/object:Game
+  name: 'Trine 4: The Nightmare Prince'
+  month: February
+  year: 2021
+  steam_id: 
+- !ruby/object:Game
+  name: Moving Out
+  month: February
+  year: 2021
+  steam_id: 
+- !ruby/object:Game
+  name: Endless Space® 2 - Digital Deluxe Edition
+  month: February
+  year: 2021
+  steam_id: 
+- !ruby/object:Game
+  name: Valkyria Chronicles 4 Complete Edition
+  month: February
+  year: 2021
+  steam_id: 
+- !ruby/object:Game
+  name: The Soroboreans and Outward Soundtrack
+  month: February
+  year: 2021
+  steam_id: 
+- !ruby/object:Game
+  name: Outward
+  month: February
+  year: 2021
+  steam_id: 
+- !ruby/object:Game
   name: AGELESS
   month: March
   year: 2021
@@ -118,70 +183,5 @@
 - !ruby/object:Game
   name: CONTROL STANDARD EDITION
   month: March
-  year: 2021
-  steam_id: 
-- !ruby/object:Game
-  name: Outward
-  month: February
-  year: 2021
-  steam_id: 
-- !ruby/object:Game
-  name: The Soroboreans and Outward Soundtrack
-  month: February
-  year: 2021
-  steam_id: 
-- !ruby/object:Game
-  name: Valkyria Chronicles 4 Complete Edition
-  month: February
-  year: 2021
-  steam_id: 
-- !ruby/object:Game
-  name: Endless Space® 2 - Digital Deluxe Edition
-  month: February
-  year: 2021
-  steam_id: 
-- !ruby/object:Game
-  name: Moving Out
-  month: February
-  year: 2021
-  steam_id: 
-- !ruby/object:Game
-  name: 'Trine 4: The Nightmare Prince'
-  month: February
-  year: 2021
-  steam_id: 
-- !ruby/object:Game
-  name: The Wild Eight
-  month: February
-  year: 2021
-  steam_id: 
-- !ruby/object:Game
-  name: Train Station Renovation
-  month: February
-  year: 2021
-  steam_id: 
-- !ruby/object:Game
-  name: Valfaris
-  month: February
-  year: 2021
-  steam_id: 
-- !ruby/object:Game
-  name: 'Werewolf: The Apocalypse – Heart of the Forest'
-  month: February
-  year: 2021
-  steam_id: 
-- !ruby/object:Game
-  name: Lovecraft's Untold Stories
-  month: February
-  year: 2021
-  steam_id: 
-- !ruby/object:Game
-  name: Iris and the Giant
-  month: February
-  year: 2021
-  steam_id: 
-- !ruby/object:Game
-  name: Boomerang Fu
-  month: February
   year: 2021
   steam_id: 

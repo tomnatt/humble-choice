@@ -25,6 +25,11 @@ class HumbleChoice
 
       create_game_objects(games, month, year)
     end
+    reverse_years
+  end
+
+  def reverse_years
+    @output.each_key { |year| @output[year].reverse! }
   end
 
   def split_game_list(list, games)
@@ -37,7 +42,6 @@ class HumbleChoice
     games.each do |game|
       @output[year] << Game.new(game, month, year) unless game.empty?
     end
-    @output[year].reverse!
   end
 
   def clean_games_list(games_list)
