@@ -21,20 +21,20 @@
   year: 2021
   steam_id: 828740
 - !ruby/object:Game
-  name: 'Vampire: The Masquerade – Shadows of New York'
+  name: 'Vampire: The Masquerade - Shadows of New York'
   month: January
   year: 2021
-  steam_id: 
+  steam_id: 1279630
 - !ruby/object:Game
   name: Not Tonight
   month: January
   year: 2021
   steam_id: 733790
 - !ruby/object:Game
-  name: 'Song of Horror: Complete Edition'
+  name: Song of Horror
   month: January
   year: 2021
-  steam_id: 
+  steam_id: 1096570
 - !ruby/object:Game
   name: Total Tank Simulator
   month: January

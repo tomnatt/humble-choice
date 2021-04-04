@@ -561,10 +561,10 @@
   year: 2020
   steam_id: 1142500
 - !ruby/object:Game
-  name: 'Vampire: The Masquerade – Coteries of New York'
+  name: 'Vampire: The Masquerade - Coteries of New York'
   month: September
   year: 2020
-  steam_id: 
+  steam_id: 1096410
 - !ruby/object:Game
   name: Forager
   month: September
