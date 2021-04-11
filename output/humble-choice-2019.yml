@@ -1,10 +1,10 @@
 ---
 2019:
 - !ruby/object:Game
-  name: Just Cause 3 XXL Edition
+  name: Just Cause 3
   month: January
   year: 2019
-  steam_id: 
+  steam_id: 225540
 - !ruby/object:Game
   name: Wizard of Legend
   month: January
@@ -21,25 +21,25 @@
   year: 2019
   steam_id: 359100
 - !ruby/object:Game
-  name: ">observer_"
+  name: Observer
   month: January
   year: 2019
-  steam_id: 
+  steam_id: 514900
 - !ruby/object:Game
-  name: 'Sundered®: Eldritch Edition'
+  name: 'Sundered: Eldritch Edition'
   month: January
   year: 2019
-  steam_id: 
+  steam_id: 535480
 - !ruby/object:Game
   name: Regions of Ruin
   month: January
   year: 2019
   steam_id: 680360
 - !ruby/object:Game
-  name: Darkside Detective
+  name: The Darkside Detective
   month: January
   year: 2019
-  steam_id: 
+  steam_id: 368390
 - !ruby/object:Game
   name: Yakuza 0
   month: February
@@ -61,10 +61,10 @@
   year: 2019
   steam_id: 238090
 - !ruby/object:Game
-  name: 'Rock of Ages 2: Bigger & Boulder'
+  name: Rock of Ages 2
   month: February
   year: 2019
-  steam_id: 
+  steam_id: 434460
 - !ruby/object:Game
   name: Tom Clancy's The Division - Survival
   month: February
@@ -96,15 +96,10 @@
   year: 2019
   steam_id: 737040
 - !ruby/object:Game
-  name: EARTH DEFENSE FORCE 4.1 The Shadow of New Despair
+  name: EARTH DEFENSE FORCE 4.1  The Shadow of New Despair
   month: March
   year: 2019
-  steam_id: 
-- !ruby/object:Game
-  name: all DLC
-  month: March
-  year: 2019
-  steam_id: 
+  steam_id: 410320
 - !ruby/object:Game
   name: Cultist Simulator
   month: March
@@ -151,10 +146,10 @@
   year: 2019
   steam_id: 473690
 - !ruby/object:Game
-  name: Tannenburg
+  name: Tannenberg
   month: April
   year: 2019
-  steam_id: 
+  steam_id: 633460
 - !ruby/object:Game
   name: Minit
   month: April
@@ -171,15 +166,15 @@
   year: 2019
   steam_id: 619700
 - !ruby/object:Game
-  name: Dandara
+  name: 'Dandara: Trials of Fear Edition'
   month: April
   year: 2019
-  steam_id: 
+  steam_id: 612390
 - !ruby/object:Game
-  name: Assassin's Creed® Origins
+  name: Assassin's Creed Origins
   month: May
   year: 2019
-  steam_id: 
+  steam_id: 582160
 - !ruby/object:Game
   name: Wandersong
   month: May
@@ -206,10 +201,10 @@
   year: 2019
   steam_id: 658850
 - !ruby/object:Game
-  name: I am not a Monster
+  name: I’m not a Monster
   month: May
   year: 2019
-  steam_id: 
+  steam_id: 826600
 - !ruby/object:Game
   name: Black Ops 4 Battle Edition
   month: June
@@ -221,10 +216,10 @@
   year: 2019
   steam_id: 503560
 - !ruby/object:Game
-  name: Special Resources DLC
+  name: 911 Operator - Special Resources
   month: June
   year: 2019
-  steam_id: 
+  steam_id: 580730
 - !ruby/object:Game
   name: Red Faction Guerrilla Re-Mars-tered
   month: June
@@ -261,25 +256,20 @@
   year: 2019
   steam_id: 300380
 - !ruby/object:Game
-  name: Warhammer 40
+  name: 'Warhammer 40,000: Mechanicus'
   month: July
   year: 2019
-  steam_id: 
-- !ruby/object:Game
-  name: '000: Mechanicus'
-  month: July
-  year: 2019
-  steam_id: 
+  steam_id: 673880
 - !ruby/object:Game
   name: Love is Dead
   month: July
   year: 2019
   steam_id: 453910
 - !ruby/object:Game
-  name: 60 Parsecs
+  name: 60 Parsecs!
   month: July
   year: 2019
-  steam_id: 
+  steam_id: 646270
 - !ruby/object:Game
   name: 'NAIRI: Tower of Shirin'
   month: July
@@ -300,11 +290,6 @@
   month: August
   year: 2019
   steam_id: 418460
-- !ruby/object:Game
-  name: 2 DLCs
-  month: August
-  year: 2019
-  steam_id: 
 - !ruby/object:Game
   name: Yoku's Island Express
   month: August
@@ -371,10 +356,10 @@
   year: 2019
   steam_id: 911930
 - !ruby/object:Game
-  name: BATTLETECH Shadow Hawk Pack
+  name: BATTLETECH - Shadow Hawk Pack
   month: October
   year: 2019
-  steam_id: 
+  steam_id: 799751
 - !ruby/object:Game
   name: Sonic Mania
   month: October
@@ -391,10 +376,10 @@
   year: 2019
   steam_id: 485030
 - !ruby/object:Game
-  name: 'Override: Mech City Brawl'
+  name: Override
   month: October
   year: 2019
-  steam_id: 
+  steam_id: 709440
 - !ruby/object:Game
   name: PUSS!
   month: October
@@ -411,15 +396,15 @@
   year: 2019
   steam_id: 476600
 - !ruby/object:Game
-  name: Crash Bandicoot N. Sane Trilogy
+  name: Crash Bandicoot™ N. Sane Trilogy
   month: November
   year: 2019
-  steam_id: 
+  steam_id: 731490
 - !ruby/object:Game
-  name: Spyro Reignited Trilogy
+  name: Spyro™ Reignited Trilogy
   month: November
   year: 2019
-  steam_id: 
+  steam_id: 996580
 - !ruby/object:Game
   name: Shenmue I & II
   month: November
@@ -431,10 +416,10 @@
   year: 2019
   steam_id: 735580
 - !ruby/object:Game
-  name: 'SYNTHETIK: Legion Rising'
+  name: SYNTHETIK
   month: November
   year: 2019
-  steam_id: 
+  steam_id: 528230
 - !ruby/object:Game
   name: Evergarden
   month: November
