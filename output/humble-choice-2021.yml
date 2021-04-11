@@ -190,3 +190,68 @@
   month: March
   year: 2021
   steam_id: 870780
+- !ruby/object:Game
+  name: Popup Dungeon
+  month: April
+  year: 2021
+  steam_id: 349730
+- !ruby/object:Game
+  name: Skully
+  month: April
+  year: 2021
+  steam_id: 1249110
+- !ruby/object:Game
+  name: Colt Canyon
+  month: April
+  year: 2021
+  steam_id: 940710
+- !ruby/object:Game
+  name: Simulacra 2
+  month: April
+  year: 2021
+  steam_id: 1011190
+- !ruby/object:Game
+  name: Simulacra
+  month: April
+  year: 2021
+  steam_id: 712730
+- !ruby/object:Game
+  name: Aven Colony
+  month: April
+  year: 2021
+  steam_id: 484900
+- !ruby/object:Game
+  name: In Other Waters
+  month: April
+  year: 2021
+  steam_id: 890720
+- !ruby/object:Game
+  name: 'Remothered: Broken Porcelain'
+  month: April
+  year: 2021
+  steam_id: 1142390
+- !ruby/object:Game
+  name: 'Rock of Ages 3: Make & Break'
+  month: April
+  year: 2021
+  steam_id: 1101360
+- !ruby/object:Game
+  name: Main Assembly
+  month: April
+  year: 2021
+  steam_id: 1078920
+- !ruby/object:Game
+  name: Shenmue III
+  month: April
+  year: 2021
+  steam_id: 878670
+- !ruby/object:Game
+  name: F1 2020
+  month: April
+  year: 2021
+  steam_id: 1080110
+- !ruby/object:Game
+  name: Sniper Ghost Warrior Contracts
+  month: April
+  year: 2021
+  steam_id: 973580
