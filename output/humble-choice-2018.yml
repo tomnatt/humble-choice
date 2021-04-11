@@ -11,15 +11,10 @@
   year: 2018
   steam_id: 474960
 - !ruby/object:Game
-  name: Warhammer 40
+  name: 'Warhammer 40,000: Dawn of War III'
   month: January
   year: 2018
-  steam_id: 
-- !ruby/object:Game
-  name: '000: Dawn of War III'
-  month: January
-  year: 2018
-  steam_id: 
+  steam_id: 285190
 - !ruby/object:Game
   name: Tomb Raider
   month: January
@@ -36,10 +31,10 @@
   year: 2018
   steam_id: 623940
 - !ruby/object:Game
-  name: Mr. Shifty
+  name: Mr Shifty
   month: January
   year: 2018
-  steam_id: 
+  steam_id: 489140
 - !ruby/object:Game
   name: Cursed Castilla (Maldita Castilla EX)
   month: January
@@ -51,10 +46,10 @@
   year: 2018
   steam_id: 289070
 - !ruby/object:Game
-  name: Life is Strange Complete Season (Episodes 1-5)
+  name: Life is Strange™
   month: February
   year: 2018
-  steam_id: 
+  steam_id: 319630
 - !ruby/object:Game
   name: Tacoma
   month: February
@@ -81,10 +76,10 @@
   year: 2018
   steam_id: 696480
 - !ruby/object:Game
-  name: Dark Souls III
+  name: Dark Souls™ III
   month: March
   year: 2018
-  steam_id: 
+  steam_id: 374320
 - !ruby/object:Game
   name: Overgrowth
   month: March
@@ -111,25 +106,25 @@
   year: 2018
   steam_id: 635320
 - !ruby/object:Game
-  name: Holy Potatoes! We're in Space?!
+  name: Holy Potatoes! We’re in Space?!
   month: March
   year: 2018
-  steam_id: 
+  steam_id: 505730
 - !ruby/object:Game
-  name: 'Deus Ex: Mankind Divided'
+  name: 'Deus Ex: Mankind Divided™'
   month: April
   year: 2018
-  steam_id: 
+  steam_id: 337000
 - !ruby/object:Game
-  name: 'GOD EATER 2: Rage Burst'
+  name: GOD EATER 2 Rage Burst
   month: April
   year: 2018
-  steam_id: 
+  steam_id: 438490
 - !ruby/object:Game
-  name: Mafia III
+  name: 'Mafia III: Definitive Edition'
   month: April
   year: 2018
-  steam_id: 
+  steam_id: 360430
 - !ruby/object:Game
   name: Outlast 2
   month: April
@@ -211,10 +206,10 @@
   year: 2018
   steam_id: 360830
 - !ruby/object:Game
-  name: Cook Serve Delicious! 2!!
+  name: Cook, Serve, Delicious! 2!!
   month: June
   year: 2018
-  steam_id: 
+  steam_id: 386620
 - !ruby/object:Game
   name: Ken Follett's The Pillars of the Earth
   month: June
@@ -251,15 +246,15 @@
   year: 2018
   steam_id: 410900
 - !ruby/object:Game
-  name: 'Titan Quest: Anniversary Edition'
+  name: Titan Quest Anniversary Edition
   month: July
   year: 2018
-  steam_id: 
+  steam_id: 475150
 - !ruby/object:Game
-  name: 'Titan Quest: Ragnarok DLC'
+  name: 'Titan Quest: Ragnarök'
   month: July
   year: 2018
-  steam_id: 
+  steam_id: 741350
 - !ruby/object:Game
   name: 'Shiness: The Lightning Kingdom'
   month: July
@@ -306,10 +301,10 @@
   year: 2018
   steam_id: 378540
 - !ruby/object:Game
-  name: Pathologic
+  name: Pathologic Classic HD
   month: August
   year: 2018
-  steam_id: 
+  steam_id: 384110
 - !ruby/object:Game
   name: Sudden Strike 4
   month: August
@@ -321,10 +316,10 @@
   year: 2018
   steam_id: 312660
 - !ruby/object:Game
-  name: Tales of Beseria
+  name: Tales of Berseria
   month: September
   year: 2018
-  steam_id: 
+  steam_id: 429660
 - !ruby/object:Game
   name: Staxel
   month: September
@@ -376,10 +371,10 @@
   year: 2018
   steam_id: 270880
 - !ruby/object:Game
-  name: Gremlins Inc.
+  name: Gremlins, Inc.
   month: October
   year: 2018
-  steam_id: 
+  steam_id: 369990
 - !ruby/object:Game
   name: Hidden Folks
   month: October
@@ -401,20 +396,20 @@
   year: 2018
   steam_id: 367520
 - !ruby/object:Game
-  name: 'HITMAN™: The Complete First Season'
+  name: HITMAN™
   month: November
   year: 2018
-  steam_id: 
+  steam_id: 236870
 - !ruby/object:Game
   name: 7 Days to Die
   month: November
   year: 2018
   steam_id: 251570
 - !ruby/object:Game
-  name: Resident Evil Revelations Unveiled Edition
+  name: Resident Evil Revelations
   month: November
   year: 2018
-  steam_id: 
+  steam_id: 222480
 - !ruby/object:Game
   name: Dead Island Definitive Edition
   month: November
@@ -446,15 +441,20 @@
   year: 2018
   steam_id: 255710
 - !ruby/object:Game
-  name: After Dark DLC
+  name: 'Cities: Skylines - After Dark'
   month: December
   year: 2018
-  steam_id: 
+  steam_id: 369150
 - !ruby/object:Game
-  name: 'METAL GEAR SOLID V: The Definitive Experience'
+  name: 'METAL GEAR SOLID V: Ground Zeroes'
   month: December
   year: 2018
-  steam_id: 
+  steam_id: 311340
+- !ruby/object:Game
+  name: 'METAL GEAR SOLID V: The Phantom Pain'
+  month: December
+  year: 2018
+  steam_id: 287700
 - !ruby/object:Game
   name: Mega Man Legacy Collection
   month: December
@@ -471,15 +471,15 @@
   year: 2018
   steam_id: 595140
 - !ruby/object:Game
-  name: Purrfect Date - Visual Novel/Dating Simulator
+  name: Purrfect Date
   month: December
   year: 2018
-  steam_id: 
+  steam_id: 520600
 - !ruby/object:Game
-  name: 'Seven: The Days Long Gone'
+  name: 'Seven: Enhanced Edition'
   month: December
   year: 2018
-  steam_id: 
+  steam_id: 471010
 - !ruby/object:Game
   name: NeuroVoider
   month: December
