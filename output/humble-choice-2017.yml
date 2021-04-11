@@ -1,10 +1,10 @@
 ---
 2017:
 - !ruby/object:Game
-  name: Warhammer The End Times Vermintide
+  name: 'Warhammer: End Times - Vermintide'
   month: January
   year: 2017
-  steam_id: 
+  steam_id: 235540
 - !ruby/object:Game
   name: Project CARS
   month: January
@@ -26,10 +26,10 @@
   year: 2017
   steam_id: 428750
 - !ruby/object:Game
-  name: Jotun
+  name: 'Jotun: Valhalla Edition'
   month: January
   year: 2017
-  steam_id: 
+  steam_id: 323580
 - !ruby/object:Game
   name: Hopiko
   month: January
@@ -46,20 +46,20 @@
   year: 2017
   steam_id: 302510
 - !ruby/object:Game
-  name: ABZU
+  name: ABZÛ
   month: February
   year: 2017
-  steam_id: 
+  steam_id: 384190
 - !ruby/object:Game
   name: SteamWorld Heist
   month: February
   year: 2017
   steam_id: 322190
 - !ruby/object:Game
-  name: Okhlos
+  name: 'Okhlos: Omega'
   month: February
   year: 2017
-  steam_id: 
+  steam_id: 400180
 - !ruby/object:Game
   name: Project Highrise
   month: February
@@ -71,10 +71,10 @@
   year: 2017
   steam_id: 553960
 - !ruby/object:Game
-  name: Total War Warhammer
+  name: 'Total War: WARHAMMER'
   month: March
   year: 2017
-  steam_id: 
+  steam_id: 364360
 - !ruby/object:Game
   name: Poly Bridge
   month: March
@@ -96,10 +96,10 @@
   year: 2017
   steam_id: 508790
 - !ruby/object:Game
-  name: 'RIVE: Wreck Hack Die Retry'
+  name: RIVE
   month: March
   year: 2017
-  steam_id: 
+  steam_id: 278100
 - !ruby/object:Game
   name: Morphblade
   month: March
@@ -111,20 +111,20 @@
   year: 2017
   steam_id: 210970
 - !ruby/object:Game
-  name: 'Layers of Fear: Masterpiece Edition'
+  name: Layers of Fear
   month: April
   year: 2017
-  steam_id: 
+  steam_id: 391720
 - !ruby/object:Game
   name: Black Mesa
   month: April
   year: 2017
   steam_id: 362890
 - !ruby/object:Game
-  name: 'Kingdom: New Lands Royal Edition'
+  name: 'Kingdom: New Lands'
   month: April
   year: 2017
-  steam_id: 
+  steam_id: 496300
 - !ruby/object:Game
   name: Event[0]
   month: April
@@ -166,10 +166,15 @@
   year: 2017
   steam_id: 373990
 - !ruby/object:Game
-  name: GoNNER - Press Jump To Die Edition
+  name: GoNNER
   month: May
   year: 2017
-  steam_id: 
+  steam_id: 437570
+- !ruby/object:Game
+  name: GoNNER OST
+  month: May
+  year: 2017
+  steam_id: 533240
 - !ruby/object:Game
   name: The Turing Test
   month: May
@@ -216,15 +221,15 @@
   year: 2017
   steam_id: 284240
 - !ruby/object:Game
-  name: 'Dark Souls II: Scholar of the First Sin'
+  name: 'DARK SOULS™ II: Scholar of the First Sin'
   month: July
   year: 2017
-  steam_id: 
+  steam_id: 335300
 - !ruby/object:Game
-  name: Galactic Civilizations III - Core Edition
+  name: Galactic Civilizations III
   month: July
   year: 2017
-  steam_id: 
+  steam_id: 226860
 - !ruby/object:Game
   name: Hyper Light Drifter
   month: July
@@ -281,25 +286,25 @@
   year: 2017
   steam_id: 448510
 - !ruby/object:Game
-  name: Wuppo
+  name: Wuppo - Definitive Edition
   month: August
   year: 2017
-  steam_id: 
+  steam_id: 400630
 - !ruby/object:Game
-  name: Nongünz
+  name: 'Nongunz: Doppelganger Edition'
   month: August
   year: 2017
-  steam_id: 
+  steam_id: 1304780
 - !ruby/object:Game
   name: Killing Floor 2
   month: September
   year: 2017
   steam_id: 232090
 - !ruby/object:Game
-  name: Banner Saga 2
+  name: The Banner Saga 2
   month: September
   year: 2017
-  steam_id: 
+  steam_id: 281640
 - !ruby/object:Game
   name: 'Momodora: Reverie Under the Moonlight'
   month: September
@@ -341,10 +346,10 @@
   year: 2017
   steam_id: 423230
 - !ruby/object:Game
-  name: 'Orwell: Keeping an Eye On You'
+  name: Orwell
   month: October
   year: 2017
-  steam_id: 
+  steam_id: 491950
 - !ruby/object:Game
   name: Seasons after Fall
   month: October
@@ -371,15 +376,15 @@
   year: 2017
   steam_id: 306130
 - !ruby/object:Game
-  name: The Elder Scrolls Legends
+  name: 'The Elder Scrolls: Legends'
   month: November
   year: 2017
-  steam_id: 
+  steam_id: 364470
 - !ruby/object:Game
-  name: Resident Evil 5 Gold Edition
+  name: Resident Evil 5
   month: November
   year: 2017
-  steam_id: 
+  steam_id: 21699
 - !ruby/object:Game
   name: 'Shadow Tactics: Blades of the Shogun'
   month: November
@@ -406,10 +411,10 @@
   year: 2017
   steam_id: 530020
 - !ruby/object:Game
-  name: H1Z1
+  name: Z1 Battle Royale
   month: December
   year: 2017
-  steam_id: 
+  steam_id: 433850
 - !ruby/object:Game
   name: Rivals of Aether
   month: December
@@ -431,10 +436,10 @@
   year: 2017
   steam_id: 552590
 - !ruby/object:Game
-  name: 'STRAFE: Millennium Edition'
+  name: 'STRAFE: Gold Edition'
   month: December
   year: 2017
-  steam_id: 
+  steam_id: 442780
 - !ruby/object:Game
   name: 'Passpartout: The Starving Artist'
   month: December

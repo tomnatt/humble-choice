@@ -1,15 +1,15 @@
 ---
 2020:
 - !ruby/object:Game
-  name: 1 DLC
+  name: Artifex Car Pack
   month: January
   year: 2020
-  steam_id: 
+  steam_id: 1087830
 - !ruby/object:Game
-  name: GRIP
+  name: 'GRIP: Combat Racing'
   month: January
   year: 2020
-  steam_id: 
+  steam_id: 396900
 - !ruby/object:Game
   name: Mages of Mystralia
   month: January
@@ -36,20 +36,20 @@
   year: 2020
   steam_id: 585420
 - !ruby/object:Game
-  name: 'Bad North: Jotunn Edition'
+  name: Bad North
   month: January
   year: 2020
-  steam_id: 
+  steam_id: 688420
 - !ruby/object:Game
   name: Street Fighter V
   month: January
   year: 2020
   steam_id: 310950
 - !ruby/object:Game
-  name: 3 DLCs
+  name: DiRT Rally 2.0 - Opel Manta 400
   month: January
   year: 2020
-  steam_id: 
+  steam_id: 1004960
 - !ruby/object:Game
   name: DiRT Rally 2.0
   month: January
@@ -121,15 +121,15 @@
   year: 2020
   steam_id: 449960
 - !ruby/object:Game
-  name: 'Pathfinder: Kingmaker Explorer Edition'
+  name: 'Pathfinder: Kingmaker'
   month: February
   year: 2020
-  steam_id: 
+  steam_id: 640820
 - !ruby/object:Game
-  name: 1 DLC
+  name: 'Frostpunk: The Rifts'
   month: February
   year: 2020
-  steam_id: 
+  steam_id: 1125020
 - !ruby/object:Game
   name: Frostpunk
   month: February
@@ -181,15 +181,15 @@
   year: 2020
   steam_id: 699170
 - !ruby/object:Game
-  name: F1 2019 Anniversary Edition
+  name: F1 2019
   month: March
   year: 2020
-  steam_id: 
+  steam_id: 928600
 - !ruby/object:Game
-  name: 1 DLC
+  name: Planet Coaster - World's Fair Pack
   month: March
   year: 2020
-  steam_id: 
+  steam_id: 953660
 - !ruby/object:Game
   name: Planet Coaster
   month: March
@@ -216,10 +216,10 @@
   year: 2020
   steam_id: 1091980
 - !ruby/object:Game
-  name: Trüberbrook
+  name: Truberbrook
   month: April
   year: 2020
-  steam_id: 
+  steam_id: 757300
 - !ruby/object:Game
   name: 'Turok 2: Seeds of Evil'
   month: April
@@ -256,10 +256,10 @@
   year: 2020
   steam_id: 683320
 - !ruby/object:Game
-  name: HITMAN 2
+  name: HITMAN™ 2
   month: April
   year: 2020
-  steam_id: 
+  steam_id: 863550
 - !ruby/object:Game
   name: Horace
   month: May
@@ -296,15 +296,10 @@
   year: 2020
   steam_id: 619780
 - !ruby/object:Game
-  name: '000: Gladius - Relics of War'
+  name: 'Warhammer 40,000: Gladius - Relics of War'
   month: May
   year: 2020
-  steam_id: 
-- !ruby/object:Game
-  name: Warhammer 40
-  month: May
-  year: 2020
-  steam_id: 
+  steam_id: 489630
 - !ruby/object:Game
   name: Niche - a genetics survival game
   month: May
@@ -316,20 +311,25 @@
   year: 2020
   steam_id: 671440
 - !ruby/object:Game
-  name: 2 DLC
+  name: 'XCOM 2: Reinforcement Pack'
   month: May
   year: 2020
-  steam_id: 
+  steam_id: 426321
 - !ruby/object:Game
-  name: XCOM® 2
+  name: 'XCOM 2: Resistance Warrior Pack'
   month: May
   year: 2020
-  steam_id: 
+  steam_id: 399620
 - !ruby/object:Game
-  name: 1 DLC
+  name: XCOM 2
   month: May
   year: 2020
-  steam_id: 
+  steam_id: 268500
+- !ruby/object:Game
+  name: Jurassic World Evolution - Deluxe DLC
+  month: May
+  year: 2020
+  steam_id: 817550
 - !ruby/object:Game
   name: Jurassic World Evolution
   month: May
@@ -361,10 +361,35 @@
   year: 2020
   steam_id: 779290
 - !ruby/object:Game
-  name: 'Men of War: Assault Squad 2 - War Chest Edition'
+  name: 'Assault Squad 2: Men of War Origins'
   month: June
   year: 2020
-  steam_id: 
+  steam_id: 274440
+- !ruby/object:Game
+  name: 'Men of War: Assault Squad 2 - Ostfront Veteranen'
+  month: June
+  year: 2020
+  steam_id: 920840
+- !ruby/object:Game
+  name: 'Men of War: Assault Squad 2 - Airborne'
+  month: June
+  year: 2020
+  steam_id: 357760
+- !ruby/object:Game
+  name: 'Men of War: Assault Squad 2 - Iron Fist'
+  month: June
+  year: 2020
+  steam_id: 327130
+- !ruby/object:Game
+  name: 'Men of War: Assault Squad 2 - Deluxe Edition content'
+  month: June
+  year: 2020
+  steam_id: 271850
+- !ruby/object:Game
+  name: 'Men of War: Assault Squad 2'
+  month: June
+  year: 2020
+  steam_id: 244450
 - !ruby/object:Game
   name: Felix The Reaper
   month: June
@@ -386,10 +411,10 @@
   year: 2020
   steam_id: 414340
 - !ruby/object:Game
-  name: GRID Ultimate Edition
+  name: GRID (2019)
   month: June
   year: 2020
-  steam_id: 
+  steam_id: 703860
 - !ruby/object:Game
   name: Supraland
   month: June
@@ -421,20 +446,20 @@
   year: 2020
   steam_id: 1173200
 - !ruby/object:Game
-  name: 'Sigma Theory: Global Cold War'
+  name: Sigma Theory
   month: July
   year: 2020
-  steam_id: 
+  steam_id: 716640
 - !ruby/object:Game
   name: Beat Hazard 2
   month: July
   year: 2020
   steam_id: 618740
 - !ruby/object:Game
-  name: Yuppie Psycho ($16.66)
+  name: Yuppie Psycho
   month: July
   year: 2020
-  steam_id: 
+  steam_id: 597760
 - !ruby/object:Game
   name: Battlestar Galactica Deadlock
   month: July
@@ -451,10 +476,15 @@
   year: 2020
   steam_id: 857980
 - !ruby/object:Game
-  name: 'Age of Wonders: Planetfall Deluxe Edition'
+  name: 'Age of Wonders: Planetfall Deluxe Edition Content Pack'
   month: July
   year: 2020
-  steam_id: 
+  steam_id: 1078840
+- !ruby/object:Game
+  name: 'Age of Wonders: Planetfall'
+  month: July
+  year: 2020
+  steam_id: 718850
 - !ruby/object:Game
   name: A Case of Distrust
   month: August
@@ -541,10 +571,10 @@
   year: 2020
   steam_id: 846870
 - !ruby/object:Game
-  name: 'Evoland: Legendary Edition'
+  name: Evoland Legendary Edition
   month: September
   year: 2020
-  steam_id: 
+  steam_id: 1020470
 - !ruby/object:Game
   name: Strange Brigade
   month: September
@@ -571,20 +601,20 @@
   year: 2020
   steam_id: 751780
 - !ruby/object:Game
-  name: Generation Zero
+  name: Generation Zero®
   month: September
   year: 2020
-  steam_id: 
+  steam_id: 704270
 - !ruby/object:Game
-  name: OST
+  name: Golf With Your Friends - Caddy Pack
   month: September
   year: 2020
-  steam_id: 
+  steam_id: 1277570
 - !ruby/object:Game
-  name: Caddypack DLC
+  name: Golf With Your Friends - OST
   month: September
   year: 2020
-  steam_id: 
+  steam_id: 564170
 - !ruby/object:Game
   name: Golf with Your Friends
   month: September
@@ -636,25 +666,25 @@
   year: 2020
   steam_id: 899310
 - !ruby/object:Game
-  name: Sunless Sea)
+  name: Sunless Sea
   month: October
   year: 2020
-  steam_id: 
+  steam_id: 304650
 - !ruby/object:Game
-  name: Sunless Bundle (Sunless Skies
+  name: Sunless Skies
   month: October
   year: 2020
-  steam_id: 
+  steam_id: 596970
 - !ruby/object:Game
   name: Fae Tactics
   month: October
   year: 2020
   steam_id: 995980
 - !ruby/object:Game
-  name: Tropico 6 - El Prez Edition
+  name: Tropico 6 El Prez Edition Pack
   month: October
   year: 2020
-  steam_id: 
+  steam_id: 881960
 - !ruby/object:Game
   name: Townsmen - A Kingdom Rebuilt
   month: November
@@ -781,15 +811,15 @@
   year: 2020
   steam_id: 330020
 - !ruby/object:Game
-  name: Surf 'N' Turf Pack
+  name: Overcooked! 2 - Surf 'n' Turf
   month: December
   year: 2020
-  steam_id: 
+  steam_id: 909720
 - !ruby/object:Game
-  name: Too Many Cooks
+  name: Overcooked! 2 - Too Many Cooks Pack
   month: December
   year: 2020
-  steam_id: 
+  steam_id: 858240
 - !ruby/object:Game
   name: Overcooked! 2
   month: December

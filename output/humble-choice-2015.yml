@@ -1,10 +1,10 @@
 ---
 2015:
 - !ruby/object:Game
-  name: Legend of Grimrock II
+  name: Legend of Grimrock 2
   month: November
   year: 2015
-  steam_id: 
+  steam_id: 251730
 - !ruby/object:Game
   name: Saints Row IV
   month: November
@@ -16,10 +16,10 @@
   year: 2015
   steam_id: 346010
 - !ruby/object:Game
-  name: Valkyria Chronicles
+  name: Valkyria Chronicles™
   month: November
   year: 2015
-  steam_id: 
+  steam_id: 294860
 - !ruby/object:Game
   name: Lethal League
   month: November
@@ -61,10 +61,10 @@
   year: 2015
   steam_id: 218620
 - !ruby/object:Game
-  name: NEON STRUCT Deluxe Edition
+  name: NEON STRUCT
   month: December
   year: 2015
-  steam_id: 
+  steam_id: 310740
 - !ruby/object:Game
   name: Chroma Squad
   month: December

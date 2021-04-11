@@ -31,15 +31,15 @@
   year: 2016
   steam_id: 239350
 - !ruby/object:Game
-  name: Fistful of Gun
+  name: A Fistful of Gun
   month: January
   year: 2016
-  steam_id: 
+  steam_id: 229810
 - !ruby/object:Game
-  name: Alien Isolation
+  name: 'Alien: Isolation'
   month: February
   year: 2016
-  steam_id: 
+  steam_id: 214490
 - !ruby/object:Game
   name: Titan Souls
   month: February
@@ -66,15 +66,15 @@
   year: 2016
   steam_id: 274350
 - !ruby/object:Game
-  name: ARK Survival Evolved
+  name: 'ARK: Survival Evolved'
   month: March
   year: 2016
-  steam_id: 
+  steam_id: 346110
 - !ruby/object:Game
-  name: 'Wasteland 2: Director''s Cut - Classic Edition'
+  name: 'Wasteland 2: Director''s Cut'
   month: March
   year: 2016
-  steam_id: 
+  steam_id: 404730
 - !ruby/object:Game
   name: GRAV
   month: March
@@ -106,10 +106,10 @@
   year: 2016
   steam_id: 282070
 - !ruby/object:Game
-  name: South Park the Stick of Truth
+  name: 'South Park™: The Stick of Truth™'
   month: April
   year: 2016
-  steam_id: 
+  steam_id: 213670
 - !ruby/object:Game
   name: Nuclear Throne
   month: April
@@ -131,15 +131,15 @@
   year: 2016
   steam_id: 323380
 - !ruby/object:Game
-  name: Super Avalanche
+  name: 'Avalanche 2: Super Avalanche'
   month: April
   year: 2016
-  steam_id: 
+  steam_id: 351250
 - !ruby/object:Game
-  name: Stickbold! A Dodgeball Adventure
+  name: Stikbold!
   month: April
   year: 2016
-  steam_id: 
+  steam_id: 429330
 - !ruby/object:Game
   name: MAD MAX
   month: May
@@ -201,10 +201,10 @@
   year: 2016
   steam_id: 341800
 - !ruby/object:Game
-  name: Dungeon of the Endless - Crystal Edition
+  name: Dungeon of the Endless™
   month: June
   year: 2016
-  steam_id: 
+  steam_id: 249050
 - !ruby/object:Game
   name: Steredenn
   month: June
@@ -251,25 +251,25 @@
   year: 2016
   steam_id: 486040
 - !ruby/object:Game
-  name: 'Call of Duty: Black Ops III - Multiplayer Starter Pack'
+  name: 'Call of Duty: Black Ops III - Multiplayer'
   month: August
   year: 2016
-  steam_id: 
+  steam_id: 366841
 - !ruby/object:Game
-  name: The Incredible Adventures of Van Helsing Final Cut
+  name: 'The Incredible Adventures of Van Helsing: Final Cut'
   month: August
   year: 2016
-  steam_id: 
+  steam_id: 400170
 - !ruby/object:Game
   name: The Jackbox Party Pack 2
   month: August
   year: 2016
   steam_id: 397460
 - !ruby/object:Game
-  name: Poi (Early Access)
+  name: Poi
   month: August
   year: 2016
-  steam_id: 
+  steam_id: 401810
 - !ruby/object:Game
   name: Planet of the Eyes
   month: August
@@ -321,10 +321,10 @@
   year: 2016
   steam_id: 219990
 - !ruby/object:Game
-  name: Slime Rancher (Early Access)
+  name: Slime Rancher
   month: October
   year: 2016
-  steam_id: 
+  steam_id: 433340
 - !ruby/object:Game
   name: 'Hotline Miami 2: Wrong Number'
   month: October
@@ -386,15 +386,15 @@
   year: 2016
   steam_id: 487350
 - !ruby/object:Game
-  name: 'Dragon''s Dogma: Dark Ariser'
+  name: 'Dragon''s Dogma: Dark Arisen'
   month: December
   year: 2016
-  steam_id: 
+  steam_id: 367500
 - !ruby/object:Game
-  name: 'The Escapists: Supermax Edition'
+  name: The Escapists
   month: December
   year: 2016
-  steam_id: 
+  steam_id: 298630
 - !ruby/object:Game
   name: 'Mordheim: City of the Damned'
   month: December
