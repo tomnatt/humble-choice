@@ -255,3 +255,63 @@
   month: April
   year: 2021
   steam_id: 973580
+- !ruby/object:Game
+  name: Vane
+  month: May
+  year: 2021
+  steam_id: 1063310
+- !ruby/object:Game
+  name: Family Man
+  month: May
+  year: 2021
+  steam_id: 904360
+- !ruby/object:Game
+  name: Retimed
+  month: May
+  year: 2021
+  steam_id: 760810
+- !ruby/object:Game
+  name: Relicta
+  month: May
+  year: 2021
+  steam_id: 941570
+- !ruby/object:Game
+  name: Morkredd
+  month: May
+  year: 2021
+  steam_id: 1331910
+- !ruby/object:Game
+  name: Size Matters
+  month: May
+  year: 2021
+  steam_id: 976700
+- !ruby/object:Game
+  name: Fury Unleashed
+  month: May
+  year: 2021
+  steam_id: 465200
+- !ruby/object:Game
+  name: Levelhead
+  month: May
+  year: 2021
+  steam_id: 792710
+- !ruby/object:Game
+  name: Cook, Serve, Delicious! 3?!
+  month: May
+  year: 2021
+  steam_id: 1000030
+- !ruby/object:Game
+  name: Hellpoint
+  month: May
+  year: 2021
+  steam_id: 628670
+- !ruby/object:Game
+  name: Darksiders Genesis
+  month: May
+  year: 2021
+  steam_id: 710920
+- !ruby/object:Game
+  name: Metro Exodus
+  month: May
+  year: 2021
+  steam_id: 412020
