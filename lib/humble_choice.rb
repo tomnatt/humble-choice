@@ -1,4 +1,5 @@
 require 'csv'
+require 'google_drive'
 require 'yaml'
 require_relative './game'
 
@@ -6,22 +7,29 @@ class HumbleChoice
   attr_reader :output
 
   def initialize
-    @humble_present = 'data/humble-choice-2019-present.csv'
+    # TODO: improve this
+    session = GoogleDrive::Session.from_service_account_key('keys/humble-choice-25629b26b6b6.json')
+
+    # Get the sheet:
+    # https://docs.google.com/spreadsheets/d/1VZHuYi0OB6kc9Ma31RG57S7GqX2ND3Gk3FFfgDkToIk/edit#gid=142401517
+    @worksheet = session.spreadsheet_by_key('1VZHuYi0OB6kc9Ma31RG57S7GqX2ND3Gk3FFfgDkToIk').worksheets.last
     @output = {}
 
     read_choice_data
   end
 
   def read_choice_data
-    CSV.read(@humble_present, { headers: true }).each do |row|
-      date = Date.parse(row['Month'])
+    # Spreadsheet in format [ Month, Game ]
+    # Skip first row (contains headers)
+    @worksheet.rows.drop(1).each do |row|
+      date = Date.parse(row[0])
       year = date.year
       month = date.strftime('%B')
 
       next if year == 2019
 
       games = []
-      split_game_list(row['Game'], games)
+      split_game_list(row[1], games)
 
       create_game_objects(games, month, year)
     end
