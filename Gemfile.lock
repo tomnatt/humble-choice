@@ -74,6 +74,8 @@ GEM
       unicode-display_width (>= 1.4.0, < 3.0)
     rubocop-ast (1.4.1)
       parser (>= 2.7.1.5)
+    rubocop-rake (0.5.1)
+      rubocop
     ruby-progressbar (1.11.0)
     ruby2_keywords (0.0.4)
     signet (0.15.0)
@@ -93,6 +95,7 @@ DEPENDENCIES
   google_drive
   rake
   rubocop
+  rubocop-rake
 
 RUBY VERSION
    ruby 2.7.2p137
