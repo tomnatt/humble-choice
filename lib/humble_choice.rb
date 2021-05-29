@@ -7,8 +7,7 @@ class HumbleChoice
   attr_reader :output
 
   def initialize
-    # TODO: improve this
-    session = GoogleDrive::Session.from_service_account_key('keys/humble-choice-25629b26b6b6.json')
+    session = GoogleDrive::Session.from_service_account_key(ENV['HUMBLE_CHOICE_SERVICE_ACCOUNT_KEY'])
 
     # Get the sheet:
     # https://docs.google.com/spreadsheets/d/1VZHuYi0OB6kc9Ma31RG57S7GqX2ND3Gk3FFfgDkToIk/edit#gid=142401517
