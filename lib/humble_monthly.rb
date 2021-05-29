@@ -1,4 +1,5 @@
 require 'csv'
+require 'google_drive'
 require 'yaml'
 require_relative './game'
 
@@ -6,21 +7,27 @@ class HumbleMonthly
   attr_reader :output
 
   def initialize
-    @humble_montly = 'data/humble-choice-2015-2019.csv'
+    session = GoogleDrive::Session.from_service_account_key(ENV['HUMBLE_CHOICE_SERVICE_ACCOUNT_KEY'])
+
+    # Get the sheet:
+    # https://docs.google.com/spreadsheets/d/1VZHuYi0OB6kc9Ma31RG57S7GqX2ND3Gk3FFfgDkToIk/edit#gid=142401517
+    @worksheet = session.spreadsheet_by_key('1VZHuYi0OB6kc9Ma31RG57S7GqX2ND3Gk3FFfgDkToIk').worksheets.first
     @output = {}
 
     read_monthly_data
   end
 
   def read_monthly_data
-    CSV.read(@humble_montly, { headers: true }).each do |row|
-      date = Date.parse(row['Month'])
+    # Spreadsheet in format [ Month, Game, More Games ]
+    # Skip first row (contains headers)
+    @worksheet.rows.drop(1).each do |row|
+      date = Date.parse(row[0])
       year = date.year
       month = date.strftime('%B')
 
       games = []
-      split_game_list(row['Game'], games)
-      split_game_list(row['More games'], games)
+      split_game_list(row[1], games)
+      split_game_list(row[2], games)
 
       create_game_objects(games, month, year)
     end

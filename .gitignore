@@ -1,4 +1,5 @@
 # Project ignores
+keys/
 
 # Ruby directories
 *.gem
