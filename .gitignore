@@ -1,5 +1,5 @@
 # Project ignores
-keys/*.json
+keys/
 
 # Ruby directories
 *.gem
