@@ -315,3 +315,110 @@
   month: May
   year: 2021
   steam_id: 412020
+- !ruby/object:Game
+  name: Disjunction
+  month: June
+  year: 2021
+  steam_id: 979310
+- !ruby/object:Game
+  name: Effie
+  month: June
+  year: 2021
+  steam_id: 975950
+- !ruby/object:Game
+  name: Paw Paw Paw
+  month: June
+  year: 2021
+  steam_id: 1037910
+- !ruby/object:Game
+  name: Ikenfell
+  month: June
+  year: 2021
+  steam_id: 854940
+- !ruby/object:Game
+  name: Desolate
+  month: June
+  year: 2021
+  steam_id: 671510
+- !ruby/object:Game
+  name: Milky Way Prince – The Vampire Star
+  month: June
+  year: 2021
+  steam_id: 1302050
+- !ruby/object:Game
+  name: Panzer Paladin
+  month: June
+  year: 2021
+  steam_id: 975510
+- !ruby/object:Game
+  name: Going Under
+  month: June
+  year: 2021
+  steam_id: 1154810
+- !ruby/object:Game
+  name: Worms Rumble - Legends Pack
+  month: June
+  year: 2021
+  steam_id: 1440191
+- !ruby/object:Game
+  name: Worms Rumble
+  month: June
+  year: 2021
+  steam_id: 1186040
+- !ruby/object:Game
+  name: Stubbs The Zombie In Rebel Without A Pulse
+  month: June
+  year: 2021
+  steam_id: 7800
+- !ruby/object:Game
+  name: Secret Neighbor
+  month: June
+  year: 2021
+  steam_id: 859570
+- !ruby/object:Game
+  name: 'Sid Meier''s Civilization® VI: Khmer and Indonesia Civilization & Scenario
+    Pack'
+  month: June
+  year: 2021
+  steam_id: 645401
+- !ruby/object:Game
+  name: 'Sid Meier''s Civilization® VI: Nubia Civilization & Scenario Pack'
+  month: June
+  year: 2021
+  steam_id: 645400
+- !ruby/object:Game
+  name: 'Sid Meier''s Civilization® VI: Persia and Macedon Civilization & Scenario
+    Pack'
+  month: June
+  year: 2021
+  steam_id: 512035
+- !ruby/object:Game
+  name: 'Sid Meier''s Civilization® VI: Australia Civilization & Scenario Pack'
+  month: June
+  year: 2021
+  steam_id: 512034
+- !ruby/object:Game
+  name: 'Sid Meier''s Civilization® VI: Poland Civilization & Scenario Pack'
+  month: June
+  year: 2021
+  steam_id: 512033
+- !ruby/object:Game
+  name: 'Sid Meier''s Civilization® VI: Vikings Scenario Pack'
+  month: June
+  year: 2021
+  steam_id: 512032
+- !ruby/object:Game
+  name: 'Sid Meier''s Civilization® VI: Gathering Storm'
+  month: June
+  year: 2021
+  steam_id: 947510
+- !ruby/object:Game
+  name: 'Sid Meier''s Civilization® VI: Rise and Fall'
+  month: June
+  year: 2021
+  steam_id: 645402
+- !ruby/object:Game
+  name: Sid Meier's Civilization VI
+  month: June
+  year: 2021
+  steam_id: 289070
