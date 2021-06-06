@@ -552,3 +552,63 @@
   year: 2019
   humble_scheme: monthly
   steam_id: 834530
+- !ruby/object:Game
+  name: Desert Child
+  month: December
+  year: 2019
+  humble_scheme: choice
+  steam_id: 844050
+- !ruby/object:Game
+  name: Aegis Defenders
+  month: December
+  year: 2019
+  humble_scheme: choice
+  steam_id: 371140
+- !ruby/object:Game
+  name: 'X-Morph: Defense'
+  month: December
+  year: 2019
+  humble_scheme: choice
+  steam_id: 408410
+- !ruby/object:Game
+  name: 'Dark Future: Blood Red States'
+  month: December
+  year: 2019
+  humble_scheme: choice
+  steam_id: 370870
+- !ruby/object:Game
+  name: Horizon Chase Turbo
+  month: December
+  year: 2019
+  humble_scheme: choice
+  steam_id: 389140
+- !ruby/object:Game
+  name: Dead In Vinland
+  month: December
+  year: 2019
+  humble_scheme: choice
+  steam_id: 573120
+- !ruby/object:Game
+  name: Phantom Doctrine
+  month: December
+  year: 2019
+  humble_scheme: choice
+  steam_id: 559100
+- !ruby/object:Game
+  name: Ancestors Legacy
+  month: December
+  year: 2019
+  humble_scheme: choice
+  steam_id: 620590
+- !ruby/object:Game
+  name: Blasphemous
+  month: December
+  year: 2019
+  humble_scheme: choice
+  steam_id: 774361
+- !ruby/object:Game
+  name: Shadow of the Tomb Raider
+  month: December
+  year: 2019
+  humble_scheme: choice
+  steam_id: 750920

@@ -25,8 +25,6 @@ class HumbleChoice
       year = date.year
       month = date.strftime('%B')
 
-      next if year == 2019
-
       games = split_game_list(row[1])
       create_game_objects(games, month, year, 'choice')
     end

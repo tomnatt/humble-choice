@@ -19,7 +19,8 @@ class HumbleChoiceGenerator
   def generate_list
     monthly = HumbleMonthly.new
     choice = HumbleChoice.new
-    @game_list = monthly.output.merge(choice.output)
+    # Merge Monthly and Choice lists - on overlap, merge the clashing arrays
+    @game_list = monthly.output.merge(choice.output) { |_y, m, c| m.concat(c) }
   end
 
   # Populate Steam Ids
