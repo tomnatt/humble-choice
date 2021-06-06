@@ -30,6 +30,11 @@ class HumbleMonthly
 
       create_game_objects(games, month, year)
     end
+    reverse_years
+  end
+
+  def reverse_years
+    @output.each_key { |year| @output[year].reverse! }
   end
 
   def split_game_list(list, games)
