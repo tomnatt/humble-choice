@@ -56,12 +56,7 @@ class HumbleChoice
     games_list.delete_prefix!('[')
 
     # Split by the common delimeters
-    games = split_on_common_delimeters(games_list)
-
-    # Remove costs and split on commas
-    remove_costs_split_on_commas(games)
-
-    games
+    split_on_common_delimeters(games_list)
   end
 
   def split_on_common_delimeters(games_list)
@@ -78,19 +73,5 @@ class HumbleChoice
     end
 
     games
-  end
-
-  def remove_costs_split_on_commas(games)
-    games.each_with_index do |g, index|
-      case g
-      when / \(\$\d+\),/
-        g.gsub!(/ \(\$\d+\)/, '')
-        games[index] = g.split(',').map(&:strip)
-        games.flatten!
-
-      when / \(\$\d+\)/
-        games[index] = g.gsub(/ \(\$\d+\)/, '')
-      end
-    end
   end
 end
