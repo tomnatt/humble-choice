@@ -1,5 +1,4 @@
-require_relative './humble_monthly'
-require_relative './humble_choice'
+require_relative './humble_data'
 require_relative './game'
 require_relative './steam_ids'
 
@@ -17,9 +16,8 @@ class HumbleChoiceGenerator
 
   # Generate game list
   def generate_list
-    monthly = HumbleMonthly.new
-    choice = HumbleChoice.new
-    @game_list = monthly.output.merge(choice.output)
+    humble_data = HumbleData.new
+    @game_list = humble_data.output
   end
 
   # Populate Steam Ids
