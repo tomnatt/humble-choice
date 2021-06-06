@@ -1,4 +1,5 @@
 # Project ignores
+test.rb
 keys/
 
 # Ruby directories
