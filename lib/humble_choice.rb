@@ -28,7 +28,7 @@ class HumbleChoice
       next if year == 2019
 
       games = split_game_list(row[1])
-      create_game_objects(games, month, year)
+      create_game_objects(games, month, year, 'choice')
     end
     reverse_years
   end
@@ -44,10 +44,10 @@ class HumbleChoice
     games
   end
 
-  def create_game_objects(games, month, year)
+  def create_game_objects(games, month, year, scheme)
     @output[year] = [] unless @output[year]
     games.each do |game|
-      @output[year] << Game.new(game, month, year) unless game.empty?
+      @output[year] << Game.new(game, month, year, scheme) unless game.empty?
     end
   end
 

@@ -4,824 +4,989 @@
   name: Artifex Car Pack
   month: January
   year: 2020
-  steam_id: 1087830
+  humble_scheme: choice
+  steam_id: 
 - !ruby/object:Game
   name: 'GRIP: Combat Racing'
   month: January
   year: 2020
-  steam_id: 396900
+  humble_scheme: choice
+  steam_id: 
 - !ruby/object:Game
   name: Mages of Mystralia
   month: January
   year: 2020
-  steam_id: 529660
+  humble_scheme: choice
+  steam_id: 
 - !ruby/object:Game
   name: Them's Fightin' Herds
   month: January
   year: 2020
-  steam_id: 574980
+  humble_scheme: choice
+  steam_id: 
 - !ruby/object:Game
   name: Whispers of a Machine
   month: January
   year: 2020
-  steam_id: 631570
+  humble_scheme: choice
+  steam_id: 
 - !ruby/object:Game
   name: Unrailed!
   month: January
   year: 2020
-  steam_id: 1016920
+  humble_scheme: choice
+  steam_id: 
 - !ruby/object:Game
   name: Trailmakers
   month: January
   year: 2020
-  steam_id: 585420
+  humble_scheme: choice
+  steam_id: 
 - !ruby/object:Game
   name: Bad North
   month: January
   year: 2020
-  steam_id: 688420
+  humble_scheme: choice
+  steam_id: 
 - !ruby/object:Game
   name: Street Fighter V
   month: January
   year: 2020
-  steam_id: 310950
+  humble_scheme: choice
+  steam_id: 
 - !ruby/object:Game
   name: DiRT Rally 2.0 - Opel Manta 400
   month: January
   year: 2020
-  steam_id: 1004960
+  humble_scheme: choice
+  steam_id: 
 - !ruby/object:Game
   name: DiRT Rally 2.0
   month: January
   year: 2020
-  steam_id: 690790
+  humble_scheme: choice
+  steam_id: 
 - !ruby/object:Game
   name: Two Point Hospital
   month: January
   year: 2020
-  steam_id: 535930
+  humble_scheme: choice
+  steam_id: 
 - !ruby/object:Game
   name: Graveyard Keeper
   month: January
   year: 2020
-  steam_id: 599140
+  humble_scheme: choice
+  steam_id: 
 - !ruby/object:Game
   name: 'Middle-earth™: Shadow of War™'
   month: January
   year: 2020
-  steam_id: 356190
+  humble_scheme: choice
+  steam_id: 
 - !ruby/object:Game
   name: Night Call
   month: February
   year: 2020
-  steam_id: 680380
+  humble_scheme: choice
+  steam_id: 
 - !ruby/object:Game
   name: Underhero
   month: February
   year: 2020
-  steam_id: 573320
+  humble_scheme: choice
+  steam_id: 
 - !ruby/object:Game
   name: Warstone TD
   month: February
   year: 2020
-  steam_id: 562500
+  humble_scheme: choice
+  steam_id: 
 - !ruby/object:Game
   name: The Hex
   month: February
   year: 2020
-  steam_id: 510420
+  humble_scheme: choice
+  steam_id: 
 - !ruby/object:Game
   name: Project Warlock
   month: February
   year: 2020
-  steam_id: 893680
+  humble_scheme: choice
+  steam_id: 
 - !ruby/object:Game
   name: SHENZHEN I/O
   month: February
   year: 2020
-  steam_id: 504210
+  humble_scheme: choice
+  steam_id: 
 - !ruby/object:Game
   name: Eliza
   month: February
   year: 2020
-  steam_id: 716500
+  humble_scheme: choice
+  steam_id: 
 - !ruby/object:Game
   name: Okami HD
   month: February
   year: 2020
-  steam_id: 587620
+  humble_scheme: choice
+  steam_id: 
 - !ruby/object:Game
   name: CryoFall
   month: February
   year: 2020
-  steam_id: 829590
+  humble_scheme: choice
+  steam_id: 
 - !ruby/object:Game
   name: Book of Demons
   month: February
   year: 2020
-  steam_id: 449960
+  humble_scheme: choice
+  steam_id: 
 - !ruby/object:Game
   name: 'Pathfinder: Kingmaker'
   month: February
   year: 2020
-  steam_id: 640820
+  humble_scheme: choice
+  steam_id: 
 - !ruby/object:Game
   name: 'Frostpunk: The Rifts'
   month: February
   year: 2020
-  steam_id: 1125020
+  humble_scheme: choice
+  steam_id: 
 - !ruby/object:Game
   name: Frostpunk
   month: February
   year: 2020
-  steam_id: 323190
+  humble_scheme: choice
+  steam_id: 
 - !ruby/object:Game
   name: Etherborn
   month: March
   year: 2020
-  steam_id: 812160
+  humble_scheme: choice
+  steam_id: 
 - !ruby/object:Game
   name: AI War 2
   month: March
   year: 2020
-  steam_id: 573410
+  humble_scheme: choice
+  steam_id: 
 - !ruby/object:Game
   name: Niffelheim
   month: March
   year: 2020
-  steam_id: 351100
+  humble_scheme: choice
+  steam_id: 
 - !ruby/object:Game
   name: 198X
   month: March
   year: 2020
-  steam_id: 1086010
+  humble_scheme: choice
+  steam_id: 
 - !ruby/object:Game
   name: Death's Gambit
   month: March
   year: 2020
-  steam_id: 356650
+  humble_scheme: choice
+  steam_id: 
 - !ruby/object:Game
   name: Turok
   month: March
   year: 2020
-  steam_id: 405820
+  humble_scheme: choice
+  steam_id: 
 - !ruby/object:Game
   name: EXAPUNKS
   month: March
   year: 2020
-  steam_id: 716490
+  humble_scheme: choice
+  steam_id: 
 - !ruby/object:Game
   name: 'Battle Chasers: Nightwar'
   month: March
   year: 2020
-  steam_id: 451020
+  humble_scheme: choice
+  steam_id: 
 - !ruby/object:Game
   name: 'Fell Seal: Arbiter''s Mark'
   month: March
   year: 2020
-  steam_id: 699170
+  humble_scheme: choice
+  steam_id: 
 - !ruby/object:Game
   name: F1 2019
   month: March
   year: 2020
-  steam_id: 928600
+  humble_scheme: choice
+  steam_id: 
 - !ruby/object:Game
   name: Planet Coaster - World's Fair Pack
   month: March
   year: 2020
-  steam_id: 953660
+  humble_scheme: choice
+  steam_id: 
 - !ruby/object:Game
   name: Planet Coaster
   month: March
   year: 2020
-  steam_id: 493340
+  humble_scheme: choice
+  steam_id: 
 - !ruby/object:Game
   name: My Friend Pedro
   month: March
   year: 2020
-  steam_id: 557340
+  humble_scheme: choice
+  steam_id: 
 - !ruby/object:Game
   name: Capitalism 2
   month: April
   year: 2020
-  steam_id: 638200
+  humble_scheme: choice
+  steam_id: 
 - !ruby/object:Game
   name: Shoppe Keep 2
   month: April
   year: 2020
-  steam_id: 684580
+  humble_scheme: choice
+  steam_id: 
 - !ruby/object:Game
   name: 'The Bard''s Tale IV: Director''s Cut'
   month: April
   year: 2020
-  steam_id: 1091980
+  humble_scheme: choice
+  steam_id: 
 - !ruby/object:Game
   name: Truberbrook
   month: April
   year: 2020
-  steam_id: 757300
+  humble_scheme: choice
+  steam_id: 
 - !ruby/object:Game
   name: 'Turok 2: Seeds of Evil'
   month: April
   year: 2020
-  steam_id: 405830
+  humble_scheme: choice
+  steam_id: 
 - !ruby/object:Game
   name: 'Driftland: The Magic Revival'
   month: April
   year: 2020
-  steam_id: 718650
+  humble_scheme: choice
+  steam_id: 
 - !ruby/object:Game
   name: 'Raiden V: Director''s Cut'
   month: April
   year: 2020
-  steam_id: 570050
+  humble_scheme: choice
+  steam_id: 
 - !ruby/object:Game
   name: MOLEK-SYNTEZ
   month: April
   year: 2020
-  steam_id: 1168880
+  humble_scheme: choice
+  steam_id: 
 - !ruby/object:Game
   name: Opus Magnum
   month: April
   year: 2020
-  steam_id: 558990
+  humble_scheme: choice
+  steam_id: 
 - !ruby/object:Game
   name: This Is the Police 2
   month: April
   year: 2020
-  steam_id: 785740
+  humble_scheme: choice
+  steam_id: 
 - !ruby/object:Game
   name: GRIS
   month: April
   year: 2020
-  steam_id: 683320
+  humble_scheme: choice
+  steam_id: 
 - !ruby/object:Game
   name: HITMAN™ 2
   month: April
   year: 2020
-  steam_id: 863550
+  humble_scheme: choice
+  steam_id: 
 - !ruby/object:Game
   name: Horace
   month: May
   year: 2020
-  steam_id: 629090
+  humble_scheme: choice
+  steam_id: 
 - !ruby/object:Game
   name: Chess Ultra
   month: May
   year: 2020
-  steam_id: 518060
+  humble_scheme: choice
+  steam_id: 
 - !ruby/object:Game
   name: Neoverse
   month: May
   year: 2020
-  steam_id: 994220
+  humble_scheme: choice
+  steam_id: 
 - !ruby/object:Game
   name: MO:Astray
   month: May
   year: 2020
-  steam_id: 1104660
+  humble_scheme: choice
+  steam_id: 
 - !ruby/object:Game
   name: Heave Ho
   month: May
   year: 2020
-  steam_id: 905340
+  humble_scheme: choice
+  steam_id: 
 - !ruby/object:Game
   name: Warsaw
   month: May
   year: 2020
-  steam_id: 1026420
+  humble_scheme: choice
+  steam_id: 
 - !ruby/object:Game
   name: 'The Swords of Ditto: Mormo''s Curse'
   month: May
   year: 2020
-  steam_id: 619780
+  humble_scheme: choice
+  steam_id: 
 - !ruby/object:Game
   name: 'Warhammer 40,000: Gladius - Relics of War'
   month: May
   year: 2020
-  steam_id: 489630
+  humble_scheme: choice
+  steam_id: 
 - !ruby/object:Game
   name: Niche - a genetics survival game
   month: May
   year: 2020
-  steam_id: 440650
+  humble_scheme: choice
+  steam_id: 
 - !ruby/object:Game
   name: Rise of Industry
   month: May
   year: 2020
-  steam_id: 671440
+  humble_scheme: choice
+  steam_id: 
 - !ruby/object:Game
   name: 'XCOM 2: Reinforcement Pack'
   month: May
   year: 2020
-  steam_id: 426321
+  humble_scheme: choice
+  steam_id: 
 - !ruby/object:Game
   name: 'XCOM 2: Resistance Warrior Pack'
   month: May
   year: 2020
-  steam_id: 399620
+  humble_scheme: choice
+  steam_id: 
 - !ruby/object:Game
   name: XCOM 2
   month: May
   year: 2020
-  steam_id: 268500
+  humble_scheme: choice
+  steam_id: 
 - !ruby/object:Game
   name: Jurassic World Evolution - Deluxe DLC
   month: May
   year: 2020
-  steam_id: 817550
+  humble_scheme: choice
+  steam_id: 
 - !ruby/object:Game
   name: Jurassic World Evolution
   month: May
   year: 2020
-  steam_id: 648350
+  humble_scheme: choice
+  steam_id: 
 - !ruby/object:Game
   name: The King's Bird
   month: June
   year: 2020
-  steam_id: 812550
+  humble_scheme: choice
+  steam_id: 
 - !ruby/object:Game
   name: The Stillness of the Wind
   month: June
   year: 2020
-  steam_id: 828900
+  humble_scheme: choice
+  steam_id: 
 - !ruby/object:Game
   name: Overload
   month: June
   year: 2020
-  steam_id: 448850
+  humble_scheme: choice
+  steam_id: 
 - !ruby/object:Game
   name: Remnants of Naezith
   month: June
   year: 2020
-  steam_id: 590590
+  humble_scheme: choice
+  steam_id: 
 - !ruby/object:Game
   name: 'Stygian: Reign of the Old Ones'
   month: June
   year: 2020
-  steam_id: 779290
+  humble_scheme: choice
+  steam_id: 
 - !ruby/object:Game
   name: 'Assault Squad 2: Men of War Origins'
   month: June
   year: 2020
-  steam_id: 274440
+  humble_scheme: choice
+  steam_id: 
 - !ruby/object:Game
   name: 'Men of War: Assault Squad 2 - Ostfront Veteranen'
   month: June
   year: 2020
-  steam_id: 920840
+  humble_scheme: choice
+  steam_id: 
 - !ruby/object:Game
   name: 'Men of War: Assault Squad 2 - Airborne'
   month: June
   year: 2020
-  steam_id: 357760
+  humble_scheme: choice
+  steam_id: 
 - !ruby/object:Game
   name: 'Men of War: Assault Squad 2 - Iron Fist'
   month: June
   year: 2020
-  steam_id: 327130
+  humble_scheme: choice
+  steam_id: 
 - !ruby/object:Game
   name: 'Men of War: Assault Squad 2 - Deluxe Edition content'
   month: June
   year: 2020
-  steam_id: 271850
+  humble_scheme: choice
+  steam_id: 
 - !ruby/object:Game
   name: 'Men of War: Assault Squad 2'
   month: June
   year: 2020
-  steam_id: 244450
+  humble_scheme: choice
+  steam_id: 
 - !ruby/object:Game
   name: Felix The Reaper
   month: June
   year: 2020
-  steam_id: 919410
+  humble_scheme: choice
+  steam_id: 
 - !ruby/object:Game
   name: Barotrauma
   month: June
   year: 2020
-  steam_id: 602960
+  humble_scheme: choice
+  steam_id: 
 - !ruby/object:Game
   name: The Messenger
   month: June
   year: 2020
-  steam_id: 764790
+  humble_scheme: choice
+  steam_id: 
 - !ruby/object:Game
   name: 'Hellblade: Senua''s Sacrifice'
   month: June
   year: 2020
-  steam_id: 414340
+  humble_scheme: choice
+  steam_id: 
 - !ruby/object:Game
   name: GRID (2019)
   month: June
   year: 2020
-  steam_id: 703860
+  humble_scheme: choice
+  steam_id: 
 - !ruby/object:Game
   name: Supraland
   month: June
   year: 2020
-  steam_id: 813630
+  humble_scheme: choice
+  steam_id: 
 - !ruby/object:Game
   name: Earthlock
   month: July
   year: 2020
-  steam_id: 761030
+  humble_scheme: choice
+  steam_id: 
 - !ruby/object:Game
   name: Basingstoke
   month: July
   year: 2020
-  steam_id: 336940
+  humble_scheme: choice
+  steam_id: 
 - !ruby/object:Game
   name: Verlet Swing
   month: July
   year: 2020
-  steam_id: 811870
+  humble_scheme: choice
+  steam_id: 
 - !ruby/object:Game
   name: 'Don''t Escape: 4 Days to Survive'
   month: July
   year: 2020
-  steam_id: 611760
+  humble_scheme: choice
+  steam_id: 
 - !ruby/object:Game
   name: Metal Unit
   month: July
   year: 2020
-  steam_id: 1173200
+  humble_scheme: choice
+  steam_id: 
 - !ruby/object:Game
   name: Sigma Theory
   month: July
   year: 2020
-  steam_id: 716640
+  humble_scheme: choice
+  steam_id: 
 - !ruby/object:Game
   name: Beat Hazard 2
   month: July
   year: 2020
-  steam_id: 618740
+  humble_scheme: choice
+  steam_id: 
 - !ruby/object:Game
   name: Yuppie Psycho
   month: July
   year: 2020
-  steam_id: 597760
+  humble_scheme: choice
+  steam_id: 
 - !ruby/object:Game
   name: Battlestar Galactica Deadlock
   month: July
   year: 2020
-  steam_id: 544610
+  humble_scheme: choice
+  steam_id: 
 - !ruby/object:Game
   name: Railway Empire
   month: July
   year: 2020
-  steam_id: 503940
+  humble_scheme: choice
+  steam_id: 
 - !ruby/object:Game
   name: Void Bastards
   month: July
   year: 2020
-  steam_id: 857980
+  humble_scheme: choice
+  steam_id: 
 - !ruby/object:Game
   name: 'Age of Wonders: Planetfall Deluxe Edition Content Pack'
   month: July
   year: 2020
-  steam_id: 1078840
+  humble_scheme: choice
+  steam_id: 
 - !ruby/object:Game
   name: 'Age of Wonders: Planetfall'
   month: July
   year: 2020
-  steam_id: 718850
+  humble_scheme: choice
+  steam_id: 
 - !ruby/object:Game
   name: A Case of Distrust
   month: August
   year: 2020
-  steam_id: 717610
+  humble_scheme: choice
+  steam_id: 
 - !ruby/object:Game
   name: We Were Here Together
   month: August
   year: 2020
-  steam_id: 865360
+  humble_scheme: choice
+  steam_id: 
 - !ruby/object:Game
   name: 'The Coma 2: Vicious Sisters'
   month: August
   year: 2020
-  steam_id: 1045720
+  humble_scheme: choice
+  steam_id: 
 - !ruby/object:Game
   name: American Fugitive
   month: August
   year: 2020
-  steam_id: 934780
+  humble_scheme: choice
+  steam_id: 
 - !ruby/object:Game
   name: Through the Darkest of Times
   month: August
   year: 2020
-  steam_id: 1003090
+  humble_scheme: choice
+  steam_id: 
 - !ruby/object:Game
   name: Automachef
   month: August
   year: 2020
-  steam_id: 984800
+  humble_scheme: choice
+  steam_id: 
 - !ruby/object:Game
   name: Genesis Alpha One Deluxe Edition
   month: August
   year: 2020
-  steam_id: 712190
+  humble_scheme: choice
+  steam_id: 
 - !ruby/object:Game
   name: Little Big Workshop
   month: August
   year: 2020
-  steam_id: 574720
+  humble_scheme: choice
+  steam_id: 
 - !ruby/object:Game
   name: Call of Cthulhu
   month: August
   year: 2020
-  steam_id: 399810
+  humble_scheme: choice
+  steam_id: 
 - !ruby/object:Game
   name: Wargroove
   month: August
   year: 2020
-  steam_id: 607050
+  humble_scheme: choice
+  steam_id: 
 - !ruby/object:Game
   name: 'Hello Neighbor: Hide and Seek'
   month: August
   year: 2020
-  steam_id: 960420
+  humble_scheme: choice
+  steam_id: 
 - !ruby/object:Game
   name: Hello Neighbor
   month: August
   year: 2020
-  steam_id: 521890
+  humble_scheme: choice
+  steam_id: 
 - !ruby/object:Game
   name: Vampyr
   month: August
   year: 2020
-  steam_id: 427290
+  humble_scheme: choice
+  steam_id: 
 - !ruby/object:Game
   name: The Shapeshifting Detective
   month: September
   year: 2020
-  steam_id: 898650
+  humble_scheme: choice
+  steam_id: 
 - !ruby/object:Game
   name: The Occupation
   month: September
   year: 2020
-  steam_id: 765880
+  humble_scheme: choice
+  steam_id: 
 - !ruby/object:Game
   name: Catherine Classic
   month: September
   year: 2020
-  steam_id: 893180
+  humble_scheme: choice
+  steam_id: 
 - !ruby/object:Game
   name: Yooka-Laylee and the Impossible Lair
   month: September
   year: 2020
-  steam_id: 846870
+  humble_scheme: choice
+  steam_id: 
 - !ruby/object:Game
   name: Evoland Legendary Edition
   month: September
   year: 2020
-  steam_id: 1020470
+  humble_scheme: choice
+  steam_id: 
 - !ruby/object:Game
   name: Strange Brigade
   month: September
   year: 2020
-  steam_id: 312670
+  humble_scheme: choice
+  steam_id: 
 - !ruby/object:Game
   name: Lethal League Blaze
   month: September
   year: 2020
-  steam_id: 553310
+  humble_scheme: choice
+  steam_id: 
 - !ruby/object:Game
   name: 'Fun with Ragdolls: The Game'
   month: September
   year: 2020
-  steam_id: 1142500
+  humble_scheme: choice
+  steam_id: 
 - !ruby/object:Game
   name: 'Vampire: The Masquerade - Coteries of New York'
   month: September
   year: 2020
-  steam_id: 1096410
+  humble_scheme: choice
+  steam_id: 
 - !ruby/object:Game
   name: Forager
   month: September
   year: 2020
-  steam_id: 751780
+  humble_scheme: choice
+  steam_id: 
 - !ruby/object:Game
   name: Generation Zero®
   month: September
   year: 2020
-  steam_id: 704270
+  humble_scheme: choice
+  steam_id: 
 - !ruby/object:Game
   name: Golf With Your Friends - Caddy Pack
   month: September
   year: 2020
-  steam_id: 1277570
+  humble_scheme: choice
+  steam_id: 
 - !ruby/object:Game
   name: Golf With Your Friends - OST
   month: September
   year: 2020
-  steam_id: 564170
+  humble_scheme: choice
+  steam_id: 
 - !ruby/object:Game
   name: Golf with Your Friends
   month: September
   year: 2020
-  steam_id: 431240
+  humble_scheme: choice
+  steam_id: 
 - !ruby/object:Game
   name: Lightmatter
   month: October
   year: 2020
-  steam_id: 994140
+  humble_scheme: choice
+  steam_id: 
 - !ruby/object:Game
   name: Basement
   month: October
   year: 2020
-  steam_id: 340150
+  humble_scheme: choice
+  steam_id: 
 - !ruby/object:Game
   name: 'The Uncertain: Last Quiet Day'
   month: October
   year: 2020
-  steam_id: 406970
+  humble_scheme: choice
+  steam_id: 
 - !ruby/object:Game
   name: GOAT OF DUTY
   month: October
   year: 2020
-  steam_id: 555000
+  humble_scheme: choice
+  steam_id: 
 - !ruby/object:Game
   name: The Suicide of Rachel Foster
   month: October
   year: 2020
-  steam_id: 1057750
+  humble_scheme: choice
+  steam_id: 
 - !ruby/object:Game
   name: Fantasy Blacksmith
   month: October
   year: 2020
-  steam_id: 959520
+  humble_scheme: choice
+  steam_id: 
 - !ruby/object:Game
   name: 'Shadows: Awakening'
   month: October
   year: 2020
-  steam_id: 585450
+  humble_scheme: choice
+  steam_id: 
 - !ruby/object:Game
   name: Autonauts
   month: October
   year: 2020
-  steam_id: 979120
+  humble_scheme: choice
+  steam_id: 
 - !ruby/object:Game
   name: Iron Danger
   month: October
   year: 2020
-  steam_id: 899310
+  humble_scheme: choice
+  steam_id: 
 - !ruby/object:Game
   name: Sunless Sea
   month: October
   year: 2020
-  steam_id: 304650
+  humble_scheme: choice
+  steam_id: 
 - !ruby/object:Game
   name: Sunless Skies
   month: October
   year: 2020
-  steam_id: 596970
+  humble_scheme: choice
+  steam_id: 
 - !ruby/object:Game
   name: Fae Tactics
   month: October
   year: 2020
-  steam_id: 995980
+  humble_scheme: choice
+  steam_id: 
 - !ruby/object:Game
   name: Tropico 6 El Prez Edition Pack
   month: October
   year: 2020
-  steam_id: 881960
+  humble_scheme: choice
+  steam_id: 
 - !ruby/object:Game
   name: Townsmen - A Kingdom Rebuilt
   month: November
   year: 2020
-  steam_id: 938380
+  humble_scheme: choice
+  steam_id: 
 - !ruby/object:Game
   name: Youropa
   month: November
   year: 2020
-  steam_id: 640120
+  humble_scheme: choice
+  steam_id: 
 - !ruby/object:Game
   name: Rover Mechanic Simulator
   month: November
   year: 2020
-  steam_id: 864680
+  humble_scheme: choice
+  steam_id: 
 - !ruby/object:Game
   name: Tsioque
   month: November
   year: 2020
-  steam_id: 393190
+  humble_scheme: choice
+  steam_id: 
 - !ruby/object:Game
   name: Darkwood
   month: November
   year: 2020
-  steam_id: 274520
+  humble_scheme: choice
+  steam_id: 
 - !ruby/object:Game
   name: Smile For Me
   month: November
   year: 2020
-  steam_id: 1018850
+  humble_scheme: choice
+  steam_id: 
 - !ruby/object:Game
   name: Little Misfortune
   month: November
   year: 2020
-  steam_id: 714120
+  humble_scheme: choice
+  steam_id: 
 - !ruby/object:Game
   name: Darksburg
   month: November
   year: 2020
-  steam_id: 939100
+  humble_scheme: choice
+  steam_id: 
 - !ruby/object:Game
   name: Crying Suns
   month: November
   year: 2020
-  steam_id: 873940
+  humble_scheme: choice
+  steam_id: 
 - !ruby/object:Game
   name: 'Imperator: Rome'
   month: November
   year: 2020
-  steam_id: 859580
+  humble_scheme: choice
+  steam_id: 
 - !ruby/object:Game
   name: Yakuza Kiwami 2
   month: November
   year: 2020
-  steam_id: 927380
+  humble_scheme: choice
+  steam_id: 
 - !ruby/object:Game
   name: Darksiders III
   month: November
   year: 2020
-  steam_id: 606280
+  humble_scheme: choice
+  steam_id: 
 - !ruby/object:Game
   name: Path of Giants
   month: December
   year: 2020
-  steam_id: 1181400
+  humble_scheme: choice
+  steam_id: 
 - !ruby/object:Game
   name: Struggling
   month: December
   year: 2020
-  steam_id: 1035560
+  humble_scheme: choice
+  steam_id: 
 - !ruby/object:Game
   name: Still There
   month: December
   year: 2020
-  steam_id: 1063490
+  humble_scheme: choice
+  steam_id: 
 - !ruby/object:Game
   name: 'Frog Detective 2: The Case of the Invisible Wizard'
   month: December
   year: 2020
-  steam_id: 1047220
+  humble_scheme: choice
+  steam_id: 
 - !ruby/object:Game
   name: The Haunted Island, a Frog Detective Game
   month: December
   year: 2020
-  steam_id: 963000
+  humble_scheme: choice
+  steam_id: 
 - !ruby/object:Game
   name: Tabletop Playground
   month: December
   year: 2020
-  steam_id: 838410
+  humble_scheme: choice
+  steam_id: 
 - !ruby/object:Game
   name: 'Zwei: The Ilvard Insurrection'
   month: December
   year: 2020
-  steam_id: 427700
+  humble_scheme: choice
+  steam_id: 
 - !ruby/object:Game
   name: 'Zwei: The Arges Adventure'
   month: December
   year: 2020
-  steam_id: 427680
+  humble_scheme: choice
+  steam_id: 
 - !ruby/object:Game
   name: Shining Resonance Refrain
   month: December
   year: 2020
-  steam_id: 809890
+  humble_scheme: choice
+  steam_id: 
 - !ruby/object:Game
   name: Indivisible
   month: December
   year: 2020
-  steam_id: 421170
+  humble_scheme: choice
+  steam_id: 
 - !ruby/object:Game
   name: The Beast Inside
   month: December
   year: 2020
-  steam_id: 792300
+  humble_scheme: choice
+  steam_id: 
 - !ruby/object:Game
   name: One Step From Eden
   month: December
   year: 2020
-  steam_id: 960690
+  humble_scheme: choice
+  steam_id: 
 - !ruby/object:Game
   name: Children of Morta
   month: December
   year: 2020
-  steam_id: 330020
+  humble_scheme: choice
+  steam_id: 
 - !ruby/object:Game
   name: Overcooked! 2 - Surf 'n' Turf
   month: December
   year: 2020
-  steam_id: 909720
+  humble_scheme: choice
+  steam_id: 
 - !ruby/object:Game
   name: Overcooked! 2 - Too Many Cooks Pack
   month: December
   year: 2020
-  steam_id: 858240
+  humble_scheme: choice
+  steam_id: 
 - !ruby/object:Game
   name: Overcooked! 2
   month: December
   year: 2020
-  steam_id: 728880
+  humble_scheme: choice
+  steam_id: 
