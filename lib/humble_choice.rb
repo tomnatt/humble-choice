@@ -27,9 +27,7 @@ class HumbleChoice
 
       next if year == 2019
 
-      games = []
-      split_game_list(row[1], games)
-
+      games = split_game_list(row[1])
       create_game_objects(games, month, year)
     end
     reverse_years
@@ -39,9 +37,11 @@ class HumbleChoice
     @output.each_key { |year| @output[year].reverse! }
   end
 
-  def split_game_list(list, games)
+  def split_game_list(list)
+    games = []
     available_games = list&.split(';')
-    available_games&.each { |games_list| games.concat(clean_games_list(games_list)) }
+    available_games&.each { |game_name| games.concat(clean_game_name(game_name)) }
+    games
   end
 
   def create_game_objects(games, month, year)
@@ -51,25 +51,18 @@ class HumbleChoice
     end
   end
 
-  def clean_games_list(games_list)
-    # Remove [ if first character
-    games_list.delete_prefix!('[')
-
-    # Split by the common delimeters
-    split_on_common_delimeters(games_list)
-  end
-
-  def split_on_common_delimeters(games_list)
+  def clean_game_name(game_name)
     games = []
 
-    if games_list.include?(' + ')
-      games_list.split(' + ').each { |g| games << g.strip }
+    # Remove [ if first character
+    game_name.delete_prefix!('[')
 
-    elsif games_list.include?('] OR [')
-      games_list.split('] OR [').each { |g| games << g.strip.delete_suffix(']') }
-
+    if game_name.include?(' + ')
+      game_name.split(' + ').each { |g| games << g.strip }
+    elsif game_name.include?('] OR [')
+      game_name.split('] OR [').each { |g| games << g.strip.delete_suffix(']') }
     else
-      games << games_list.strip
+      games << game_name.strip
     end
 
     games

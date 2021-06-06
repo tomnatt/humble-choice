@@ -25,9 +25,7 @@ class HumbleMonthly
       year = date.year
       month = date.strftime('%B')
 
-      games = []
-      split_game_list(row[1], games)
-
+      games = split_game_list(row[1])
       create_game_objects(games, month, year)
     end
     reverse_years
@@ -37,8 +35,11 @@ class HumbleMonthly
     @output.each_key { |year| @output[year].reverse! }
   end
 
-  def split_game_list(list, games)
-    list.split(';').each { |game| games.concat(clean_games_list(game)) }
+  def split_game_list(list)
+    games = []
+    available_games = list&.split(';')
+    available_games&.each { |game_name| games.concat(clean_game_name(game_name)) }
+    games
   end
 
   def create_game_objects(games, month, year)
@@ -48,18 +49,18 @@ class HumbleMonthly
     end
   end
 
-  def clean_games_list(game)
+  def clean_game_name(game_name)
     games = []
 
     # Remove [ if first character
-    game.delete_prefix!('[')
+    game_name.delete_prefix!('[')
 
-    if game.include?(' + ')
-      game.split(' + ').each { |g| games << g.strip }
-    elsif game.include?('] OR [')
-      game.split('] OR [').each { |g| games << g.strip.delete_suffix(']') }
+    if game_name.include?(' + ')
+      game_name.split(' + ').each { |g| games << g.strip }
+    elsif game_name.include?('] OR [')
+      game_name.split('] OR [').each { |g| games << g.strip.delete_suffix(']') }
     else
-      games << game.strip
+      games << game_name.strip
     end
 
     games
