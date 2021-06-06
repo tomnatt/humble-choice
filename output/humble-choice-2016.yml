@@ -1,422 +1,422 @@
 ---
 2016:
 - !ruby/object:Game
-  name: PAYDAY 2
+  name: A Fistful of Gun
   month: January
   year: 2016
-  steam_id: 218620
-- !ruby/object:Game
-  name: The Talos Principle
-  month: January
-  year: 2016
-  steam_id: 257510
-- !ruby/object:Game
-  name: The Masterplan
-  month: January
-  year: 2016
-  steam_id: 313080
-- !ruby/object:Game
-  name: Mushroom 11
-  month: January
-  year: 2016
-  steam_id: 243160
-- !ruby/object:Game
-  name: Grim Fandango Remastered
-  month: January
-  year: 2016
-  steam_id: 316790
+  steam_id: 229810
 - !ruby/object:Game
   name: Spelunky
   month: January
   year: 2016
   steam_id: 239350
 - !ruby/object:Game
-  name: A Fistful of Gun
+  name: Grim Fandango Remastered
   month: January
   year: 2016
-  steam_id: 229810
+  steam_id: 316790
 - !ruby/object:Game
-  name: 'Alien: Isolation'
-  month: February
+  name: Mushroom 11
+  month: January
   year: 2016
-  steam_id: 214490
+  steam_id: 243160
 - !ruby/object:Game
-  name: Titan Souls
-  month: February
+  name: The Masterplan
+  month: January
   year: 2016
-  steam_id: 297130
+  steam_id: 313080
 - !ruby/object:Game
-  name: Broken Age
-  month: February
+  name: The Talos Principle
+  month: January
   year: 2016
-  steam_id: 232790
+  steam_id: 257510
 - !ruby/object:Game
-  name: Volume
-  month: February
+  name: PAYDAY 2
+  month: January
   year: 2016
-  steam_id: 365770
-- !ruby/object:Game
-  name: Penarium
-  month: February
-  year: 2016
-  steam_id: 307590
+  steam_id: 218620
 - !ruby/object:Game
   name: Dropsy
   month: February
   year: 2016
   steam_id: 274350
 - !ruby/object:Game
-  name: 'ARK: Survival Evolved'
-  month: March
+  name: Penarium
+  month: February
   year: 2016
-  steam_id: 346110
+  steam_id: 307590
 - !ruby/object:Game
-  name: 'Wasteland 2: Director''s Cut'
-  month: March
+  name: Volume
+  month: February
   year: 2016
-  steam_id: 404730
+  steam_id: 365770
 - !ruby/object:Game
-  name: GRAV
-  month: March
+  name: Broken Age
+  month: February
   year: 2016
-  steam_id: 332500
+  steam_id: 232790
 - !ruby/object:Game
-  name: Shantae and the Pirate's Curse
-  month: March
+  name: Titan Souls
+  month: February
   year: 2016
-  steam_id: 345820
+  steam_id: 297130
 - !ruby/object:Game
-  name: I am Bread
-  month: March
+  name: 'Alien: Isolation'
+  month: February
   year: 2016
-  steam_id: 327890
-- !ruby/object:Game
-  name: Sentinels of the Multiverse
-  month: March
-  year: 2016
-  steam_id: 337150
+  steam_id: 214490
 - !ruby/object:Game
   name: Switchcars
   month: March
   year: 2016
   steam_id: 442210
 - !ruby/object:Game
-  name: This War of Mine
-  month: April
+  name: Sentinels of the Multiverse
+  month: March
   year: 2016
-  steam_id: 282070
+  steam_id: 337150
 - !ruby/object:Game
-  name: 'South Park™: The Stick of Truth™'
-  month: April
+  name: I am Bread
+  month: March
   year: 2016
-  steam_id: 213670
+  steam_id: 327890
 - !ruby/object:Game
-  name: Nuclear Throne
-  month: April
+  name: Shantae and the Pirate's Curse
+  month: March
   year: 2016
-  steam_id: 242680
+  steam_id: 345820
 - !ruby/object:Game
-  name: 'Renowned Explorers: International Society'
-  month: April
+  name: GRAV
+  month: March
   year: 2016
-  steam_id: 296970
+  steam_id: 332500
 - !ruby/object:Game
-  name: Nova-111
-  month: April
+  name: 'Wasteland 2: Director''s Cut'
+  month: March
   year: 2016
-  steam_id: 325370
+  steam_id: 404730
 - !ruby/object:Game
-  name: The Magic Circle
-  month: April
+  name: 'ARK: Survival Evolved'
+  month: March
   year: 2016
-  steam_id: 323380
-- !ruby/object:Game
-  name: 'Avalanche 2: Super Avalanche'
-  month: April
-  year: 2016
-  steam_id: 351250
+  steam_id: 346110
 - !ruby/object:Game
   name: Stikbold!
   month: April
   year: 2016
   steam_id: 429330
 - !ruby/object:Game
-  name: MAD MAX
-  month: May
+  name: 'Avalanche 2: Super Avalanche'
+  month: April
   year: 2016
-  steam_id: 234140
+  steam_id: 351250
 - !ruby/object:Game
-  name: Infinifactory
-  month: May
+  name: The Magic Circle
+  month: April
   year: 2016
-  steam_id: 300570
+  steam_id: 323380
 - !ruby/object:Game
-  name: Crawl
-  month: May
+  name: Nova-111
+  month: April
   year: 2016
-  steam_id: 535120
+  steam_id: 325370
 - !ruby/object:Game
-  name: Galak-Z
-  month: May
+  name: 'Renowned Explorers: International Society'
+  month: April
   year: 2016
-  steam_id: 300580
+  steam_id: 296970
 - !ruby/object:Game
-  name: JumpJet Rex
-  month: May
+  name: Nuclear Throne
+  month: April
   year: 2016
-  steam_id: 329460
+  steam_id: 242680
 - !ruby/object:Game
-  name: Fran Bow
-  month: May
+  name: 'South Park™: The Stick of Truth™'
+  month: April
   year: 2016
-  steam_id: 362680
+  steam_id: 213670
 - !ruby/object:Game
-  name: 'Oddworld: New ''n'' Tasty'
-  month: May
+  name: This War of Mine
+  month: April
   year: 2016
-  steam_id: 314660
+  steam_id: 282070
 - !ruby/object:Game
   name: 1993 Space Machine
   month: May
   year: 2016
   steam_id: 373480
 - !ruby/object:Game
-  name: Rocket League
-  month: June
+  name: 'Oddworld: New ''n'' Tasty'
+  month: May
   year: 2016
-  steam_id: 252950
+  steam_id: 314660
 - !ruby/object:Game
-  name: The Forest
-  month: June
+  name: Fran Bow
+  month: May
   year: 2016
-  steam_id: 242760
+  steam_id: 362680
 - !ruby/object:Game
-  name: 'Planetary Annihilation: TITANS'
-  month: June
+  name: JumpJet Rex
+  month: May
   year: 2016
-  steam_id: 386070
+  steam_id: 329460
 - !ruby/object:Game
-  name: Keep Talking and Nobody Explodes
-  month: June
+  name: Galak-Z
+  month: May
   year: 2016
-  steam_id: 341800
+  steam_id: 300580
 - !ruby/object:Game
-  name: Dungeon of the Endless™
-  month: June
+  name: Crawl
+  month: May
   year: 2016
-  steam_id: 249050
+  steam_id: 535120
 - !ruby/object:Game
-  name: Steredenn
-  month: June
+  name: Infinifactory
+  month: May
   year: 2016
-  steam_id: 347160
+  steam_id: 300570
+- !ruby/object:Game
+  name: MAD MAX
+  month: May
+  year: 2016
+  steam_id: 234140
 - !ruby/object:Game
   name: WASTED
   month: June
   year: 2016
   steam_id: 327510
 - !ruby/object:Game
-  name: Hurtworld
-  month: July
+  name: Steredenn
+  month: June
   year: 2016
-  steam_id: 393420
+  steam_id: 347160
 - !ruby/object:Game
-  name: Kentucky Route Zero
-  month: July
+  name: Dungeon of the Endless™
+  month: June
   year: 2016
-  steam_id: 231200
+  steam_id: 249050
 - !ruby/object:Game
-  name: Satellite Reign
-  month: July
+  name: Keep Talking and Nobody Explodes
+  month: June
   year: 2016
-  steam_id: 268870
+  steam_id: 341800
 - !ruby/object:Game
-  name: TIS-100
-  month: July
+  name: 'Planetary Annihilation: TITANS'
+  month: June
   year: 2016
-  steam_id: 370360
+  steam_id: 386070
 - !ruby/object:Game
-  name: The Red Solstice
-  month: July
+  name: The Forest
+  month: June
   year: 2016
-  steam_id: 265590
+  steam_id: 242760
 - !ruby/object:Game
-  name: 'Avernum 2: Crystal Souls'
-  month: July
+  name: Rocket League
+  month: June
   year: 2016
-  steam_id: 337850
+  steam_id: 252950
 - !ruby/object:Game
   name: Cthulhu Realms - Full Version
   month: July
   year: 2016
   steam_id: 486040
 - !ruby/object:Game
-  name: 'Call of Duty: Black Ops III - Multiplayer'
-  month: August
+  name: 'Avernum 2: Crystal Souls'
+  month: July
   year: 2016
-  steam_id: 366841
+  steam_id: 337850
 - !ruby/object:Game
-  name: 'The Incredible Adventures of Van Helsing: Final Cut'
-  month: August
+  name: The Red Solstice
+  month: July
   year: 2016
-  steam_id: 400170
+  steam_id: 265590
 - !ruby/object:Game
-  name: The Jackbox Party Pack 2
-  month: August
+  name: TIS-100
+  month: July
   year: 2016
-  steam_id: 397460
+  steam_id: 370360
 - !ruby/object:Game
-  name: Poi
-  month: August
+  name: Satellite Reign
+  month: July
   year: 2016
-  steam_id: 401810
+  steam_id: 268870
 - !ruby/object:Game
-  name: Planet of the Eyes
-  month: August
+  name: Kentucky Route Zero
+  month: July
   year: 2016
-  steam_id: 350970
+  steam_id: 231200
 - !ruby/object:Game
-  name: Starward Rogue
-  month: August
+  name: Hurtworld
+  month: July
   year: 2016
-  steam_id: 410820
+  steam_id: 393420
 - !ruby/object:Game
   name: Random Access Murder
   month: August
   year: 2016
   steam_id: 438790
 - !ruby/object:Game
-  name: SOMA
-  month: September
+  name: Starward Rogue
+  month: August
   year: 2016
-  steam_id: 282140
+  steam_id: 410820
 - !ruby/object:Game
-  name: The Banner Saga
-  month: September
+  name: Planet of the Eyes
+  month: August
   year: 2016
-  steam_id: 237990
+  steam_id: 350970
 - !ruby/object:Game
-  name: WWE 2K16
-  month: September
+  name: Poi
+  month: August
   year: 2016
-  steam_id: 385730
+  steam_id: 401810
 - !ruby/object:Game
-  name: Sheltered
-  month: September
+  name: The Jackbox Party Pack 2
+  month: August
   year: 2016
-  steam_id: 356040
+  steam_id: 397460
 - !ruby/object:Game
-  name: Epistory - Typing Chronicles
-  month: September
+  name: 'The Incredible Adventures of Van Helsing: Final Cut'
+  month: August
   year: 2016
-  steam_id: 398850
+  steam_id: 400170
+- !ruby/object:Game
+  name: 'Call of Duty: Black Ops III - Multiplayer'
+  month: August
+  year: 2016
+  steam_id: 366841
 - !ruby/object:Game
   name: Town of Salem
   month: September
   year: 2016
   steam_id: 334230
 - !ruby/object:Game
-  name: Grim Dawn
-  month: October
+  name: Epistory - Typing Chronicles
+  month: September
   year: 2016
-  steam_id: 219990
+  steam_id: 398850
 - !ruby/object:Game
-  name: Slime Rancher
-  month: October
+  name: Sheltered
+  month: September
   year: 2016
-  steam_id: 433340
+  steam_id: 356040
 - !ruby/object:Game
-  name: 'Hotline Miami 2: Wrong Number'
-  month: October
+  name: WWE 2K16
+  month: September
   year: 2016
-  steam_id: 274170
+  steam_id: 385730
 - !ruby/object:Game
-  name: Deponia Doomsday
-  month: October
+  name: The Banner Saga
+  month: September
   year: 2016
-  steam_id: 421050
+  steam_id: 237990
 - !ruby/object:Game
-  name: Train Valley
-  month: October
+  name: SOMA
+  month: September
   year: 2016
-  steam_id: 353640
-- !ruby/object:Game
-  name: Action Henk
-  month: October
-  year: 2016
-  steam_id: 285820
+  steam_id: 282140
 - !ruby/object:Game
   name: THOTH
   month: October
   year: 2016
   steam_id: 510620
 - !ruby/object:Game
-  name: Stardew Valley
-  month: November
+  name: Action Henk
+  month: October
   year: 2016
-  steam_id: 413150
+  steam_id: 285820
 - !ruby/object:Game
-  name: BROFORCE
-  month: November
+  name: Train Valley
+  month: October
   year: 2016
-  steam_id: 274190
+  steam_id: 353640
 - !ruby/object:Game
-  name: Rebel Galaxy
-  month: November
+  name: Deponia Doomsday
+  month: October
   year: 2016
-  steam_id: 290300
+  steam_id: 421050
 - !ruby/object:Game
-  name: Beyond Eyes
-  month: November
+  name: 'Hotline Miami 2: Wrong Number'
+  month: October
   year: 2016
-  steam_id: 356050
+  steam_id: 274170
 - !ruby/object:Game
-  name: Kathy Rain
-  month: November
+  name: Slime Rancher
+  month: October
   year: 2016
-  steam_id: 370910
+  steam_id: 433340
 - !ruby/object:Game
-  name: 'Styx: Master of Shadows'
-  month: November
+  name: Grim Dawn
+  month: October
   year: 2016
-  steam_id: 242640
+  steam_id: 219990
 - !ruby/object:Game
   name: Pirate Pop Plus
   month: November
   year: 2016
   steam_id: 487350
 - !ruby/object:Game
-  name: 'Dragon''s Dogma: Dark Arisen'
-  month: December
+  name: 'Styx: Master of Shadows'
+  month: November
   year: 2016
-  steam_id: 367500
+  steam_id: 242640
 - !ruby/object:Game
-  name: The Escapists
-  month: December
+  name: Kathy Rain
+  month: November
   year: 2016
-  steam_id: 298630
+  steam_id: 370910
 - !ruby/object:Game
-  name: 'Mordheim: City of the Damned'
-  month: December
+  name: Beyond Eyes
+  month: November
   year: 2016
-  steam_id: 276810
+  steam_id: 356050
 - !ruby/object:Game
-  name: Hacknet
-  month: December
+  name: Rebel Galaxy
+  month: November
   year: 2016
-  steam_id: 365450
+  steam_id: 290300
 - !ruby/object:Game
-  name: Western Press
+  name: BROFORCE
+  month: November
+  year: 2016
+  steam_id: 274190
+- !ruby/object:Game
+  name: Stardew Valley
+  month: November
+  year: 2016
+  steam_id: 413150
+- !ruby/object:Game
+  name: Minion Masters
   month: December
   year: 2016
-  steam_id: 377360
+  steam_id: 489520
 - !ruby/object:Game
   name: The Flame in the Flood
   month: December
   year: 2016
   steam_id: 318600
 - !ruby/object:Game
-  name: Minion Masters
+  name: Western Press
   month: December
   year: 2016
-  steam_id: 489520
+  steam_id: 377360
+- !ruby/object:Game
+  name: Hacknet
+  month: December
+  year: 2016
+  steam_id: 365450
+- !ruby/object:Game
+  name: 'Mordheim: City of the Damned'
+  month: December
+  year: 2016
+  steam_id: 276810
+- !ruby/object:Game
+  name: The Escapists
+  month: December
+  year: 2016
+  steam_id: 298630
+- !ruby/object:Game
+  name: 'Dragon''s Dogma: Dark Arisen'
+  month: December
+  year: 2016
+  steam_id: 367500
