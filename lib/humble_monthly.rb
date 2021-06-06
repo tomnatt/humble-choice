@@ -18,7 +18,7 @@ class HumbleMonthly
   end
 
   def read_monthly_data
-    # Spreadsheet in format [ Month, Game, More Games ]
+    # Spreadsheet in format [ Month, Game ]
     # Skip first row (contains headers)
     @worksheet.rows.drop(1).each do |row|
       date = Date.parse(row[0])
@@ -27,7 +27,6 @@ class HumbleMonthly
 
       games = []
       split_game_list(row[1], games)
-      split_game_list(row[2], games)
 
       create_game_objects(games, month, year)
     end
