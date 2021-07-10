@@ -506,3 +506,75 @@
   year: 2021
   humble_scheme: choice
   steam_id: 289070
+- !ruby/object:Game
+  name: Adom (Ancient Domains of Mystery)
+  month: July
+  year: 2021
+  humble_scheme: choice
+  steam_id: 333300
+- !ruby/object:Game
+  name: Deadly Days
+  month: July
+  year: 2021
+  humble_scheme: choice
+  steam_id: 740080
+- !ruby/object:Game
+  name: SWINE HD Remaster
+  month: July
+  year: 2021
+  humble_scheme: choice
+  steam_id: 944010
+- !ruby/object:Game
+  name: Elderborn
+  month: July
+  year: 2021
+  humble_scheme: choice
+  steam_id: 727850
+- !ruby/object:Game
+  name: Bee Simulator
+  month: July
+  year: 2021
+  humble_scheme: choice
+  steam_id: 914750
+- !ruby/object:Game
+  name: Kill It With Fire
+  month: July
+  year: 2021
+  humble_scheme: choice
+  steam_id: 1179210
+- !ruby/object:Game
+  name: Paradise Killer
+  month: July
+  year: 2021
+  humble_scheme: choice
+  steam_id: 1160220
+- !ruby/object:Game
+  name: Nimbatus - The Space Drone Constructor
+  month: July
+  year: 2021
+  humble_scheme: choice
+  steam_id: 383840
+- !ruby/object:Game
+  name: Hammerting
+  month: July
+  year: 2021
+  humble_scheme: choice
+  steam_id: 760650
+- !ruby/object:Game
+  name: Dirt 5
+  month: July
+  year: 2021
+  humble_scheme: choice
+  steam_id: 1038250
+- !ruby/object:Game
+  name: The Surge 2
+  month: July
+  year: 2021
+  humble_scheme: choice
+  steam_id: 644830
+- !ruby/object:Game
+  name: Yakuza 3 Remastered
+  month: July
+  year: 2021
+  humble_scheme: choice
+  steam_id: 1088710

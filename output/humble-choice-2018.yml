@@ -133,11 +133,11 @@
   humble_scheme: monthly
   steam_id: 374320
 - !ruby/object:Game
-  name: Laser League
+  name: 'Laser League: World Arena'
   month: April
   year: 2018
   humble_scheme: monthly
-  steam_id: 570460
+  steam_id: 1022660
 - !ruby/object:Game
   name: AER Memories of Old
   month: April
