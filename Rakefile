@@ -14,7 +14,7 @@ task :generate do
   hc = HumbleChoiceGenerator.new
   hc.generate
 
-  system "grep -B3 --color -e 'steam_id: $' output/humble-choice-20*"
+  system "grep -B4 --color -e 'steam_id: $' output/humble-choice-20*"
   puts '--'
   system "for file in output/humble-choice-20* ; do echo \"$file: \"; grep -e 'steam_id: $' $file | wc -l ; done"
 end
