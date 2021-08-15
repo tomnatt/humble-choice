@@ -95,7 +95,7 @@
   month: February
   year: 2019
   humble_scheme: monthly
-  steam_id: 686600
+  steam_id: 
 - !ruby/object:Game
   name: Tom Clancy's The Division
   month: February
