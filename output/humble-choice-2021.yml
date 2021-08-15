@@ -578,3 +578,75 @@
   year: 2021
   humble_scheme: choice
   steam_id: 1088710
+- !ruby/object:Game
+  name: Encodya
+  month: August
+  year: 2021
+  humble_scheme: choice
+  steam_id: 1137450
+- !ruby/object:Game
+  name: Blue Fire
+  month: August
+  year: 2021
+  humble_scheme: choice
+  steam_id: 1220150
+- !ruby/object:Game
+  name: Nowhere Prophet
+  month: August
+  year: 2021
+  humble_scheme: choice
+  steam_id: 681730
+- !ruby/object:Game
+  name: Drake Hollow
+  month: August
+  year: 2021
+  humble_scheme: choice
+  steam_id: 739650
+- !ruby/object:Game
+  name: Cepheus Protocol
+  month: August
+  year: 2021
+  humble_scheme: choice
+  steam_id: 979640
+- !ruby/object:Game
+  name: As Far As The Eye
+  month: August
+  year: 2021
+  humble_scheme: choice
+  steam_id: 1119700
+- !ruby/object:Game
+  name: Carto
+  month: August
+  year: 2021
+  humble_scheme: choice
+  steam_id: 1172450
+- !ruby/object:Game
+  name: We Need To Go Deeper
+  month: August
+  year: 2021
+  humble_scheme: choice
+  steam_id: 307110
+- !ruby/object:Game
+  name: Out Of Space
+  month: August
+  year: 2021
+  humble_scheme: choice
+  steam_id: 400080
+- !ruby/object:Game
+  name: Superliminal
+  month: August
+  year: 2021
+  humble_scheme: choice
+  steam_id: 1049410
+- !ruby/object:Game
+  name: Last Oasis
+  month: August
+  year: 2021
+  humble_scheme: choice
+  steam_id: 903950
+- !ruby/object:Game
+  name: 'Bloodstained: Ritual Of The Night'
+  month: August
+  year: 2021
+  humble_scheme: choice
+  steam_id: 692850
