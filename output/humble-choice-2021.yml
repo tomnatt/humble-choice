@@ -650,3 +650,75 @@
   year: 2021
   humble_scheme: choice
   steam_id: 692850
+- !ruby/object:Game
+  name: Framed Collection
+  month: September
+  year: 2021
+  humble_scheme: choice
+  steam_id: 322450
+- !ruby/object:Game
+  name: 'Orwell: Ignorance is Strength'
+  month: September
+  year: 2021
+  humble_scheme: choice
+  steam_id: 633060
+- !ruby/object:Game
+  name: Fort Triumph
+  month: September
+  year: 2021
+  humble_scheme: choice
+  steam_id: 612570
+- !ruby/object:Game
+  name: Swag And Sorcery
+  month: September
+  year: 2021
+  humble_scheme: choice
+  steam_id: 929010
+- !ruby/object:Game
+  name: Heaven's Vault
+  month: September
+  year: 2021
+  humble_scheme: choice
+  steam_id: 774201
+- !ruby/object:Game
+  name: Atomicrops
+  month: September
+  year: 2021
+  humble_scheme: choice
+  steam_id: 757320
+- !ruby/object:Game
+  name: West Of Dead
+  month: September
+  year: 2021
+  humble_scheme: choice
+  steam_id: 1016790
+- !ruby/object:Game
+  name: Narita Boy
+  month: September
+  year: 2021
+  humble_scheme: choice
+  steam_id: 1069530
+- !ruby/object:Game
+  name: Röki
+  month: September
+  year: 2021
+  humble_scheme: choice
+  steam_id: 1067540
+- !ruby/object:Game
+  name: Not For Broadcast
+  month: September
+  year: 2021
+  humble_scheme: choice
+  steam_id: 1147550
+- !ruby/object:Game
+  name: Neon Abyss
+  month: September
+  year: 2021
+  humble_scheme: choice
+  steam_id: 788100
+- !ruby/object:Game
+  name: PGA Tour 2k21
+  month: September
+  year: 2021
+  humble_scheme: choice
+  steam_id: 1016120
