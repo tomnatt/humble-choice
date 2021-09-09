@@ -443,7 +443,7 @@
   month: November
   year: 2016
   humble_scheme: monthly
-  steam_id: 356050
+  steam_id: 
 - !ruby/object:Game
   name: Rebel Galaxy
   month: November

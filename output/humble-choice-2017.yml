@@ -353,7 +353,7 @@
   month: August
   year: 2017
   humble_scheme: monthly
-  steam_id: 385760
+  steam_id: 
 - !ruby/object:Game
   name: Eterium
   month: September
