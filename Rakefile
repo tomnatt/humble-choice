@@ -14,12 +14,14 @@ task :generate do
   hc = HumbleChoiceGenerator.new
   hc.generate
 
-
-  puts hc.missing_steam_ids.to_yaml
-
-  # system "grep -B4 --color -e 'steam_id: $' output/humble-choice-20*"
-  # puts '--'
-  # system "for file in output/humble-choice-20* ; do echo \"$file: \"; grep -e 'steam_id: $' $file | wc -l ; done"
+  # Output list of games with missing Steam Ids, skipping the ignore list
+  missing = hc.missing_steam_ids
+  missing.keys.sort.each do |year|
+    unless missing[year].empty?
+      o = { year => missing[year] }.to_yaml
+      puts o
+    end
+  end
 end
 
 # Generate everything silently

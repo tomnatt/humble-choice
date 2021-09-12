@@ -43,6 +43,7 @@ class HumbleChoiceGenerator
       missing[year] = []
 
       @game_list[year].each do |game|
+        # TODO: skip if on ignore list
         missing[year] << game if game.steam_id.nil?
       end
     end
