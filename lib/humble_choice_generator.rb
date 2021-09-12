@@ -5,6 +5,7 @@ require_relative './steam_ids'
 class HumbleChoiceGenerator
   def initialize
     @game_list = []
+    @ignore_list = []
   end
 
   # Convenience method to fire everything
@@ -35,5 +36,26 @@ class HumbleChoiceGenerator
       f << o.to_yaml
       f.close
     end
+  end
+
+  def read_ignore_list
+    f = File.open('ignore-list.txt', 'r')
+    f.each_line do |line|
+      @ignore_list << line.chomp unless line.chars.first == '#'
+    end
+  end
+
+  def missing_steam_ids
+    missing = {}
+    @game_list.each_key do |year|
+      missing[year] = []
+
+      @game_list[year].each do |game|
+        # Include if empty, and not on ignore list
+        missing[year] << game if game.steam_id.nil? && !(@ignore_list.include? game.name)
+      end
+    end
+
+    missing
   end
 end

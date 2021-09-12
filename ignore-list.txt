@@ -1,0 +1,10 @@
+# Known games which will not have a Steam ID
+
+# Games on a non-Steam platform
+Black Ops 4 Battle Edition
+Overwatch
+
+# Games withdrawn from sale on Steam
+Beyond Eyes
+NBA 2K17
+Rapture Rejects
