@@ -15,6 +15,7 @@ task :generate do
   hc.generate
 
   # Output list of games with missing Steam Ids, skipping the ignore list
+  hc.read_ignore_list
   missing = hc.missing_steam_ids
   missing.keys.sort.each do |year|
     unless missing[year].empty?
