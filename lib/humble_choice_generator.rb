@@ -36,4 +36,17 @@ class HumbleChoiceGenerator
       f.close
     end
   end
+
+  def missing_steam_ids
+    missing = {}
+    @game_list.each_key do |year|
+      missing[year] = []
+
+      @game_list[year].each do |game|
+        missing[year] << game if game.steam_id.nil?
+      end
+    end
+
+    missing
+  end
 end

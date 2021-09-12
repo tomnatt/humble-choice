@@ -14,9 +14,12 @@ task :generate do
   hc = HumbleChoiceGenerator.new
   hc.generate
 
-  system "grep -B4 --color -e 'steam_id: $' output/humble-choice-20*"
-  puts '--'
-  system "for file in output/humble-choice-20* ; do echo \"$file: \"; grep -e 'steam_id: $' $file | wc -l ; done"
+
+  puts hc.missing_steam_ids.to_yaml
+
+  # system "grep -B4 --color -e 'steam_id: $' output/humble-choice-20*"
+  # puts '--'
+  # system "for file in output/humble-choice-20* ; do echo \"$file: \"; grep -e 'steam_id: $' $file | wc -l ; done"
 end
 
 # Generate everything silently
