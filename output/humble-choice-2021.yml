@@ -722,3 +722,75 @@
   year: 2021
   humble_scheme: choice
   steam_id: 1016120
+- !ruby/object:Game
+  name: Syberia 3
+  month: October
+  year: 2021
+  humble_scheme: choice
+  steam_id: 464340
+- !ruby/object:Game
+  name: Black Future '88
+  month: October
+  year: 2021
+  humble_scheme: choice
+  steam_id: 751820
+- !ruby/object:Game
+  name: Hiveswap Friendsim
+  month: October
+  year: 2021
+  humble_scheme: choice
+  steam_id: 833040
+- !ruby/object:Game
+  name: Tools Up!
+  month: October
+  year: 2021
+  humble_scheme: choice
+  steam_id: 1004490
+- !ruby/object:Game
+  name: 'The Textorcist: The Story Of Ray Bibbia'
+  month: October
+  year: 2021
+  humble_scheme: choice
+  steam_id: 940680
+- !ruby/object:Game
+  name: 'Garage: Bad Trip'
+  month: October
+  year: 2021
+  humble_scheme: choice
+  steam_id: 878580
+- !ruby/object:Game
+  name: Ring Of Pain
+  month: October
+  year: 2021
+  humble_scheme: choice
+  steam_id: 998740
+- !ruby/object:Game
+  name: Guts And Glory
+  month: October
+  year: 2021
+  humble_scheme: choice
+  steam_id: 537340
+- !ruby/object:Game
+  name: 112 Operator
+  month: October
+  year: 2021
+  humble_scheme: choice
+  steam_id: 793460
+- !ruby/object:Game
+  name: John Wick Hex
+  month: October
+  year: 2021
+  humble_scheme: choice
+  steam_id: 1405790
+- !ruby/object:Game
+  name: 'Amnesia: Rebirth'
+  month: October
+  year: 2021
+  humble_scheme: choice
+  steam_id: 999220
+- !ruby/object:Game
+  name: Katana Zero
+  month: October
+  year: 2021
+  humble_scheme: choice
+  steam_id: 460950
