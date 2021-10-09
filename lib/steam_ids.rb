@@ -5,7 +5,8 @@ require_relative './game'
 
 class SteamIds
   def initialize
-    steam_ids_url = 'http://api.steampowered.com/ISteamApps/GetAppList/v0002/?key=STEAMKEY&format=json'
+    # steam_ids_url = 'http://api.steampowered.com/ISteamApps/GetAppList/v0002/?key=STEAMKEY&format=json'
+    steam_ids_url = 'https://api.steampowered.com/ISteamApps/GetAppList/v0002/'
     steam_ids_raw_json = Net::HTTP.get(URI.parse(steam_ids_url))
 
     @steam_ids = JSON.parse(steam_ids_raw_json)
