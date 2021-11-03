@@ -794,3 +794,63 @@
   year: 2021
   humble_scheme: choice
   steam_id: 460950
+- !ruby/object:Game
+  name: Möbius Front '83
+  month: November
+  year: 2021
+  humble_scheme: choice
+  steam_id: 971160
+- !ruby/object:Game
+  name: 'Wrath: Aeon Of Ruin'
+  month: November
+  year: 2021
+  humble_scheme: choice
+  steam_id: 1000410
+- !ruby/object:Game
+  name: Timelie
+  month: November
+  year: 2021
+  humble_scheme: choice
+  steam_id: 1150950
+- !ruby/object:Game
+  name: Simplerockets 2
+  month: November
+  year: 2021
+  humble_scheme: choice
+  steam_id: 870200
+- !ruby/object:Game
+  name: Turnip Boy Commits Tax Evasion
+  month: November
+  year: 2021
+  humble_scheme: choice
+  steam_id: 1205450
+- !ruby/object:Game
+  name: 'BPM: Bullets Per Minute'
+  month: November
+  year: 2021
+  humble_scheme: choice
+  steam_id: 1286350
+- !ruby/object:Game
+  name: Wingspan
+  month: November
+  year: 2021
+  humble_scheme: choice
+  steam_id: 1054490
+- !ruby/object:Game
+  name: Project Wingman
+  month: November
+  year: 2021
+  humble_scheme: choice
+  steam_id: 895870
+- !ruby/object:Game
+  name: House Flipper
+  month: November
+  year: 2021
+  humble_scheme: choice
+  steam_id: 613100
+- !ruby/object:Game
+  name: Due Process
+  month: November
+  year: 2021
+  humble_scheme: choice
+  steam_id: 753650
