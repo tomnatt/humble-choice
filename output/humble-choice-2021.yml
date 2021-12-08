@@ -854,3 +854,75 @@
   year: 2021
   humble_scheme: choice
   steam_id: 753650
+- !ruby/object:Game
+  name: Voidigo
+  month: December
+  year: 2021
+  humble_scheme: choice
+  steam_id: 1304680
+- !ruby/object:Game
+  name: Tohu
+  month: December
+  year: 2021
+  humble_scheme: choice
+  steam_id: 1075200
+- !ruby/object:Game
+  name: Fling To The Finish
+  month: December
+  year: 2021
+  humble_scheme: choice
+  steam_id: 1054430
+- !ruby/object:Game
+  name: 'Greak: Memories Of Azur'
+  month: December
+  year: 2021
+  humble_scheme: choice
+  steam_id: 1311070
+- !ruby/object:Game
+  name: '8Doors: Arum''s Afterlife Adventure'
+  month: December
+  year: 2021
+  humble_scheme: choice
+  steam_id: 668550
+- !ruby/object:Game
+  name: Lacuna
+  month: December
+  year: 2021
+  humble_scheme: choice
+  steam_id: 1364100
+- !ruby/object:Game
+  name: The Survivalists
+  month: December
+  year: 2021
+  humble_scheme: choice
+  steam_id: 897450
+- !ruby/object:Game
+  name: Partisans 1941
+  month: December
+  year: 2021
+  humble_scheme: choice
+  steam_id: 1227530
+- !ruby/object:Game
+  name: Beyond The Wire
+  month: December
+  year: 2021
+  humble_scheme: choice
+  steam_id: 1058650
+- !ruby/object:Game
+  name: Endzone - A World Apart
+  month: December
+  year: 2021
+  humble_scheme: choice
+  steam_id: 933820
+- !ruby/object:Game
+  name: Mordhau
+  month: December
+  year: 2021
+  humble_scheme: choice
+  steam_id: 629760
+- !ruby/object:Game
+  name: Maneater
+  month: December
+  year: 2021
+  humble_scheme: choice
+  steam_id: 629820
