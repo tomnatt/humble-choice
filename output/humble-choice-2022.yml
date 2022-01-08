@@ -1,0 +1,62 @@
+---
+2022:
+- !ruby/object:Game
+  name: Midnight Protocol
+  month: January
+  year: 2022
+  humble_scheme: choice
+  steam_id: 1162700
+- !ruby/object:Game
+  name: Retrowave
+  month: January
+  year: 2022
+  humble_scheme: choice
+  steam_id: 1239690
+- !ruby/object:Game
+  name: Between The Stars
+  month: January
+  year: 2022
+  humble_scheme: choice
+  steam_id: 727130
+- !ruby/object:Game
+  name: Farmer's Dynasty
+  month: January
+  year: 2022
+  humble_scheme: choice
+  steam_id: 678900
+- !ruby/object:Game
+  name: The Henry Stickmin Collection
+  month: January
+  year: 2022
+  humble_scheme: choice
+  steam_id: 1089980
+- !ruby/object:Game
+  name: Rustler
+  month: January
+  year: 2022
+  humble_scheme: choice
+  steam_id: 844260
+- !ruby/object:Game
+  name: Rebel Cops
+  month: January
+  year: 2022
+  humble_scheme: choice
+  steam_id: 970960
+- !ruby/object:Game
+  name: Project Winter
+  month: January
+  year: 2022
+  humble_scheme: choice
+  steam_id: 774861
+- !ruby/object:Game
+  name: Iron Harvest
+  month: January
+  year: 2022
+  humble_scheme: choice
+  steam_id: 826630
+- !ruby/object:Game
+  name: 'Mafia: Definitive Edition'
+  month: January
+  year: 2022
+  humble_scheme: choice
+  steam_id: 1030840
