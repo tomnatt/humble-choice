@@ -60,3 +60,57 @@
   year: 2022
   humble_scheme: choice
   steam_id: 1030840
+- !ruby/object:Game
+  name: Calico
+  month: February
+  year: 2022
+  humble_scheme: choice
+  steam_id: 1112890
+- !ruby/object:Game
+  name: Everhood
+  month: February
+  year: 2022
+  humble_scheme: choice
+  steam_id: 1229380
+- !ruby/object:Game
+  name: Paradise Lost
+  month: February
+  year: 2022
+  humble_scheme: choice
+  steam_id: 1555890
+- !ruby/object:Game
+  name: Before We Leave
+  month: February
+  year: 2022
+  humble_scheme: choice
+  steam_id: 1073910
+- !ruby/object:Game
+  name: Just Die Already
+  month: February
+  year: 2022
+  humble_scheme: choice
+  steam_id: 979070
+- !ruby/object:Game
+  name: Per Aspera
+  month: February
+  year: 2022
+  humble_scheme: choice
+  steam_id: 803050
+- !ruby/object:Game
+  name: Black Book
+  month: February
+  year: 2022
+  humble_scheme: choice
+  steam_id: 1138660
+- !ruby/object:Game
+  name: 'Borderlands 3: Director''s Cut'
+  month: February
+  year: 2022
+  humble_scheme: choice
+  steam_id: 1361831
+- !ruby/object:Game
+  name: Borderlands 3
+  month: February
+  year: 2022
+  humble_scheme: choice
+  steam_id: 397540
