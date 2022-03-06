@@ -114,3 +114,51 @@
   year: 2022
   humble_scheme: choice
   steam_id: 397540
+- !ruby/object:Game
+  name: Evan's Remains
+  month: March
+  year: 2022
+  humble_scheme: choice
+  steam_id: 1110050
+- !ruby/object:Game
+  name: Police Stories
+  month: March
+  year: 2022
+  humble_scheme: choice
+  steam_id: 539470
+- !ruby/object:Game
+  name: Nebuchadnezzar
+  month: March
+  year: 2022
+  humble_scheme: choice
+  steam_id: 1157220
+- !ruby/object:Game
+  name: 'Red Solstice 2: Survivors'
+  month: March
+  year: 2022
+  humble_scheme: choice
+  steam_id: 768520
+- !ruby/object:Game
+  name: 'The Dark Pictures Anthology: Man Of Medan'
+  month: March
+  year: 2022
+  humble_scheme: choice
+  steam_id: 939850
+- !ruby/object:Game
+  name: Nickelodeon All-star Brawl
+  month: March
+  year: 2022
+  humble_scheme: choice
+  steam_id: 1414850
+- !ruby/object:Game
+  name: Mass Effect™ Legendary Edition
+  month: March
+  year: 2022
+  humble_scheme: choice
+  steam_id: 1328670
+- !ruby/object:Game
+  name: Desperados III
+  month: March
+  year: 2022
+  humble_scheme: choice
+  steam_id: 610370
