@@ -162,3 +162,51 @@
   year: 2022
   humble_scheme: choice
   steam_id: 610370
+- !ruby/object:Game
+  name: 'Naruto To Boruto: Shinobi Striker'
+  month: April
+  year: 2022
+  humble_scheme: choice
+  steam_id: 633230
+- !ruby/object:Game
+  name: Chicken Police
+  month: April
+  year: 2022
+  humble_scheme: choice
+  steam_id: 1084640
+- !ruby/object:Game
+  name: Suzerain
+  month: April
+  year: 2022
+  humble_scheme: choice
+  steam_id: 1207650
+- !ruby/object:Game
+  name: 'Rogue Heroes: Ruins Of Tasos'
+  month: April
+  year: 2022
+  humble_scheme: choice
+  steam_id: 787810
+- !ruby/object:Game
+  name: Killsquad
+  month: April
+  year: 2022
+  humble_scheme: choice
+  steam_id: 910490
+- !ruby/object:Game
+  name: Monster Sanctuary
+  month: April
+  year: 2022
+  humble_scheme: choice
+  steam_id: 814370
+- !ruby/object:Game
+  name: Destroy All Humans!
+  month: April
+  year: 2022
+  humble_scheme: choice
+  steam_id: 803330
+- !ruby/object:Game
+  name: Ghostrunner
+  month: April
+  year: 2022
+  humble_scheme: choice
+  steam_id: 1139900
