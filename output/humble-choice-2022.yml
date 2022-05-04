@@ -210,3 +210,51 @@
   year: 2022
   humble_scheme: choice
   steam_id: 1139900
+- !ruby/object:Game
+  name: Embr
+  month: May
+  year: 2022
+  humble_scheme: choice
+  steam_id: 1062830
+- !ruby/object:Game
+  name: Genesis Noir
+  month: May
+  year: 2022
+  humble_scheme: choice
+  steam_id: 735290
+- !ruby/object:Game
+  name: If Found
+  month: May
+  year: 2022
+  humble_scheme: choice
+  steam_id: 1041920
+- !ruby/object:Game
+  name: Surviving The Aftermath
+  month: May
+  year: 2022
+  humble_scheme: choice
+  steam_id: 684450
+- !ruby/object:Game
+  name: Spellcaster University
+  month: May
+  year: 2022
+  humble_scheme: choice
+  steam_id: 895620
+- !ruby/object:Game
+  name: Command & Conquer™ Remastered Collection
+  month: May
+  year: 2022
+  humble_scheme: choice
+  steam_id: 1213210
+- !ruby/object:Game
+  name: 'Spongebob Squarepants: Battle For Bikini Bottom - Rehydrated'
+  month: May
+  year: 2022
+  humble_scheme: choice
+  steam_id: 969990
+- !ruby/object:Game
+  name: Planet Zoo
+  month: May
+  year: 2022
+  humble_scheme: choice
+  steam_id: 703080
