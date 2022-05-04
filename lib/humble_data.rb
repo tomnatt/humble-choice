@@ -9,7 +9,7 @@ class HumbleData
   def initialize
     # Get the sheet:
     # https://docs.google.com/spreadsheets/d/1VZHuYi0OB6kc9Ma31RG57S7GqX2ND3Gk3FFfgDkToIk/edit#gid=142401517
-    session = GoogleDrive::Session.from_service_account_key(ENV['HUMBLE_CHOICE_SERVICE_ACCOUNT_KEY'])
+    session = GoogleDrive::Session.from_service_account_key(ENV.fetch('HUMBLE_CHOICE_SERVICE_ACCOUNT_KEY'))
     @spreadsheet = session.spreadsheet_by_key('1VZHuYi0OB6kc9Ma31RG57S7GqX2ND3Gk3FFfgDkToIk')
 
     monthly = read_data(@spreadsheet.worksheets.first, 'monthly')
