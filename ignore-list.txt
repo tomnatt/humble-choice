@@ -3,6 +3,7 @@
 # Games on a non-Steam platform
 Black Ops 4 Battle Edition
 Overwatch
+Star Wars Squadrons
 
 # Games withdrawn from sale on Steam
 Beyond Eyes
