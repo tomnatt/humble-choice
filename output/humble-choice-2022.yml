@@ -258,3 +258,51 @@
   year: 2022
   humble_scheme: choice
   steam_id: 703080
+- !ruby/object:Game
+  name: 'Superhot: Mind Control Delete'
+  month: June
+  year: 2022
+  humble_scheme: choice
+  steam_id: 690040
+- !ruby/object:Game
+  name: I Am Fish
+  month: June
+  year: 2022
+  humble_scheme: choice
+  steam_id: 1472560
+- !ruby/object:Game
+  name: 'Siege Survival: Gloria Victis'
+  month: June
+  year: 2022
+  humble_scheme: choice
+  steam_id: 1167140
+- !ruby/object:Game
+  name: Pumpkin Jack
+  month: June
+  year: 2022
+  humble_scheme: choice
+  steam_id: 1186640
+- !ruby/object:Game
+  name: Gamedec
+  month: June
+  year: 2022
+  humble_scheme: choice
+  steam_id: 917720
+- !ruby/object:Game
+  name: Call Of The Sea
+  month: June
+  year: 2022
+  humble_scheme: choice
+  steam_id: 1042490
+- !ruby/object:Game
+  name: 'Phoenix Point: Year One Edition'
+  month: June
+  year: 2022
+  humble_scheme: choice
+  steam_id: 839770
+- !ruby/object:Game
+  name: Star Wars Squadrons
+  month: June
+  year: 2022
+  humble_scheme: choice
+  steam_id: 
