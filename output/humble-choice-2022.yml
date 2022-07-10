@@ -306,3 +306,51 @@
   year: 2022
   humble_scheme: choice
   steam_id: 
+- !ruby/object:Game
+  name: Atom RPG Trudograd
+  month: July
+  year: 2022
+  humble_scheme: choice
+  steam_id: 1139940
+- !ruby/object:Game
+  name: Yes, Your Grace
+  month: July
+  year: 2022
+  humble_scheme: choice
+  steam_id: 1115690
+- !ruby/object:Game
+  name: Banners Of Ruin
+  month: July
+  year: 2022
+  humble_scheme: choice
+  steam_id: 1075740
+- !ruby/object:Game
+  name: Lawn Mowing Simulator
+  month: July
+  year: 2022
+  humble_scheme: choice
+  steam_id: 1480560
+- !ruby/object:Game
+  name: Legend Of Keepers
+  month: July
+  year: 2022
+  humble_scheme: choice
+  steam_id: 978520
+- !ruby/object:Game
+  name: Legion TD 2
+  month: July
+  year: 2022
+  humble_scheme: choice
+  steam_id: 469600
+- !ruby/object:Game
+  name: 'Necromunda: Hired Gun'
+  month: July
+  year: 2022
+  humble_scheme: choice
+  steam_id: 1222370
+- !ruby/object:Game
+  name: Deep Rock Galactic
+  month: July
+  year: 2022
+  humble_scheme: choice
+  steam_id: 548430

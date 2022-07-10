@@ -359,7 +359,7 @@
   month: September
   year: 2017
   humble_scheme: monthly
-  steam_id: 280200
+  steam_id: 
 - !ruby/object:Game
   name: HackyZack
   month: September
