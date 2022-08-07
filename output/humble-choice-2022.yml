@@ -295,7 +295,7 @@
   humble_scheme: choice
   steam_id: 1042490
 - !ruby/object:Game
-  name: 'Phoenix Point: Year One Edition'
+  name: Phoenix Point
   month: June
   year: 2022
   humble_scheme: choice
@@ -354,3 +354,51 @@
   year: 2022
   humble_scheme: choice
   steam_id: 548430
+- !ruby/object:Game
+  name: Omno
+  month: August
+  year: 2022
+  humble_scheme: choice
+  steam_id: 969760
+- !ruby/object:Game
+  name: Emily Is Away <3
+  month: August
+  year: 2022
+  humble_scheme: choice
+  steam_id: 978460
+- !ruby/object:Game
+  name: Mind Scanners
+  month: August
+  year: 2022
+  humble_scheme: choice
+  steam_id: 1389550
+- !ruby/object:Game
+  name: In Sound Mind
+  month: August
+  year: 2022
+  humble_scheme: choice
+  steam_id: 1119980
+- !ruby/object:Game
+  name: Gas Station Simulator
+  month: August
+  year: 2022
+  humble_scheme: choice
+  steam_id: 1149620
+- !ruby/object:Game
+  name: 'A Plague Tale: Innocence'
+  month: August
+  year: 2022
+  humble_scheme: choice
+  steam_id: 752590
+- !ruby/object:Game
+  name: Hot Wheels Unleashed™
+  month: August
+  year: 2022
+  humble_scheme: choice
+  steam_id: 1271700
+- !ruby/object:Game
+  name: The Ascent
+  month: August
+  year: 2022
+  humble_scheme: choice
+  steam_id: 979690
