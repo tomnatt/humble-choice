@@ -402,3 +402,57 @@
   year: 2022
   humble_scheme: choice
   steam_id: 979690
+- !ruby/object:Game
+  name: Shapez - Puzzle DLC
+  month: September
+  year: 2022
+  humble_scheme: choice
+  steam_id: 1625400
+- !ruby/object:Game
+  name: Shapez
+  month: September
+  year: 2022
+  humble_scheme: choice
+  steam_id: 1318690
+- !ruby/object:Game
+  name: Industria
+  month: September
+  year: 2022
+  humble_scheme: choice
+  steam_id: 1172650
+- !ruby/object:Game
+  name: Descenders
+  month: September
+  year: 2022
+  humble_scheme: choice
+  steam_id: 681280
+- !ruby/object:Game
+  name: Crown Trick
+  month: September
+  year: 2022
+  humble_scheme: choice
+  steam_id: 1000010
+- !ruby/object:Game
+  name: Forgive Me Father
+  month: September
+  year: 2022
+  humble_scheme: choice
+  steam_id: 1590910
+- !ruby/object:Game
+  name: 'The Dungeon Of Naheulbeuk: The Amulet Of Chaos'
+  month: September
+  year: 2022
+  humble_scheme: choice
+  steam_id: 970830
+- !ruby/object:Game
+  name: Just Cause 4
+  month: September
+  year: 2022
+  humble_scheme: choice
+  steam_id: 517630
+- !ruby/object:Game
+  name: Crusader Kings III
+  month: September
+  year: 2022
+  humble_scheme: choice
+  steam_id: 1158310
