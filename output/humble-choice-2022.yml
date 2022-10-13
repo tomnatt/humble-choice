@@ -283,7 +283,7 @@
   humble_scheme: choice
   steam_id: 1186640
 - !ruby/object:Game
-  name: Gamedec
+  name: Gamedec - Definitive Edition
   month: June
   year: 2022
   humble_scheme: choice
@@ -456,3 +456,51 @@
   year: 2022
   humble_scheme: choice
   steam_id: 1158310
+- !ruby/object:Game
+  name: Golf Gang
+  month: October
+  year: 2022
+  humble_scheme: choice
+  steam_id: 1151050
+- !ruby/object:Game
+  name: Railroad Corporation
+  month: October
+  year: 2022
+  humble_scheme: choice
+  steam_id: 797400
+- !ruby/object:Game
+  name: Epic Chef
+  month: October
+  year: 2022
+  humble_scheme: choice
+  steam_id: 1312960
+- !ruby/object:Game
+  name: Maid Of Sker
+  month: October
+  year: 2022
+  humble_scheme: choice
+  steam_id: 826940
+- !ruby/object:Game
+  name: 'Disciples: Liberation'
+  month: October
+  year: 2022
+  humble_scheme: choice
+  steam_id: 1287840
+- !ruby/object:Game
+  name: 'The Dark Pictures Anthology: Little Hope'
+  month: October
+  year: 2022
+  humble_scheme: choice
+  steam_id: 1194630
+- !ruby/object:Game
+  name: Monster Train
+  month: October
+  year: 2022
+  humble_scheme: choice
+  steam_id: 1102190
+- !ruby/object:Game
+  name: Deathloop
+  month: October
+  year: 2022
+  humble_scheme: choice
+  steam_id: 1252330

@@ -35,7 +35,7 @@
   month: January
   year: 2019
   humble_scheme: monthly
-  steam_id: 378860
+  steam_id: 
 - !ruby/object:Game
   name: Wizard of Legend
   month: January
@@ -431,7 +431,7 @@
   month: October
   year: 2019
   humble_scheme: monthly
-  steam_id: 709440
+  steam_id: 
 - !ruby/object:Game
   name: PLANET ALPHA
   month: October
