@@ -504,3 +504,51 @@
   year: 2022
   humble_scheme: choice
   steam_id: 1252330
+- !ruby/object:Game
+  name: 'Morbid: The Seven Acolytes'
+  month: November
+  year: 2022
+  humble_scheme: choice
+  steam_id: 1140890
+- !ruby/object:Game
+  name: 'Raji: An Ancient Epic'
+  month: November
+  year: 2022
+  humble_scheme: choice
+  steam_id: 730390
+- !ruby/object:Game
+  name: Unmetal
+  month: November
+  year: 2022
+  humble_scheme: choice
+  steam_id: 1203710
+- !ruby/object:Game
+  name: Eldest Souls
+  month: November
+  year: 2022
+  humble_scheme: choice
+  steam_id: 1108590
+- !ruby/object:Game
+  name: Roboquest
+  month: November
+  year: 2022
+  humble_scheme: choice
+  steam_id: 692890
+- !ruby/object:Game
+  name: 'Shadow Tactics: Blades of the Shogun - Aiko''s Choice'
+  month: November
+  year: 2022
+  humble_scheme: choice
+  steam_id: 1579380
+- !ruby/object:Game
+  name: 'Kingdoms of Amalur: Re-Reckoning - Fatesworn'
+  month: November
+  year: 2022
+  humble_scheme: choice
+  steam_id: 1278260
+- !ruby/object:Game
+  name: Hell Let Loose
+  month: November
+  year: 2022
+  humble_scheme: choice
+  steam_id: 686810
