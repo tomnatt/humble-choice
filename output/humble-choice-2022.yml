@@ -552,3 +552,51 @@
   year: 2022
   humble_scheme: choice
   steam_id: 686810
+- !ruby/object:Game
+  name: Super Magbot
+  month: December
+  year: 2022
+  humble_scheme: choice
+  steam_id: 1205170
+- !ruby/object:Game
+  name: Blade Assault
+  month: December
+  year: 2022
+  humble_scheme: choice
+  steam_id: 1367300
+- !ruby/object:Game
+  name: Where The Water Tastes Like Wine
+  month: December
+  year: 2022
+  humble_scheme: choice
+  steam_id: 447120
+- !ruby/object:Game
+  name: Toem
+  month: December
+  year: 2022
+  humble_scheme: choice
+  steam_id: 1307580
+- !ruby/object:Game
+  name: Backbone
+  month: December
+  year: 2022
+  humble_scheme: choice
+  steam_id: 865610
+- !ruby/object:Game
+  name: First Class Trouble
+  month: December
+  year: 2022
+  humble_scheme: choice
+  steam_id: 953880
+- !ruby/object:Game
+  name: Greedfall
+  month: December
+  year: 2022
+  humble_scheme: choice
+  steam_id: 606880
+- !ruby/object:Game
+  name: Wasteland 3
+  month: December
+  year: 2022
+  humble_scheme: choice
+  steam_id: 719040
