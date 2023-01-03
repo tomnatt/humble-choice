@@ -191,7 +191,7 @@
   month: March
   year: 2021
   humble_scheme: choice
-  steam_id: 1013310
+  steam_id: 
 - !ruby/object:Game
   name: Hotshot Racing
   month: March
