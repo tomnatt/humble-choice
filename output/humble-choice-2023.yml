@@ -1,0 +1,56 @@
+---
+2023:
+- !ruby/object:Game
+  name: The Serpent Rogue
+  month: January
+  year: 2023
+  humble_scheme: choice
+  steam_id: 1453790
+- !ruby/object:Game
+  name: Hokko Life
+  month: January
+  year: 2023
+  humble_scheme: choice
+  steam_id: 824000
+- !ruby/object:Game
+  name: Conan Chop Chop
+  month: January
+  year: 2023
+  humble_scheme: choice
+  steam_id: 1061880
+- !ruby/object:Game
+  name: 'Grow: Song Of The Evertree'
+  month: January
+  year: 2023
+  humble_scheme: choice
+  steam_id: 1380420
+- !ruby/object:Game
+  name: OlliOlli World Expansion Pass
+  month: January
+  year: 2023
+  humble_scheme: choice
+  steam_id: 1836410
+- !ruby/object:Game
+  name: OlliOlli World
+  month: January
+  year: 2023
+  humble_scheme: choice
+  steam_id: 1190170
+- !ruby/object:Game
+  name: Encased
+  month: January
+  year: 2023
+  humble_scheme: choice
+  steam_id: 921800
+- !ruby/object:Game
+  name: Tribes Of Midgard
+  month: January
+  year: 2023
+  humble_scheme: choice
+  steam_id: 858820
+- !ruby/object:Game
+  name: DOOM Eternal
+  month: January
+  year: 2023
+  humble_scheme: choice
+  steam_id: 782330
