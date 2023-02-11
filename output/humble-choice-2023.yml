@@ -54,3 +54,57 @@
   year: 2023
   humble_scheme: choice
   steam_id: 782330
+- !ruby/object:Game
+  name: Five Dates
+  month: February
+  year: 2023
+  humble_scheme: choice
+  steam_id: 1353270
+- !ruby/object:Game
+  name: Fobia - St. Dinfna Hotel
+  month: February
+  year: 2023
+  humble_scheme: choice
+  steam_id: 1298140
+- !ruby/object:Game
+  name: Scourgebringer
+  month: February
+  year: 2023
+  humble_scheme: choice
+  steam_id: 1037020
+- !ruby/object:Game
+  name: Shady Part Of Me
+  month: February
+  year: 2023
+  humble_scheme: choice
+  steam_id: 1116580
+- !ruby/object:Game
+  name: Othercide
+  month: February
+  year: 2023
+  humble_scheme: choice
+  steam_id: 798490
+- !ruby/object:Game
+  name: 'Thronebreaker: The Witcher Tales'
+  month: February
+  year: 2023
+  humble_scheme: choice
+  steam_id: 973760
+- !ruby/object:Game
+  name: Fallout
+  month: February
+  year: 2023
+  humble_scheme: choice
+  steam_id: 38400
+- !ruby/object:Game
+  name: Fallout 76
+  month: February
+  year: 2023
+  humble_scheme: choice
+  steam_id: 1151340
+- !ruby/object:Game
+  name: 'Pathfinder: Wrath of the Righteous - Enhanced Edition'
+  month: February
+  year: 2023
+  humble_scheme: choice
+  steam_id: 1184370

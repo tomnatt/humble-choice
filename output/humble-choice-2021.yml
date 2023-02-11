@@ -813,7 +813,7 @@
   humble_scheme: choice
   steam_id: 1150950
 - !ruby/object:Game
-  name: Simplerockets 2
+  name: 'Juno: New Origins'
   month: November
   year: 2021
   humble_scheme: choice

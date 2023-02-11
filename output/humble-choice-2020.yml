@@ -311,7 +311,7 @@
   month: April
   year: 2020
   humble_scheme: choice
-  steam_id: 863550
+  steam_id: 
 - !ruby/object:Game
   name: Horace
   month: May
