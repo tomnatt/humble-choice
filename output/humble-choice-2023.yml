@@ -108,3 +108,51 @@
   year: 2023
   humble_scheme: choice
   steam_id: 1184370
+- !ruby/object:Game
+  name: Monster Crown
+  month: March
+  year: 2023
+  humble_scheme: choice
+  steam_id: 830370
+- !ruby/object:Game
+  name: Golden Light
+  month: March
+  year: 2023
+  humble_scheme: choice
+  steam_id: 1245430
+- !ruby/object:Game
+  name: Demon Turf
+  month: March
+  year: 2023
+  humble_scheme: choice
+  steam_id: 1325900
+- !ruby/object:Game
+  name: Rogue Lords
+  month: March
+  year: 2023
+  humble_scheme: choice
+  steam_id: 1069690
+- !ruby/object:Game
+  name: Hero's Hour
+  month: March
+  year: 2023
+  humble_scheme: choice
+  steam_id: 1656780
+- !ruby/object:Game
+  name: Edge Of Eternity
+  month: March
+  year: 2023
+  humble_scheme: choice
+  steam_id: 269190
+- !ruby/object:Game
+  name: Jurassic World Evolution 2
+  month: March
+  year: 2023
+  humble_scheme: choice
+  steam_id: 1244460
+- !ruby/object:Game
+  name: Biomutant
+  month: March
+  year: 2023
+  humble_scheme: choice
+  steam_id: 597820
