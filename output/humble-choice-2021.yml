@@ -299,7 +299,7 @@
   month: April
   year: 2021
   humble_scheme: choice
-  steam_id: 1080110
+  steam_id: 
 - !ruby/object:Game
   name: Sniper Ghost Warrior Contracts
   month: April

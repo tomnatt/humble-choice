@@ -9,6 +9,7 @@ Star Wars Squadrons
 Beyond Eyes
 Dirt Rally
 Eterium
+F1 2020
 HITMAN™
 HITMAN™ 2
 NBA 2K17
@@ -16,4 +17,5 @@ Override
 Peaky Blinders: Mastermind
 Project CARS
 Project CARS 2
+Quantum Break
 Rapture Rejects
