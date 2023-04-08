@@ -156,3 +156,75 @@
   year: 2023
   humble_scheme: choice
   steam_id: 597820
+- !ruby/object:Game
+  name: Founders' Fortune
+  month: April
+  year: 2023
+  humble_scheme: choice
+  steam_id: 1104330
+- !ruby/object:Game
+  name: Revita
+  month: April
+  year: 2023
+  humble_scheme: choice
+  steam_id: 1175460
+- !ruby/object:Game
+  name: 'Monster Prom 2: Monster Camp'
+  month: April
+  year: 2023
+  humble_scheme: choice
+  steam_id: 1140270
+- !ruby/object:Game
+  name: The Life And Suffering Of Sir Brante
+  month: April
+  year: 2023
+  humble_scheme: choice
+  steam_id: 1272160
+- !ruby/object:Game
+  name: Life Is Strange 2 - Episode 5
+  month: April
+  year: 2023
+  humble_scheme: choice
+  steam_id: 895493
+- !ruby/object:Game
+  name: Life Is Strange 2 - Episode 4
+  month: April
+  year: 2023
+  humble_scheme: choice
+  steam_id: 895492
+- !ruby/object:Game
+  name: Life Is Strange 2 - Episode 3
+  month: April
+  year: 2023
+  humble_scheme: choice
+  steam_id: 895491
+- !ruby/object:Game
+  name: Life Is Strange 2 - Episode 2
+  month: April
+  year: 2023
+  humble_scheme: choice
+  steam_id: 895490
+- !ruby/object:Game
+  name: Life Is Strange 2
+  month: April
+  year: 2023
+  humble_scheme: choice
+  steam_id: 532210
+- !ruby/object:Game
+  name: Rollerdrome
+  month: April
+  year: 2023
+  humble_scheme: choice
+  steam_id: 1294420
+- !ruby/object:Game
+  name: 'Aliens: Fireteam Elite'
+  month: April
+  year: 2023
+  humble_scheme: choice
+  steam_id: 1549970
+- !ruby/object:Game
+  name: Death Stranding Director's Cut
+  month: April
+  year: 2023
+  humble_scheme: choice
+  steam_id: 1850570
