@@ -228,3 +228,51 @@
   year: 2023
   humble_scheme: choice
   steam_id: 1850570
+- !ruby/object:Game
+  name: The Invisible Hand
+  month: May
+  year: 2023
+  humble_scheme: choice
+  steam_id: 628200
+- !ruby/object:Game
+  name: 'Behind The Frame: The Finest Scenery'
+  month: May
+  year: 2023
+  humble_scheme: choice
+  steam_id: 1634150
+- !ruby/object:Game
+  name: Builder Simulator
+  month: May
+  year: 2023
+  humble_scheme: choice
+  steam_id: 1120320
+- !ruby/object:Game
+  name: Windjammers 2
+  month: May
+  year: 2023
+  humble_scheme: choice
+  steam_id: 1114290
+- !ruby/object:Game
+  name: Operation Tango
+  month: May
+  year: 2023
+  humble_scheme: choice
+  steam_id: 1335790
+- !ruby/object:Game
+  name: Bendy And The Dark Revival
+  month: May
+  year: 2023
+  humble_scheme: choice
+  steam_id: 1063660
+- !ruby/object:Game
+  name: 'Spiritfarer®: Farewell Edition'
+  month: May
+  year: 2023
+  humble_scheme: choice
+  steam_id: 972660
+- !ruby/object:Game
+  name: 'Warhammer 40,000: Chaos Gate - Daemonhunters'
+  month: May
+  year: 2023
+  humble_scheme: choice
+  steam_id: 1611910
