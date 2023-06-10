@@ -19,11 +19,11 @@
   humble_scheme: monthly
   steam_id: 535480
 - !ruby/object:Game
-  name: Observer
+  name: 'Observer: System Redux'
   month: January
   year: 2019
   humble_scheme: monthly
-  steam_id: 514900
+  steam_id: 1386900
 - !ruby/object:Game
   name: Q.U.B.E. 2
   month: January
