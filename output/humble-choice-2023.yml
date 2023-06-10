@@ -276,3 +276,63 @@
   year: 2023
   humble_scheme: choice
   steam_id: 1611910
+- !ruby/object:Game
+  name: Meeple Station
+  month: June
+  year: 2023
+  humble_scheme: choice
+  steam_id: 900010
+- !ruby/object:Game
+  name: Turbo Golf Racing
+  month: June
+  year: 2023
+  humble_scheme: choice
+  steam_id: 1324350
+- !ruby/object:Game
+  name: Grime
+  month: June
+  year: 2023
+  humble_scheme: choice
+  steam_id: 1123050
+- !ruby/object:Game
+  name: Eternal Threads
+  month: June
+  year: 2023
+  humble_scheme: choice
+  steam_id: 1046790
+- !ruby/object:Game
+  name: Honey, I Joined A Cult
+  month: June
+  year: 2023
+  humble_scheme: choice
+  steam_id: 841190
+- !ruby/object:Game
+  name: Curse Of The Dead Gods
+  month: June
+  year: 2023
+  humble_scheme: choice
+  steam_id: 1123770
+- !ruby/object:Game
+  name: 'Remnant: From the Ashes - Subject 2923'
+  month: June
+  year: 2023
+  humble_scheme: choice
+  steam_id: 1344680
+- !ruby/object:Game
+  name: 'Remnant: From the Ashes - Swamps of Corsus'
+  month: June
+  year: 2023
+  humble_scheme: choice
+  steam_id: 1245150
+- !ruby/object:Game
+  name: 'Remnant: From the Ashes'
+  month: June
+  year: 2023
+  humble_scheme: choice
+  steam_id: 617290
+- !ruby/object:Game
+  name: 'Ghostwire: Tokyo'
+  month: June
+  year: 2023
+  humble_scheme: choice
+  steam_id: 1475810
