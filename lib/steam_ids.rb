@@ -1,7 +1,7 @@
 require 'json'
 require 'net/http'
 require 'uri'
-require_relative './game'
+require_relative 'game'
 
 class SteamIds
   def initialize
