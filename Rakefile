@@ -1,6 +1,6 @@
 require './lib/humble_choice_generator'
 
-# Generate Game objects and YAML with no Steam Ids
+desc 'Generate Game objects and YAML with no Steam Ids'
 task :generate_games do
   puts 'Generating Games with no Steam Ids'
   hc = HumbleChoiceGenerator.new
@@ -8,7 +8,7 @@ task :generate_games do
   hc.generate_yaml
 end
 
-# Generate everything with output
+desc 'Generate everything with output'
 task :generate do
   puts 'Generating...'
   hc = HumbleChoiceGenerator.new

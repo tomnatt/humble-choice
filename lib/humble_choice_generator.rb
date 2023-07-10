@@ -1,6 +1,6 @@
-require_relative './humble_data'
-require_relative './game'
-require_relative './steam_ids'
+require_relative 'humble_data'
+require_relative 'game'
+require_relative 'steam_ids'
 
 class HumbleChoiceGenerator
   def initialize

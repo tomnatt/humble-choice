@@ -1,7 +1,7 @@
 require 'csv'
 require 'google_drive'
 require 'yaml'
-require_relative './game'
+require_relative 'game'
 
 class HumbleData
   attr_reader :output
