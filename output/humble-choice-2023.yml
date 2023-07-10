@@ -336,3 +336,51 @@
   year: 2023
   humble_scheme: choice
   steam_id: 1475810
+- !ruby/object:Game
+  name: 'Shotgun King: The Final Checkmate'
+  month: July
+  year: 2023
+  humble_scheme: choice
+  steam_id: 1972440
+- !ruby/object:Game
+  name: Ozymandias
+  month: July
+  year: 2023
+  humble_scheme: choice
+  steam_id: 1768280
+- !ruby/object:Game
+  name: Merchant Of The Skies
+  month: July
+  year: 2023
+  humble_scheme: choice
+  steam_id: 1040070
+- !ruby/object:Game
+  name: Kraken Academy!!
+  month: July
+  year: 2023
+  humble_scheme: choice
+  steam_id: 1158220
+- !ruby/object:Game
+  name: Roadwarden
+  month: July
+  year: 2023
+  humble_scheme: choice
+  steam_id: 1155970
+- !ruby/object:Game
+  name: Yakuza 4 Remastered
+  month: July
+  year: 2023
+  humble_scheme: choice
+  steam_id: 1105500
+- !ruby/object:Game
+  name: Temtem
+  month: July
+  year: 2023
+  humble_scheme: choice
+  steam_id: 745920
+- !ruby/object:Game
+  name: 'The Outer Worlds: Spacer''s Choice Edition'
+  month: July
+  year: 2023
+  humble_scheme: choice
+  steam_id: 1920490
