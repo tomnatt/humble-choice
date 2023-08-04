@@ -384,3 +384,51 @@
   year: 2023
   humble_scheme: choice
   steam_id: 1920490
+- !ruby/object:Game
+  name: Hot Brass
+  month: August
+  year: 2023
+  humble_scheme: choice
+  steam_id: 892860
+- !ruby/object:Game
+  name: Tin Can
+  month: August
+  year: 2023
+  humble_scheme: choice
+  steam_id: 1315980
+- !ruby/object:Game
+  name: Suchart!
+  month: August
+  year: 2023
+  humble_scheme: choice
+  steam_id: 1293180
+- !ruby/object:Game
+  name: Arcade Paradise
+  month: August
+  year: 2023
+  humble_scheme: choice
+  steam_id: 1388870
+- !ruby/object:Game
+  name: Trek To Yomi
+  month: August
+  year: 2023
+  humble_scheme: choice
+  steam_id: 1370050
+- !ruby/object:Game
+  name: Road 96
+  month: August
+  year: 2023
+  humble_scheme: choice
+  steam_id: 1466640
+- !ruby/object:Game
+  name: Chivalry 2
+  month: August
+  year: 2023
+  humble_scheme: choice
+  steam_id: 1824220
+- !ruby/object:Game
+  name: Disco Elysium
+  month: August
+  year: 2023
+  humble_scheme: choice
+  steam_id: 632470
