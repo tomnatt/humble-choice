@@ -432,3 +432,57 @@
   year: 2023
   humble_scheme: choice
   steam_id: 632470
+- !ruby/object:Game
+  name: Autonauts Vs Piratebots
+  month: September
+  year: 2023
+  humble_scheme: choice
+  steam_id: 1907720
+- !ruby/object:Game
+  name: Who Pressed Mute on Uncle Marcus?
+  month: September
+  year: 2023
+  humble_scheme: choice
+  steam_id: 1628130
+- !ruby/object:Game
+  name: Foretales
+  month: September
+  year: 2023
+  humble_scheme: choice
+  steam_id: 1170080
+- !ruby/object:Game
+  name: Patch Quest
+  month: September
+  year: 2023
+  humble_scheme: choice
+  steam_id: 1347970
+- !ruby/object:Game
+  name: Aces and Adventures
+  month: September
+  year: 2023
+  humble_scheme: choice
+  steam_id: 1815570
+- !ruby/object:Game
+  name: The Forgotten City
+  month: September
+  year: 2023
+  humble_scheme: choice
+  steam_id: 874260
+- !ruby/object:Game
+  name: Deceive Inc.
+  month: September
+  year: 2023
+  humble_scheme: choice
+  steam_id: 820520
+- !ruby/object:Game
+  name: 'Tiny Tina''s Wonderlands: Season Pass'
+  month: September
+  year: 2023
+  humble_scheme: choice
+  steam_id: 1621031
+- !ruby/object:Game
+  name: Tiny Tina's Wonderlands
+  month: September
+  year: 2023
+  humble_scheme: choice
+  steam_id: 1286680
