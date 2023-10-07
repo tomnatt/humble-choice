@@ -486,3 +486,63 @@
   year: 2023
   humble_scheme: choice
   steam_id: 1286680
+- !ruby/object:Game
+  name: Mr. Prepper
+  month: October
+  year: 2023
+  humble_scheme: choice
+  steam_id: 761830
+- !ruby/object:Game
+  name: A Juggler's Tale
+  month: October
+  year: 2023
+  humble_scheme: choice
+  steam_id: 1252830
+- !ruby/object:Game
+  name: Lords And Villeins
+  month: October
+  year: 2023
+  humble_scheme: choice
+  steam_id: 1287530
+- !ruby/object:Game
+  name: Spirit Of The Island
+  month: October
+  year: 2023
+  humble_scheme: choice
+  steam_id: 1592110
+- !ruby/object:Game
+  name: 'Rebel Inc: Escalation'
+  month: October
+  year: 2023
+  humble_scheme: choice
+  steam_id: 1088790
+- !ruby/object:Game
+  name: 'The Dark Pictures Anthology: House of Ashes'
+  month: October
+  year: 2023
+  humble_scheme: choice
+  steam_id: 1281590
+- !ruby/object:Game
+  name: 'Metal: Hellsinger'
+  month: October
+  year: 2023
+  humble_scheme: choice
+  steam_id: 1061910
+- !ruby/object:Game
+  name: The Quarry - Horror History Visual Filter Pack
+  month: October
+  year: 2023
+  humble_scheme: choice
+  steam_id: 1877110
+- !ruby/object:Game
+  name: The Quarry - Deluxe Edition Content Pack
+  month: October
+  year: 2023
+  humble_scheme: choice
+  steam_id: 1877111
+- !ruby/object:Game
+  name: The Quarry
+  month: October
+  year: 2023
+  humble_scheme: choice
+  steam_id: 1577120
