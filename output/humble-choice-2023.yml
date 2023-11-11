@@ -546,3 +546,51 @@
   year: 2023
   humble_scheme: choice
   steam_id: 1577120
+- !ruby/object:Game
+  name: Souldiers
+  month: November
+  year: 2023
+  humble_scheme: choice
+  steam_id: 1419160
+- !ruby/object:Game
+  name: 'SCP : Secret Files'
+  month: November
+  year: 2023
+  humble_scheme: choice
+  steam_id: 1718130
+- !ruby/object:Game
+  name: The Legend Of Tianding
+  month: November
+  year: 2023
+  humble_scheme: choice
+  steam_id: 1406850
+- !ruby/object:Game
+  name: Prodeus
+  month: November
+  year: 2023
+  humble_scheme: choice
+  steam_id: 964800
+- !ruby/object:Game
+  name: Friends Vs Friends
+  month: November
+  year: 2023
+  humble_scheme: choice
+  steam_id: 1785150
+- !ruby/object:Game
+  name: Unpacking
+  month: November
+  year: 2023
+  humble_scheme: choice
+  steam_id: 1135690
+- !ruby/object:Game
+  name: WWE 2k23
+  month: November
+  year: 2023
+  humble_scheme: choice
+  steam_id: 1942660
+- !ruby/object:Game
+  name: 'Hardspace: Shipbreaker'
+  month: November
+  year: 2023
+  humble_scheme: choice
+  steam_id: 1161580
