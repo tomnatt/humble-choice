@@ -594,3 +594,51 @@
   year: 2023
   humble_scheme: choice
   steam_id: 1161580
+- !ruby/object:Game
+  name: From Space
+  month: December
+  year: 2023
+  humble_scheme: choice
+  steam_id: 1502190
+- !ruby/object:Game
+  name: Last Call BBS
+  month: December
+  year: 2023
+  humble_scheme: choice
+  steam_id: 1511780
+- !ruby/object:Game
+  name: The Pale Beyond
+  month: December
+  year: 2023
+  humble_scheme: choice
+  steam_id: 1266030
+- !ruby/object:Game
+  name: The Gunk
+  month: December
+  year: 2023
+  humble_scheme: choice
+  steam_id: 1087760
+- !ruby/object:Game
+  name: Nobody Saves The World
+  month: December
+  year: 2023
+  humble_scheme: choice
+  steam_id: 1432050
+- !ruby/object:Game
+  name: Elex II
+  month: December
+  year: 2023
+  humble_scheme: choice
+  steam_id: 900040
+- !ruby/object:Game
+  name: Midnight Fight Express
+  month: December
+  year: 2023
+  humble_scheme: choice
+  steam_id: 1390410
+- !ruby/object:Game
+  name: 'Expeditions: Rome'
+  month: December
+  year: 2023
+  humble_scheme: choice
+  steam_id: 987840
