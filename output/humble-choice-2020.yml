@@ -497,7 +497,7 @@
   month: June
   year: 2020
   humble_scheme: choice
-  steam_id: 703860
+  steam_id: 
 - !ruby/object:Game
   name: Supraland
   month: June
