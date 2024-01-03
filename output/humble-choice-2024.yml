@@ -1,0 +1,56 @@
+---
+2024:
+- !ruby/object:Game
+  name: Twin Mirror
+  month: January
+  year: 2024
+  humble_scheme: choice
+  steam_id: 1552810
+- !ruby/object:Game
+  name: Hell Pie
+  month: January
+  year: 2024
+  humble_scheme: choice
+  steam_id: 889910
+- !ruby/object:Game
+  name: The Red Lantern
+  month: January
+  year: 2024
+  humble_scheme: choice
+  steam_id: 1053710
+- !ruby/object:Game
+  name: Roguebook
+  month: January
+  year: 2024
+  humble_scheme: choice
+  steam_id: 1076200
+- !ruby/object:Game
+  name: Otxo
+  month: January
+  year: 2024
+  humble_scheme: choice
+  steam_id: 1608640
+- !ruby/object:Game
+  name: Aragami 2
+  month: January
+  year: 2024
+  humble_scheme: choice
+  steam_id: 1158370
+- !ruby/object:Game
+  name: Two Point Campus
+  month: January
+  year: 2024
+  humble_scheme: choice
+  steam_id: 1649080
+- !ruby/object:Game
+  name: Doctor Strange Defenders Skin
+  month: January
+  year: 2024
+  humble_scheme: choice
+  steam_id: 1712442
+- !ruby/object:Game
+  name: Marvel's Midnight Suns
+  month: January
+  year: 2024
+  humble_scheme: choice
+  steam_id: 368260
