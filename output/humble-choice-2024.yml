@@ -54,3 +54,51 @@
   year: 2024
   humble_scheme: choice
   steam_id: 368260
+- !ruby/object:Game
+  name: Snowtopia
+  month: February
+  year: 2024
+  humble_scheme: choice
+  steam_id: 1124260
+- !ruby/object:Game
+  name: Oaken
+  month: February
+  year: 2024
+  humble_scheme: choice
+  steam_id: 1348690
+- !ruby/object:Game
+  name: Children Of Silentown
+  month: February
+  year: 2024
+  humble_scheme: choice
+  steam_id: 1108000
+- !ruby/object:Game
+  name: There Is No Light
+  month: February
+  year: 2024
+  humble_scheme: choice
+  steam_id: 1132980
+- !ruby/object:Game
+  name: Beacon Pines
+  month: February
+  year: 2024
+  humble_scheme: choice
+  steam_id: 1269640
+- !ruby/object:Game
+  name: Destroy All Humans! 2 - Reprobed
+  month: February
+  year: 2024
+  humble_scheme: choice
+  steam_id: 1266700
+- !ruby/object:Game
+  name: Scorn
+  month: February
+  year: 2024
+  humble_scheme: choice
+  steam_id: 698670
+- !ruby/object:Game
+  name: 'Life Is Strange: True Colors'
+  month: February
+  year: 2024
+  humble_scheme: choice
+  steam_id: 936790
