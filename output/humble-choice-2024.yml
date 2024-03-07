@@ -102,3 +102,57 @@
   year: 2024
   humble_scheme: choice
   steam_id: 936790
+- !ruby/object:Game
+  name: 'Destroyer: The U-Boat Hunter'
+  month: March
+  year: 2024
+  humble_scheme: choice
+  steam_id: 1272010
+- !ruby/object:Game
+  name: Afterimage
+  month: March
+  year: 2024
+  humble_scheme: choice
+  steam_id: 1701520
+- !ruby/object:Game
+  name: Soulstice
+  month: March
+  year: 2024
+  humble_scheme: choice
+  steam_id: 1602080
+- !ruby/object:Game
+  name: Black Skylands
+  month: March
+  year: 2024
+  humble_scheme: choice
+  steam_id: 1143810
+- !ruby/object:Game
+  name: Citizen Sleeper
+  month: March
+  year: 2024
+  humble_scheme: choice
+  steam_id: 1578650
+- !ruby/object:Game
+  name: Saints Row
+  month: March
+  year: 2024
+  humble_scheme: choice
+  steam_id: 742420
+- !ruby/object:Game
+  name: Nioh 2 – The Complete Edition
+  month: March
+  year: 2024
+  humble_scheme: choice
+  steam_id: 1325200
+- !ruby/object:Game
+  name: 'Warhammer Age of Sigmar: Realms of Ruin Deluxe Upgrade Pack'
+  month: March
+  year: 2024
+  humble_scheme: choice
+  steam_id: 2531130
+- !ruby/object:Game
+  name: 'Warhammer Age Of Sigmar: Realms Of Ruin'
+  month: March
+  year: 2024
+  humble_scheme: choice
+  steam_id: 1844380
