@@ -156,3 +156,87 @@
   year: 2024
   humble_scheme: choice
   steam_id: 1844380
+- !ruby/object:Game
+  name: The Excavation Of Hob's Barrow
+  month: April
+  year: 2024
+  humble_scheme: choice
+  steam_id: 1182310
+- !ruby/object:Game
+  name: Coromon
+  month: April
+  year: 2024
+  humble_scheme: choice
+  steam_id: 1218210
+- !ruby/object:Game
+  name: 'Symphony Of War: The Nephilim Saga'
+  month: April
+  year: 2024
+  humble_scheme: choice
+  steam_id: 1488200
+- !ruby/object:Game
+  name: Terraformers
+  month: April
+  year: 2024
+  humble_scheme: choice
+  steam_id: 1244800
+- !ruby/object:Game
+  name: Fashion Police Squad
+  month: April
+  year: 2024
+  humble_scheme: choice
+  steam_id: 1319460
+- !ruby/object:Game
+  name: HUMANKIND™
+  month: April
+  year: 2024
+  humble_scheme: choice
+  steam_id: 1124300
+- !ruby/object:Game
+  name: HUMANKIND™ - Para Bellum Wonders Pack
+  month: April
+  year: 2024
+  humble_scheme: choice
+  steam_id: 2320210
+- !ruby/object:Game
+  name: HUMANKIND™ - Cultures of Oceania Pack
+  month: April
+  year: 2024
+  humble_scheme: choice
+  steam_id: 2320211
+- !ruby/object:Game
+  name: HUMANKIND™ - Cultures of Latin America Pack
+  month: April
+  year: 2024
+  humble_scheme: choice
+  steam_id: 1819410
+- !ruby/object:Game
+  name: HUMANKIND™ - Cultures of Africa Pack
+  month: April
+  year: 2024
+  humble_scheme: choice
+  steam_id: 1819400
+- !ruby/object:Game
+  name: HUMANKIND™ - Together We Rule Expansion Pack
+  month: April
+  year: 2024
+  humble_scheme: choice
+  steam_id: 1833990
+- !ruby/object:Game
+  name: HUMANKIND™ - Digital Deluxe Upgrade
+  month: April
+  year: 2024
+  humble_scheme: choice
+  steam_id: 1633650
+- !ruby/object:Game
+  name: The Callisto Protocol
+  month: April
+  year: 2024
+  humble_scheme: choice
+  steam_id: 1544020
+- !ruby/object:Game
+  name: Victoria 3
+  month: April
+  year: 2024
+  humble_scheme: choice
+  steam_id: 529340
