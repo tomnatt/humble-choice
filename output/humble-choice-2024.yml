@@ -240,3 +240,51 @@
   year: 2024
   humble_scheme: choice
   steam_id: 529340
+- !ruby/object:Game
+  name: Mediterranea Inferno
+  month: May
+  year: 2024
+  humble_scheme: choice
+  steam_id: 2103680
+- !ruby/object:Game
+  name: Amanda The Adventurer
+  month: May
+  year: 2024
+  humble_scheme: choice
+  steam_id: 2166060
+- !ruby/object:Game
+  name: Bravery And Greed
+  month: May
+  year: 2024
+  humble_scheme: choice
+  steam_id: 943370
+- !ruby/object:Game
+  name: King Of The Castle
+  month: May
+  year: 2024
+  humble_scheme: choice
+  steam_id: 1839880
+- !ruby/object:Game
+  name: Loddlenaut
+  month: May
+  year: 2024
+  humble_scheme: choice
+  steam_id: 1644940
+- !ruby/object:Game
+  name: Steelrising
+  month: May
+  year: 2024
+  humble_scheme: choice
+  steam_id: 1283400
+- !ruby/object:Game
+  name: Hi-Fi Rush
+  month: May
+  year: 2024
+  humble_scheme: choice
+  steam_id: 1817230
+- !ruby/object:Game
+  name: 'Yakuza: Like A Dragon'
+  month: May
+  year: 2024
+  humble_scheme: choice
+  steam_id: 1235140
