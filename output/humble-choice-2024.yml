@@ -288,3 +288,51 @@
   year: 2024
   humble_scheme: choice
   steam_id: 1235140
+- !ruby/object:Game
+  name: Empyrion - Galactic Survival
+  month: June
+  year: 2024
+  humble_scheme: choice
+  steam_id: 383120
+- !ruby/object:Game
+  name: A Guidebook Of Babel
+  month: June
+  year: 2024
+  humble_scheme: choice
+  steam_id: 1467920
+- !ruby/object:Game
+  name: 'Stray Gods: The Roleplaying Musical'
+  month: June
+  year: 2024
+  humble_scheme: choice
+  steam_id: 1920780
+- !ruby/object:Game
+  name: Miasma Chronicles
+  month: June
+  year: 2024
+  humble_scheme: choice
+  steam_id: 1649010
+- !ruby/object:Game
+  name: 'Warhammer 40,000: Battlesector'
+  month: June
+  year: 2024
+  humble_scheme: choice
+  steam_id: 1295500
+- !ruby/object:Game
+  name: LEGO® 2K Drive
+  month: June
+  year: 2024
+  humble_scheme: choice
+  steam_id: 1451810
+- !ruby/object:Game
+  name: 'Knights Of Honor II: Sovereign'
+  month: June
+  year: 2024
+  humble_scheme: choice
+  steam_id: 736820
+- !ruby/object:Game
+  name: Risk Of Rain 2
+  month: June
+  year: 2024
+  humble_scheme: choice
+  steam_id: 632360
