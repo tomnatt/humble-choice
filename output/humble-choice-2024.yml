@@ -336,3 +336,51 @@
   year: 2024
   humble_scheme: choice
   steam_id: 632360
+- !ruby/object:Game
+  name: Hyperviolent
+  month: July
+  year: 2024
+  humble_scheme: choice
+  steam_id: 1409200
+- !ruby/object:Game
+  name: Heretic'S Fork
+  month: July
+  year: 2024
+  humble_scheme: choice
+  steam_id: 2181610
+- !ruby/object:Game
+  name: 'Figment 2: Creed Valley'
+  month: July
+  year: 2024
+  humble_scheme: choice
+  steam_id: 1085220
+- !ruby/object:Game
+  name: Zoeti
+  month: July
+  year: 2024
+  humble_scheme: choice
+  steam_id: 1434540
+- !ruby/object:Game
+  name: Sticky Business
+  month: July
+  year: 2024
+  humble_scheme: choice
+  steam_id: 2303350
+- !ruby/object:Game
+  name: 'Starship Troopers: Terran Command'
+  month: July
+  year: 2024
+  humble_scheme: choice
+  steam_id: 1202130
+- !ruby/object:Game
+  name: Ghostrunner 2
+  month: July
+  year: 2024
+  humble_scheme: choice
+  steam_id: 2144740
+- !ruby/object:Game
+  name: 'A Plague Tale: Requiem'
+  month: July
+  year: 2024
+  humble_scheme: choice
+  steam_id: 1182900
