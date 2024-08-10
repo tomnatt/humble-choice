@@ -384,3 +384,51 @@
   year: 2024
   humble_scheme: choice
   steam_id: 1182900
+- !ruby/object:Game
+  name: This Means Warp
+  month: August
+  year: 2024
+  humble_scheme: choice
+  steam_id: 1269300
+- !ruby/object:Game
+  name: Universe For Sale
+  month: August
+  year: 2024
+  humble_scheme: choice
+  steam_id: 1627840
+- !ruby/object:Game
+  name: Diluvian Ultra
+  month: August
+  year: 2024
+  humble_scheme: choice
+  steam_id: 1306970
+- !ruby/object:Game
+  name: Astral Ascent
+  month: August
+  year: 2024
+  humble_scheme: choice
+  steam_id: 1280930
+- !ruby/object:Game
+  name: Blacktail
+  month: August
+  year: 2024
+  humble_scheme: choice
+  steam_id: 1532690
+- !ruby/object:Game
+  name: Gotham Knights
+  month: August
+  year: 2024
+  humble_scheme: choice
+  steam_id: 1496790
+- !ruby/object:Game
+  name: High On Life
+  month: August
+  year: 2024
+  humble_scheme: choice
+  steam_id: 1583230
+- !ruby/object:Game
+  name: Sifu
+  month: August
+  year: 2024
+  humble_scheme: choice
+  steam_id: 2138710

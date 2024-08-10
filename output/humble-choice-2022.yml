@@ -305,7 +305,7 @@
   month: June
   year: 2022
   humble_scheme: choice
-  steam_id: 
+  steam_id:
 - !ruby/object:Game
   name: Atom RPG Trudograd
   month: July

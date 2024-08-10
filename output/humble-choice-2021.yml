@@ -191,7 +191,7 @@
   month: March
   year: 2021
   humble_scheme: choice
-  steam_id: 
+  steam_id:
 - !ruby/object:Game
   name: Hotshot Racing
   month: March
@@ -299,7 +299,7 @@
   month: April
   year: 2021
   humble_scheme: choice
-  steam_id: 
+  steam_id:
 - !ruby/object:Game
   name: Sniper Ghost Warrior Contracts
   month: April

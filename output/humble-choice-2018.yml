@@ -125,7 +125,7 @@
   month: March
   year: 2018
   humble_scheme: monthly
-  steam_id: 2849850
+  steam_id: 25000
 - !ruby/object:Game
   name: Dark Souls™ III
   month: March
@@ -137,7 +137,7 @@
   month: April
   year: 2018
   humble_scheme: monthly
-  steam_id: 
+  steam_id:
 - !ruby/object:Game
   name: AER Memories of Old
   month: April
@@ -467,7 +467,7 @@
   month: October
   year: 2018
   humble_scheme: monthly
-  steam_id: 
+  steam_id:
 - !ruby/object:Game
   name: Hard Reset Redux
   month: November
@@ -515,7 +515,7 @@
   month: November
   year: 2018
   humble_scheme: monthly
-  steam_id: 
+  steam_id:
 - !ruby/object:Game
   name: Hollow Knight
   month: November
