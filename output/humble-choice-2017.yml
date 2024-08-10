@@ -35,7 +35,7 @@
   month: January
   year: 2017
   humble_scheme: monthly
-  steam_id: 
+  steam_id:
 - !ruby/object:Game
   name: 'Warhammer: End Times - Vermintide'
   month: January
@@ -221,7 +221,7 @@
   month: May
   year: 2017
   humble_scheme: monthly
-  steam_id: 
+  steam_id:
 - !ruby/object:Game
   name: Maize
   month: June
@@ -353,13 +353,13 @@
   month: August
   year: 2017
   humble_scheme: monthly
-  steam_id: 
+  steam_id:
 - !ruby/object:Game
   name: Eterium
   month: September
   year: 2017
   humble_scheme: monthly
-  steam_id: 
+  steam_id:
 - !ruby/object:Game
   name: HackyZack
   month: September

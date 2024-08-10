@@ -35,7 +35,7 @@
   month: January
   year: 2019
   humble_scheme: monthly
-  steam_id: 
+  steam_id:
 - !ruby/object:Game
   name: Wizard of Legend
   month: January
@@ -95,7 +95,7 @@
   month: February
   year: 2019
   humble_scheme: monthly
-  steam_id: 
+  steam_id:
 - !ruby/object:Game
   name: Tom Clancy's The Division
   month: February
@@ -287,7 +287,7 @@
   month: June
   year: 2019
   humble_scheme: monthly
-  steam_id: 
+  steam_id:
 - !ruby/object:Game
   name: 'NAIRI: Tower of Shirin'
   month: July
@@ -431,7 +431,7 @@
   month: October
   year: 2019
   humble_scheme: monthly
-  steam_id: 
+  steam_id:
 - !ruby/object:Game
   name: PLANET ALPHA
   month: October
@@ -527,7 +527,7 @@
   month: December
   year: 2019
   humble_scheme: monthly
-  steam_id: 312200
+  steam_id: 3135560
 - !ruby/object:Game
   name: Fluffy Horde
   month: December
