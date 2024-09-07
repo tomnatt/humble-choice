@@ -432,3 +432,57 @@
   year: 2024
   humble_scheme: choice
   steam_id: 2138710
+- !ruby/object:Game
+  name: Rue Valley - Alpha Playtest
+  month: September
+  year: 2024
+  humble_scheme: choice
+  steam_id:
+- !ruby/object:Game
+  name: You Suck at Parking® - Complete Edition
+  month: September
+  year: 2024
+  humble_scheme: choice
+  steam_id: 837880
+- !ruby/object:Game
+  name: InfraSpace
+  month: September
+  year: 2024
+  humble_scheme: choice
+  steam_id: 1511460
+- !ruby/object:Game
+  name: 'Astrea: Six-Sided Oracles'
+  month: September
+  year: 2024
+  humble_scheme: choice
+  steam_id: 1755830
+- !ruby/object:Game
+  name: Lost Eidolons
+  month: September
+  year: 2024
+  humble_scheme: choice
+  steam_id: 1580520
+- !ruby/object:Game
+  name: 'SpongeBob SquarePants: The Cosmic Shake'
+  month: September
+  year: 2024
+  humble_scheme: choice
+  steam_id: 1282150
+- !ruby/object:Game
+  name: Coral Island
+  month: September
+  year: 2024
+  humble_scheme: choice
+  steam_id: 1158160
+- !ruby/object:Game
+  name: 'Stranded: Alien Dawn'
+  month: September
+  year: 2024
+  humble_scheme: choice
+  steam_id: 1324130
+- !ruby/object:Game
+  name: Marvel's Guardians of the Galaxy
+  month: September
+  year: 2024
+  humble_scheme: choice
+  steam_id: 1088850
