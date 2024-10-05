@@ -486,3 +486,51 @@
   year: 2024
   humble_scheme: choice
   steam_id: 1088850
+- !ruby/object:Game
+  name: McPixel 3
+  month: October
+  year: 2024
+  humble_scheme: choice
+  steam_id: 1338580
+- !ruby/object:Game
+  name: Remnant Records
+  month: October
+  year: 2024
+  humble_scheme: choice
+  steam_id: 1916310
+- !ruby/object:Game
+  name: Station to Station
+  month: October
+  year: 2024
+  humble_scheme: choice
+  steam_id: 2272400
+- !ruby/object:Game
+  name: Jack Move
+  month: October
+  year: 2024
+  humble_scheme: choice
+  steam_id: 1099640
+- !ruby/object:Game
+  name: Dome Keeper
+  month: October
+  year: 2024
+  humble_scheme: choice
+  steam_id: 1637320
+- !ruby/object:Game
+  name: Jusant
+  month: October
+  year: 2024
+  humble_scheme: choice
+  steam_id: 1977170
+- !ruby/object:Game
+  name: Persona 5 Strikers
+  month: October
+  year: 2024
+  humble_scheme: choice
+  steam_id: 1382330
+- !ruby/object:Game
+  name: Remnant II
+  month: October
+  year: 2024
+  humble_scheme: choice
+  steam_id: 1282100
