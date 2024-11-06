@@ -721,7 +721,7 @@
   month: September
   year: 2021
   humble_scheme: choice
-  steam_id: 1016120
+  steam_id:
 - !ruby/object:Game
   name: Syberia 3
   month: October

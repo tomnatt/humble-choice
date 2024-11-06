@@ -479,7 +479,7 @@
   month: November
   year: 2017
   humble_scheme: monthly
-  steam_id: 364470
+  steam_id:
 - !ruby/object:Game
   name: The Elder Scrolls Online
   month: November
