@@ -534,3 +534,51 @@
   year: 2024
   humble_scheme: choice
   steam_id: 1282100
+- !ruby/object:Game
+  name: 'Garden Life: A Cozy Simulator'
+  month: November
+  year: 2024
+  humble_scheme: choice
+  steam_id: 1915380
+- !ruby/object:Game
+  name: Hexarchy
+  month: November
+  year: 2024
+  humble_scheme: choice
+  steam_id: 1356810
+- !ruby/object:Game
+  name: KarmaZoo
+  month: November
+  year: 2024
+  humble_scheme: choice
+  steam_id: 1661630
+- !ruby/object:Game
+  name: The Bookwalker
+  month: November
+  year: 2024
+  humble_scheme: choice
+  steam_id: 1432100
+- !ruby/object:Game
+  name: Cassette Beasts
+  month: November
+  year: 2024
+  humble_scheme: choice
+  steam_id: 1321440
+- !ruby/object:Game
+  name: The Lamplighters League
+  month: November
+  year: 2024
+  humble_scheme: choice
+  steam_id: 1167750
+- !ruby/object:Game
+  name: Persona 4 Golden
+  month: November
+  year: 2024
+  humble_scheme: choice
+  steam_id: 1113000
+- !ruby/object:Game
+  name: 'Warhammer 40,000: Darktide'
+  month: November
+  year: 2024
+  humble_scheme: choice
+  steam_id: 1361210
