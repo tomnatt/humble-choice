@@ -1,6 +1,7 @@
 require 'json'
 require 'net/http'
 require 'uri'
+require_relative 'game'
 
 class SteamStore
   def self.steam_ids
@@ -13,6 +14,12 @@ class SteamStore
       steam_ids_raw_json = Net::HTTP.get(URI.parse(steam_ids_url))
       steam_ids = JSON.parse(steam_ids_raw_json)
 
+      steam_ids['response']['apps'].each do |game|
+        g = Game.new(game['name'], nil, nil, nil)
+        g.steam_id = game['appid']
+        entries << g
+      end
+
       last_appid = steam_ids['response']['last_appid']
 
       # Stop this loop when there are no more results to fetch
@@ -21,5 +28,10 @@ class SteamStore
       # Brief pause to avoid hammering the API
       sleep(1)
     end
+
+    # Write steam store to file
+    f = File.open('steam/steam-store.yml', 'w+')
+    f << entries.to_yaml
+    f.close
   end
 end
