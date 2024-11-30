@@ -26,6 +26,7 @@ To run:
 All rake tasks (run through bundle, obv):
 
 ```
+rake delete_steam     # Delete Steam datastore
 rake generate         # Generate everything with output (default)
 rake generate_games   # Generate Game objects and YAML with no Steam Ids
 rake generate_silent  # Generate everything silently
