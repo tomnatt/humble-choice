@@ -37,8 +37,14 @@ task :generate_silent do
 end
 
 desc 'Create Steam datastore'
-task :get_steam do
-  store = SteamStore.new
+task get_steam: :delete_steam do
+  store = SteamStore.new(load_file: false)
   store.load_entries_from_steam_api
   store.save_entries
+end
+
+desc 'Delete Steam datastore'
+task :delete_steam do
+  store = SteamStore.new(load_file: false)
+  store.delete_entries_file
 end

@@ -1,6 +1,6 @@
 require_relative 'humble_data'
 require_relative 'game'
-require_relative 'steam_ids'
+require_relative 'steam_store'
 
 class HumbleChoiceGenerator
   def initialize
@@ -23,8 +23,8 @@ class HumbleChoiceGenerator
 
   # Populate Steam Ids
   def populate_steam_ids
-    steamids = SteamIds.new
-    @game_list = steamids.populate_all_games(@game_list)
+    steam_store = SteamStore.new
+    @game_list = steam_store.populate_all_games(@game_list)
   end
 
   # Create YAML
