@@ -36,7 +36,7 @@ task :generate_silent do
   hc.generate
 end
 
-desc 'Download Steam ids'
+desc 'Create Steam datastore'
 task :get_steam do
   SteamStore.steam_ids
 end
