@@ -1,4 +1,9 @@
 require './lib/humble_choice_generator'
+require './lib/steam_store'
+
+task :default do
+  Rake::Task['generate'].invoke
+end
 
 desc 'Generate Game objects and YAML with no Steam Ids'
 task :generate_games do
@@ -25,8 +30,13 @@ task :generate do
   end
 end
 
-# Generate everything silently
-task :default do
+desc 'Generate everything silently'
+task :generate_silent do
   hc = HumbleChoiceGenerator.new
   hc.generate
+end
+
+desc 'Download Steam ids'
+task :get_steam do
+  SteamStore.steam_ids
 end
