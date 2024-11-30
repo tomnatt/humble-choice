@@ -10,4 +10,18 @@ class Game
     @humble_scheme = scheme
     @steam_id = steam_id
   end
+
+  def as_json(_options = {})
+    {
+      name:          @name,
+      month:         @month,
+      year:          @year,
+      humble_scheme: @humble_scheme,
+      steam_id:      @steam_id
+    }
+  end
+
+  def to_json(*options)
+    as_json(*options).to_json(*options)
+  end
 end
