@@ -38,5 +38,7 @@ end
 
 desc 'Create Steam datastore'
 task :get_steam do
-  SteamStore.steam_ids
+  store = SteamStore.new
+  store.load_entries_from_steam_api
+  store.save_entries
 end
