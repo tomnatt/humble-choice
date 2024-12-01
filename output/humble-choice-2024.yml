@@ -55,7 +55,7 @@
   humble_scheme: choice
   steam_id: 368260
 - !ruby/object:Game
-  name: Snowtopia
+  name: 'Snowtopia: Ski Resort Builder'
   month: February
   year: 2024
   humble_scheme: choice
@@ -73,7 +73,7 @@
   humble_scheme: choice
   steam_id: 1108000
 - !ruby/object:Game
-  name: There Is No Light
+  name: 'There Is No Light: Enhanced Edition'
   month: February
   year: 2024
   humble_scheme: choice
@@ -229,7 +229,7 @@
   humble_scheme: choice
   steam_id: 1633650
 - !ruby/object:Game
-  name: The Callisto Protocol
+  name: The Callisto Protocol™
   month: April
   year: 2024
   humble_scheme: choice
@@ -523,13 +523,13 @@
   humble_scheme: choice
   steam_id: 1977170
 - !ruby/object:Game
-  name: Persona 5 Strikers
+  name: Persona® 5 Strikers
   month: October
   year: 2024
   humble_scheme: choice
   steam_id: 1382330
 - !ruby/object:Game
-  name: Remnant II
+  name: REMNANT II®
   month: October
   year: 2024
   humble_scheme: choice
@@ -553,7 +553,7 @@
   humble_scheme: choice
   steam_id: 1661630
 - !ruby/object:Game
-  name: The Bookwalker
+  name: 'The Bookwalker: Thief of Tales'
   month: November
   year: 2024
   humble_scheme: choice

@@ -113,7 +113,7 @@
   month: March
   year: 2016
   humble_scheme: monthly
-  steam_id: 404730
+  steam_id: 240760
 - !ruby/object:Game
   name: 'ARK: Survival Evolved'
   month: March
@@ -121,7 +121,7 @@
   humble_scheme: monthly
   steam_id: 346110
 - !ruby/object:Game
-  name: Stikbold!
+  name: Stikbold! A Dodgeball Adventure
   month: April
   year: 2016
   humble_scheme: monthly
@@ -203,7 +203,7 @@
   month: May
   year: 2016
   humble_scheme: monthly
-  steam_id: 535120
+  steam_id: 293780
 - !ruby/object:Game
   name: Infinifactory
   month: May
@@ -223,7 +223,7 @@
   humble_scheme: monthly
   steam_id: 327510
 - !ruby/object:Game
-  name: Steredenn
+  name: 'Steredenn: Binary Stars'
   month: June
   year: 2016
   humble_scheme: monthly
@@ -257,7 +257,7 @@
   month: June
   year: 2016
   humble_scheme: monthly
-  steam_id: 252950
+  steam_id:
 - !ruby/object:Game
   name: Cthulhu Realms - Full Version
   month: July
@@ -289,7 +289,7 @@
   humble_scheme: monthly
   steam_id: 268870
 - !ruby/object:Game
-  name: Kentucky Route Zero
+  name: 'Kentucky Route Zero: PC Edition'
   month: July
   year: 2016
   humble_scheme: monthly
@@ -337,11 +337,11 @@
   humble_scheme: monthly
   steam_id: 400170
 - !ruby/object:Game
-  name: 'Call of Duty: Black Ops III - Multiplayer'
+  name: 'Call of Duty: Black Ops III - Multiplayer Starter Pack'
   month: August
   year: 2016
   humble_scheme: monthly
-  steam_id: 366841
+  steam_id: 437350
 - !ruby/object:Game
   name: Town of Salem
   month: September
@@ -365,7 +365,7 @@
   month: September
   year: 2016
   humble_scheme: monthly
-  steam_id: 385730
+  steam_id:
 - !ruby/object:Game
   name: The Banner Saga
   month: September

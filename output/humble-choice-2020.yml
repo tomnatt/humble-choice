@@ -1,7 +1,7 @@
 ---
 2020:
 - !ruby/object:Game
-  name: Artifex Car Pack
+  name: 'GRIP: Combat Racing - Artifex Car Pack'
   month: January
   year: 2020
   humble_scheme: choice
@@ -43,7 +43,7 @@
   humble_scheme: choice
   steam_id: 585420
 - !ruby/object:Game
-  name: Bad North
+  name: 'Bad North: Jotunn Edition'
   month: January
   year: 2020
   humble_scheme: choice
@@ -77,7 +77,7 @@
   month: January
   year: 2020
   humble_scheme: choice
-  steam_id: 2099990
+  steam_id: 599140
 - !ruby/object:Game
   name: 'Middle-earth™: Shadow of War™'
   month: January
@@ -145,7 +145,7 @@
   humble_scheme: choice
   steam_id: 449960
 - !ruby/object:Game
-  name: 'Pathfinder: Kingmaker'
+  name: 'Pathfinder: Kingmaker — Enhanced Plus Edition'
   month: February
   year: 2020
   humble_scheme: choice
@@ -221,7 +221,7 @@
   month: March
   year: 2020
   humble_scheme: choice
-  steam_id: 928600
+  steam_id:
 - !ruby/object:Game
   name: Planet Coaster - World's Fair Pack
   month: March
@@ -259,7 +259,7 @@
   humble_scheme: choice
   steam_id: 1091980
 - !ruby/object:Game
-  name: Truberbrook
+  name: Truberbrook / Trüberbrook
   month: April
   year: 2020
   humble_scheme: choice
@@ -277,7 +277,7 @@
   humble_scheme: choice
   steam_id: 718650
 - !ruby/object:Game
-  name: 'Raiden V: Director''s Cut'
+  name: 'Raiden V: Director''s Cut | 雷電 V Director''s Cut | 雷電V:導演剪輯版'
   month: April
   year: 2020
   humble_scheme: choice
@@ -385,13 +385,13 @@
   humble_scheme: choice
   steam_id: 399620
 - !ruby/object:Game
-  name: XCOM 2
+  name: XCOM® 2
   month: May
   year: 2020
   humble_scheme: choice
   steam_id: 268500
 - !ruby/object:Game
-  name: Jurassic World Evolution - Deluxe DLC
+  name: Jurassic World Evolution - Deluxe Dinosaur Pack
   month: May
   year: 2020
   humble_scheme: choice
@@ -437,7 +437,7 @@
   month: June
   year: 2020
   humble_scheme: choice
-  steam_id: 274440
+  steam_id: 1260050
 - !ruby/object:Game
   name: 'Men of War: Assault Squad 2 - Ostfront Veteranen'
   month: June
@@ -457,7 +457,7 @@
   humble_scheme: choice
   steam_id: 327130
 - !ruby/object:Game
-  name: 'Men of War: Assault Squad 2 - Deluxe Edition content'
+  name: 'Men of War: Assault Squad 2 - Deluxe Edition upgrade'
   month: June
   year: 2020
   humble_scheme: choice
@@ -535,7 +535,7 @@
   humble_scheme: choice
   steam_id: 1173200
 - !ruby/object:Game
-  name: Sigma Theory
+  name: 'Sigma Theory: Global Cold War'
   month: July
   year: 2020
   humble_scheme: choice
@@ -547,7 +547,7 @@
   humble_scheme: choice
   steam_id: 618740
 - !ruby/object:Game
-  name: Yuppie Psycho
+  name: 'Yuppie Psycho: Executive Edition'
   month: July
   year: 2020
   humble_scheme: choice
@@ -631,7 +631,7 @@
   humble_scheme: choice
   steam_id: 574720
 - !ruby/object:Game
-  name: Call of Cthulhu
+  name: Call of Cthulhu®
   month: August
   year: 2020
   humble_scheme: choice
@@ -799,13 +799,7 @@
   humble_scheme: choice
   steam_id: 899310
 - !ruby/object:Game
-  name: Sunless Sea
-  month: October
-  year: 2020
-  humble_scheme: choice
-  steam_id: 304650
-- !ruby/object:Game
-  name: Sunless Skies
+  name: 'Sunless Skies: Sovereign Edition'
   month: October
   year: 2020
   humble_scheme: choice
@@ -817,11 +811,17 @@
   humble_scheme: choice
   steam_id: 995980
 - !ruby/object:Game
-  name: Tropico 6 El Prez Edition Pack
+  name: Tropico 6 - El Prez Edition Upgrade
   month: October
   year: 2020
   humble_scheme: choice
   steam_id: 881960
+- !ruby/object:Game
+  name: Tropico 6
+  month: October
+  year: 2020
+  humble_scheme: choice
+  steam_id: 492720
 - !ruby/object:Game
   name: Townsmen - A Kingdom Rebuilt
   month: November
