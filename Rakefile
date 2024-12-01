@@ -28,6 +28,17 @@ task :generate do
       puts o
     end
   end
+
+  puts "\n"
+
+  # Output count of missing games
+  total = 0
+  missing.keys.sort.each do |year|
+    puts "#{year}: #{missing[year].count}" unless missing[year].empty?
+    total += missing[year].count
+  end
+
+  puts "Total: #{total}"
 end
 
 desc 'Generate everything silently'

@@ -9,7 +9,6 @@ class SteamStore
   def initialize(load_file: true)
     @entries = []
     @ids_file = 'steam/steam-store.yml'
-    # @ids_file = 'steam/test-store.yml'
 
     load_entries_from_file if load_file
   end
@@ -75,9 +74,13 @@ class SteamStore
 
   private
 
-  def steam_api_url(last_appid = '')
-    steam_api_url = "https://api.steampowered.com/IStoreService/GetAppList/v1/?key=#{ENV.fetch('STEAM_API_KEY')}&max_results=50000&last_appid="
-    "#{steam_api_url}#{last_appid}"
+  def steam_api_url(last_appid_number = '')
+    steam_api_url = "https://api.steampowered.com/IStoreService/GetAppList/v1/?key=#{ENV.fetch('STEAM_API_KEY')}"
+    max_results = '&max_results=50000'
+    include_dlc = '&include_dlc=true'
+    last_appid = "&last_appid=#{last_appid_number}"
+
+    "#{steam_api_url}#{max_results}#{include_dlc}#{last_appid}"
   end
 
   def load_json(last_appid)
