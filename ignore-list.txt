@@ -6,10 +6,15 @@ Overwatch
 Rue Valley - Alpha Playtest
 Star Wars Squadrons
 
+# Games that seem to be on sale but don't appear in the listing
+Outward Soundtrack
+
 # Games withdrawn from sale on Steam
+Borderlands 3: Director's Cut
 Beyond Eyes
 Dirt Rally
 Eterium
+F1 2019
 F1 2020
 GRID (2019)
 HITMAN™
@@ -23,5 +28,7 @@ Project CARS
 Project CARS 2
 Quantum Break
 Rapture Rejects
+Rocket League
 The Elder Scrolls: Legends
+WWE 2k16
 WWE 2k23
