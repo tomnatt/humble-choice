@@ -10,8 +10,7 @@ task :generate_games do
   puts 'Generating Games with no Steam Ids'
   hc = HumbleChoiceGenerator.new
   hc.generate_list
-  hc.generate_yaml
-  hc.generate_json
+  hc.generate_output
 end
 
 desc 'Generate everything with output (default)'
