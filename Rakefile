@@ -13,7 +13,7 @@ task :generate_games do
   hc.generate_yaml
 end
 
-desc 'Generate everything with output'
+desc 'Generate everything with output (default)'
 task :generate do
   puts 'Generating...'
   hc = HumbleChoiceGenerator.new
@@ -58,4 +58,16 @@ desc 'Delete Steam datastore'
 task :delete_steam do
   store = SteamStore.new(load_file: false)
   store.delete_entries_file
+end
+
+desc 'Regenerate everything'
+task :regenerate do
+  Rake::Task['get_steam'].invoke
+  Rake::Task['generate'].invoke
+end
+
+desc 'Regenerate everything with no output'
+task :regenerate_silent do
+  Rake::Task['get_steam'].invoke
+  Rake::Task['generate_silent'].invoke
 end

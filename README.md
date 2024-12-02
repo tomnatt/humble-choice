@@ -23,12 +23,16 @@ To run:
 * `bundle exec rake get_steam` to generate steam database - needed first time, then occasionally update
 * `bundle exec rake` to generate all Humble output files
 
+Or `bundle exec rake regenerate` will do it all in a single step.
+
 All rake tasks (run through bundle, obv):
 
 ```
-rake delete_steam     # Delete Steam datastore
-rake generate         # Generate everything with output (default)
-rake generate_games   # Generate Game objects and YAML with no Steam Ids
-rake generate_silent  # Generate everything silently
-rake get_steam        # Create Steam datastore
+rake delete_steam       # Delete Steam datastore
+rake generate           # Generate everything with output (default)
+rake generate_games     # Generate Game objects and YAML with no Steam Ids
+rake generate_silent    # Generate everything silently
+rake get_steam          # Create Steam datastore
+rake regenerate         # Regenerate everything
+rake regenerate_silent  # Regenerate everything with no output
 ```
