@@ -67,7 +67,7 @@
   humble_scheme: monthly
   steam_id: 322190
 - !ruby/object:Game
-  name: ABZÛ
+  name: ABZU
   month: February
   year: 2017
   humble_scheme: monthly
@@ -79,7 +79,7 @@
   humble_scheme: monthly
   steam_id: 302510
 - !ruby/object:Game
-  name: XCOM 2
+  name: XCOM® 2
   month: February
   year: 2017
   humble_scheme: monthly
@@ -91,7 +91,7 @@
   humble_scheme: monthly
   steam_id: 494720
 - !ruby/object:Game
-  name: RIVE
+  name: 'RIVE: Wreck, Hack, Die, Retry!'
   month: March
   year: 2017
   humble_scheme: monthly
@@ -127,7 +127,7 @@
   humble_scheme: monthly
   steam_id: 364360
 - !ruby/object:Game
-  name: Slime-san
+  name: 'Slime-san: Superslime Edition'
   month: April
   year: 2017
   humble_scheme: monthly
@@ -185,7 +185,7 @@
   month: May
   year: 2017
   humble_scheme: monthly
-  steam_id: 533240
+  steam_id:
 - !ruby/object:Game
   name: GoNNER
   month: May
@@ -215,7 +215,7 @@
   month: May
   year: 2017
   humble_scheme: monthly
-  steam_id: 2596760
+  steam_id: 304430
 - !ruby/object:Game
   name: Dirt Rally
   month: May
@@ -313,7 +313,7 @@
   humble_scheme: monthly
   steam_id: 1304780
 - !ruby/object:Game
-  name: Wuppo - Definitive Edition
+  name: 'Wuppo: Definitive Edition'
   month: August
   year: 2017
   humble_scheme: monthly
@@ -415,7 +415,7 @@
   humble_scheme: monthly
   steam_id: 366320
 - !ruby/object:Game
-  name: Orwell
+  name: 'Orwell: Keeping an Eye On You'
   month: October
   year: 2017
   humble_scheme: monthly
@@ -433,7 +433,7 @@
   humble_scheme: monthly
   steam_id: 251060
 - !ruby/object:Game
-  name: Rise of the Tomb Raider
+  name: Rise of the Tomb Raider™
   month: October
   year: 2017
   humble_scheme: monthly
@@ -457,7 +457,7 @@
   humble_scheme: monthly
   steam_id: 314790
 - !ruby/object:Game
-  name: Dead Rising 2
+  name: Dead Rising® 2
   month: November
   year: 2017
   humble_scheme: monthly
@@ -473,7 +473,7 @@
   month: November
   year: 2017
   humble_scheme: monthly
-  steam_id: 21699
+  steam_id: 21690
 - !ruby/object:Game
   name: 'The Elder Scrolls: Legends'
   month: November
@@ -481,7 +481,7 @@
   humble_scheme: monthly
   steam_id:
 - !ruby/object:Game
-  name: The Elder Scrolls Online
+  name: The Elder Scrolls® Online
   month: November
   year: 2017
   humble_scheme: monthly

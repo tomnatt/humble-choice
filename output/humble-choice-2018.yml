@@ -7,7 +7,7 @@
   humble_scheme: monthly
   steam_id: 534290
 - !ruby/object:Game
-  name: Mr Shifty
+  name: Mr. Shifty
   month: January
   year: 2018
   humble_scheme: monthly
@@ -79,13 +79,37 @@
   humble_scheme: monthly
   steam_id: 343860
 - !ruby/object:Game
-  name: Life is Strange™
+  name: Life is Strange - Episode 5
+  month: February
+  year: 2018
+  humble_scheme: monthly
+  steam_id: 329930
+- !ruby/object:Game
+  name: Life is Strange - Episode 4
+  month: February
+  year: 2018
+  humble_scheme: monthly
+  steam_id: 329920
+- !ruby/object:Game
+  name: Life is Strange - Episode 3
+  month: February
+  year: 2018
+  humble_scheme: monthly
+  steam_id: 329910
+- !ruby/object:Game
+  name: Life is Strange - Episode 2
+  month: February
+  year: 2018
+  humble_scheme: monthly
+  steam_id: 329880
+- !ruby/object:Game
+  name: Life is Strange - Episode 1
   month: February
   year: 2018
   humble_scheme: monthly
   steam_id: 319630
 - !ruby/object:Game
-  name: Sid Meier's Civilization VI
+  name: Sid Meier’s Civilization® VI
   month: February
   year: 2018
   humble_scheme: monthly
@@ -115,7 +139,7 @@
   humble_scheme: monthly
   steam_id: 446840
 - !ruby/object:Game
-  name: Lost Castle
+  name: Lost Castle / 失落城堡
   month: March
   year: 2018
   humble_scheme: monthly
@@ -175,7 +199,7 @@
   humble_scheme: monthly
   steam_id: 438490
 - !ruby/object:Game
-  name: 'Deus Ex: Mankind Divided™'
+  name: 'Deus Ex: Mankind Divided'
   month: April
   year: 2018
   humble_scheme: monthly
@@ -185,7 +209,7 @@
   month: May
   year: 2018
   humble_scheme: monthly
-  steam_id: 545270
+  steam_id:
 - !ruby/object:Game
   name: Jalopy
   month: May
@@ -235,11 +259,23 @@
   humble_scheme: monthly
   steam_id: 390710
 - !ruby/object:Game
-  name: Bear With Me - Collector's Edition
+  name: Bear With Me - Episode Three
   month: June
   year: 2018
   humble_scheme: monthly
-  steam_id: 783050
+  steam_id: 698250
+- !ruby/object:Game
+  name: Bear With Me - Episode Two
+  month: June
+  year: 2018
+  humble_scheme: monthly
+  steam_id: 583140
+- !ruby/object:Game
+  name: Bear With Me - Episode One
+  month: June
+  year: 2018
+  humble_scheme: monthly
+  steam_id: 492630
 - !ruby/object:Game
   name: Ken Follett's The Pillars of the Earth
   month: June
@@ -385,7 +421,7 @@
   humble_scheme: monthly
   steam_id: 416680
 - !ruby/object:Game
-  name: Battle Chef Brigade
+  name: Battle Chef Brigade Deluxe
   month: September
   year: 2018
   humble_scheme: monthly
@@ -403,7 +439,7 @@
   humble_scheme: monthly
   steam_id: 424840
 - !ruby/object:Game
-  name: Rise of the Tomb Raider
+  name: Rise of the Tomb Raider™
   month: September
   year: 2018
   humble_scheme: monthly
@@ -415,7 +451,7 @@
   humble_scheme: monthly
   steam_id: 405710
 - !ruby/object:Game
-  name: Tales of Berseria
+  name: Tales of Berseria™
   month: September
   year: 2018
   humble_scheme: monthly
@@ -535,7 +571,7 @@
   humble_scheme: monthly
   steam_id: 471010
 - !ruby/object:Game
-  name: Purrfect Date
+  name: Purrfect Date - Visual Novel/Dating Simulator
   month: December
   year: 2018
   humble_scheme: monthly

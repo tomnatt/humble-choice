@@ -13,7 +13,7 @@
   humble_scheme: monthly
   steam_id: 680360
 - !ruby/object:Game
-  name: 'Sundered: Eldritch Edition'
+  name: 'Sundered®: Eldritch Edition'
   month: January
   year: 2019
   humble_scheme: monthly
@@ -43,7 +43,7 @@
   humble_scheme: monthly
   steam_id: 445980
 - !ruby/object:Game
-  name: Just Cause 3
+  name: Just Cause™ 3
   month: January
   year: 2019
   humble_scheme: monthly
@@ -73,13 +73,13 @@
   humble_scheme: monthly
   steam_id: 416600
 - !ruby/object:Game
-  name: Tom Clancy's The Division - Survival
+  name: Tom Clancy’s The Division™ - Survival
   month: February
   year: 2019
   humble_scheme: monthly
   steam_id: 556470
 - !ruby/object:Game
-  name: Rock of Ages 2
+  name: 'Rock of Ages 2: Bigger & Boulder™'
   month: February
   year: 2019
   humble_scheme: monthly
@@ -97,7 +97,7 @@
   humble_scheme: monthly
   steam_id:
 - !ruby/object:Game
-  name: Tom Clancy's The Division
+  name: Tom Clancy’s The Division™
   month: February
   year: 2019
   humble_scheme: monthly
@@ -131,7 +131,7 @@
   month: March
   year: 2019
   humble_scheme: monthly
-  steam_id: 3070400
+  steam_id: 584980
 - !ruby/object:Game
   name: Tower Unite
   month: March
@@ -145,17 +145,23 @@
   humble_scheme: monthly
   steam_id: 718670
 - !ruby/object:Game
-  name: EARTH DEFENSE FORCE 4.1  The Shadow of New Despair
+  name: EARTH DEFENSE FORCE 4.1 The Shadow of New Despair
   month: March
   year: 2019
   humble_scheme: monthly
   steam_id: 410320
 - !ruby/object:Game
-  name: 'Warhammer: Vermintide 2 - Collector''s Edition'
+  name: 'Warhammer: Vermintide 2 - Collector''s Edition Upgrade'
   month: March
   year: 2019
   humble_scheme: monthly
   steam_id: 737040
+- !ruby/object:Game
+  name: 'Warhammer: Vermintide 2'
+  month: March
+  year: 2019
+  humble_scheme: monthly
+  steam_id: 552500
 - !ruby/object:Game
   name: 'Dandara: Trials of Fear Edition'
   month: April
@@ -163,7 +169,7 @@
   humble_scheme: monthly
   steam_id: 612390
 - !ruby/object:Game
-  name: Steel Rats
+  name: Steel Rats™
   month: April
   year: 2019
   humble_scheme: monthly
@@ -205,7 +211,7 @@
   humble_scheme: monthly
   steam_id: 466560
 - !ruby/object:Game
-  name: I’m not a Monster
+  name: 'I am not a Monster: First Contact'
   month: May
   year: 2019
   humble_scheme: monthly
@@ -241,7 +247,7 @@
   humble_scheme: monthly
   steam_id: 530320
 - !ruby/object:Game
-  name: Assassin's Creed Origins
+  name: Assassin's Creed® Origins
   month: May
   year: 2019
   humble_scheme: monthly
@@ -451,7 +457,7 @@
   humble_scheme: monthly
   steam_id: 584400
 - !ruby/object:Game
-  name: BATTLETECH - Shadow Hawk Pack
+  name: BATTLETECH Shadow Hawk Pack
   month: October
   year: 2019
   humble_scheme: monthly
@@ -475,7 +481,7 @@
   humble_scheme: monthly
   steam_id: 576500
 - !ruby/object:Game
-  name: SYNTHETIK
+  name: 'SYNTHETIK: Legion Rising'
   month: November
   year: 2019
   humble_scheme: monthly
@@ -505,13 +511,13 @@
   humble_scheme: monthly
   steam_id: 731490
 - !ruby/object:Game
-  name: 'Call of Duty: WWII'
+  name: 'Call of Duty®: WWII'
   month: November
   year: 2019
   humble_scheme: monthly
   steam_id: 476600
 - !ruby/object:Game
-  name: Sword Legacy Omen
+  name: 'Sword Legacy: Omen'
   month: December
   year: 2019
   humble_scheme: monthly
@@ -527,7 +533,7 @@
   month: December
   year: 2019
   humble_scheme: monthly
-  steam_id: 3135560
+  steam_id: 312200
 - !ruby/object:Game
   name: Fluffy Horde
   month: December
@@ -607,7 +613,7 @@
   humble_scheme: choice
   steam_id: 774361
 - !ruby/object:Game
-  name: Shadow of the Tomb Raider
+  name: 'Shadow of the Tomb Raider: Definitive Edition'
   month: December
   year: 2019
   humble_scheme: choice

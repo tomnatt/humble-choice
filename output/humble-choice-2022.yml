@@ -31,7 +31,7 @@
   humble_scheme: choice
   steam_id: 1089980
 - !ruby/object:Game
-  name: Rustler
+  name: Rustler (Grand Theft Horse)
   month: January
   year: 2022
   humble_scheme: choice
@@ -107,7 +107,7 @@
   month: February
   year: 2022
   humble_scheme: choice
-  steam_id: 1361831
+  steam_id:
 - !ruby/object:Game
   name: Borderlands 3
   month: February
@@ -169,7 +169,7 @@
   humble_scheme: choice
   steam_id: 633230
 - !ruby/object:Game
-  name: Chicken Police
+  name: Chicken Police - Paint it RED!
   month: April
   year: 2022
   humble_scheme: choice
@@ -223,7 +223,7 @@
   humble_scheme: choice
   steam_id: 735290
 - !ruby/object:Game
-  name: If Found
+  name: If Found...
   month: May
   year: 2022
   humble_scheme: choice
@@ -331,13 +331,13 @@
   humble_scheme: choice
   steam_id: 1480560
 - !ruby/object:Game
-  name: Legend Of Keepers
+  name: 'Legend of Keepers: Career of a Dungeon Manager'
   month: July
   year: 2022
   humble_scheme: choice
   steam_id: 978520
 - !ruby/object:Game
-  name: Legion TD 2
+  name: Legion TD 2 - Multiplayer Tower Defense
   month: July
   year: 2022
   humble_scheme: choice
@@ -427,7 +427,7 @@
   humble_scheme: choice
   steam_id: 681280
 - !ruby/object:Game
-  name: Crown Trick
+  name: Crown Trick / 不思议的皇冠
   month: September
   year: 2022
   humble_scheme: choice
@@ -445,7 +445,7 @@
   humble_scheme: choice
   steam_id: 970830
 - !ruby/object:Game
-  name: Just Cause 4
+  name: Just Cause 4 Reloaded
   month: September
   year: 2022
   humble_scheme: choice
@@ -535,7 +535,7 @@
   humble_scheme: choice
   steam_id: 692890
 - !ruby/object:Game
-  name: 'Shadow Tactics: Blades of the Shogun - Aiko''s Choice'
+  name: 'Shadow Tactics: Aiko''s Choice'
   month: November
   year: 2022
   humble_scheme: choice
@@ -571,7 +571,7 @@
   humble_scheme: choice
   steam_id: 447120
 - !ruby/object:Game
-  name: Toem
+  name: 'TOEM: A Photo Adventure'
   month: December
   year: 2022
   humble_scheme: choice

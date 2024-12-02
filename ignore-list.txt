@@ -1,4 +1,4 @@
-# Known games which will not have a Steam ID
+# Known apps / games which will not have a Steam ID
 
 # Games on a non-Steam platform
 Black Ops 4 Battle Edition
@@ -6,16 +6,23 @@ Overwatch
 Rue Valley - Alpha Playtest
 Star Wars Squadrons
 
-# Games withdrawn from sale on Steam
+# Games / apps that seem to be on sale but don't appear in the listing
+GoNNER OST
+Outward Soundtrack
+
+# Games / apps withdrawn from sale on Steam
+Borderlands 3: Director's Cut
 Beyond Eyes
 Dirt Rally
 Eterium
+F1 2019
 F1 2020
 GRID (2019)
 HITMAN™
 HITMAN™ 2
 Laser League: World Arena
 NBA 2K17
+NBA Playgrounds
 Override
 Peaky Blinders: Mastermind
 PGA Tour 2k21
@@ -23,5 +30,7 @@ Project CARS
 Project CARS 2
 Quantum Break
 Rapture Rejects
+Rocket League
 The Elder Scrolls: Legends
+WWE 2k16
 WWE 2k23

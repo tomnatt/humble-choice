@@ -37,7 +37,7 @@
   humble_scheme: choice
   steam_id: 1190170
 - !ruby/object:Game
-  name: Encased
+  name: 'Encased: A Sci-Fi Post-Apocalyptic RPG'
   month: January
   year: 2023
   humble_scheme: choice
@@ -91,7 +91,7 @@
   humble_scheme: choice
   steam_id: 973760
 - !ruby/object:Game
-  name: Fallout
+  name: 'Fallout: A Post Nuclear Role Playing Game'
   month: February
   year: 2023
   humble_scheme: choice
@@ -121,7 +121,7 @@
   humble_scheme: choice
   steam_id: 1245430
 - !ruby/object:Game
-  name: Demon Turf
+  name: 'Demon Turf: Queens Edition'
   month: March
   year: 2023
   humble_scheme: choice
@@ -253,7 +253,7 @@
   humble_scheme: choice
   steam_id: 1114290
 - !ruby/object:Game
-  name: Operation Tango
+  name: 'Operation: Tango'
   month: May
   year: 2023
   humble_scheme: choice
@@ -343,7 +343,7 @@
   humble_scheme: choice
   steam_id: 1972440
 - !ruby/object:Game
-  name: Ozymandias
+  name: 'Ozymandias: Bronze Age Empire Sim'
   month: July
   year: 2023
   humble_scheme: choice
@@ -397,7 +397,7 @@
   humble_scheme: choice
   steam_id: 1315980
 - !ruby/object:Game
-  name: Suchart!
+  name: 'SuchArt: Genius Artist Simulator'
   month: August
   year: 2023
   humble_scheme: choice
@@ -415,7 +415,7 @@
   humble_scheme: choice
   steam_id: 1370050
 - !ruby/object:Game
-  name: Road 96
+  name: "Road 96 \U0001F6E3️"
   month: August
   year: 2023
   humble_scheme: choice
@@ -427,7 +427,7 @@
   humble_scheme: choice
   steam_id: 1824220
 - !ruby/object:Game
-  name: Disco Elysium
+  name: Disco Elysium - The Final Cut
   month: August
   year: 2023
   humble_scheme: choice
@@ -457,7 +457,7 @@
   humble_scheme: choice
   steam_id: 1347970
 - !ruby/object:Game
-  name: Aces and Adventures
+  name: Aces & Adventures
   month: September
   year: 2023
   humble_scheme: choice
@@ -529,13 +529,13 @@
   humble_scheme: choice
   steam_id: 1061910
 - !ruby/object:Game
-  name: The Quarry - Horror History Visual Filter Pack
+  name: The Quarry – Horror History Visual Filter Pack
   month: October
   year: 2023
   humble_scheme: choice
   steam_id: 1877110
 - !ruby/object:Game
-  name: The Quarry - Deluxe Edition Content Pack
+  name: The Quarry – Deluxe Bonus Content Pack
   month: October
   year: 2023
   humble_scheme: choice
@@ -553,7 +553,7 @@
   humble_scheme: choice
   steam_id: 1419160
 - !ruby/object:Game
-  name: 'SCP : Secret Files'
+  name: 'SCP: Secret Files'
   month: November
   year: 2023
   humble_scheme: choice

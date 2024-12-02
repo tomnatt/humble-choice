@@ -1,6 +1,6 @@
 require_relative 'humble_data'
 require_relative 'game'
-require_relative 'steam_ids'
+require_relative 'steam_store'
 
 class HumbleChoiceGenerator
   def initialize
@@ -23,8 +23,8 @@ class HumbleChoiceGenerator
 
   # Populate Steam Ids
   def populate_steam_ids
-    steamids = SteamIds.new
-    @game_list = steamids.populate_all_games(@game_list)
+    steam_store = SteamStore.new
+    @game_list = steam_store.populate_all_games(@game_list)
   end
 
   # Create YAML
@@ -41,7 +41,7 @@ class HumbleChoiceGenerator
   def read_ignore_list
     f = File.open('ignore-list.txt', 'r')
     f.each_line do |line|
-      @ignore_list << line.chomp unless line.chars.first == '#'
+      @ignore_list << line.downcase.chomp unless line.chars.first == '#'
     end
   end
 
@@ -52,7 +52,7 @@ class HumbleChoiceGenerator
 
       @game_list[year].each do |game|
         # Include if empty, and not on ignore list
-        missing[year] << game if game.steam_id.nil? && !(@ignore_list.include? game.name)
+        missing[year] << game if game.steam_id.nil? && !(@ignore_list.include? game.name.downcase)
       end
     end
 

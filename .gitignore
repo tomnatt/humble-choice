@@ -1,6 +1,8 @@
 # Project ignores
 test.rb
-keys/
+keys
+steam/*
+!steam/.keep
 
 # Ruby directories
 *.gem
