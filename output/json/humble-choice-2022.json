@@ -1,0 +1,702 @@
+[
+  {
+    "name": "Midnight Protocol",
+    "month": "January",
+    "year": 2022,
+    "humble_scheme": "choice",
+    "steam_id": 1162700
+  },
+  {
+    "name": "Retrowave",
+    "month": "January",
+    "year": 2022,
+    "humble_scheme": "choice",
+    "steam_id": 1239690
+  },
+  {
+    "name": "Between The Stars",
+    "month": "January",
+    "year": 2022,
+    "humble_scheme": "choice",
+    "steam_id": 727130
+  },
+  {
+    "name": "Farmer's Dynasty",
+    "month": "January",
+    "year": 2022,
+    "humble_scheme": "choice",
+    "steam_id": 678900
+  },
+  {
+    "name": "The Henry Stickmin Collection",
+    "month": "January",
+    "year": 2022,
+    "humble_scheme": "choice",
+    "steam_id": 1089980
+  },
+  {
+    "name": "Rustler (Grand Theft Horse)",
+    "month": "January",
+    "year": 2022,
+    "humble_scheme": "choice",
+    "steam_id": 844260
+  },
+  {
+    "name": "Rebel Cops",
+    "month": "January",
+    "year": 2022,
+    "humble_scheme": "choice",
+    "steam_id": 970960
+  },
+  {
+    "name": "Project Winter",
+    "month": "January",
+    "year": 2022,
+    "humble_scheme": "choice",
+    "steam_id": 774861
+  },
+  {
+    "name": "Iron Harvest",
+    "month": "January",
+    "year": 2022,
+    "humble_scheme": "choice",
+    "steam_id": 826630
+  },
+  {
+    "name": "Mafia: Definitive Edition",
+    "month": "January",
+    "year": 2022,
+    "humble_scheme": "choice",
+    "steam_id": 1030840
+  },
+  {
+    "name": "Calico",
+    "month": "February",
+    "year": 2022,
+    "humble_scheme": "choice",
+    "steam_id": 1112890
+  },
+  {
+    "name": "Everhood",
+    "month": "February",
+    "year": 2022,
+    "humble_scheme": "choice",
+    "steam_id": 1229380
+  },
+  {
+    "name": "Paradise Lost",
+    "month": "February",
+    "year": 2022,
+    "humble_scheme": "choice",
+    "steam_id": 982720
+  },
+  {
+    "name": "Before We Leave",
+    "month": "February",
+    "year": 2022,
+    "humble_scheme": "choice",
+    "steam_id": 1073910
+  },
+  {
+    "name": "Just Die Already",
+    "month": "February",
+    "year": 2022,
+    "humble_scheme": "choice",
+    "steam_id": 979070
+  },
+  {
+    "name": "Per Aspera",
+    "month": "February",
+    "year": 2022,
+    "humble_scheme": "choice",
+    "steam_id": 803050
+  },
+  {
+    "name": "Black Book",
+    "month": "February",
+    "year": 2022,
+    "humble_scheme": "choice",
+    "steam_id": 1138660
+  },
+  {
+    "name": "Borderlands 3: Director's Cut",
+    "month": "February",
+    "year": 2022,
+    "humble_scheme": "choice",
+    "steam_id": null
+  },
+  {
+    "name": "Borderlands 3",
+    "month": "February",
+    "year": 2022,
+    "humble_scheme": "choice",
+    "steam_id": 397540
+  },
+  {
+    "name": "Evan's Remains",
+    "month": "March",
+    "year": 2022,
+    "humble_scheme": "choice",
+    "steam_id": 1110050
+  },
+  {
+    "name": "Police Stories",
+    "month": "March",
+    "year": 2022,
+    "humble_scheme": "choice",
+    "steam_id": 539470
+  },
+  {
+    "name": "Nebuchadnezzar",
+    "month": "March",
+    "year": 2022,
+    "humble_scheme": "choice",
+    "steam_id": 1157220
+  },
+  {
+    "name": "Red Solstice 2: Survivors",
+    "month": "March",
+    "year": 2022,
+    "humble_scheme": "choice",
+    "steam_id": 768520
+  },
+  {
+    "name": "The Dark Pictures Anthology: Man Of Medan",
+    "month": "March",
+    "year": 2022,
+    "humble_scheme": "choice",
+    "steam_id": 939850
+  },
+  {
+    "name": "Nickelodeon All-star Brawl",
+    "month": "March",
+    "year": 2022,
+    "humble_scheme": "choice",
+    "steam_id": 1414850
+  },
+  {
+    "name": "Mass Effect™ Legendary Edition",
+    "month": "March",
+    "year": 2022,
+    "humble_scheme": "choice",
+    "steam_id": 1328670
+  },
+  {
+    "name": "Desperados III",
+    "month": "March",
+    "year": 2022,
+    "humble_scheme": "choice",
+    "steam_id": 610370
+  },
+  {
+    "name": "Naruto To Boruto: Shinobi Striker",
+    "month": "April",
+    "year": 2022,
+    "humble_scheme": "choice",
+    "steam_id": 633230
+  },
+  {
+    "name": "Chicken Police - Paint it RED!",
+    "month": "April",
+    "year": 2022,
+    "humble_scheme": "choice",
+    "steam_id": 1084640
+  },
+  {
+    "name": "Suzerain",
+    "month": "April",
+    "year": 2022,
+    "humble_scheme": "choice",
+    "steam_id": 1207650
+  },
+  {
+    "name": "Rogue Heroes: Ruins Of Tasos",
+    "month": "April",
+    "year": 2022,
+    "humble_scheme": "choice",
+    "steam_id": 787810
+  },
+  {
+    "name": "Killsquad",
+    "month": "April",
+    "year": 2022,
+    "humble_scheme": "choice",
+    "steam_id": 910490
+  },
+  {
+    "name": "Monster Sanctuary",
+    "month": "April",
+    "year": 2022,
+    "humble_scheme": "choice",
+    "steam_id": 814370
+  },
+  {
+    "name": "Destroy All Humans!",
+    "month": "April",
+    "year": 2022,
+    "humble_scheme": "choice",
+    "steam_id": 803330
+  },
+  {
+    "name": "Ghostrunner",
+    "month": "April",
+    "year": 2022,
+    "humble_scheme": "choice",
+    "steam_id": 1139900
+  },
+  {
+    "name": "Embr",
+    "month": "May",
+    "year": 2022,
+    "humble_scheme": "choice",
+    "steam_id": 1062830
+  },
+  {
+    "name": "Genesis Noir",
+    "month": "May",
+    "year": 2022,
+    "humble_scheme": "choice",
+    "steam_id": 735290
+  },
+  {
+    "name": "If Found...",
+    "month": "May",
+    "year": 2022,
+    "humble_scheme": "choice",
+    "steam_id": 1041920
+  },
+  {
+    "name": "Surviving The Aftermath",
+    "month": "May",
+    "year": 2022,
+    "humble_scheme": "choice",
+    "steam_id": 684450
+  },
+  {
+    "name": "Spellcaster University",
+    "month": "May",
+    "year": 2022,
+    "humble_scheme": "choice",
+    "steam_id": 895620
+  },
+  {
+    "name": "Command & Conquer™ Remastered Collection",
+    "month": "May",
+    "year": 2022,
+    "humble_scheme": "choice",
+    "steam_id": 1213210
+  },
+  {
+    "name": "Spongebob Squarepants: Battle For Bikini Bottom - Rehydrated",
+    "month": "May",
+    "year": 2022,
+    "humble_scheme": "choice",
+    "steam_id": 969990
+  },
+  {
+    "name": "Planet Zoo",
+    "month": "May",
+    "year": 2022,
+    "humble_scheme": "choice",
+    "steam_id": 703080
+  },
+  {
+    "name": "Superhot: Mind Control Delete",
+    "month": "June",
+    "year": 2022,
+    "humble_scheme": "choice",
+    "steam_id": 690040
+  },
+  {
+    "name": "I Am Fish",
+    "month": "June",
+    "year": 2022,
+    "humble_scheme": "choice",
+    "steam_id": 1472560
+  },
+  {
+    "name": "Siege Survival: Gloria Victis",
+    "month": "June",
+    "year": 2022,
+    "humble_scheme": "choice",
+    "steam_id": 1167140
+  },
+  {
+    "name": "Pumpkin Jack",
+    "month": "June",
+    "year": 2022,
+    "humble_scheme": "choice",
+    "steam_id": 1186640
+  },
+  {
+    "name": "Gamedec - Definitive Edition",
+    "month": "June",
+    "year": 2022,
+    "humble_scheme": "choice",
+    "steam_id": 917720
+  },
+  {
+    "name": "Call Of The Sea",
+    "month": "June",
+    "year": 2022,
+    "humble_scheme": "choice",
+    "steam_id": 1042490
+  },
+  {
+    "name": "Phoenix Point",
+    "month": "June",
+    "year": 2022,
+    "humble_scheme": "choice",
+    "steam_id": 839770
+  },
+  {
+    "name": "Star Wars Squadrons",
+    "month": "June",
+    "year": 2022,
+    "humble_scheme": "choice",
+    "steam_id": null
+  },
+  {
+    "name": "Atom RPG Trudograd",
+    "month": "July",
+    "year": 2022,
+    "humble_scheme": "choice",
+    "steam_id": 1139940
+  },
+  {
+    "name": "Yes, Your Grace",
+    "month": "July",
+    "year": 2022,
+    "humble_scheme": "choice",
+    "steam_id": 1115690
+  },
+  {
+    "name": "Banners Of Ruin",
+    "month": "July",
+    "year": 2022,
+    "humble_scheme": "choice",
+    "steam_id": 1075740
+  },
+  {
+    "name": "Lawn Mowing Simulator",
+    "month": "July",
+    "year": 2022,
+    "humble_scheme": "choice",
+    "steam_id": 1480560
+  },
+  {
+    "name": "Legend of Keepers: Career of a Dungeon Manager",
+    "month": "July",
+    "year": 2022,
+    "humble_scheme": "choice",
+    "steam_id": 978520
+  },
+  {
+    "name": "Legion TD 2 - Multiplayer Tower Defense",
+    "month": "July",
+    "year": 2022,
+    "humble_scheme": "choice",
+    "steam_id": 469600
+  },
+  {
+    "name": "Necromunda: Hired Gun",
+    "month": "July",
+    "year": 2022,
+    "humble_scheme": "choice",
+    "steam_id": 1222370
+  },
+  {
+    "name": "Deep Rock Galactic",
+    "month": "July",
+    "year": 2022,
+    "humble_scheme": "choice",
+    "steam_id": 548430
+  },
+  {
+    "name": "Omno",
+    "month": "August",
+    "year": 2022,
+    "humble_scheme": "choice",
+    "steam_id": 969760
+  },
+  {
+    "name": "Emily Is Away <3",
+    "month": "August",
+    "year": 2022,
+    "humble_scheme": "choice",
+    "steam_id": 978460
+  },
+  {
+    "name": "Mind Scanners",
+    "month": "August",
+    "year": 2022,
+    "humble_scheme": "choice",
+    "steam_id": 1389550
+  },
+  {
+    "name": "In Sound Mind",
+    "month": "August",
+    "year": 2022,
+    "humble_scheme": "choice",
+    "steam_id": 1119980
+  },
+  {
+    "name": "Gas Station Simulator",
+    "month": "August",
+    "year": 2022,
+    "humble_scheme": "choice",
+    "steam_id": 1149620
+  },
+  {
+    "name": "A Plague Tale: Innocence",
+    "month": "August",
+    "year": 2022,
+    "humble_scheme": "choice",
+    "steam_id": 752590
+  },
+  {
+    "name": "Hot Wheels Unleashed™",
+    "month": "August",
+    "year": 2022,
+    "humble_scheme": "choice",
+    "steam_id": 1271700
+  },
+  {
+    "name": "The Ascent",
+    "month": "August",
+    "year": 2022,
+    "humble_scheme": "choice",
+    "steam_id": 979690
+  },
+  {
+    "name": "Shapez - Puzzle DLC",
+    "month": "September",
+    "year": 2022,
+    "humble_scheme": "choice",
+    "steam_id": 1625400
+  },
+  {
+    "name": "Shapez",
+    "month": "September",
+    "year": 2022,
+    "humble_scheme": "choice",
+    "steam_id": 1318690
+  },
+  {
+    "name": "Industria",
+    "month": "September",
+    "year": 2022,
+    "humble_scheme": "choice",
+    "steam_id": 1172650
+  },
+  {
+    "name": "Descenders",
+    "month": "September",
+    "year": 2022,
+    "humble_scheme": "choice",
+    "steam_id": 681280
+  },
+  {
+    "name": "Crown Trick / 不思议的皇冠",
+    "month": "September",
+    "year": 2022,
+    "humble_scheme": "choice",
+    "steam_id": 1000010
+  },
+  {
+    "name": "Forgive Me Father",
+    "month": "September",
+    "year": 2022,
+    "humble_scheme": "choice",
+    "steam_id": 1590910
+  },
+  {
+    "name": "The Dungeon Of Naheulbeuk: The Amulet Of Chaos",
+    "month": "September",
+    "year": 2022,
+    "humble_scheme": "choice",
+    "steam_id": 970830
+  },
+  {
+    "name": "Just Cause 4 Reloaded",
+    "month": "September",
+    "year": 2022,
+    "humble_scheme": "choice",
+    "steam_id": 517630
+  },
+  {
+    "name": "Crusader Kings III",
+    "month": "September",
+    "year": 2022,
+    "humble_scheme": "choice",
+    "steam_id": 1158310
+  },
+  {
+    "name": "Golf Gang",
+    "month": "October",
+    "year": 2022,
+    "humble_scheme": "choice",
+    "steam_id": 1151050
+  },
+  {
+    "name": "Railroad Corporation",
+    "month": "October",
+    "year": 2022,
+    "humble_scheme": "choice",
+    "steam_id": 797400
+  },
+  {
+    "name": "Epic Chef",
+    "month": "October",
+    "year": 2022,
+    "humble_scheme": "choice",
+    "steam_id": 1312960
+  },
+  {
+    "name": "Maid Of Sker",
+    "month": "October",
+    "year": 2022,
+    "humble_scheme": "choice",
+    "steam_id": 826940
+  },
+  {
+    "name": "Disciples: Liberation",
+    "month": "October",
+    "year": 2022,
+    "humble_scheme": "choice",
+    "steam_id": 1287840
+  },
+  {
+    "name": "The Dark Pictures Anthology: Little Hope",
+    "month": "October",
+    "year": 2022,
+    "humble_scheme": "choice",
+    "steam_id": 1194630
+  },
+  {
+    "name": "Monster Train",
+    "month": "October",
+    "year": 2022,
+    "humble_scheme": "choice",
+    "steam_id": 1102190
+  },
+  {
+    "name": "Deathloop",
+    "month": "October",
+    "year": 2022,
+    "humble_scheme": "choice",
+    "steam_id": 1252330
+  },
+  {
+    "name": "Morbid: The Seven Acolytes",
+    "month": "November",
+    "year": 2022,
+    "humble_scheme": "choice",
+    "steam_id": 1140890
+  },
+  {
+    "name": "Raji: An Ancient Epic",
+    "month": "November",
+    "year": 2022,
+    "humble_scheme": "choice",
+    "steam_id": 730390
+  },
+  {
+    "name": "Unmetal",
+    "month": "November",
+    "year": 2022,
+    "humble_scheme": "choice",
+    "steam_id": 1203710
+  },
+  {
+    "name": "Eldest Souls",
+    "month": "November",
+    "year": 2022,
+    "humble_scheme": "choice",
+    "steam_id": 1108590
+  },
+  {
+    "name": "Roboquest",
+    "month": "November",
+    "year": 2022,
+    "humble_scheme": "choice",
+    "steam_id": 692890
+  },
+  {
+    "name": "Shadow Tactics: Aiko's Choice",
+    "month": "November",
+    "year": 2022,
+    "humble_scheme": "choice",
+    "steam_id": 1579380
+  },
+  {
+    "name": "Kingdoms of Amalur: Re-Reckoning - Fatesworn",
+    "month": "November",
+    "year": 2022,
+    "humble_scheme": "choice",
+    "steam_id": 1278260
+  },
+  {
+    "name": "Hell Let Loose",
+    "month": "November",
+    "year": 2022,
+    "humble_scheme": "choice",
+    "steam_id": 686810
+  },
+  {
+    "name": "Super Magbot",
+    "month": "December",
+    "year": 2022,
+    "humble_scheme": "choice",
+    "steam_id": 1205170
+  },
+  {
+    "name": "Blade Assault",
+    "month": "December",
+    "year": 2022,
+    "humble_scheme": "choice",
+    "steam_id": 1367300
+  },
+  {
+    "name": "Where The Water Tastes Like Wine",
+    "month": "December",
+    "year": 2022,
+    "humble_scheme": "choice",
+    "steam_id": 447120
+  },
+  {
+    "name": "TOEM: A Photo Adventure",
+    "month": "December",
+    "year": 2022,
+    "humble_scheme": "choice",
+    "steam_id": 1307580
+  },
+  {
+    "name": "Tails Noir",
+    "month": "December",
+    "year": 2022,
+    "humble_scheme": "choice",
+    "steam_id": 865610
+  },
+  {
+    "name": "First Class Trouble",
+    "month": "December",
+    "year": 2022,
+    "humble_scheme": "choice",
+    "steam_id": 953880
+  },
+  {
+    "name": "Greedfall",
+    "month": "December",
+    "year": 2022,
+    "humble_scheme": "choice",
+    "steam_id": 606880
+  },
+  {
+    "name": "Wasteland 3",
+    "month": "December",
+    "year": 2022,
+    "humble_scheme": "choice",
+    "steam_id": 719040
+  }
+]

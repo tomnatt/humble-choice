@@ -12,7 +12,7 @@ class HumbleChoiceGenerator
   def generate
     generate_list
     populate_steam_ids
-    generate_yaml
+    generate_output
   end
 
   # Generate game list
@@ -27,14 +27,18 @@ class HumbleChoiceGenerator
     @game_list = steam_store.populate_all_games(@game_list)
   end
 
-  # Create YAML
-  def generate_yaml
+  # Create YAML and JSON
+  def generate_output
     @game_list.each_key do |year|
       o = { year => @game_list[year] }
 
-      f = File.open("output/humble-choice-#{year}.yml", 'w+')
-      f << o.to_yaml
-      f.close
+      yaml_file = File.open("output/yaml/humble-choice-#{year}.yml", 'w+')
+      yaml_file << o.to_yaml
+      yaml_file.close
+
+      json_file = File.open("output/json/humble-choice-#{year}.json", 'w+')
+      json_file << JSON.pretty_generate(@game_list[year])
+      json_file.close
     end
   end
 

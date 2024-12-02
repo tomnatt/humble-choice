@@ -5,12 +5,12 @@ task :default do
   Rake::Task['generate'].invoke
 end
 
-desc 'Generate Game objects and YAML with no Steam Ids'
+desc 'Generate Game objects, YAML and JSON with no Steam Ids'
 task :generate_games do
   puts 'Generating Games with no Steam Ids'
   hc = HumbleChoiceGenerator.new
   hc.generate_list
-  hc.generate_yaml
+  hc.generate_output
 end
 
 desc 'Generate everything with output (default)'
