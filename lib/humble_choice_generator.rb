@@ -27,19 +27,26 @@ class HumbleChoiceGenerator
     @game_list = steam_store.populate_all_games(@game_list)
   end
 
-  # Create YAML and JSON
+  # Create all YAML and JSON files
   def generate_output
+    all_yaml_output = {}
+    all_json_output = []
+
     @game_list.each_key do |year|
+      # Prep output objects for all in one files
+      all_yaml_output[year] = @game_list[year]
+      all_json_output.push(*@game_list[year])
+
+      # YAML output by year
       o = { year => @game_list[year] }
+      File.write("output/yaml/humble-choice-#{year}.yml", o.to_yaml)
 
-      yaml_file = File.open("output/yaml/humble-choice-#{year}.yml", 'w+')
-      yaml_file << o.to_yaml
-      yaml_file.close
-
-      json_file = File.open("output/json/humble-choice-#{year}.json", 'w+')
-      json_file << JSON.pretty_generate(@game_list[year])
-      json_file.close
+      # JSON output by year
+      File.write("output/json/humble-choice-#{year}.json", JSON.pretty_generate(@game_list[year]))
     end
+
+    File.write('output/yaml/humble-choice-all.yml', all_yaml_output.to_yaml)
+    File.write('output/json/humble-choice-all.json', JSON.pretty_generate(all_json_output))
   end
 
   def read_ignore_list

@@ -14,8 +14,8 @@ class HumbleData
 
     monthly = read_data(@spreadsheet.worksheets.first, 'monthly')
     choice = read_data(@spreadsheet.worksheets.last, 'choice')
-    # Merge Monthly and Choice lists - on overlap, merge the clashing arrays
-    @output = monthly.merge(choice) { |_y, m, c| m.concat(c) }
+    # Merge Monthly and Choice lists - on overlap, merge the clashing arrays then sort the keys
+    @output = monthly.merge(choice) { |_y, m, c| m.concat(c) }.sort.to_h
   end
 
   def read_data(worksheet, source)
