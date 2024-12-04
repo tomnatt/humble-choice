@@ -582,3 +582,81 @@
   year: 2024
   humble_scheme: choice
   steam_id: 1361210
+- !ruby/object:Game
+  name: 'Monster Prom 3: Monster Roadtrip'
+  month: December
+  year: 2024
+  humble_scheme: choice
+  steam_id: 1665190
+- !ruby/object:Game
+  name: Venba
+  month: December
+  year: 2024
+  humble_scheme: choice
+  steam_id: 1491670
+- !ruby/object:Game
+  name: Inkulinati
+  month: December
+  year: 2024
+  humble_scheme: choice
+  steam_id: 957960
+- !ruby/object:Game
+  name: Moonstone Island
+  month: December
+  year: 2024
+  humble_scheme: choice
+  steam_id: 1658150
+- !ruby/object:Game
+  name: The Invincible
+  month: December
+  year: 2024
+  humble_scheme: choice
+  steam_id: 731040
+- !ruby/object:Game
+  name: 'Crime Boss: Rockay City - Tactical Weapon Pack'
+  month: December
+  year: 2024
+  humble_scheme: choice
+  steam_id: 2934440
+- !ruby/object:Game
+  name: 'Crime Boss: Rockay City - Heavy Hitters Pack'
+  month: December
+  year: 2024
+  humble_scheme: choice
+  steam_id: 2934460
+- !ruby/object:Game
+  name: 'Crime Boss: Rockay City - Dragon''s Gold Cup'
+  month: December
+  year: 2024
+  humble_scheme: choice
+  steam_id: 2934450
+- !ruby/object:Game
+  name: 'Crime Boss: Rockay City - Cagnali''s Order'
+  month: December
+  year: 2024
+  humble_scheme: choice
+  steam_id: 2939860
+- !ruby/object:Game
+  name: 'Crime Boss: Rockay City'
+  month: December
+  year: 2024
+  humble_scheme: choice
+  steam_id: 2933080
+- !ruby/object:Game
+  name: 'Atlas Fallen: Reign of Sand'
+  month: December
+  year: 2024
+  humble_scheme: choice
+  steam_id: 1230530
+- !ruby/object:Game
+  name: Old World
+  month: December
+  year: 2024
+  humble_scheme: choice
+  steam_id: 597180
+- !ruby/object:Game
+  name: Bomb Rush Cyberfunk
+  month: December
+  year: 2024
+  humble_scheme: choice
+  steam_id: 1353230
