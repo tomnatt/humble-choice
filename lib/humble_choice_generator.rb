@@ -29,41 +29,24 @@ class HumbleChoiceGenerator
 
   # Create all YAML and JSON files
   def generate_output
-    generate_output_by_year
-    generate_output_all
-  end
+    all_yaml_output = {}
+    all_json_output = []
 
-  # Create YAML and JSON year files
-  def generate_output_by_year
     @game_list.each_key do |year|
+      # Prep output objects for all in one files
+      all_yaml_output[year] = @game_list[year]
+      all_json_output.push(*@game_list[year])
+
+      # YAML output by year
       o = { year => @game_list[year] }
+      File.write("output/yaml/humble-choice-#{year}.yml", o.to_yaml)
 
-      yaml_file = File.open("output/yaml/humble-choice-#{year}.yml", 'w+')
-      yaml_file << o.to_yaml
-      yaml_file.close
-
-      json_file = File.open("output/json/humble-choice-#{year}.json", 'w+')
-      json_file << JSON.pretty_generate(@game_list[year])
-      json_file.close
-    end
-  end
-
-  # Create YAML and JSON all in one files
-  def generate_output_all
-    yaml_output = {}
-    json_output = []
-    @game_list.each_key do |year|
-      yaml_output[year] = @game_list[year]
-      json_output.push(*@game_list[year])
+      # JSON output by year
+      File.write("output/json/humble-choice-#{year}.json", JSON.pretty_generate(@game_list[year]))
     end
 
-    yaml_file = File.open('output/yaml/humble-choice-all.yml', 'w+')
-    yaml_file << yaml_output.to_yaml
-    yaml_file.close
-
-    json_file = File.open('output/json/humble-choice-all.json', 'w+')
-    json_file << JSON.pretty_generate(json_output)
-    json_file.close
+    File.write('output/yaml/humble-choice-all.yml', all_yaml_output.to_yaml)
+    File.write('output/json/humble-choice-all.json', JSON.pretty_generate(all_json_output))
   end
 
   def read_ignore_list
