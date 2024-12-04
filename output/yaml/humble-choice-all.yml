@@ -1,0 +1,6199 @@
+---
+2015:
+- !ruby/object:Game
+  name: Legend of Grimrock
+  month: November
+  year: 2015
+  humble_scheme: monthly
+  steam_id: 207170
+- !ruby/object:Game
+  name: TowerFall Ascension
+  month: November
+  year: 2015
+  humble_scheme: monthly
+  steam_id: 251470
+- !ruby/object:Game
+  name: 'SanctuaryRPG: Black Edition'
+  month: November
+  year: 2015
+  humble_scheme: monthly
+  steam_id: 328760
+- !ruby/object:Game
+  name: Lethal League
+  month: November
+  year: 2015
+  humble_scheme: monthly
+  steam_id: 261180
+- !ruby/object:Game
+  name: Valkyria Chronicles™
+  month: November
+  year: 2015
+  humble_scheme: monthly
+  steam_id: 294860
+- !ruby/object:Game
+  name: Besiege
+  month: November
+  year: 2015
+  humble_scheme: monthly
+  steam_id: 346010
+- !ruby/object:Game
+  name: 'Saints Row IV: Re-Elected'
+  month: November
+  year: 2015
+  humble_scheme: monthly
+  steam_id: 206420
+- !ruby/object:Game
+  name: Legend of Grimrock 2
+  month: November
+  year: 2015
+  humble_scheme: monthly
+  steam_id: 251730
+- !ruby/object:Game
+  name: Company of Heroes 2
+  month: December
+  year: 2015
+  humble_scheme: monthly
+  steam_id: 231430
+- !ruby/object:Game
+  name: Chroma Squad
+  month: December
+  year: 2015
+  humble_scheme: monthly
+  steam_id: 251130
+- !ruby/object:Game
+  name: NEON STRUCT
+  month: December
+  year: 2015
+  humble_scheme: monthly
+  steam_id: 310740
+- !ruby/object:Game
+  name: PAYDAY 2
+  month: December
+  year: 2015
+  humble_scheme: monthly
+  steam_id: 218620
+- !ruby/object:Game
+  name: Rust
+  month: December
+  year: 2015
+  humble_scheme: monthly
+  steam_id: 252490
+- !ruby/object:Game
+  name: Banished
+  month: December
+  year: 2015
+  humble_scheme: monthly
+  steam_id: 242920
+- !ruby/object:Game
+  name: TowerFall Ascension
+  month: December
+  year: 2015
+  humble_scheme: monthly
+  steam_id: 251470
+2016:
+- !ruby/object:Game
+  name: A Fistful of Gun
+  month: January
+  year: 2016
+  humble_scheme: monthly
+  steam_id: 229810
+- !ruby/object:Game
+  name: Spelunky
+  month: January
+  year: 2016
+  humble_scheme: monthly
+  steam_id: 239350
+- !ruby/object:Game
+  name: Grim Fandango Remastered
+  month: January
+  year: 2016
+  humble_scheme: monthly
+  steam_id: 316790
+- !ruby/object:Game
+  name: Mushroom 11
+  month: January
+  year: 2016
+  humble_scheme: monthly
+  steam_id: 243160
+- !ruby/object:Game
+  name: The Masterplan
+  month: January
+  year: 2016
+  humble_scheme: monthly
+  steam_id: 313080
+- !ruby/object:Game
+  name: The Talos Principle
+  month: January
+  year: 2016
+  humble_scheme: monthly
+  steam_id: 257510
+- !ruby/object:Game
+  name: PAYDAY 2
+  month: January
+  year: 2016
+  humble_scheme: monthly
+  steam_id: 218620
+- !ruby/object:Game
+  name: Dropsy
+  month: February
+  year: 2016
+  humble_scheme: monthly
+  steam_id: 274350
+- !ruby/object:Game
+  name: Penarium
+  month: February
+  year: 2016
+  humble_scheme: monthly
+  steam_id: 307590
+- !ruby/object:Game
+  name: Volume
+  month: February
+  year: 2016
+  humble_scheme: monthly
+  steam_id: 365770
+- !ruby/object:Game
+  name: Broken Age
+  month: February
+  year: 2016
+  humble_scheme: monthly
+  steam_id: 232790
+- !ruby/object:Game
+  name: Titan Souls
+  month: February
+  year: 2016
+  humble_scheme: monthly
+  steam_id: 297130
+- !ruby/object:Game
+  name: 'Alien: Isolation'
+  month: February
+  year: 2016
+  humble_scheme: monthly
+  steam_id: 214490
+- !ruby/object:Game
+  name: Switchcars
+  month: March
+  year: 2016
+  humble_scheme: monthly
+  steam_id: 442210
+- !ruby/object:Game
+  name: Sentinels of the Multiverse
+  month: March
+  year: 2016
+  humble_scheme: monthly
+  steam_id: 337150
+- !ruby/object:Game
+  name: I am Bread
+  month: March
+  year: 2016
+  humble_scheme: monthly
+  steam_id: 327890
+- !ruby/object:Game
+  name: Shantae and the Pirate's Curse
+  month: March
+  year: 2016
+  humble_scheme: monthly
+  steam_id: 345820
+- !ruby/object:Game
+  name: GRAV
+  month: March
+  year: 2016
+  humble_scheme: monthly
+  steam_id: 332500
+- !ruby/object:Game
+  name: 'Wasteland 2: Director''s Cut'
+  month: March
+  year: 2016
+  humble_scheme: monthly
+  steam_id: 240760
+- !ruby/object:Game
+  name: 'ARK: Survival Evolved'
+  month: March
+  year: 2016
+  humble_scheme: monthly
+  steam_id: 346110
+- !ruby/object:Game
+  name: Stikbold! A Dodgeball Adventure
+  month: April
+  year: 2016
+  humble_scheme: monthly
+  steam_id: 429330
+- !ruby/object:Game
+  name: 'Avalanche 2: Super Avalanche'
+  month: April
+  year: 2016
+  humble_scheme: monthly
+  steam_id: 351250
+- !ruby/object:Game
+  name: The Magic Circle
+  month: April
+  year: 2016
+  humble_scheme: monthly
+  steam_id: 323380
+- !ruby/object:Game
+  name: Nova-111
+  month: April
+  year: 2016
+  humble_scheme: monthly
+  steam_id: 325370
+- !ruby/object:Game
+  name: 'Renowned Explorers: International Society'
+  month: April
+  year: 2016
+  humble_scheme: monthly
+  steam_id: 296970
+- !ruby/object:Game
+  name: Nuclear Throne
+  month: April
+  year: 2016
+  humble_scheme: monthly
+  steam_id: 242680
+- !ruby/object:Game
+  name: 'South Park™: The Stick of Truth™'
+  month: April
+  year: 2016
+  humble_scheme: monthly
+  steam_id: 213670
+- !ruby/object:Game
+  name: This War of Mine
+  month: April
+  year: 2016
+  humble_scheme: monthly
+  steam_id: 282070
+- !ruby/object:Game
+  name: 1993 Space Machine
+  month: May
+  year: 2016
+  humble_scheme: monthly
+  steam_id: 373480
+- !ruby/object:Game
+  name: 'Oddworld: New ''n'' Tasty'
+  month: May
+  year: 2016
+  humble_scheme: monthly
+  steam_id: 314660
+- !ruby/object:Game
+  name: Fran Bow
+  month: May
+  year: 2016
+  humble_scheme: monthly
+  steam_id: 362680
+- !ruby/object:Game
+  name: JumpJet Rex
+  month: May
+  year: 2016
+  humble_scheme: monthly
+  steam_id: 329460
+- !ruby/object:Game
+  name: Galak-Z
+  month: May
+  year: 2016
+  humble_scheme: monthly
+  steam_id: 300580
+- !ruby/object:Game
+  name: Crawl
+  month: May
+  year: 2016
+  humble_scheme: monthly
+  steam_id: 293780
+- !ruby/object:Game
+  name: Infinifactory
+  month: May
+  year: 2016
+  humble_scheme: monthly
+  steam_id: 300570
+- !ruby/object:Game
+  name: MAD MAX
+  month: May
+  year: 2016
+  humble_scheme: monthly
+  steam_id: 234140
+- !ruby/object:Game
+  name: WASTED
+  month: June
+  year: 2016
+  humble_scheme: monthly
+  steam_id: 327510
+- !ruby/object:Game
+  name: 'Steredenn: Binary Stars'
+  month: June
+  year: 2016
+  humble_scheme: monthly
+  steam_id: 347160
+- !ruby/object:Game
+  name: Dungeon of the Endless™
+  month: June
+  year: 2016
+  humble_scheme: monthly
+  steam_id: 249050
+- !ruby/object:Game
+  name: Keep Talking and Nobody Explodes
+  month: June
+  year: 2016
+  humble_scheme: monthly
+  steam_id: 341800
+- !ruby/object:Game
+  name: 'Planetary Annihilation: TITANS'
+  month: June
+  year: 2016
+  humble_scheme: monthly
+  steam_id: 386070
+- !ruby/object:Game
+  name: The Forest
+  month: June
+  year: 2016
+  humble_scheme: monthly
+  steam_id: 242760
+- !ruby/object:Game
+  name: Rocket League
+  month: June
+  year: 2016
+  humble_scheme: monthly
+  steam_id:
+- !ruby/object:Game
+  name: Cthulhu Realms - Full Version
+  month: July
+  year: 2016
+  humble_scheme: monthly
+  steam_id: 486040
+- !ruby/object:Game
+  name: 'Avernum 2: Crystal Souls'
+  month: July
+  year: 2016
+  humble_scheme: monthly
+  steam_id: 337850
+- !ruby/object:Game
+  name: The Red Solstice
+  month: July
+  year: 2016
+  humble_scheme: monthly
+  steam_id: 265590
+- !ruby/object:Game
+  name: TIS-100
+  month: July
+  year: 2016
+  humble_scheme: monthly
+  steam_id: 370360
+- !ruby/object:Game
+  name: Satellite Reign
+  month: July
+  year: 2016
+  humble_scheme: monthly
+  steam_id: 268870
+- !ruby/object:Game
+  name: 'Kentucky Route Zero: PC Edition'
+  month: July
+  year: 2016
+  humble_scheme: monthly
+  steam_id: 231200
+- !ruby/object:Game
+  name: Hurtworld
+  month: July
+  year: 2016
+  humble_scheme: monthly
+  steam_id: 393420
+- !ruby/object:Game
+  name: Random Access Murder
+  month: August
+  year: 2016
+  humble_scheme: monthly
+  steam_id: 438790
+- !ruby/object:Game
+  name: Starward Rogue
+  month: August
+  year: 2016
+  humble_scheme: monthly
+  steam_id: 410820
+- !ruby/object:Game
+  name: Planet of the Eyes
+  month: August
+  year: 2016
+  humble_scheme: monthly
+  steam_id: 350970
+- !ruby/object:Game
+  name: Poi
+  month: August
+  year: 2016
+  humble_scheme: monthly
+  steam_id: 401810
+- !ruby/object:Game
+  name: The Jackbox Party Pack 2
+  month: August
+  year: 2016
+  humble_scheme: monthly
+  steam_id: 397460
+- !ruby/object:Game
+  name: 'The Incredible Adventures of Van Helsing: Final Cut'
+  month: August
+  year: 2016
+  humble_scheme: monthly
+  steam_id: 400170
+- !ruby/object:Game
+  name: 'Call of Duty: Black Ops III - Multiplayer Starter Pack'
+  month: August
+  year: 2016
+  humble_scheme: monthly
+  steam_id: 437350
+- !ruby/object:Game
+  name: Town of Salem
+  month: September
+  year: 2016
+  humble_scheme: monthly
+  steam_id: 334230
+- !ruby/object:Game
+  name: Epistory - Typing Chronicles
+  month: September
+  year: 2016
+  humble_scheme: monthly
+  steam_id: 398850
+- !ruby/object:Game
+  name: Sheltered
+  month: September
+  year: 2016
+  humble_scheme: monthly
+  steam_id: 356040
+- !ruby/object:Game
+  name: WWE 2K16
+  month: September
+  year: 2016
+  humble_scheme: monthly
+  steam_id:
+- !ruby/object:Game
+  name: The Banner Saga
+  month: September
+  year: 2016
+  humble_scheme: monthly
+  steam_id: 237990
+- !ruby/object:Game
+  name: SOMA
+  month: September
+  year: 2016
+  humble_scheme: monthly
+  steam_id: 282140
+- !ruby/object:Game
+  name: THOTH
+  month: October
+  year: 2016
+  humble_scheme: monthly
+  steam_id: 510620
+- !ruby/object:Game
+  name: Action Henk
+  month: October
+  year: 2016
+  humble_scheme: monthly
+  steam_id: 285820
+- !ruby/object:Game
+  name: Train Valley
+  month: October
+  year: 2016
+  humble_scheme: monthly
+  steam_id: 353640
+- !ruby/object:Game
+  name: Deponia Doomsday
+  month: October
+  year: 2016
+  humble_scheme: monthly
+  steam_id: 421050
+- !ruby/object:Game
+  name: 'Hotline Miami 2: Wrong Number'
+  month: October
+  year: 2016
+  humble_scheme: monthly
+  steam_id: 274170
+- !ruby/object:Game
+  name: Slime Rancher
+  month: October
+  year: 2016
+  humble_scheme: monthly
+  steam_id: 433340
+- !ruby/object:Game
+  name: Grim Dawn
+  month: October
+  year: 2016
+  humble_scheme: monthly
+  steam_id: 219990
+- !ruby/object:Game
+  name: Pirate Pop Plus
+  month: November
+  year: 2016
+  humble_scheme: monthly
+  steam_id: 487350
+- !ruby/object:Game
+  name: 'Styx: Master of Shadows'
+  month: November
+  year: 2016
+  humble_scheme: monthly
+  steam_id: 242640
+- !ruby/object:Game
+  name: Kathy Rain
+  month: November
+  year: 2016
+  humble_scheme: monthly
+  steam_id: 370910
+- !ruby/object:Game
+  name: Beyond Eyes
+  month: November
+  year: 2016
+  humble_scheme: monthly
+  steam_id:
+- !ruby/object:Game
+  name: Rebel Galaxy
+  month: November
+  year: 2016
+  humble_scheme: monthly
+  steam_id: 290300
+- !ruby/object:Game
+  name: BROFORCE
+  month: November
+  year: 2016
+  humble_scheme: monthly
+  steam_id: 274190
+- !ruby/object:Game
+  name: Stardew Valley
+  month: November
+  year: 2016
+  humble_scheme: monthly
+  steam_id: 413150
+- !ruby/object:Game
+  name: Minion Masters
+  month: December
+  year: 2016
+  humble_scheme: monthly
+  steam_id: 489520
+- !ruby/object:Game
+  name: The Flame in the Flood
+  month: December
+  year: 2016
+  humble_scheme: monthly
+  steam_id: 318600
+- !ruby/object:Game
+  name: Western Press
+  month: December
+  year: 2016
+  humble_scheme: monthly
+  steam_id: 377360
+- !ruby/object:Game
+  name: Hacknet
+  month: December
+  year: 2016
+  humble_scheme: monthly
+  steam_id: 365450
+- !ruby/object:Game
+  name: 'Mordheim: City of the Damned'
+  month: December
+  year: 2016
+  humble_scheme: monthly
+  steam_id: 276810
+- !ruby/object:Game
+  name: The Escapists
+  month: December
+  year: 2016
+  humble_scheme: monthly
+  steam_id: 298630
+- !ruby/object:Game
+  name: 'Dragon''s Dogma: Dark Arisen'
+  month: December
+  year: 2016
+  humble_scheme: monthly
+  steam_id: 367500
+2017:
+- !ruby/object:Game
+  name: Hopiko
+  month: January
+  year: 2017
+  humble_scheme: monthly
+  steam_id: 437390
+- !ruby/object:Game
+  name: 'Jotun: Valhalla Edition'
+  month: January
+  year: 2017
+  humble_scheme: monthly
+  steam_id: 323580
+- !ruby/object:Game
+  name: Neon Chrome
+  month: January
+  year: 2017
+  humble_scheme: monthly
+  steam_id: 428750
+- !ruby/object:Game
+  name: 'The Legend of Heroes: Trails in the Sky'
+  month: January
+  year: 2017
+  humble_scheme: monthly
+  steam_id: 251150
+- !ruby/object:Game
+  name: Mother Russia Bleeds
+  month: January
+  year: 2017
+  humble_scheme: monthly
+  steam_id: 361300
+- !ruby/object:Game
+  name: Project CARS
+  month: January
+  year: 2017
+  humble_scheme: monthly
+  steam_id:
+- !ruby/object:Game
+  name: 'Warhammer: End Times - Vermintide'
+  month: January
+  year: 2017
+  humble_scheme: monthly
+  steam_id: 235540
+- !ruby/object:Game
+  name: Husk
+  month: February
+  year: 2017
+  humble_scheme: monthly
+  steam_id: 553960
+- !ruby/object:Game
+  name: Project Highrise
+  month: February
+  year: 2017
+  humble_scheme: monthly
+  steam_id: 423580
+- !ruby/object:Game
+  name: 'Okhlos: Omega'
+  month: February
+  year: 2017
+  humble_scheme: monthly
+  steam_id: 400180
+- !ruby/object:Game
+  name: SteamWorld Heist
+  month: February
+  year: 2017
+  humble_scheme: monthly
+  steam_id: 322190
+- !ruby/object:Game
+  name: ABZU
+  month: February
+  year: 2017
+  humble_scheme: monthly
+  steam_id: 384190
+- !ruby/object:Game
+  name: 'Ryse: Son of Rome'
+  month: February
+  year: 2017
+  humble_scheme: monthly
+  steam_id: 302510
+- !ruby/object:Game
+  name: XCOM® 2
+  month: February
+  year: 2017
+  humble_scheme: monthly
+  steam_id: 268500
+- !ruby/object:Game
+  name: Morphblade
+  month: March
+  year: 2017
+  humble_scheme: monthly
+  steam_id: 494720
+- !ruby/object:Game
+  name: 'RIVE: Wreck, Hack, Die, Retry!'
+  month: March
+  year: 2017
+  humble_scheme: monthly
+  steam_id: 278100
+- !ruby/object:Game
+  name: Flat Heroes
+  month: March
+  year: 2017
+  humble_scheme: monthly
+  steam_id: 508790
+- !ruby/object:Game
+  name: ONE PIECE PIRATE WARRIORS 3
+  month: March
+  year: 2017
+  humble_scheme: monthly
+  steam_id: 331600
+- !ruby/object:Game
+  name: Space Run Galaxy
+  month: March
+  year: 2017
+  humble_scheme: monthly
+  steam_id: 355800
+- !ruby/object:Game
+  name: Poly Bridge
+  month: March
+  year: 2017
+  humble_scheme: monthly
+  steam_id: 367450
+- !ruby/object:Game
+  name: 'Total War: WARHAMMER'
+  month: March
+  year: 2017
+  humble_scheme: monthly
+  steam_id: 364360
+- !ruby/object:Game
+  name: 'Slime-san: Superslime Edition'
+  month: April
+  year: 2017
+  humble_scheme: monthly
+  steam_id: 473530
+- !ruby/object:Game
+  name: Tumblestone
+  month: April
+  year: 2017
+  humble_scheme: monthly
+  steam_id: 269710
+- !ruby/object:Game
+  name: Event[0]
+  month: April
+  year: 2017
+  humble_scheme: monthly
+  steam_id: 470260
+- !ruby/object:Game
+  name: 'Kingdom: New Lands'
+  month: April
+  year: 2017
+  humble_scheme: monthly
+  steam_id: 496300
+- !ruby/object:Game
+  name: Black Mesa
+  month: April
+  year: 2017
+  humble_scheme: monthly
+  steam_id: 362890
+- !ruby/object:Game
+  name: Layers of Fear (2016)
+  month: April
+  year: 2017
+  humble_scheme: monthly
+  steam_id: 391720
+- !ruby/object:Game
+  name: The Witness
+  month: April
+  year: 2017
+  humble_scheme: monthly
+  steam_id: 210970
+- !ruby/object:Game
+  name: Super Rude Bear Resurrection
+  month: May
+  year: 2017
+  humble_scheme: monthly
+  steam_id: 384250
+- !ruby/object:Game
+  name: The Turing Test
+  month: May
+  year: 2017
+  humble_scheme: monthly
+  steam_id: 499520
+- !ruby/object:Game
+  name: GoNNER OST
+  month: May
+  year: 2017
+  humble_scheme: monthly
+  steam_id:
+- !ruby/object:Game
+  name: GoNNER
+  month: May
+  year: 2017
+  humble_scheme: monthly
+  steam_id: 437570
+- !ruby/object:Game
+  name: Metrico+
+  month: May
+  year: 2017
+  humble_scheme: monthly
+  steam_id: 373990
+- !ruby/object:Game
+  name: UNDERTALE
+  month: May
+  year: 2017
+  humble_scheme: monthly
+  steam_id: 391540
+- !ruby/object:Game
+  name: This Is the Police
+  month: May
+  year: 2017
+  humble_scheme: monthly
+  steam_id: 443810
+- !ruby/object:Game
+  name: Inside
+  month: May
+  year: 2017
+  humble_scheme: monthly
+  steam_id: 304430
+- !ruby/object:Game
+  name: Dirt Rally
+  month: May
+  year: 2017
+  humble_scheme: monthly
+  steam_id:
+- !ruby/object:Game
+  name: Maize
+  month: June
+  year: 2017
+  humble_scheme: monthly
+  steam_id: 284240
+- !ruby/object:Game
+  name: Shoppe Keep
+  month: June
+  year: 2017
+  humble_scheme: monthly
+  steam_id: 381120
+- !ruby/object:Game
+  name: 'Brigador: Up-Armored Edition'
+  month: June
+  year: 2017
+  humble_scheme: monthly
+  steam_id: 274500
+- !ruby/object:Game
+  name: 'Ashes of the Singularity: Escalation'
+  month: June
+  year: 2017
+  humble_scheme: monthly
+  steam_id: 507490
+- !ruby/object:Game
+  name: SUPERHOT
+  month: June
+  year: 2017
+  humble_scheme: monthly
+  steam_id: 322500
+- !ruby/object:Game
+  name: 'Plague Inc: Evolved'
+  month: June
+  year: 2017
+  humble_scheme: monthly
+  steam_id: 246620
+- !ruby/object:Game
+  name: Stellaris
+  month: June
+  year: 2017
+  humble_scheme: monthly
+  steam_id: 281990
+- !ruby/object:Game
+  name: Kero Blaster
+  month: July
+  year: 2017
+  humble_scheme: monthly
+  steam_id: 292500
+- !ruby/object:Game
+  name: 'Sherlock Holmes: The Devil''s Daughter'
+  month: July
+  year: 2017
+  humble_scheme: monthly
+  steam_id: 350640
+- !ruby/object:Game
+  name: SimplePlanes
+  month: July
+  year: 2017
+  humble_scheme: monthly
+  steam_id: 397340
+- !ruby/object:Game
+  name: Armello
+  month: July
+  year: 2017
+  humble_scheme: monthly
+  steam_id: 290340
+- !ruby/object:Game
+  name: Hyper Light Drifter
+  month: July
+  year: 2017
+  humble_scheme: monthly
+  steam_id: 257850
+- !ruby/object:Game
+  name: Galactic Civilizations III
+  month: July
+  year: 2017
+  humble_scheme: monthly
+  steam_id: 226860
+- !ruby/object:Game
+  name: 'DARK SOULS™ II: Scholar of the First Sin'
+  month: July
+  year: 2017
+  humble_scheme: monthly
+  steam_id: 335300
+- !ruby/object:Game
+  name: 'Nongunz: Doppelganger Edition'
+  month: August
+  year: 2017
+  humble_scheme: monthly
+  steam_id: 1304780
+- !ruby/object:Game
+  name: 'Wuppo: Definitive Edition'
+  month: August
+  year: 2017
+  humble_scheme: monthly
+  steam_id: 400630
+- !ruby/object:Game
+  name: Overcooked
+  month: August
+  year: 2017
+  humble_scheme: monthly
+  steam_id: 448510
+- !ruby/object:Game
+  name: War for the Overworld
+  month: August
+  year: 2017
+  humble_scheme: monthly
+  steam_id: 230190
+- !ruby/object:Game
+  name: Offworld Trading Company
+  month: August
+  year: 2017
+  humble_scheme: monthly
+  steam_id: 271240
+- !ruby/object:Game
+  name: ONE PIECE BURNING BLOOD
+  month: August
+  year: 2017
+  humble_scheme: monthly
+  steam_id: 425220
+- !ruby/object:Game
+  name: Pillars of Eternity
+  month: August
+  year: 2017
+  humble_scheme: monthly
+  steam_id: 291650
+- !ruby/object:Game
+  name: NBA 2K17
+  month: August
+  year: 2017
+  humble_scheme: monthly
+  steam_id:
+- !ruby/object:Game
+  name: Eterium
+  month: September
+  year: 2017
+  humble_scheme: monthly
+  steam_id:
+- !ruby/object:Game
+  name: HackyZack
+  month: September
+  year: 2017
+  humble_scheme: monthly
+  steam_id: 508530
+- !ruby/object:Game
+  name: Stories Untold
+  month: September
+  year: 2017
+  humble_scheme: monthly
+  steam_id: 558420
+- !ruby/object:Game
+  name: Worms W.M.D
+  month: September
+  year: 2017
+  humble_scheme: monthly
+  steam_id: 327030
+- !ruby/object:Game
+  name: 'Momodora: Reverie Under the Moonlight'
+  month: September
+  year: 2017
+  humble_scheme: monthly
+  steam_id: 428550
+- !ruby/object:Game
+  name: The Banner Saga 2
+  month: September
+  year: 2017
+  humble_scheme: monthly
+  steam_id: 281640
+- !ruby/object:Game
+  name: Killing Floor 2
+  month: September
+  year: 2017
+  humble_scheme: monthly
+  steam_id: 232090
+- !ruby/object:Game
+  name: Scanner Sombre
+  month: October
+  year: 2017
+  humble_scheme: monthly
+  steam_id: 475190
+- !ruby/object:Game
+  name: The Shrouded Isle
+  month: October
+  year: 2017
+  humble_scheme: monthly
+  steam_id: 501320
+- !ruby/object:Game
+  name: Seasons after Fall
+  month: October
+  year: 2017
+  humble_scheme: monthly
+  steam_id: 366320
+- !ruby/object:Game
+  name: 'Orwell: Keeping an Eye On You'
+  month: October
+  year: 2017
+  humble_scheme: monthly
+  steam_id: 491950
+- !ruby/object:Game
+  name: Furi
+  month: October
+  year: 2017
+  humble_scheme: monthly
+  steam_id: 423230
+- !ruby/object:Game
+  name: 'Wargame: Red Dragon'
+  month: October
+  year: 2017
+  humble_scheme: monthly
+  steam_id: 251060
+- !ruby/object:Game
+  name: Rise of the Tomb Raider™
+  month: October
+  year: 2017
+  humble_scheme: monthly
+  steam_id: 391220
+- !ruby/object:Game
+  name: World to the West
+  month: November
+  year: 2017
+  humble_scheme: monthly
+  steam_id: 530020
+- !ruby/object:Game
+  name: Emily is Away Too
+  month: November
+  year: 2017
+  humble_scheme: monthly
+  steam_id: 523780
+- !ruby/object:Game
+  name: Silence
+  month: November
+  year: 2017
+  humble_scheme: monthly
+  steam_id: 314790
+- !ruby/object:Game
+  name: Dead Rising® 2
+  month: November
+  year: 2017
+  humble_scheme: monthly
+  steam_id: 45740
+- !ruby/object:Game
+  name: 'Shadow Tactics: Blades of the Shogun'
+  month: November
+  year: 2017
+  humble_scheme: monthly
+  steam_id: 418240
+- !ruby/object:Game
+  name: Resident Evil 5
+  month: November
+  year: 2017
+  humble_scheme: monthly
+  steam_id: 21690
+- !ruby/object:Game
+  name: 'The Elder Scrolls: Legends'
+  month: November
+  year: 2017
+  humble_scheme: monthly
+  steam_id:
+- !ruby/object:Game
+  name: The Elder Scrolls® Online
+  month: November
+  year: 2017
+  humble_scheme: monthly
+  steam_id: 306130
+- !ruby/object:Game
+  name: Quake Champions
+  month: November
+  year: 2017
+  humble_scheme: monthly
+  steam_id: 611500
+- !ruby/object:Game
+  name: Way of the Passive Fist
+  month: December
+  year: 2017
+  humble_scheme: monthly
+  steam_id: 625680
+- !ruby/object:Game
+  name: 'Passpartout: The Starving Artist'
+  month: December
+  year: 2017
+  humble_scheme: monthly
+  steam_id: 582550
+- !ruby/object:Game
+  name: 'STRAFE: Gold Edition'
+  month: December
+  year: 2017
+  humble_scheme: monthly
+  steam_id: 442780
+- !ruby/object:Game
+  name: The Sexy Brutale
+  month: December
+  year: 2017
+  humble_scheme: monthly
+  steam_id: 552590
+- !ruby/object:Game
+  name: Nex Machina
+  month: December
+  year: 2017
+  humble_scheme: monthly
+  steam_id: 404540
+- !ruby/object:Game
+  name: 'BlazBlue: Chronophantasma Extend'
+  month: December
+  year: 2017
+  humble_scheme: monthly
+  steam_id: 388750
+- !ruby/object:Game
+  name: Rivals of Aether
+  month: December
+  year: 2017
+  humble_scheme: monthly
+  steam_id: 383980
+- !ruby/object:Game
+  name: Z1 Battle Royale
+  month: December
+  year: 2017
+  humble_scheme: monthly
+  steam_id: 433850
+2018:
+- !ruby/object:Game
+  name: Cursed Castilla (Maldita Castilla EX)
+  month: January
+  year: 2018
+  humble_scheme: monthly
+  steam_id: 534290
+- !ruby/object:Game
+  name: Mr. Shifty
+  month: January
+  year: 2018
+  humble_scheme: monthly
+  steam_id: 489140
+- !ruby/object:Game
+  name: 'HIVESWAP: Act 1'
+  month: January
+  year: 2018
+  humble_scheme: monthly
+  steam_id: 623940
+- !ruby/object:Game
+  name: 'Sleeping Dogs: Definitive Edition'
+  month: January
+  year: 2018
+  humble_scheme: monthly
+  steam_id: 307690
+- !ruby/object:Game
+  name: Tomb Raider
+  month: January
+  year: 2018
+  humble_scheme: monthly
+  steam_id: 203160
+- !ruby/object:Game
+  name: 'Warhammer 40,000: Dawn of War III'
+  month: January
+  year: 2018
+  humble_scheme: monthly
+  steam_id: 285190
+- !ruby/object:Game
+  name: Quantum Break
+  month: January
+  year: 2018
+  humble_scheme: monthly
+  steam_id: 474960
+- !ruby/object:Game
+  name: The Long Dark
+  month: January
+  year: 2018
+  humble_scheme: monthly
+  steam_id: 305620
+- !ruby/object:Game
+  name: The Norwood Suite
+  month: February
+  year: 2018
+  humble_scheme: monthly
+  steam_id: 696480
+- !ruby/object:Game
+  name: Snake Pass
+  month: February
+  year: 2018
+  humble_scheme: monthly
+  steam_id: 544330
+- !ruby/object:Game
+  name: Black the Fall
+  month: February
+  year: 2018
+  humble_scheme: monthly
+  steam_id: 308060
+- !ruby/object:Game
+  name: Owlboy
+  month: February
+  year: 2018
+  humble_scheme: monthly
+  steam_id: 115800
+- !ruby/object:Game
+  name: Tacoma
+  month: February
+  year: 2018
+  humble_scheme: monthly
+  steam_id: 343860
+- !ruby/object:Game
+  name: Life is Strange - Episode 5
+  month: February
+  year: 2018
+  humble_scheme: monthly
+  steam_id: 329930
+- !ruby/object:Game
+  name: Life is Strange - Episode 4
+  month: February
+  year: 2018
+  humble_scheme: monthly
+  steam_id: 329920
+- !ruby/object:Game
+  name: Life is Strange - Episode 3
+  month: February
+  year: 2018
+  humble_scheme: monthly
+  steam_id: 329910
+- !ruby/object:Game
+  name: Life is Strange - Episode 2
+  month: February
+  year: 2018
+  humble_scheme: monthly
+  steam_id: 329880
+- !ruby/object:Game
+  name: Life is Strange - Episode 1
+  month: February
+  year: 2018
+  humble_scheme: monthly
+  steam_id: 319630
+- !ruby/object:Game
+  name: Sid Meier’s Civilization® VI
+  month: February
+  year: 2018
+  humble_scheme: monthly
+  steam_id: 289070
+- !ruby/object:Game
+  name: Holy Potatoes! We’re in Space?!
+  month: March
+  year: 2018
+  humble_scheme: monthly
+  steam_id: 505730
+- !ruby/object:Game
+  name: Last Day of June
+  month: March
+  year: 2018
+  humble_scheme: monthly
+  steam_id: 635320
+- !ruby/object:Game
+  name: Aviary Attorney
+  month: March
+  year: 2018
+  humble_scheme: monthly
+  steam_id: 384630
+- !ruby/object:Game
+  name: Splasher
+  month: March
+  year: 2018
+  humble_scheme: monthly
+  steam_id: 446840
+- !ruby/object:Game
+  name: Lost Castle / 失落城堡
+  month: March
+  year: 2018
+  humble_scheme: monthly
+  steam_id: 434650
+- !ruby/object:Game
+  name: Overgrowth
+  month: March
+  year: 2018
+  humble_scheme: monthly
+  steam_id: 25000
+- !ruby/object:Game
+  name: Dark Souls™ III
+  month: March
+  year: 2018
+  humble_scheme: monthly
+  steam_id: 374320
+- !ruby/object:Game
+  name: 'Laser League: World Arena'
+  month: April
+  year: 2018
+  humble_scheme: monthly
+  steam_id:
+- !ruby/object:Game
+  name: AER Memories of Old
+  month: April
+  year: 2018
+  humble_scheme: monthly
+  steam_id: 331870
+- !ruby/object:Game
+  name: Subterrain
+  month: April
+  year: 2018
+  humble_scheme: monthly
+  steam_id: 340490
+- !ruby/object:Game
+  name: Lara Croft GO
+  month: April
+  year: 2018
+  humble_scheme: monthly
+  steam_id: 540840
+- !ruby/object:Game
+  name: Outlast 2
+  month: April
+  year: 2018
+  humble_scheme: monthly
+  steam_id: 414700
+- !ruby/object:Game
+  name: 'Mafia III: Definitive Edition'
+  month: April
+  year: 2018
+  humble_scheme: monthly
+  steam_id: 360430
+- !ruby/object:Game
+  name: GOD EATER 2 Rage Burst
+  month: April
+  year: 2018
+  humble_scheme: monthly
+  steam_id: 438490
+- !ruby/object:Game
+  name: 'Deus Ex: Mankind Divided'
+  month: April
+  year: 2018
+  humble_scheme: monthly
+  steam_id: 337000
+- !ruby/object:Game
+  name: NBA Playgrounds
+  month: May
+  year: 2018
+  humble_scheme: monthly
+  steam_id:
+- !ruby/object:Game
+  name: Jalopy
+  month: May
+  year: 2018
+  humble_scheme: monthly
+  steam_id: 446020
+- !ruby/object:Game
+  name: Crazy Machines 3
+  month: May
+  year: 2018
+  humble_scheme: monthly
+  steam_id: 351920
+- !ruby/object:Game
+  name: Moon Hunters
+  month: May
+  year: 2018
+  humble_scheme: monthly
+  steam_id: 320040
+- !ruby/object:Game
+  name: Running with Rifles
+  month: May
+  year: 2018
+  humble_scheme: monthly
+  steam_id: 270150
+- !ruby/object:Game
+  name: RUINER
+  month: May
+  year: 2018
+  humble_scheme: monthly
+  steam_id: 464060
+- !ruby/object:Game
+  name: Kerbal Space Program
+  month: May
+  year: 2018
+  humble_scheme: monthly
+  steam_id: 220200
+- !ruby/object:Game
+  name: Dead Rising 4
+  month: May
+  year: 2018
+  humble_scheme: monthly
+  steam_id: 543460
+- !ruby/object:Game
+  name: Acceleration of SUGURI 2
+  month: June
+  year: 2018
+  humble_scheme: monthly
+  steam_id: 390710
+- !ruby/object:Game
+  name: Bear With Me - Episode Three
+  month: June
+  year: 2018
+  humble_scheme: monthly
+  steam_id: 698250
+- !ruby/object:Game
+  name: Bear With Me - Episode Two
+  month: June
+  year: 2018
+  humble_scheme: monthly
+  steam_id: 583140
+- !ruby/object:Game
+  name: Bear With Me - Episode One
+  month: June
+  year: 2018
+  humble_scheme: monthly
+  steam_id: 492630
+- !ruby/object:Game
+  name: Ken Follett's The Pillars of the Earth
+  month: June
+  year: 2018
+  humble_scheme: monthly
+  steam_id: 234270
+- !ruby/object:Game
+  name: Cook, Serve, Delicious! 2!!
+  month: June
+  year: 2018
+  humble_scheme: monthly
+  steam_id: 386620
+- !ruby/object:Game
+  name: Yooka-Laylee
+  month: June
+  year: 2018
+  humble_scheme: monthly
+  steam_id: 360830
+- !ruby/object:Game
+  name: 'Styx: Shards of Darkness'
+  month: June
+  year: 2018
+  humble_scheme: monthly
+  steam_id: 355790
+- !ruby/object:Game
+  name: Destiny 2
+  month: June
+  year: 2018
+  humble_scheme: monthly
+  steam_id: 1085660
+- !ruby/object:Game
+  name: Serial Cleaner
+  month: July
+  year: 2018
+  humble_scheme: monthly
+  steam_id: 522210
+- !ruby/object:Game
+  name: 'Interplanetary: Enhanced Edition'
+  month: July
+  year: 2018
+  humble_scheme: monthly
+  steam_id: 650220
+- !ruby/object:Game
+  name: 'Shiness: The Lightning Kingdom'
+  month: July
+  year: 2018
+  humble_scheme: monthly
+  steam_id: 366640
+- !ruby/object:Game
+  name: 'Titan Quest: Ragnarök'
+  month: July
+  year: 2018
+  humble_scheme: monthly
+  steam_id: 741350
+- !ruby/object:Game
+  name: Titan Quest Anniversary Edition
+  month: July
+  year: 2018
+  humble_scheme: monthly
+  steam_id: 475150
+- !ruby/object:Game
+  name: Forts
+  month: July
+  year: 2018
+  humble_scheme: monthly
+  steam_id: 410900
+- !ruby/object:Game
+  name: Portal Knights
+  month: July
+  year: 2018
+  humble_scheme: monthly
+  steam_id: 374040
+- !ruby/object:Game
+  name: Blackwake
+  month: July
+  year: 2018
+  humble_scheme: monthly
+  steam_id: 420290
+- !ruby/object:Game
+  name: Hearts of Iron IV
+  month: July
+  year: 2018
+  humble_scheme: monthly
+  steam_id: 394360
+- !ruby/object:Game
+  name: Sudden Strike 4
+  month: August
+  year: 2018
+  humble_scheme: monthly
+  steam_id: 373930
+- !ruby/object:Game
+  name: Pathologic Classic HD
+  month: August
+  year: 2018
+  humble_scheme: monthly
+  steam_id: 384110
+- !ruby/object:Game
+  name: The Surge
+  month: August
+  year: 2018
+  humble_scheme: monthly
+  steam_id: 378540
+- !ruby/object:Game
+  name: Kona
+  month: August
+  year: 2018
+  humble_scheme: monthly
+  steam_id: 365160
+- !ruby/object:Game
+  name: Forged Battalion
+  month: August
+  year: 2018
+  humble_scheme: monthly
+  steam_id: 686260
+- !ruby/object:Game
+  name: Conan Exiles
+  month: August
+  year: 2018
+  humble_scheme: monthly
+  steam_id: 440900
+- !ruby/object:Game
+  name: The Escapists 2
+  month: August
+  year: 2018
+  humble_scheme: monthly
+  steam_id: 641990
+- !ruby/object:Game
+  name: A Hat in Time
+  month: August
+  year: 2018
+  humble_scheme: monthly
+  steam_id: 253230
+- !ruby/object:Game
+  name: Figment
+  month: September
+  year: 2018
+  humble_scheme: monthly
+  steam_id: 493540
+- !ruby/object:Game
+  name: Zombie Night Terror
+  month: September
+  year: 2018
+  humble_scheme: monthly
+  steam_id: 416680
+- !ruby/object:Game
+  name: Battle Chef Brigade Deluxe
+  month: September
+  year: 2018
+  humble_scheme: monthly
+  steam_id: 452570
+- !ruby/object:Game
+  name: Darksiders II Deathinitive Edition
+  month: September
+  year: 2018
+  humble_scheme: monthly
+  steam_id: 388410
+- !ruby/object:Game
+  name: Little Nightmares
+  month: September
+  year: 2018
+  humble_scheme: monthly
+  steam_id: 424840
+- !ruby/object:Game
+  name: Rise of the Tomb Raider™
+  month: September
+  year: 2018
+  humble_scheme: monthly
+  steam_id: 391220
+- !ruby/object:Game
+  name: Staxel
+  month: September
+  year: 2018
+  humble_scheme: monthly
+  steam_id: 405710
+- !ruby/object:Game
+  name: Tales of Berseria™
+  month: September
+  year: 2018
+  humble_scheme: monthly
+  steam_id: 429660
+- !ruby/object:Game
+  name: Sniper Elite 4
+  month: September
+  year: 2018
+  humble_scheme: monthly
+  steam_id: 312660
+- !ruby/object:Game
+  name: We Were Here Too
+  month: October
+  year: 2018
+  humble_scheme: monthly
+  steam_id: 677160
+- !ruby/object:Game
+  name: Old Man's Journey
+  month: October
+  year: 2018
+  humble_scheme: monthly
+  steam_id: 581270
+- !ruby/object:Game
+  name: Hidden Folks
+  month: October
+  year: 2018
+  humble_scheme: monthly
+  steam_id: 435400
+- !ruby/object:Game
+  name: Gremlins, Inc.
+  month: October
+  year: 2018
+  humble_scheme: monthly
+  steam_id: 369990
+- !ruby/object:Game
+  name: American Truck Simulator
+  month: October
+  year: 2018
+  humble_scheme: monthly
+  steam_id: 270880
+- !ruby/object:Game
+  name: Dungeons 3
+  month: October
+  year: 2018
+  humble_scheme: monthly
+  steam_id: 493900
+- !ruby/object:Game
+  name: Overwatch
+  month: October
+  year: 2018
+  humble_scheme: monthly
+  steam_id:
+- !ruby/object:Game
+  name: Hard Reset Redux
+  month: November
+  year: 2018
+  humble_scheme: monthly
+  steam_id: 407810
+- !ruby/object:Game
+  name: The Dwarves
+  month: November
+  year: 2018
+  humble_scheme: monthly
+  steam_id: 403970
+- !ruby/object:Game
+  name: Sniper Elite V2
+  month: November
+  year: 2018
+  humble_scheme: monthly
+  steam_id: 63380
+- !ruby/object:Game
+  name: Sniper Elite
+  month: November
+  year: 2018
+  humble_scheme: monthly
+  steam_id: 3700
+- !ruby/object:Game
+  name: Dead Island Definitive Edition
+  month: November
+  year: 2018
+  humble_scheme: monthly
+  steam_id: 383150
+- !ruby/object:Game
+  name: Resident Evil Revelations
+  month: November
+  year: 2018
+  humble_scheme: monthly
+  steam_id: 222480
+- !ruby/object:Game
+  name: 7 Days to Die
+  month: November
+  year: 2018
+  humble_scheme: monthly
+  steam_id: 251570
+- !ruby/object:Game
+  name: HITMAN™
+  month: November
+  year: 2018
+  humble_scheme: monthly
+  steam_id:
+- !ruby/object:Game
+  name: Hollow Knight
+  month: November
+  year: 2018
+  humble_scheme: monthly
+  steam_id: 367520
+- !ruby/object:Game
+  name: NeuroVoider
+  month: December
+  year: 2018
+  humble_scheme: monthly
+  steam_id: 400450
+- !ruby/object:Game
+  name: 'Seven: Enhanced Edition'
+  month: December
+  year: 2018
+  humble_scheme: monthly
+  steam_id: 471010
+- !ruby/object:Game
+  name: Purrfect Date - Visual Novel/Dating Simulator
+  month: December
+  year: 2018
+  humble_scheme: monthly
+  steam_id: 520600
+- !ruby/object:Game
+  name: Immortal Redneck
+  month: December
+  year: 2018
+  humble_scheme: monthly
+  steam_id: 595140
+- !ruby/object:Game
+  name: Zombie Army Trilogy
+  month: December
+  year: 2018
+  humble_scheme: monthly
+  steam_id: 301640
+- !ruby/object:Game
+  name: Mega Man Legacy Collection
+  month: December
+  year: 2018
+  humble_scheme: monthly
+  steam_id: 363440
+- !ruby/object:Game
+  name: 'METAL GEAR SOLID V: The Phantom Pain'
+  month: December
+  year: 2018
+  humble_scheme: monthly
+  steam_id: 287700
+- !ruby/object:Game
+  name: 'METAL GEAR SOLID V: Ground Zeroes'
+  month: December
+  year: 2018
+  humble_scheme: monthly
+  steam_id: 311340
+- !ruby/object:Game
+  name: 'Cities: Skylines - After Dark'
+  month: December
+  year: 2018
+  humble_scheme: monthly
+  steam_id: 369150
+- !ruby/object:Game
+  name: 'Cities: Skylines'
+  month: December
+  year: 2018
+  humble_scheme: monthly
+  steam_id: 255710
+2019:
+- !ruby/object:Game
+  name: The Darkside Detective
+  month: January
+  year: 2019
+  humble_scheme: monthly
+  steam_id: 368390
+- !ruby/object:Game
+  name: Regions of Ruin
+  month: January
+  year: 2019
+  humble_scheme: monthly
+  steam_id: 680360
+- !ruby/object:Game
+  name: 'Sundered®: Eldritch Edition'
+  month: January
+  year: 2019
+  humble_scheme: monthly
+  steam_id: 535480
+- !ruby/object:Game
+  name: 'Observer: System Redux'
+  month: January
+  year: 2019
+  humble_scheme: monthly
+  steam_id: 1386900
+- !ruby/object:Game
+  name: Q.U.B.E. 2
+  month: January
+  year: 2019
+  humble_scheme: monthly
+  steam_id: 359100
+- !ruby/object:Game
+  name: Project CARS 2
+  month: January
+  year: 2019
+  humble_scheme: monthly
+  steam_id:
+- !ruby/object:Game
+  name: Wizard of Legend
+  month: January
+  year: 2019
+  humble_scheme: monthly
+  steam_id: 445980
+- !ruby/object:Game
+  name: Just Cause™ 3
+  month: January
+  year: 2019
+  humble_scheme: monthly
+  steam_id: 225540
+- !ruby/object:Game
+  name: Super Daryl Deluxe
+  month: February
+  year: 2019
+  humble_scheme: monthly
+  steam_id: 361230
+- !ruby/object:Game
+  name: Bleed 2
+  month: February
+  year: 2019
+  humble_scheme: monthly
+  steam_id: 396350
+- !ruby/object:Game
+  name: Aaero
+  month: February
+  year: 2019
+  humble_scheme: monthly
+  steam_id: 499890
+- !ruby/object:Game
+  name: Full Metal Furies
+  month: February
+  year: 2019
+  humble_scheme: monthly
+  steam_id: 416600
+- !ruby/object:Game
+  name: Tom Clancy’s The Division™ - Survival
+  month: February
+  year: 2019
+  humble_scheme: monthly
+  steam_id: 556470
+- !ruby/object:Game
+  name: 'Rock of Ages 2: Bigger & Boulder™'
+  month: February
+  year: 2019
+  humble_scheme: monthly
+  steam_id: 434460
+- !ruby/object:Game
+  name: Sniper Elite 3
+  month: February
+  year: 2019
+  humble_scheme: monthly
+  steam_id: 238090
+- !ruby/object:Game
+  name: Rapture Rejects
+  month: February
+  year: 2019
+  humble_scheme: monthly
+  steam_id:
+- !ruby/object:Game
+  name: Tom Clancy’s The Division™
+  month: February
+  year: 2019
+  humble_scheme: monthly
+  steam_id: 365590
+- !ruby/object:Game
+  name: Yakuza 0
+  month: February
+  year: 2019
+  humble_scheme: monthly
+  steam_id: 638970
+- !ruby/object:Game
+  name: Slipstream
+  month: March
+  year: 2019
+  humble_scheme: monthly
+  steam_id: 732810
+- !ruby/object:Game
+  name: Fight'N Rage
+  month: March
+  year: 2019
+  humble_scheme: monthly
+  steam_id: 674520
+- !ruby/object:Game
+  name: Paradigm
+  month: March
+  year: 2019
+  humble_scheme: monthly
+  steam_id: 600370
+- !ruby/object:Game
+  name: Late Shift
+  month: March
+  year: 2019
+  humble_scheme: monthly
+  steam_id: 584980
+- !ruby/object:Game
+  name: Tower Unite
+  month: March
+  year: 2019
+  humble_scheme: monthly
+  steam_id: 394690
+- !ruby/object:Game
+  name: Cultist Simulator
+  month: March
+  year: 2019
+  humble_scheme: monthly
+  steam_id: 718670
+- !ruby/object:Game
+  name: EARTH DEFENSE FORCE 4.1 The Shadow of New Despair
+  month: March
+  year: 2019
+  humble_scheme: monthly
+  steam_id: 410320
+- !ruby/object:Game
+  name: 'Warhammer: Vermintide 2 - Collector''s Edition Upgrade'
+  month: March
+  year: 2019
+  humble_scheme: monthly
+  steam_id: 737040
+- !ruby/object:Game
+  name: 'Warhammer: Vermintide 2'
+  month: March
+  year: 2019
+  humble_scheme: monthly
+  steam_id: 552500
+- !ruby/object:Game
+  name: 'Dandara: Trials of Fear Edition'
+  month: April
+  year: 2019
+  humble_scheme: monthly
+  steam_id: 612390
+- !ruby/object:Game
+  name: Steel Rats™
+  month: April
+  year: 2019
+  humble_scheme: monthly
+  steam_id: 619700
+- !ruby/object:Game
+  name: She Remembered Caterpillars
+  month: April
+  year: 2019
+  humble_scheme: monthly
+  steam_id: 470780
+- !ruby/object:Game
+  name: Minit
+  month: April
+  year: 2019
+  humble_scheme: monthly
+  steam_id: 609490
+- !ruby/object:Game
+  name: Tannenberg
+  month: April
+  year: 2019
+  humble_scheme: monthly
+  steam_id: 633460
+- !ruby/object:Game
+  name: Absolver
+  month: April
+  year: 2019
+  humble_scheme: monthly
+  steam_id: 473690
+- !ruby/object:Game
+  name: 'Mutant Year Zero: Road to Eden'
+  month: April
+  year: 2019
+  humble_scheme: monthly
+  steam_id: 760060
+- !ruby/object:Game
+  name: Northgard
+  month: April
+  year: 2019
+  humble_scheme: monthly
+  steam_id: 466560
+- !ruby/object:Game
+  name: 'I am not a Monster: First Contact'
+  month: May
+  year: 2019
+  humble_scheme: monthly
+  steam_id: 826600
+- !ruby/object:Game
+  name: Do Not Feed the Monkeys
+  month: May
+  year: 2019
+  humble_scheme: monthly
+  steam_id: 658850
+- !ruby/object:Game
+  name: 'The Journey Down: Chapter Three'
+  month: May
+  year: 2019
+  humble_scheme: monthly
+  steam_id: 579760
+- !ruby/object:Game
+  name: Monster Prom
+  month: May
+  year: 2019
+  humble_scheme: monthly
+  steam_id: 743450
+- !ruby/object:Game
+  name: Finding Paradise
+  month: May
+  year: 2019
+  humble_scheme: monthly
+  steam_id: 337340
+- !ruby/object:Game
+  name: Wandersong
+  month: May
+  year: 2019
+  humble_scheme: monthly
+  steam_id: 530320
+- !ruby/object:Game
+  name: Assassin's Creed® Origins
+  month: May
+  year: 2019
+  humble_scheme: monthly
+  steam_id: 582160
+- !ruby/object:Game
+  name: Pool Panic
+  month: June
+  year: 2019
+  humble_scheme: monthly
+  steam_id: 522240
+- !ruby/object:Game
+  name: Paratopic
+  month: June
+  year: 2019
+  humble_scheme: monthly
+  steam_id: 897030
+- !ruby/object:Game
+  name: Duskers
+  month: June
+  year: 2019
+  humble_scheme: monthly
+  steam_id: 254320
+- !ruby/object:Game
+  name: Red Faction Guerrilla Re-Mars-tered
+  month: June
+  year: 2019
+  humble_scheme: monthly
+  steam_id: 667720
+- !ruby/object:Game
+  name: 911 Operator - Special Resources
+  month: June
+  year: 2019
+  humble_scheme: monthly
+  steam_id: 580730
+- !ruby/object:Game
+  name: 911 Operator
+  month: June
+  year: 2019
+  humble_scheme: monthly
+  steam_id: 503560
+- !ruby/object:Game
+  name: Black Ops 4 Battle Edition
+  month: June
+  year: 2019
+  humble_scheme: monthly
+  steam_id:
+- !ruby/object:Game
+  name: 'NAIRI: Tower of Shirin'
+  month: July
+  year: 2019
+  humble_scheme: monthly
+  steam_id: 802450
+- !ruby/object:Game
+  name: 60 Parsecs!
+  month: July
+  year: 2019
+  humble_scheme: monthly
+  steam_id: 646270
+- !ruby/object:Game
+  name: Love is Dead
+  month: July
+  year: 2019
+  humble_scheme: monthly
+  steam_id: 453910
+- !ruby/object:Game
+  name: 'Warhammer 40,000: Mechanicus'
+  month: July
+  year: 2019
+  humble_scheme: monthly
+  steam_id: 673880
+- !ruby/object:Game
+  name: Road Redemption
+  month: July
+  year: 2019
+  humble_scheme: monthly
+  steam_id: 300380
+- !ruby/object:Game
+  name: Moonlighter
+  month: July
+  year: 2019
+  humble_scheme: monthly
+  steam_id: 606150
+- !ruby/object:Game
+  name: 'Hellblade: Senua''s Sacrifice'
+  month: July
+  year: 2019
+  humble_scheme: monthly
+  steam_id: 414340
+- !ruby/object:Game
+  name: Swords and Soldiers 2 Shawarmageddon
+  month: August
+  year: 2019
+  humble_scheme: monthly
+  steam_id: 703880
+- !ruby/object:Game
+  name: 'Almost There: The Platformer'
+  month: August
+  year: 2019
+  humble_scheme: monthly
+  steam_id: 951940
+- !ruby/object:Game
+  name: The Adventure Pals
+  month: August
+  year: 2019
+  humble_scheme: monthly
+  steam_id: 396710
+- !ruby/object:Game
+  name: Yoku's Island Express
+  month: August
+  year: 2019
+  humble_scheme: monthly
+  steam_id: 334940
+- !ruby/object:Game
+  name: 'Rising Storm 2: Vietnam'
+  month: August
+  year: 2019
+  humble_scheme: monthly
+  steam_id: 418460
+- !ruby/object:Game
+  name: Surviving Mars
+  month: August
+  year: 2019
+  humble_scheme: monthly
+  steam_id: 464920
+- !ruby/object:Game
+  name: 'Kingdom Come: Deliverance'
+  month: August
+  year: 2019
+  humble_scheme: monthly
+  steam_id: 379430
+- !ruby/object:Game
+  name: God's Trigger
+  month: September
+  year: 2019
+  humble_scheme: monthly
+  steam_id: 488730
+- !ruby/object:Game
+  name: State of Mind
+  month: September
+  year: 2019
+  humble_scheme: monthly
+  steam_id: 437630
+- !ruby/object:Game
+  name: MOTHERGUNSHIP
+  month: September
+  year: 2019
+  humble_scheme: monthly
+  steam_id: 574090
+- !ruby/object:Game
+  name: Guacamelee! 2
+  month: September
+  year: 2019
+  humble_scheme: monthly
+  steam_id: 534550
+- !ruby/object:Game
+  name: Distance
+  month: September
+  year: 2019
+  humble_scheme: monthly
+  steam_id: 233610
+- !ruby/object:Game
+  name: Squad
+  month: September
+  year: 2019
+  humble_scheme: monthly
+  steam_id: 393380
+- !ruby/object:Game
+  name: Slay the Spire
+  month: September
+  year: 2019
+  humble_scheme: monthly
+  steam_id: 646570
+- !ruby/object:Game
+  name: 'Avernum 3: Ruined World'
+  month: October
+  year: 2019
+  humble_scheme: monthly
+  steam_id: 691830
+- !ruby/object:Game
+  name: PUSS!
+  month: October
+  year: 2019
+  humble_scheme: monthly
+  steam_id: 719750
+- !ruby/object:Game
+  name: Override
+  month: October
+  year: 2019
+  humble_scheme: monthly
+  steam_id:
+- !ruby/object:Game
+  name: PLANET ALPHA
+  month: October
+  year: 2019
+  humble_scheme: monthly
+  steam_id: 485030
+- !ruby/object:Game
+  name: The Spiral Scouts
+  month: October
+  year: 2019
+  humble_scheme: monthly
+  steam_id: 862480
+- !ruby/object:Game
+  name: Sonic Mania
+  month: October
+  year: 2019
+  humble_scheme: monthly
+  steam_id: 584400
+- !ruby/object:Game
+  name: BATTLETECH Shadow Hawk Pack
+  month: October
+  year: 2019
+  humble_scheme: monthly
+  steam_id: 799751
+- !ruby/object:Game
+  name: BATTLETECH Flashpoint
+  month: October
+  year: 2019
+  humble_scheme: monthly
+  steam_id: 911930
+- !ruby/object:Game
+  name: BATTLETECH
+  month: October
+  year: 2019
+  humble_scheme: monthly
+  steam_id: 637090
+- !ruby/object:Game
+  name: Evergarden
+  month: November
+  year: 2019
+  humble_scheme: monthly
+  steam_id: 576500
+- !ruby/object:Game
+  name: 'SYNTHETIK: Legion Rising'
+  month: November
+  year: 2019
+  humble_scheme: monthly
+  steam_id: 528230
+- !ruby/object:Game
+  name: 11-11 Memories Retold
+  month: November
+  year: 2019
+  humble_scheme: monthly
+  steam_id: 735580
+- !ruby/object:Game
+  name: Shenmue I & II
+  month: November
+  year: 2019
+  humble_scheme: monthly
+  steam_id: 758330
+- !ruby/object:Game
+  name: Spyro™ Reignited Trilogy
+  month: November
+  year: 2019
+  humble_scheme: monthly
+  steam_id: 996580
+- !ruby/object:Game
+  name: Crash Bandicoot™ N. Sane Trilogy
+  month: November
+  year: 2019
+  humble_scheme: monthly
+  steam_id: 731490
+- !ruby/object:Game
+  name: 'Call of Duty®: WWII'
+  month: November
+  year: 2019
+  humble_scheme: monthly
+  steam_id: 476600
+- !ruby/object:Game
+  name: 'Sword Legacy: Omen'
+  month: December
+  year: 2019
+  humble_scheme: monthly
+  steam_id: 690140
+- !ruby/object:Game
+  name: Regular Human Basketball
+  month: December
+  year: 2019
+  humble_scheme: monthly
+  steam_id: 661940
+- !ruby/object:Game
+  name: Chasm
+  month: December
+  year: 2019
+  humble_scheme: monthly
+  steam_id: 312200
+- !ruby/object:Game
+  name: Fluffy Horde
+  month: December
+  year: 2019
+  humble_scheme: monthly
+  steam_id: 777880
+- !ruby/object:Game
+  name: My Time At Portia
+  month: December
+  year: 2019
+  humble_scheme: monthly
+  steam_id: 666140
+- !ruby/object:Game
+  name: SOULCALIBUR VI
+  month: December
+  year: 2019
+  humble_scheme: monthly
+  steam_id: 544750
+- !ruby/object:Game
+  name: Yakuza Kiwami
+  month: December
+  year: 2019
+  humble_scheme: monthly
+  steam_id: 834530
+- !ruby/object:Game
+  name: Desert Child
+  month: December
+  year: 2019
+  humble_scheme: choice
+  steam_id: 844050
+- !ruby/object:Game
+  name: Aegis Defenders
+  month: December
+  year: 2019
+  humble_scheme: choice
+  steam_id: 371140
+- !ruby/object:Game
+  name: 'X-Morph: Defense'
+  month: December
+  year: 2019
+  humble_scheme: choice
+  steam_id: 408410
+- !ruby/object:Game
+  name: 'Dark Future: Blood Red States'
+  month: December
+  year: 2019
+  humble_scheme: choice
+  steam_id: 370870
+- !ruby/object:Game
+  name: Horizon Chase Turbo
+  month: December
+  year: 2019
+  humble_scheme: choice
+  steam_id: 389140
+- !ruby/object:Game
+  name: Dead In Vinland
+  month: December
+  year: 2019
+  humble_scheme: choice
+  steam_id: 573120
+- !ruby/object:Game
+  name: Phantom Doctrine
+  month: December
+  year: 2019
+  humble_scheme: choice
+  steam_id: 559100
+- !ruby/object:Game
+  name: Ancestors Legacy
+  month: December
+  year: 2019
+  humble_scheme: choice
+  steam_id: 620590
+- !ruby/object:Game
+  name: Blasphemous
+  month: December
+  year: 2019
+  humble_scheme: choice
+  steam_id: 774361
+- !ruby/object:Game
+  name: 'Shadow of the Tomb Raider: Definitive Edition'
+  month: December
+  year: 2019
+  humble_scheme: choice
+  steam_id: 750920
+2020:
+- !ruby/object:Game
+  name: 'GRIP: Combat Racing - Artifex Car Pack'
+  month: January
+  year: 2020
+  humble_scheme: choice
+  steam_id: 1087830
+- !ruby/object:Game
+  name: 'GRIP: Combat Racing'
+  month: January
+  year: 2020
+  humble_scheme: choice
+  steam_id: 396900
+- !ruby/object:Game
+  name: Mages of Mystralia
+  month: January
+  year: 2020
+  humble_scheme: choice
+  steam_id: 529660
+- !ruby/object:Game
+  name: Them's Fightin' Herds
+  month: January
+  year: 2020
+  humble_scheme: choice
+  steam_id: 574980
+- !ruby/object:Game
+  name: Whispers of a Machine
+  month: January
+  year: 2020
+  humble_scheme: choice
+  steam_id: 631570
+- !ruby/object:Game
+  name: Unrailed!
+  month: January
+  year: 2020
+  humble_scheme: choice
+  steam_id: 1016920
+- !ruby/object:Game
+  name: Trailmakers
+  month: January
+  year: 2020
+  humble_scheme: choice
+  steam_id: 585420
+- !ruby/object:Game
+  name: 'Bad North: Jotunn Edition'
+  month: January
+  year: 2020
+  humble_scheme: choice
+  steam_id: 688420
+- !ruby/object:Game
+  name: Street Fighter V
+  month: January
+  year: 2020
+  humble_scheme: choice
+  steam_id: 310950
+- !ruby/object:Game
+  name: DiRT Rally 2.0 - Opel Manta 400
+  month: January
+  year: 2020
+  humble_scheme: choice
+  steam_id: 1004960
+- !ruby/object:Game
+  name: DiRT Rally 2.0
+  month: January
+  year: 2020
+  humble_scheme: choice
+  steam_id: 690790
+- !ruby/object:Game
+  name: Two Point Hospital
+  month: January
+  year: 2020
+  humble_scheme: choice
+  steam_id: 535930
+- !ruby/object:Game
+  name: Graveyard Keeper
+  month: January
+  year: 2020
+  humble_scheme: choice
+  steam_id: 599140
+- !ruby/object:Game
+  name: 'Middle-earth™: Shadow of War™'
+  month: January
+  year: 2020
+  humble_scheme: choice
+  steam_id: 356190
+- !ruby/object:Game
+  name: Night Call
+  month: February
+  year: 2020
+  humble_scheme: choice
+  steam_id: 680380
+- !ruby/object:Game
+  name: Underhero
+  month: February
+  year: 2020
+  humble_scheme: choice
+  steam_id: 573320
+- !ruby/object:Game
+  name: Warstone TD
+  month: February
+  year: 2020
+  humble_scheme: choice
+  steam_id: 562500
+- !ruby/object:Game
+  name: The Hex
+  month: February
+  year: 2020
+  humble_scheme: choice
+  steam_id: 510420
+- !ruby/object:Game
+  name: Project Warlock
+  month: February
+  year: 2020
+  humble_scheme: choice
+  steam_id: 893680
+- !ruby/object:Game
+  name: SHENZHEN I/O
+  month: February
+  year: 2020
+  humble_scheme: choice
+  steam_id: 504210
+- !ruby/object:Game
+  name: Eliza
+  month: February
+  year: 2020
+  humble_scheme: choice
+  steam_id: 716500
+- !ruby/object:Game
+  name: Okami HD
+  month: February
+  year: 2020
+  humble_scheme: choice
+  steam_id: 587620
+- !ruby/object:Game
+  name: CryoFall
+  month: February
+  year: 2020
+  humble_scheme: choice
+  steam_id: 829590
+- !ruby/object:Game
+  name: Book of Demons
+  month: February
+  year: 2020
+  humble_scheme: choice
+  steam_id: 449960
+- !ruby/object:Game
+  name: 'Pathfinder: Kingmaker — Enhanced Plus Edition'
+  month: February
+  year: 2020
+  humble_scheme: choice
+  steam_id: 640820
+- !ruby/object:Game
+  name: 'Frostpunk: The Rifts'
+  month: February
+  year: 2020
+  humble_scheme: choice
+  steam_id: 1125020
+- !ruby/object:Game
+  name: Frostpunk
+  month: February
+  year: 2020
+  humble_scheme: choice
+  steam_id: 323190
+- !ruby/object:Game
+  name: Etherborn
+  month: March
+  year: 2020
+  humble_scheme: choice
+  steam_id: 812160
+- !ruby/object:Game
+  name: AI War 2
+  month: March
+  year: 2020
+  humble_scheme: choice
+  steam_id: 573410
+- !ruby/object:Game
+  name: Niffelheim
+  month: March
+  year: 2020
+  humble_scheme: choice
+  steam_id: 351100
+- !ruby/object:Game
+  name: 198X
+  month: March
+  year: 2020
+  humble_scheme: choice
+  steam_id: 1086010
+- !ruby/object:Game
+  name: 'Death''s Gambit: Afterlife'
+  month: March
+  year: 2020
+  humble_scheme: choice
+  steam_id: 356650
+- !ruby/object:Game
+  name: Turok
+  month: March
+  year: 2020
+  humble_scheme: choice
+  steam_id: 405820
+- !ruby/object:Game
+  name: EXAPUNKS
+  month: March
+  year: 2020
+  humble_scheme: choice
+  steam_id: 716490
+- !ruby/object:Game
+  name: 'Battle Chasers: Nightwar'
+  month: March
+  year: 2020
+  humble_scheme: choice
+  steam_id: 451020
+- !ruby/object:Game
+  name: 'Fell Seal: Arbiter''s Mark'
+  month: March
+  year: 2020
+  humble_scheme: choice
+  steam_id: 699170
+- !ruby/object:Game
+  name: F1 2019
+  month: March
+  year: 2020
+  humble_scheme: choice
+  steam_id:
+- !ruby/object:Game
+  name: Planet Coaster - World's Fair Pack
+  month: March
+  year: 2020
+  humble_scheme: choice
+  steam_id: 953660
+- !ruby/object:Game
+  name: Planet Coaster
+  month: March
+  year: 2020
+  humble_scheme: choice
+  steam_id: 493340
+- !ruby/object:Game
+  name: My Friend Pedro
+  month: March
+  year: 2020
+  humble_scheme: choice
+  steam_id: 557340
+- !ruby/object:Game
+  name: Capitalism 2
+  month: April
+  year: 2020
+  humble_scheme: choice
+  steam_id: 638200
+- !ruby/object:Game
+  name: Shoppe Keep 2
+  month: April
+  year: 2020
+  humble_scheme: choice
+  steam_id: 684580
+- !ruby/object:Game
+  name: 'The Bard''s Tale IV: Director''s Cut'
+  month: April
+  year: 2020
+  humble_scheme: choice
+  steam_id: 1091980
+- !ruby/object:Game
+  name: Truberbrook / Trüberbrook
+  month: April
+  year: 2020
+  humble_scheme: choice
+  steam_id: 757300
+- !ruby/object:Game
+  name: 'Turok 2: Seeds of Evil'
+  month: April
+  year: 2020
+  humble_scheme: choice
+  steam_id: 405830
+- !ruby/object:Game
+  name: 'Driftland: The Magic Revival'
+  month: April
+  year: 2020
+  humble_scheme: choice
+  steam_id: 718650
+- !ruby/object:Game
+  name: 'Raiden V: Director''s Cut | 雷電 V Director''s Cut | 雷電V:導演剪輯版'
+  month: April
+  year: 2020
+  humble_scheme: choice
+  steam_id: 570050
+- !ruby/object:Game
+  name: MOLEK-SYNTEZ
+  month: April
+  year: 2020
+  humble_scheme: choice
+  steam_id: 1168880
+- !ruby/object:Game
+  name: Opus Magnum
+  month: April
+  year: 2020
+  humble_scheme: choice
+  steam_id: 558990
+- !ruby/object:Game
+  name: This Is the Police 2
+  month: April
+  year: 2020
+  humble_scheme: choice
+  steam_id: 785740
+- !ruby/object:Game
+  name: GRIS
+  month: April
+  year: 2020
+  humble_scheme: choice
+  steam_id: 683320
+- !ruby/object:Game
+  name: HITMAN™ 2
+  month: April
+  year: 2020
+  humble_scheme: choice
+  steam_id:
+- !ruby/object:Game
+  name: Horace
+  month: May
+  year: 2020
+  humble_scheme: choice
+  steam_id: 629090
+- !ruby/object:Game
+  name: Chess Ultra
+  month: May
+  year: 2020
+  humble_scheme: choice
+  steam_id: 518060
+- !ruby/object:Game
+  name: Neoverse
+  month: May
+  year: 2020
+  humble_scheme: choice
+  steam_id: 994220
+- !ruby/object:Game
+  name: MO:Astray
+  month: May
+  year: 2020
+  humble_scheme: choice
+  steam_id: 1104660
+- !ruby/object:Game
+  name: Heave Ho
+  month: May
+  year: 2020
+  humble_scheme: choice
+  steam_id: 905340
+- !ruby/object:Game
+  name: Warsaw
+  month: May
+  year: 2020
+  humble_scheme: choice
+  steam_id: 1026420
+- !ruby/object:Game
+  name: 'The Swords of Ditto: Mormo''s Curse'
+  month: May
+  year: 2020
+  humble_scheme: choice
+  steam_id: 619780
+- !ruby/object:Game
+  name: 'Warhammer 40,000: Gladius - Relics of War'
+  month: May
+  year: 2020
+  humble_scheme: choice
+  steam_id: 489630
+- !ruby/object:Game
+  name: Niche - a genetics survival game
+  month: May
+  year: 2020
+  humble_scheme: choice
+  steam_id: 440650
+- !ruby/object:Game
+  name: Rise of Industry
+  month: May
+  year: 2020
+  humble_scheme: choice
+  steam_id: 671440
+- !ruby/object:Game
+  name: 'XCOM 2: Reinforcement Pack'
+  month: May
+  year: 2020
+  humble_scheme: choice
+  steam_id: 426321
+- !ruby/object:Game
+  name: 'XCOM 2: Resistance Warrior Pack'
+  month: May
+  year: 2020
+  humble_scheme: choice
+  steam_id: 399620
+- !ruby/object:Game
+  name: XCOM® 2
+  month: May
+  year: 2020
+  humble_scheme: choice
+  steam_id: 268500
+- !ruby/object:Game
+  name: Jurassic World Evolution - Deluxe Dinosaur Pack
+  month: May
+  year: 2020
+  humble_scheme: choice
+  steam_id: 817550
+- !ruby/object:Game
+  name: Jurassic World Evolution
+  month: May
+  year: 2020
+  humble_scheme: choice
+  steam_id: 648350
+- !ruby/object:Game
+  name: The King's Bird
+  month: June
+  year: 2020
+  humble_scheme: choice
+  steam_id: 812550
+- !ruby/object:Game
+  name: The Stillness of the Wind
+  month: June
+  year: 2020
+  humble_scheme: choice
+  steam_id: 828900
+- !ruby/object:Game
+  name: Overload
+  month: June
+  year: 2020
+  humble_scheme: choice
+  steam_id: 448850
+- !ruby/object:Game
+  name: Remnants of Naezith
+  month: June
+  year: 2020
+  humble_scheme: choice
+  steam_id: 590590
+- !ruby/object:Game
+  name: 'Stygian: Reign of the Old Ones'
+  month: June
+  year: 2020
+  humble_scheme: choice
+  steam_id: 779290
+- !ruby/object:Game
+  name: 'Assault Squad 2: Men of War Origins'
+  month: June
+  year: 2020
+  humble_scheme: choice
+  steam_id: 1260050
+- !ruby/object:Game
+  name: 'Men of War: Assault Squad 2 - Ostfront Veteranen'
+  month: June
+  year: 2020
+  humble_scheme: choice
+  steam_id: 920840
+- !ruby/object:Game
+  name: 'Men of War: Assault Squad 2 - Airborne'
+  month: June
+  year: 2020
+  humble_scheme: choice
+  steam_id: 357760
+- !ruby/object:Game
+  name: 'Men of War: Assault Squad 2 - Iron Fist'
+  month: June
+  year: 2020
+  humble_scheme: choice
+  steam_id: 327130
+- !ruby/object:Game
+  name: 'Men of War: Assault Squad 2 - Deluxe Edition upgrade'
+  month: June
+  year: 2020
+  humble_scheme: choice
+  steam_id: 271850
+- !ruby/object:Game
+  name: 'Men of War: Assault Squad 2'
+  month: June
+  year: 2020
+  humble_scheme: choice
+  steam_id: 244450
+- !ruby/object:Game
+  name: Felix The Reaper
+  month: June
+  year: 2020
+  humble_scheme: choice
+  steam_id: 919410
+- !ruby/object:Game
+  name: Barotrauma
+  month: June
+  year: 2020
+  humble_scheme: choice
+  steam_id: 602960
+- !ruby/object:Game
+  name: The Messenger
+  month: June
+  year: 2020
+  humble_scheme: choice
+  steam_id: 764790
+- !ruby/object:Game
+  name: 'Hellblade: Senua''s Sacrifice'
+  month: June
+  year: 2020
+  humble_scheme: choice
+  steam_id: 414340
+- !ruby/object:Game
+  name: GRID (2019)
+  month: June
+  year: 2020
+  humble_scheme: choice
+  steam_id:
+- !ruby/object:Game
+  name: Supraland
+  month: June
+  year: 2020
+  humble_scheme: choice
+  steam_id: 813630
+- !ruby/object:Game
+  name: Earthlock
+  month: July
+  year: 2020
+  humble_scheme: choice
+  steam_id: 761030
+- !ruby/object:Game
+  name: Basingstoke
+  month: July
+  year: 2020
+  humble_scheme: choice
+  steam_id: 336940
+- !ruby/object:Game
+  name: Verlet Swing
+  month: July
+  year: 2020
+  humble_scheme: choice
+  steam_id: 811870
+- !ruby/object:Game
+  name: 'Don''t Escape: 4 Days to Survive'
+  month: July
+  year: 2020
+  humble_scheme: choice
+  steam_id: 611760
+- !ruby/object:Game
+  name: Metal Unit
+  month: July
+  year: 2020
+  humble_scheme: choice
+  steam_id: 1173200
+- !ruby/object:Game
+  name: 'Sigma Theory: Global Cold War'
+  month: July
+  year: 2020
+  humble_scheme: choice
+  steam_id: 716640
+- !ruby/object:Game
+  name: Beat Hazard 2
+  month: July
+  year: 2020
+  humble_scheme: choice
+  steam_id: 618740
+- !ruby/object:Game
+  name: 'Yuppie Psycho: Executive Edition'
+  month: July
+  year: 2020
+  humble_scheme: choice
+  steam_id: 597760
+- !ruby/object:Game
+  name: Battlestar Galactica Deadlock
+  month: July
+  year: 2020
+  humble_scheme: choice
+  steam_id: 544610
+- !ruby/object:Game
+  name: Railway Empire
+  month: July
+  year: 2020
+  humble_scheme: choice
+  steam_id: 503940
+- !ruby/object:Game
+  name: Void Bastards
+  month: July
+  year: 2020
+  humble_scheme: choice
+  steam_id: 857980
+- !ruby/object:Game
+  name: 'Age of Wonders: Planetfall Deluxe Edition Content Pack'
+  month: July
+  year: 2020
+  humble_scheme: choice
+  steam_id: 1078840
+- !ruby/object:Game
+  name: 'Age of Wonders: Planetfall'
+  month: July
+  year: 2020
+  humble_scheme: choice
+  steam_id: 718850
+- !ruby/object:Game
+  name: A Case of Distrust
+  month: August
+  year: 2020
+  humble_scheme: choice
+  steam_id: 717610
+- !ruby/object:Game
+  name: We Were Here Together
+  month: August
+  year: 2020
+  humble_scheme: choice
+  steam_id: 865360
+- !ruby/object:Game
+  name: 'The Coma 2: Vicious Sisters'
+  month: August
+  year: 2020
+  humble_scheme: choice
+  steam_id: 1045720
+- !ruby/object:Game
+  name: American Fugitive
+  month: August
+  year: 2020
+  humble_scheme: choice
+  steam_id: 934780
+- !ruby/object:Game
+  name: Through the Darkest of Times
+  month: August
+  year: 2020
+  humble_scheme: choice
+  steam_id: 1003090
+- !ruby/object:Game
+  name: Automachef
+  month: August
+  year: 2020
+  humble_scheme: choice
+  steam_id: 984800
+- !ruby/object:Game
+  name: Genesis Alpha One Deluxe Edition
+  month: August
+  year: 2020
+  humble_scheme: choice
+  steam_id: 712190
+- !ruby/object:Game
+  name: Little Big Workshop
+  month: August
+  year: 2020
+  humble_scheme: choice
+  steam_id: 574720
+- !ruby/object:Game
+  name: Call of Cthulhu®
+  month: August
+  year: 2020
+  humble_scheme: choice
+  steam_id: 399810
+- !ruby/object:Game
+  name: Wargroove
+  month: August
+  year: 2020
+  humble_scheme: choice
+  steam_id: 607050
+- !ruby/object:Game
+  name: 'Hello Neighbor: Hide and Seek'
+  month: August
+  year: 2020
+  humble_scheme: choice
+  steam_id: 960420
+- !ruby/object:Game
+  name: Hello Neighbor
+  month: August
+  year: 2020
+  humble_scheme: choice
+  steam_id: 521890
+- !ruby/object:Game
+  name: Vampyr
+  month: August
+  year: 2020
+  humble_scheme: choice
+  steam_id: 427290
+- !ruby/object:Game
+  name: The Shapeshifting Detective
+  month: September
+  year: 2020
+  humble_scheme: choice
+  steam_id: 898650
+- !ruby/object:Game
+  name: The Occupation
+  month: September
+  year: 2020
+  humble_scheme: choice
+  steam_id: 765880
+- !ruby/object:Game
+  name: Catherine Classic
+  month: September
+  year: 2020
+  humble_scheme: choice
+  steam_id: 893180
+- !ruby/object:Game
+  name: Yooka-Laylee and the Impossible Lair
+  month: September
+  year: 2020
+  humble_scheme: choice
+  steam_id: 846870
+- !ruby/object:Game
+  name: Evoland Legendary Edition
+  month: September
+  year: 2020
+  humble_scheme: choice
+  steam_id: 1020470
+- !ruby/object:Game
+  name: Strange Brigade
+  month: September
+  year: 2020
+  humble_scheme: choice
+  steam_id: 312670
+- !ruby/object:Game
+  name: Lethal League Blaze
+  month: September
+  year: 2020
+  humble_scheme: choice
+  steam_id: 553310
+- !ruby/object:Game
+  name: 'Fun with Ragdolls: The Game'
+  month: September
+  year: 2020
+  humble_scheme: choice
+  steam_id: 1142500
+- !ruby/object:Game
+  name: 'Vampire: The Masquerade - Coteries of New York'
+  month: September
+  year: 2020
+  humble_scheme: choice
+  steam_id: 1096410
+- !ruby/object:Game
+  name: Forager
+  month: September
+  year: 2020
+  humble_scheme: choice
+  steam_id: 751780
+- !ruby/object:Game
+  name: Generation Zero®
+  month: September
+  year: 2020
+  humble_scheme: choice
+  steam_id: 704270
+- !ruby/object:Game
+  name: Golf With Your Friends - Caddy Pack
+  month: September
+  year: 2020
+  humble_scheme: choice
+  steam_id: 1277570
+- !ruby/object:Game
+  name: Golf With Your Friends - OST
+  month: September
+  year: 2020
+  humble_scheme: choice
+  steam_id: 564170
+- !ruby/object:Game
+  name: Golf with Your Friends
+  month: September
+  year: 2020
+  humble_scheme: choice
+  steam_id: 431240
+- !ruby/object:Game
+  name: Lightmatter
+  month: October
+  year: 2020
+  humble_scheme: choice
+  steam_id: 994140
+- !ruby/object:Game
+  name: Basement
+  month: October
+  year: 2020
+  humble_scheme: choice
+  steam_id: 340150
+- !ruby/object:Game
+  name: 'The Uncertain: Last Quiet Day'
+  month: October
+  year: 2020
+  humble_scheme: choice
+  steam_id: 406970
+- !ruby/object:Game
+  name: GOAT OF DUTY
+  month: October
+  year: 2020
+  humble_scheme: choice
+  steam_id: 555000
+- !ruby/object:Game
+  name: The Suicide of Rachel Foster
+  month: October
+  year: 2020
+  humble_scheme: choice
+  steam_id: 1057750
+- !ruby/object:Game
+  name: Fantasy Blacksmith
+  month: October
+  year: 2020
+  humble_scheme: choice
+  steam_id: 959520
+- !ruby/object:Game
+  name: 'Shadows: Awakening'
+  month: October
+  year: 2020
+  humble_scheme: choice
+  steam_id: 585450
+- !ruby/object:Game
+  name: Autonauts
+  month: October
+  year: 2020
+  humble_scheme: choice
+  steam_id: 979120
+- !ruby/object:Game
+  name: Iron Danger
+  month: October
+  year: 2020
+  humble_scheme: choice
+  steam_id: 899310
+- !ruby/object:Game
+  name: 'Sunless Skies: Sovereign Edition'
+  month: October
+  year: 2020
+  humble_scheme: choice
+  steam_id: 596970
+- !ruby/object:Game
+  name: Fae Tactics
+  month: October
+  year: 2020
+  humble_scheme: choice
+  steam_id: 995980
+- !ruby/object:Game
+  name: Tropico 6 - El Prez Edition Upgrade
+  month: October
+  year: 2020
+  humble_scheme: choice
+  steam_id: 881960
+- !ruby/object:Game
+  name: Tropico 6
+  month: October
+  year: 2020
+  humble_scheme: choice
+  steam_id: 492720
+- !ruby/object:Game
+  name: Townsmen - A Kingdom Rebuilt
+  month: November
+  year: 2020
+  humble_scheme: choice
+  steam_id: 938380
+- !ruby/object:Game
+  name: Youropa
+  month: November
+  year: 2020
+  humble_scheme: choice
+  steam_id: 640120
+- !ruby/object:Game
+  name: Rover Mechanic Simulator
+  month: November
+  year: 2020
+  humble_scheme: choice
+  steam_id: 864680
+- !ruby/object:Game
+  name: Tsioque
+  month: November
+  year: 2020
+  humble_scheme: choice
+  steam_id: 393190
+- !ruby/object:Game
+  name: Darkwood
+  month: November
+  year: 2020
+  humble_scheme: choice
+  steam_id: 274520
+- !ruby/object:Game
+  name: Smile For Me
+  month: November
+  year: 2020
+  humble_scheme: choice
+  steam_id: 1018850
+- !ruby/object:Game
+  name: Little Misfortune
+  month: November
+  year: 2020
+  humble_scheme: choice
+  steam_id: 714120
+- !ruby/object:Game
+  name: Darksburg
+  month: November
+  year: 2020
+  humble_scheme: choice
+  steam_id: 939100
+- !ruby/object:Game
+  name: Crying Suns
+  month: November
+  year: 2020
+  humble_scheme: choice
+  steam_id: 873940
+- !ruby/object:Game
+  name: 'Imperator: Rome'
+  month: November
+  year: 2020
+  humble_scheme: choice
+  steam_id: 859580
+- !ruby/object:Game
+  name: Yakuza Kiwami 2
+  month: November
+  year: 2020
+  humble_scheme: choice
+  steam_id: 927380
+- !ruby/object:Game
+  name: Darksiders III
+  month: November
+  year: 2020
+  humble_scheme: choice
+  steam_id: 606280
+- !ruby/object:Game
+  name: Path of Giants
+  month: December
+  year: 2020
+  humble_scheme: choice
+  steam_id: 1181400
+- !ruby/object:Game
+  name: Struggling
+  month: December
+  year: 2020
+  humble_scheme: choice
+  steam_id: 1035560
+- !ruby/object:Game
+  name: Still There
+  month: December
+  year: 2020
+  humble_scheme: choice
+  steam_id: 1063490
+- !ruby/object:Game
+  name: 'Frog Detective 2: The Case of the Invisible Wizard'
+  month: December
+  year: 2020
+  humble_scheme: choice
+  steam_id: 1047220
+- !ruby/object:Game
+  name: 'Frog Detective 1: The Haunted Island'
+  month: December
+  year: 2020
+  humble_scheme: choice
+  steam_id: 963000
+- !ruby/object:Game
+  name: Tabletop Playground
+  month: December
+  year: 2020
+  humble_scheme: choice
+  steam_id: 838410
+- !ruby/object:Game
+  name: 'Zwei: The Ilvard Insurrection'
+  month: December
+  year: 2020
+  humble_scheme: choice
+  steam_id: 427700
+- !ruby/object:Game
+  name: 'Zwei: The Arges Adventure'
+  month: December
+  year: 2020
+  humble_scheme: choice
+  steam_id: 427680
+- !ruby/object:Game
+  name: Shining Resonance Refrain
+  month: December
+  year: 2020
+  humble_scheme: choice
+  steam_id: 809890
+- !ruby/object:Game
+  name: Indivisible
+  month: December
+  year: 2020
+  humble_scheme: choice
+  steam_id: 421170
+- !ruby/object:Game
+  name: The Beast Inside
+  month: December
+  year: 2020
+  humble_scheme: choice
+  steam_id: 792300
+- !ruby/object:Game
+  name: One Step From Eden
+  month: December
+  year: 2020
+  humble_scheme: choice
+  steam_id: 960690
+- !ruby/object:Game
+  name: Children of Morta
+  month: December
+  year: 2020
+  humble_scheme: choice
+  steam_id: 330020
+- !ruby/object:Game
+  name: Overcooked! 2 - Surf 'n' Turf
+  month: December
+  year: 2020
+  humble_scheme: choice
+  steam_id: 909720
+- !ruby/object:Game
+  name: Overcooked! 2 - Too Many Cooks Pack
+  month: December
+  year: 2020
+  humble_scheme: choice
+  steam_id: 858240
+- !ruby/object:Game
+  name: Overcooked! 2
+  month: December
+  year: 2020
+  humble_scheme: choice
+  steam_id: 728880
+2021:
+- !ruby/object:Game
+  name: 'The Ambassador: Fractured Timelines'
+  month: January
+  year: 2021
+  humble_scheme: choice
+  steam_id: 1171660
+- !ruby/object:Game
+  name: Deleveled
+  month: January
+  year: 2021
+  humble_scheme: choice
+  steam_id: 1045580
+- !ruby/object:Game
+  name: Minoria
+  month: January
+  year: 2021
+  humble_scheme: choice
+  steam_id: 940910
+- !ruby/object:Game
+  name: Tales of the Neon Sea
+  month: January
+  year: 2021
+  humble_scheme: choice
+  steam_id: 828740
+- !ruby/object:Game
+  name: 'Vampire: The Masquerade - Shadows of New York'
+  month: January
+  year: 2021
+  humble_scheme: choice
+  steam_id: 1279630
+- !ruby/object:Game
+  name: Not Tonight
+  month: January
+  year: 2021
+  humble_scheme: choice
+  steam_id: 733790
+- !ruby/object:Game
+  name: SONG OF HORROR COMPLETE EDITION
+  month: January
+  year: 2021
+  humble_scheme: choice
+  steam_id: 1096570
+- !ruby/object:Game
+  name: Total Tank Simulator
+  month: January
+  year: 2021
+  humble_scheme: choice
+  steam_id: 674500
+- !ruby/object:Game
+  name: 'Warhammer: Chaosbane'
+  month: January
+  year: 2021
+  humble_scheme: choice
+  steam_id: 774241
+- !ruby/object:Game
+  name: Pathologic 2
+  month: January
+  year: 2021
+  humble_scheme: choice
+  steam_id: 505230
+- !ruby/object:Game
+  name: 'Ancestors: The Humankind Odyssey'
+  month: January
+  year: 2021
+  humble_scheme: choice
+  steam_id: 536270
+- !ruby/object:Game
+  name: PC Building Simulator
+  month: January
+  year: 2021
+  humble_scheme: choice
+  steam_id: 621060
+- !ruby/object:Game
+  name: Boomerang Fu
+  month: February
+  year: 2021
+  humble_scheme: choice
+  steam_id: 965680
+- !ruby/object:Game
+  name: Iris and the Giant
+  month: February
+  year: 2021
+  humble_scheme: choice
+  steam_id: 1127610
+- !ruby/object:Game
+  name: Lovecraft's Untold Stories
+  month: February
+  year: 2021
+  humble_scheme: choice
+  steam_id: 871420
+- !ruby/object:Game
+  name: 'Werewolf: The Apocalypse — Heart of the Forest'
+  month: February
+  year: 2021
+  humble_scheme: choice
+  steam_id: 1342620
+- !ruby/object:Game
+  name: Valfaris
+  month: February
+  year: 2021
+  humble_scheme: choice
+  steam_id: 600130
+- !ruby/object:Game
+  name: Train Station Renovation
+  month: February
+  year: 2021
+  humble_scheme: choice
+  steam_id: 914010
+- !ruby/object:Game
+  name: The Wild Eight
+  month: February
+  year: 2021
+  humble_scheme: choice
+  steam_id: 526160
+- !ruby/object:Game
+  name: 'Trine 4: The Nightmare Prince'
+  month: February
+  year: 2021
+  humble_scheme: choice
+  steam_id: 690640
+- !ruby/object:Game
+  name: Moving Out
+  month: February
+  year: 2021
+  humble_scheme: choice
+  steam_id: 996770
+- !ruby/object:Game
+  name: ENDLESS™ Space 2
+  month: February
+  year: 2021
+  humble_scheme: choice
+  steam_id: 392110
+- !ruby/object:Game
+  name: Valkyria Chronicles 4 Complete Edition
+  month: February
+  year: 2021
+  humble_scheme: choice
+  steam_id: 790820
+- !ruby/object:Game
+  name: Outward Soundtrack
+  month: February
+  year: 2021
+  humble_scheme: choice
+  steam_id:
+- !ruby/object:Game
+  name: Outward - The Soroboreans
+  month: February
+  year: 2021
+  humble_scheme: choice
+  steam_id: 1194010
+- !ruby/object:Game
+  name: Outward Definitive Edition
+  month: February
+  year: 2021
+  humble_scheme: choice
+  steam_id: 794260
+- !ruby/object:Game
+  name: Ageless
+  month: March
+  year: 2021
+  humble_scheme: choice
+  steam_id: 1210150
+- !ruby/object:Game
+  name: Boreal Blade
+  month: March
+  year: 2021
+  humble_scheme: choice
+  steam_id: 598780
+- !ruby/object:Game
+  name: Wildfire
+  month: March
+  year: 2021
+  humble_scheme: choice
+  steam_id: 431940
+- !ruby/object:Game
+  name: Pesterquest
+  month: March
+  year: 2021
+  humble_scheme: choice
+  steam_id: 1144030
+- !ruby/object:Game
+  name: Cyber Hook
+  month: March
+  year: 2021
+  humble_scheme: choice
+  steam_id: 1130410
+- !ruby/object:Game
+  name: 'Peaky Blinders: Mastermind'
+  month: March
+  year: 2021
+  humble_scheme: choice
+  steam_id:
+- !ruby/object:Game
+  name: Hotshot Racing
+  month: March
+  year: 2021
+  humble_scheme: choice
+  steam_id: 609920
+- !ruby/object:Game
+  name: WWE 2K Battlegrounds
+  month: March
+  year: 2021
+  humble_scheme: choice
+  steam_id: 1142100
+- !ruby/object:Game
+  name: Kingdom Two Crowns
+  month: March
+  year: 2021
+  humble_scheme: choice
+  steam_id: 701160
+- !ruby/object:Game
+  name: Elex
+  month: March
+  year: 2021
+  humble_scheme: choice
+  steam_id: 411300
+- !ruby/object:Game
+  name: 'XCOM®: Chimera Squad'
+  month: March
+  year: 2021
+  humble_scheme: choice
+  steam_id: 882100
+- !ruby/object:Game
+  name: Control Ultimate Edition
+  month: March
+  year: 2021
+  humble_scheme: choice
+  steam_id: 870780
+- !ruby/object:Game
+  name: Popup Dungeon
+  month: April
+  year: 2021
+  humble_scheme: choice
+  steam_id: 349730
+- !ruby/object:Game
+  name: Skully
+  month: April
+  year: 2021
+  humble_scheme: choice
+  steam_id: 1249110
+- !ruby/object:Game
+  name: Colt Canyon
+  month: April
+  year: 2021
+  humble_scheme: choice
+  steam_id: 940710
+- !ruby/object:Game
+  name: Simulacra 2
+  month: April
+  year: 2021
+  humble_scheme: choice
+  steam_id: 1011190
+- !ruby/object:Game
+  name: Simulacra
+  month: April
+  year: 2021
+  humble_scheme: choice
+  steam_id: 712730
+- !ruby/object:Game
+  name: Aven Colony
+  month: April
+  year: 2021
+  humble_scheme: choice
+  steam_id: 484900
+- !ruby/object:Game
+  name: In Other Waters
+  month: April
+  year: 2021
+  humble_scheme: choice
+  steam_id: 890720
+- !ruby/object:Game
+  name: 'Remothered: Broken Porcelain'
+  month: April
+  year: 2021
+  humble_scheme: choice
+  steam_id: 1142390
+- !ruby/object:Game
+  name: 'Rock of Ages 3: Make & Break'
+  month: April
+  year: 2021
+  humble_scheme: choice
+  steam_id: 1101360
+- !ruby/object:Game
+  name: Main Assembly
+  month: April
+  year: 2021
+  humble_scheme: choice
+  steam_id: 1078920
+- !ruby/object:Game
+  name: Shenmue III
+  month: April
+  year: 2021
+  humble_scheme: choice
+  steam_id: 878670
+- !ruby/object:Game
+  name: F1 2020
+  month: April
+  year: 2021
+  humble_scheme: choice
+  steam_id:
+- !ruby/object:Game
+  name: Sniper Ghost Warrior Contracts
+  month: April
+  year: 2021
+  humble_scheme: choice
+  steam_id: 973580
+- !ruby/object:Game
+  name: Vane
+  month: May
+  year: 2021
+  humble_scheme: choice
+  steam_id: 1063310
+- !ruby/object:Game
+  name: Family Man
+  month: May
+  year: 2021
+  humble_scheme: choice
+  steam_id: 904360
+- !ruby/object:Game
+  name: Retimed
+  month: May
+  year: 2021
+  humble_scheme: choice
+  steam_id: 760810
+- !ruby/object:Game
+  name: Relicta
+  month: May
+  year: 2021
+  humble_scheme: choice
+  steam_id: 941570
+- !ruby/object:Game
+  name: Morkredd
+  month: May
+  year: 2021
+  humble_scheme: choice
+  steam_id: 1331910
+- !ruby/object:Game
+  name: Size Matters
+  month: May
+  year: 2021
+  humble_scheme: choice
+  steam_id: 976700
+- !ruby/object:Game
+  name: Fury Unleashed
+  month: May
+  year: 2021
+  humble_scheme: choice
+  steam_id: 465200
+- !ruby/object:Game
+  name: 'Levelhead: Platformer Maker'
+  month: May
+  year: 2021
+  humble_scheme: choice
+  steam_id: 792710
+- !ruby/object:Game
+  name: Cook, Serve, Delicious! 3?!
+  month: May
+  year: 2021
+  humble_scheme: choice
+  steam_id: 1000030
+- !ruby/object:Game
+  name: Hellpoint
+  month: May
+  year: 2021
+  humble_scheme: choice
+  steam_id: 628670
+- !ruby/object:Game
+  name: Darksiders Genesis
+  month: May
+  year: 2021
+  humble_scheme: choice
+  steam_id: 710920
+- !ruby/object:Game
+  name: Metro Exodus
+  month: May
+  year: 2021
+  humble_scheme: choice
+  steam_id: 412020
+- !ruby/object:Game
+  name: Disjunction
+  month: June
+  year: 2021
+  humble_scheme: choice
+  steam_id: 979310
+- !ruby/object:Game
+  name: Effie
+  month: June
+  year: 2021
+  humble_scheme: choice
+  steam_id: 975950
+- !ruby/object:Game
+  name: Paw Paw Paw
+  month: June
+  year: 2021
+  humble_scheme: choice
+  steam_id: 1037910
+- !ruby/object:Game
+  name: Ikenfell
+  month: June
+  year: 2021
+  humble_scheme: choice
+  steam_id: 854940
+- !ruby/object:Game
+  name: Desolate
+  month: June
+  year: 2021
+  humble_scheme: choice
+  steam_id: 671510
+- !ruby/object:Game
+  name: Milky Way Prince – The Vampire Star
+  month: June
+  year: 2021
+  humble_scheme: choice
+  steam_id: 1302050
+- !ruby/object:Game
+  name: Panzer Paladin
+  month: June
+  year: 2021
+  humble_scheme: choice
+  steam_id: 975510
+- !ruby/object:Game
+  name: Going Under
+  month: June
+  year: 2021
+  humble_scheme: choice
+  steam_id: 1154810
+- !ruby/object:Game
+  name: Worms Rumble - Legends Pack
+  month: June
+  year: 2021
+  humble_scheme: choice
+  steam_id: 1440191
+- !ruby/object:Game
+  name: Worms Rumble
+  month: June
+  year: 2021
+  humble_scheme: choice
+  steam_id: 1186040
+- !ruby/object:Game
+  name: Stubbs The Zombie In Rebel Without A Pulse
+  month: June
+  year: 2021
+  humble_scheme: choice
+  steam_id: 7800
+- !ruby/object:Game
+  name: 'Secret Neighbor: Hello Neighbor Multiplayer'
+  month: June
+  year: 2021
+  humble_scheme: choice
+  steam_id: 859570
+- !ruby/object:Game
+  name: 'Sid Meier''s Civilization® VI: Khmer and Indonesia Civilization & Scenario
+    Pack'
+  month: June
+  year: 2021
+  humble_scheme: choice
+  steam_id: 645401
+- !ruby/object:Game
+  name: 'Sid Meier''s Civilization® VI: Nubia Civilization & Scenario Pack'
+  month: June
+  year: 2021
+  humble_scheme: choice
+  steam_id: 645400
+- !ruby/object:Game
+  name: 'Sid Meier''s Civilization® VI: Persia and Macedon Civilization & Scenario
+    Pack'
+  month: June
+  year: 2021
+  humble_scheme: choice
+  steam_id: 512035
+- !ruby/object:Game
+  name: 'Sid Meier''s Civilization® VI: Australia Civilization & Scenario Pack'
+  month: June
+  year: 2021
+  humble_scheme: choice
+  steam_id: 512034
+- !ruby/object:Game
+  name: 'Sid Meier''s Civilization® VI: Poland Civilization & Scenario Pack'
+  month: June
+  year: 2021
+  humble_scheme: choice
+  steam_id: 512033
+- !ruby/object:Game
+  name: 'Sid Meier''s Civilization® VI: Vikings Scenario Pack'
+  month: June
+  year: 2021
+  humble_scheme: choice
+  steam_id: 512032
+- !ruby/object:Game
+  name: 'Sid Meier''s Civilization® VI: Gathering Storm'
+  month: June
+  year: 2021
+  humble_scheme: choice
+  steam_id: 947510
+- !ruby/object:Game
+  name: 'Sid Meier’s Civilization® VI: Rise and Fall'
+  month: June
+  year: 2021
+  humble_scheme: choice
+  steam_id: 645402
+- !ruby/object:Game
+  name: Sid Meier’s Civilization® VI
+  month: June
+  year: 2021
+  humble_scheme: choice
+  steam_id: 289070
+- !ruby/object:Game
+  name: Adom (Ancient Domains of Mystery)
+  month: July
+  year: 2021
+  humble_scheme: choice
+  steam_id: 333300
+- !ruby/object:Game
+  name: Deadly Days
+  month: July
+  year: 2021
+  humble_scheme: choice
+  steam_id: 740080
+- !ruby/object:Game
+  name: S.W.I.N.E. HD Remaster
+  month: July
+  year: 2021
+  humble_scheme: choice
+  steam_id: 944010
+- !ruby/object:Game
+  name: Elderborn
+  month: July
+  year: 2021
+  humble_scheme: choice
+  steam_id: 727850
+- !ruby/object:Game
+  name: Bee Simulator
+  month: July
+  year: 2021
+  humble_scheme: choice
+  steam_id: 914750
+- !ruby/object:Game
+  name: Kill It With Fire
+  month: July
+  year: 2021
+  humble_scheme: choice
+  steam_id: 1179210
+- !ruby/object:Game
+  name: Paradise Killer
+  month: July
+  year: 2021
+  humble_scheme: choice
+  steam_id: 1160220
+- !ruby/object:Game
+  name: Nimbatus - The Space Drone Constructor
+  month: July
+  year: 2021
+  humble_scheme: choice
+  steam_id: 383840
+- !ruby/object:Game
+  name: Hammerting
+  month: July
+  year: 2021
+  humble_scheme: choice
+  steam_id: 760650
+- !ruby/object:Game
+  name: Dirt 5
+  month: July
+  year: 2021
+  humble_scheme: choice
+  steam_id: 1038250
+- !ruby/object:Game
+  name: The Surge 2
+  month: July
+  year: 2021
+  humble_scheme: choice
+  steam_id: 644830
+- !ruby/object:Game
+  name: Yakuza 3 Remastered
+  month: July
+  year: 2021
+  humble_scheme: choice
+  steam_id: 1088710
+- !ruby/object:Game
+  name: Encodya
+  month: August
+  year: 2021
+  humble_scheme: choice
+  steam_id: 1137450
+- !ruby/object:Game
+  name: Blue Fire
+  month: August
+  year: 2021
+  humble_scheme: choice
+  steam_id: 1220150
+- !ruby/object:Game
+  name: Nowhere Prophet
+  month: August
+  year: 2021
+  humble_scheme: choice
+  steam_id: 681730
+- !ruby/object:Game
+  name: Drake Hollow
+  month: August
+  year: 2021
+  humble_scheme: choice
+  steam_id: 739650
+- !ruby/object:Game
+  name: Cepheus Protocol
+  month: August
+  year: 2021
+  humble_scheme: choice
+  steam_id: 979640
+- !ruby/object:Game
+  name: As Far As The Eye
+  month: August
+  year: 2021
+  humble_scheme: choice
+  steam_id: 1119700
+- !ruby/object:Game
+  name: Carto
+  month: August
+  year: 2021
+  humble_scheme: choice
+  steam_id: 1172450
+- !ruby/object:Game
+  name: We Need To Go Deeper
+  month: August
+  year: 2021
+  humble_scheme: choice
+  steam_id: 307110
+- !ruby/object:Game
+  name: Out Of Space
+  month: August
+  year: 2021
+  humble_scheme: choice
+  steam_id: 400080
+- !ruby/object:Game
+  name: Superliminal
+  month: August
+  year: 2021
+  humble_scheme: choice
+  steam_id: 1049410
+- !ruby/object:Game
+  name: Last Oasis
+  month: August
+  year: 2021
+  humble_scheme: choice
+  steam_id: 903950
+- !ruby/object:Game
+  name: 'Bloodstained: Ritual Of The Night'
+  month: August
+  year: 2021
+  humble_scheme: choice
+  steam_id: 692850
+- !ruby/object:Game
+  name: Framed Collection
+  month: September
+  year: 2021
+  humble_scheme: choice
+  steam_id: 322450
+- !ruby/object:Game
+  name: 'Orwell: Ignorance is Strength'
+  month: September
+  year: 2021
+  humble_scheme: choice
+  steam_id: 633060
+- !ruby/object:Game
+  name: Fort Triumph
+  month: September
+  year: 2021
+  humble_scheme: choice
+  steam_id: 612570
+- !ruby/object:Game
+  name: Swag And Sorcery
+  month: September
+  year: 2021
+  humble_scheme: choice
+  steam_id: 929010
+- !ruby/object:Game
+  name: Heaven's Vault
+  month: September
+  year: 2021
+  humble_scheme: choice
+  steam_id: 774201
+- !ruby/object:Game
+  name: Atomicrops
+  month: September
+  year: 2021
+  humble_scheme: choice
+  steam_id: 757320
+- !ruby/object:Game
+  name: West Of Dead
+  month: September
+  year: 2021
+  humble_scheme: choice
+  steam_id: 1016790
+- !ruby/object:Game
+  name: Narita Boy
+  month: September
+  year: 2021
+  humble_scheme: choice
+  steam_id: 1069530
+- !ruby/object:Game
+  name: Röki
+  month: September
+  year: 2021
+  humble_scheme: choice
+  steam_id: 1067540
+- !ruby/object:Game
+  name: Not For Broadcast
+  month: September
+  year: 2021
+  humble_scheme: choice
+  steam_id: 1147550
+- !ruby/object:Game
+  name: Neon Abyss
+  month: September
+  year: 2021
+  humble_scheme: choice
+  steam_id: 788100
+- !ruby/object:Game
+  name: PGA Tour 2k21
+  month: September
+  year: 2021
+  humble_scheme: choice
+  steam_id:
+- !ruby/object:Game
+  name: Syberia 3
+  month: October
+  year: 2021
+  humble_scheme: choice
+  steam_id: 464340
+- !ruby/object:Game
+  name: Black Future '88
+  month: October
+  year: 2021
+  humble_scheme: choice
+  steam_id: 751820
+- !ruby/object:Game
+  name: Hiveswap Friendsim
+  month: October
+  year: 2021
+  humble_scheme: choice
+  steam_id: 833040
+- !ruby/object:Game
+  name: Tools Up!
+  month: October
+  year: 2021
+  humble_scheme: choice
+  steam_id: 1004490
+- !ruby/object:Game
+  name: 'The Textorcist: The Story Of Ray Bibbia'
+  month: October
+  year: 2021
+  humble_scheme: choice
+  steam_id: 940680
+- !ruby/object:Game
+  name: 'Garage: Bad Trip'
+  month: October
+  year: 2021
+  humble_scheme: choice
+  steam_id: 878580
+- !ruby/object:Game
+  name: Ring Of Pain
+  month: October
+  year: 2021
+  humble_scheme: choice
+  steam_id: 998740
+- !ruby/object:Game
+  name: Guts And Glory
+  month: October
+  year: 2021
+  humble_scheme: choice
+  steam_id: 537340
+- !ruby/object:Game
+  name: 112 Operator
+  month: October
+  year: 2021
+  humble_scheme: choice
+  steam_id: 793460
+- !ruby/object:Game
+  name: John Wick Hex
+  month: October
+  year: 2021
+  humble_scheme: choice
+  steam_id: 1405790
+- !ruby/object:Game
+  name: 'Amnesia: Rebirth'
+  month: October
+  year: 2021
+  humble_scheme: choice
+  steam_id: 999220
+- !ruby/object:Game
+  name: Katana Zero
+  month: October
+  year: 2021
+  humble_scheme: choice
+  steam_id: 460950
+- !ruby/object:Game
+  name: Möbius Front '83
+  month: November
+  year: 2021
+  humble_scheme: choice
+  steam_id: 971160
+- !ruby/object:Game
+  name: 'Wrath: Aeon Of Ruin'
+  month: November
+  year: 2021
+  humble_scheme: choice
+  steam_id: 1000410
+- !ruby/object:Game
+  name: Timelie
+  month: November
+  year: 2021
+  humble_scheme: choice
+  steam_id: 1150950
+- !ruby/object:Game
+  name: 'Juno: New Origins'
+  month: November
+  year: 2021
+  humble_scheme: choice
+  steam_id: 870200
+- !ruby/object:Game
+  name: Turnip Boy Commits Tax Evasion
+  month: November
+  year: 2021
+  humble_scheme: choice
+  steam_id: 1205450
+- !ruby/object:Game
+  name: 'BPM: Bullets Per Minute'
+  month: November
+  year: 2021
+  humble_scheme: choice
+  steam_id: 1286350
+- !ruby/object:Game
+  name: Wingspan
+  month: November
+  year: 2021
+  humble_scheme: choice
+  steam_id: 1054490
+- !ruby/object:Game
+  name: Project Wingman
+  month: November
+  year: 2021
+  humble_scheme: choice
+  steam_id: 895870
+- !ruby/object:Game
+  name: House Flipper
+  month: November
+  year: 2021
+  humble_scheme: choice
+  steam_id: 613100
+- !ruby/object:Game
+  name: Due Process
+  month: November
+  year: 2021
+  humble_scheme: choice
+  steam_id: 753650
+- !ruby/object:Game
+  name: Voidigo
+  month: December
+  year: 2021
+  humble_scheme: choice
+  steam_id: 1304680
+- !ruby/object:Game
+  name: Tohu
+  month: December
+  year: 2021
+  humble_scheme: choice
+  steam_id: 1075200
+- !ruby/object:Game
+  name: Fling To The Finish
+  month: December
+  year: 2021
+  humble_scheme: choice
+  steam_id: 1054430
+- !ruby/object:Game
+  name: 'Greak: Memories Of Azur'
+  month: December
+  year: 2021
+  humble_scheme: choice
+  steam_id: 1311070
+- !ruby/object:Game
+  name: '8Doors: Arum''s Afterlife Adventure'
+  month: December
+  year: 2021
+  humble_scheme: choice
+  steam_id: 668550
+- !ruby/object:Game
+  name: Lacuna – A Sci-Fi Noir Adventure
+  month: December
+  year: 2021
+  humble_scheme: choice
+  steam_id: 1364100
+- !ruby/object:Game
+  name: The Survivalists
+  month: December
+  year: 2021
+  humble_scheme: choice
+  steam_id: 897450
+- !ruby/object:Game
+  name: Partisans 1941
+  month: December
+  year: 2021
+  humble_scheme: choice
+  steam_id: 1227530
+- !ruby/object:Game
+  name: Beyond The Wire
+  month: December
+  year: 2021
+  humble_scheme: choice
+  steam_id: 1058650
+- !ruby/object:Game
+  name: Endzone - A World Apart
+  month: December
+  year: 2021
+  humble_scheme: choice
+  steam_id: 933820
+- !ruby/object:Game
+  name: Mordhau
+  month: December
+  year: 2021
+  humble_scheme: choice
+  steam_id: 629760
+- !ruby/object:Game
+  name: Maneater
+  month: December
+  year: 2021
+  humble_scheme: choice
+  steam_id: 629820
+2022:
+- !ruby/object:Game
+  name: Midnight Protocol
+  month: January
+  year: 2022
+  humble_scheme: choice
+  steam_id: 1162700
+- !ruby/object:Game
+  name: Retrowave
+  month: January
+  year: 2022
+  humble_scheme: choice
+  steam_id: 1239690
+- !ruby/object:Game
+  name: Between The Stars
+  month: January
+  year: 2022
+  humble_scheme: choice
+  steam_id: 727130
+- !ruby/object:Game
+  name: Farmer's Dynasty
+  month: January
+  year: 2022
+  humble_scheme: choice
+  steam_id: 678900
+- !ruby/object:Game
+  name: The Henry Stickmin Collection
+  month: January
+  year: 2022
+  humble_scheme: choice
+  steam_id: 1089980
+- !ruby/object:Game
+  name: Rustler (Grand Theft Horse)
+  month: January
+  year: 2022
+  humble_scheme: choice
+  steam_id: 844260
+- !ruby/object:Game
+  name: Rebel Cops
+  month: January
+  year: 2022
+  humble_scheme: choice
+  steam_id: 970960
+- !ruby/object:Game
+  name: Project Winter
+  month: January
+  year: 2022
+  humble_scheme: choice
+  steam_id: 774861
+- !ruby/object:Game
+  name: Iron Harvest
+  month: January
+  year: 2022
+  humble_scheme: choice
+  steam_id: 826630
+- !ruby/object:Game
+  name: 'Mafia: Definitive Edition'
+  month: January
+  year: 2022
+  humble_scheme: choice
+  steam_id: 1030840
+- !ruby/object:Game
+  name: Calico
+  month: February
+  year: 2022
+  humble_scheme: choice
+  steam_id: 1112890
+- !ruby/object:Game
+  name: Everhood
+  month: February
+  year: 2022
+  humble_scheme: choice
+  steam_id: 1229380
+- !ruby/object:Game
+  name: Paradise Lost
+  month: February
+  year: 2022
+  humble_scheme: choice
+  steam_id: 982720
+- !ruby/object:Game
+  name: Before We Leave
+  month: February
+  year: 2022
+  humble_scheme: choice
+  steam_id: 1073910
+- !ruby/object:Game
+  name: Just Die Already
+  month: February
+  year: 2022
+  humble_scheme: choice
+  steam_id: 979070
+- !ruby/object:Game
+  name: Per Aspera
+  month: February
+  year: 2022
+  humble_scheme: choice
+  steam_id: 803050
+- !ruby/object:Game
+  name: Black Book
+  month: February
+  year: 2022
+  humble_scheme: choice
+  steam_id: 1138660
+- !ruby/object:Game
+  name: 'Borderlands 3: Director''s Cut'
+  month: February
+  year: 2022
+  humble_scheme: choice
+  steam_id:
+- !ruby/object:Game
+  name: Borderlands 3
+  month: February
+  year: 2022
+  humble_scheme: choice
+  steam_id: 397540
+- !ruby/object:Game
+  name: Evan's Remains
+  month: March
+  year: 2022
+  humble_scheme: choice
+  steam_id: 1110050
+- !ruby/object:Game
+  name: Police Stories
+  month: March
+  year: 2022
+  humble_scheme: choice
+  steam_id: 539470
+- !ruby/object:Game
+  name: Nebuchadnezzar
+  month: March
+  year: 2022
+  humble_scheme: choice
+  steam_id: 1157220
+- !ruby/object:Game
+  name: 'Red Solstice 2: Survivors'
+  month: March
+  year: 2022
+  humble_scheme: choice
+  steam_id: 768520
+- !ruby/object:Game
+  name: 'The Dark Pictures Anthology: Man Of Medan'
+  month: March
+  year: 2022
+  humble_scheme: choice
+  steam_id: 939850
+- !ruby/object:Game
+  name: Nickelodeon All-star Brawl
+  month: March
+  year: 2022
+  humble_scheme: choice
+  steam_id: 1414850
+- !ruby/object:Game
+  name: Mass Effect™ Legendary Edition
+  month: March
+  year: 2022
+  humble_scheme: choice
+  steam_id: 1328670
+- !ruby/object:Game
+  name: Desperados III
+  month: March
+  year: 2022
+  humble_scheme: choice
+  steam_id: 610370
+- !ruby/object:Game
+  name: 'Naruto To Boruto: Shinobi Striker'
+  month: April
+  year: 2022
+  humble_scheme: choice
+  steam_id: 633230
+- !ruby/object:Game
+  name: Chicken Police - Paint it RED!
+  month: April
+  year: 2022
+  humble_scheme: choice
+  steam_id: 1084640
+- !ruby/object:Game
+  name: Suzerain
+  month: April
+  year: 2022
+  humble_scheme: choice
+  steam_id: 1207650
+- !ruby/object:Game
+  name: 'Rogue Heroes: Ruins Of Tasos'
+  month: April
+  year: 2022
+  humble_scheme: choice
+  steam_id: 787810
+- !ruby/object:Game
+  name: Killsquad
+  month: April
+  year: 2022
+  humble_scheme: choice
+  steam_id: 910490
+- !ruby/object:Game
+  name: Monster Sanctuary
+  month: April
+  year: 2022
+  humble_scheme: choice
+  steam_id: 814370
+- !ruby/object:Game
+  name: Destroy All Humans!
+  month: April
+  year: 2022
+  humble_scheme: choice
+  steam_id: 803330
+- !ruby/object:Game
+  name: Ghostrunner
+  month: April
+  year: 2022
+  humble_scheme: choice
+  steam_id: 1139900
+- !ruby/object:Game
+  name: Embr
+  month: May
+  year: 2022
+  humble_scheme: choice
+  steam_id: 1062830
+- !ruby/object:Game
+  name: Genesis Noir
+  month: May
+  year: 2022
+  humble_scheme: choice
+  steam_id: 735290
+- !ruby/object:Game
+  name: If Found...
+  month: May
+  year: 2022
+  humble_scheme: choice
+  steam_id: 1041920
+- !ruby/object:Game
+  name: Surviving The Aftermath
+  month: May
+  year: 2022
+  humble_scheme: choice
+  steam_id: 684450
+- !ruby/object:Game
+  name: Spellcaster University
+  month: May
+  year: 2022
+  humble_scheme: choice
+  steam_id: 895620
+- !ruby/object:Game
+  name: Command & Conquer™ Remastered Collection
+  month: May
+  year: 2022
+  humble_scheme: choice
+  steam_id: 1213210
+- !ruby/object:Game
+  name: 'Spongebob Squarepants: Battle For Bikini Bottom - Rehydrated'
+  month: May
+  year: 2022
+  humble_scheme: choice
+  steam_id: 969990
+- !ruby/object:Game
+  name: Planet Zoo
+  month: May
+  year: 2022
+  humble_scheme: choice
+  steam_id: 703080
+- !ruby/object:Game
+  name: 'Superhot: Mind Control Delete'
+  month: June
+  year: 2022
+  humble_scheme: choice
+  steam_id: 690040
+- !ruby/object:Game
+  name: I Am Fish
+  month: June
+  year: 2022
+  humble_scheme: choice
+  steam_id: 1472560
+- !ruby/object:Game
+  name: 'Siege Survival: Gloria Victis'
+  month: June
+  year: 2022
+  humble_scheme: choice
+  steam_id: 1167140
+- !ruby/object:Game
+  name: Pumpkin Jack
+  month: June
+  year: 2022
+  humble_scheme: choice
+  steam_id: 1186640
+- !ruby/object:Game
+  name: Gamedec - Definitive Edition
+  month: June
+  year: 2022
+  humble_scheme: choice
+  steam_id: 917720
+- !ruby/object:Game
+  name: Call Of The Sea
+  month: June
+  year: 2022
+  humble_scheme: choice
+  steam_id: 1042490
+- !ruby/object:Game
+  name: Phoenix Point
+  month: June
+  year: 2022
+  humble_scheme: choice
+  steam_id: 839770
+- !ruby/object:Game
+  name: Star Wars Squadrons
+  month: June
+  year: 2022
+  humble_scheme: choice
+  steam_id:
+- !ruby/object:Game
+  name: Atom RPG Trudograd
+  month: July
+  year: 2022
+  humble_scheme: choice
+  steam_id: 1139940
+- !ruby/object:Game
+  name: Yes, Your Grace
+  month: July
+  year: 2022
+  humble_scheme: choice
+  steam_id: 1115690
+- !ruby/object:Game
+  name: Banners Of Ruin
+  month: July
+  year: 2022
+  humble_scheme: choice
+  steam_id: 1075740
+- !ruby/object:Game
+  name: Lawn Mowing Simulator
+  month: July
+  year: 2022
+  humble_scheme: choice
+  steam_id: 1480560
+- !ruby/object:Game
+  name: 'Legend of Keepers: Career of a Dungeon Manager'
+  month: July
+  year: 2022
+  humble_scheme: choice
+  steam_id: 978520
+- !ruby/object:Game
+  name: Legion TD 2 - Multiplayer Tower Defense
+  month: July
+  year: 2022
+  humble_scheme: choice
+  steam_id: 469600
+- !ruby/object:Game
+  name: 'Necromunda: Hired Gun'
+  month: July
+  year: 2022
+  humble_scheme: choice
+  steam_id: 1222370
+- !ruby/object:Game
+  name: Deep Rock Galactic
+  month: July
+  year: 2022
+  humble_scheme: choice
+  steam_id: 548430
+- !ruby/object:Game
+  name: Omno
+  month: August
+  year: 2022
+  humble_scheme: choice
+  steam_id: 969760
+- !ruby/object:Game
+  name: Emily Is Away <3
+  month: August
+  year: 2022
+  humble_scheme: choice
+  steam_id: 978460
+- !ruby/object:Game
+  name: Mind Scanners
+  month: August
+  year: 2022
+  humble_scheme: choice
+  steam_id: 1389550
+- !ruby/object:Game
+  name: In Sound Mind
+  month: August
+  year: 2022
+  humble_scheme: choice
+  steam_id: 1119980
+- !ruby/object:Game
+  name: Gas Station Simulator
+  month: August
+  year: 2022
+  humble_scheme: choice
+  steam_id: 1149620
+- !ruby/object:Game
+  name: 'A Plague Tale: Innocence'
+  month: August
+  year: 2022
+  humble_scheme: choice
+  steam_id: 752590
+- !ruby/object:Game
+  name: Hot Wheels Unleashed™
+  month: August
+  year: 2022
+  humble_scheme: choice
+  steam_id: 1271700
+- !ruby/object:Game
+  name: The Ascent
+  month: August
+  year: 2022
+  humble_scheme: choice
+  steam_id: 979690
+- !ruby/object:Game
+  name: Shapez - Puzzle DLC
+  month: September
+  year: 2022
+  humble_scheme: choice
+  steam_id: 1625400
+- !ruby/object:Game
+  name: Shapez
+  month: September
+  year: 2022
+  humble_scheme: choice
+  steam_id: 1318690
+- !ruby/object:Game
+  name: Industria
+  month: September
+  year: 2022
+  humble_scheme: choice
+  steam_id: 1172650
+- !ruby/object:Game
+  name: Descenders
+  month: September
+  year: 2022
+  humble_scheme: choice
+  steam_id: 681280
+- !ruby/object:Game
+  name: Crown Trick / 不思议的皇冠
+  month: September
+  year: 2022
+  humble_scheme: choice
+  steam_id: 1000010
+- !ruby/object:Game
+  name: Forgive Me Father
+  month: September
+  year: 2022
+  humble_scheme: choice
+  steam_id: 1590910
+- !ruby/object:Game
+  name: 'The Dungeon Of Naheulbeuk: The Amulet Of Chaos'
+  month: September
+  year: 2022
+  humble_scheme: choice
+  steam_id: 970830
+- !ruby/object:Game
+  name: Just Cause 4 Reloaded
+  month: September
+  year: 2022
+  humble_scheme: choice
+  steam_id: 517630
+- !ruby/object:Game
+  name: Crusader Kings III
+  month: September
+  year: 2022
+  humble_scheme: choice
+  steam_id: 1158310
+- !ruby/object:Game
+  name: Golf Gang
+  month: October
+  year: 2022
+  humble_scheme: choice
+  steam_id: 1151050
+- !ruby/object:Game
+  name: Railroad Corporation
+  month: October
+  year: 2022
+  humble_scheme: choice
+  steam_id: 797400
+- !ruby/object:Game
+  name: Epic Chef
+  month: October
+  year: 2022
+  humble_scheme: choice
+  steam_id: 1312960
+- !ruby/object:Game
+  name: Maid Of Sker
+  month: October
+  year: 2022
+  humble_scheme: choice
+  steam_id: 826940
+- !ruby/object:Game
+  name: 'Disciples: Liberation'
+  month: October
+  year: 2022
+  humble_scheme: choice
+  steam_id: 1287840
+- !ruby/object:Game
+  name: 'The Dark Pictures Anthology: Little Hope'
+  month: October
+  year: 2022
+  humble_scheme: choice
+  steam_id: 1194630
+- !ruby/object:Game
+  name: Monster Train
+  month: October
+  year: 2022
+  humble_scheme: choice
+  steam_id: 1102190
+- !ruby/object:Game
+  name: Deathloop
+  month: October
+  year: 2022
+  humble_scheme: choice
+  steam_id: 1252330
+- !ruby/object:Game
+  name: 'Morbid: The Seven Acolytes'
+  month: November
+  year: 2022
+  humble_scheme: choice
+  steam_id: 1140890
+- !ruby/object:Game
+  name: 'Raji: An Ancient Epic'
+  month: November
+  year: 2022
+  humble_scheme: choice
+  steam_id: 730390
+- !ruby/object:Game
+  name: Unmetal
+  month: November
+  year: 2022
+  humble_scheme: choice
+  steam_id: 1203710
+- !ruby/object:Game
+  name: Eldest Souls
+  month: November
+  year: 2022
+  humble_scheme: choice
+  steam_id: 1108590
+- !ruby/object:Game
+  name: Roboquest
+  month: November
+  year: 2022
+  humble_scheme: choice
+  steam_id: 692890
+- !ruby/object:Game
+  name: 'Shadow Tactics: Aiko''s Choice'
+  month: November
+  year: 2022
+  humble_scheme: choice
+  steam_id: 1579380
+- !ruby/object:Game
+  name: 'Kingdoms of Amalur: Re-Reckoning - Fatesworn'
+  month: November
+  year: 2022
+  humble_scheme: choice
+  steam_id: 1278260
+- !ruby/object:Game
+  name: Hell Let Loose
+  month: November
+  year: 2022
+  humble_scheme: choice
+  steam_id: 686810
+- !ruby/object:Game
+  name: Super Magbot
+  month: December
+  year: 2022
+  humble_scheme: choice
+  steam_id: 1205170
+- !ruby/object:Game
+  name: Blade Assault
+  month: December
+  year: 2022
+  humble_scheme: choice
+  steam_id: 1367300
+- !ruby/object:Game
+  name: Where The Water Tastes Like Wine
+  month: December
+  year: 2022
+  humble_scheme: choice
+  steam_id: 447120
+- !ruby/object:Game
+  name: 'TOEM: A Photo Adventure'
+  month: December
+  year: 2022
+  humble_scheme: choice
+  steam_id: 1307580
+- !ruby/object:Game
+  name: Tails Noir
+  month: December
+  year: 2022
+  humble_scheme: choice
+  steam_id: 865610
+- !ruby/object:Game
+  name: First Class Trouble
+  month: December
+  year: 2022
+  humble_scheme: choice
+  steam_id: 953880
+- !ruby/object:Game
+  name: Greedfall
+  month: December
+  year: 2022
+  humble_scheme: choice
+  steam_id: 606880
+- !ruby/object:Game
+  name: Wasteland 3
+  month: December
+  year: 2022
+  humble_scheme: choice
+  steam_id: 719040
+2023:
+- !ruby/object:Game
+  name: The Serpent Rogue
+  month: January
+  year: 2023
+  humble_scheme: choice
+  steam_id: 1453790
+- !ruby/object:Game
+  name: Hokko Life
+  month: January
+  year: 2023
+  humble_scheme: choice
+  steam_id: 824000
+- !ruby/object:Game
+  name: Conan Chop Chop
+  month: January
+  year: 2023
+  humble_scheme: choice
+  steam_id: 1061880
+- !ruby/object:Game
+  name: 'Grow: Song Of The Evertree'
+  month: January
+  year: 2023
+  humble_scheme: choice
+  steam_id: 1380420
+- !ruby/object:Game
+  name: OlliOlli World Expansion Pass
+  month: January
+  year: 2023
+  humble_scheme: choice
+  steam_id: 1836410
+- !ruby/object:Game
+  name: OlliOlli World
+  month: January
+  year: 2023
+  humble_scheme: choice
+  steam_id: 1190170
+- !ruby/object:Game
+  name: 'Encased: A Sci-Fi Post-Apocalyptic RPG'
+  month: January
+  year: 2023
+  humble_scheme: choice
+  steam_id: 921800
+- !ruby/object:Game
+  name: Tribes Of Midgard
+  month: January
+  year: 2023
+  humble_scheme: choice
+  steam_id: 858820
+- !ruby/object:Game
+  name: DOOM Eternal
+  month: January
+  year: 2023
+  humble_scheme: choice
+  steam_id: 782330
+- !ruby/object:Game
+  name: Five Dates
+  month: February
+  year: 2023
+  humble_scheme: choice
+  steam_id: 1353270
+- !ruby/object:Game
+  name: Fobia - St. Dinfna Hotel
+  month: February
+  year: 2023
+  humble_scheme: choice
+  steam_id: 1298140
+- !ruby/object:Game
+  name: Scourgebringer
+  month: February
+  year: 2023
+  humble_scheme: choice
+  steam_id: 1037020
+- !ruby/object:Game
+  name: Shady Part Of Me
+  month: February
+  year: 2023
+  humble_scheme: choice
+  steam_id: 1116580
+- !ruby/object:Game
+  name: Othercide
+  month: February
+  year: 2023
+  humble_scheme: choice
+  steam_id: 798490
+- !ruby/object:Game
+  name: 'Thronebreaker: The Witcher Tales'
+  month: February
+  year: 2023
+  humble_scheme: choice
+  steam_id: 973760
+- !ruby/object:Game
+  name: 'Fallout: A Post Nuclear Role Playing Game'
+  month: February
+  year: 2023
+  humble_scheme: choice
+  steam_id: 38400
+- !ruby/object:Game
+  name: Fallout 76
+  month: February
+  year: 2023
+  humble_scheme: choice
+  steam_id: 1151340
+- !ruby/object:Game
+  name: 'Pathfinder: Wrath of the Righteous - Enhanced Edition'
+  month: February
+  year: 2023
+  humble_scheme: choice
+  steam_id: 1184370
+- !ruby/object:Game
+  name: Monster Crown
+  month: March
+  year: 2023
+  humble_scheme: choice
+  steam_id: 830370
+- !ruby/object:Game
+  name: Golden Light
+  month: March
+  year: 2023
+  humble_scheme: choice
+  steam_id: 1245430
+- !ruby/object:Game
+  name: 'Demon Turf: Queens Edition'
+  month: March
+  year: 2023
+  humble_scheme: choice
+  steam_id: 1325900
+- !ruby/object:Game
+  name: Rogue Lords
+  month: March
+  year: 2023
+  humble_scheme: choice
+  steam_id: 1069690
+- !ruby/object:Game
+  name: Hero's Hour
+  month: March
+  year: 2023
+  humble_scheme: choice
+  steam_id: 1656780
+- !ruby/object:Game
+  name: Edge Of Eternity
+  month: March
+  year: 2023
+  humble_scheme: choice
+  steam_id: 269190
+- !ruby/object:Game
+  name: Jurassic World Evolution 2
+  month: March
+  year: 2023
+  humble_scheme: choice
+  steam_id: 1244460
+- !ruby/object:Game
+  name: Biomutant
+  month: March
+  year: 2023
+  humble_scheme: choice
+  steam_id: 597820
+- !ruby/object:Game
+  name: Founders' Fortune
+  month: April
+  year: 2023
+  humble_scheme: choice
+  steam_id: 1104330
+- !ruby/object:Game
+  name: Revita
+  month: April
+  year: 2023
+  humble_scheme: choice
+  steam_id: 1175460
+- !ruby/object:Game
+  name: 'Monster Prom 2: Monster Camp'
+  month: April
+  year: 2023
+  humble_scheme: choice
+  steam_id: 1140270
+- !ruby/object:Game
+  name: The Life And Suffering Of Sir Brante
+  month: April
+  year: 2023
+  humble_scheme: choice
+  steam_id: 1272160
+- !ruby/object:Game
+  name: Life Is Strange 2 - Episode 5
+  month: April
+  year: 2023
+  humble_scheme: choice
+  steam_id: 895493
+- !ruby/object:Game
+  name: Life Is Strange 2 - Episode 4
+  month: April
+  year: 2023
+  humble_scheme: choice
+  steam_id: 895492
+- !ruby/object:Game
+  name: Life Is Strange 2 - Episode 3
+  month: April
+  year: 2023
+  humble_scheme: choice
+  steam_id: 895491
+- !ruby/object:Game
+  name: Life Is Strange 2 - Episode 2
+  month: April
+  year: 2023
+  humble_scheme: choice
+  steam_id: 895490
+- !ruby/object:Game
+  name: Life Is Strange 2
+  month: April
+  year: 2023
+  humble_scheme: choice
+  steam_id: 532210
+- !ruby/object:Game
+  name: Rollerdrome
+  month: April
+  year: 2023
+  humble_scheme: choice
+  steam_id: 1294420
+- !ruby/object:Game
+  name: 'Aliens: Fireteam Elite'
+  month: April
+  year: 2023
+  humble_scheme: choice
+  steam_id: 1549970
+- !ruby/object:Game
+  name: Death Stranding Director's Cut
+  month: April
+  year: 2023
+  humble_scheme: choice
+  steam_id: 1850570
+- !ruby/object:Game
+  name: The Invisible Hand
+  month: May
+  year: 2023
+  humble_scheme: choice
+  steam_id: 628200
+- !ruby/object:Game
+  name: 'Behind The Frame: The Finest Scenery'
+  month: May
+  year: 2023
+  humble_scheme: choice
+  steam_id: 1634150
+- !ruby/object:Game
+  name: Builder Simulator
+  month: May
+  year: 2023
+  humble_scheme: choice
+  steam_id: 1120320
+- !ruby/object:Game
+  name: Windjammers 2
+  month: May
+  year: 2023
+  humble_scheme: choice
+  steam_id: 1114290
+- !ruby/object:Game
+  name: 'Operation: Tango'
+  month: May
+  year: 2023
+  humble_scheme: choice
+  steam_id: 1335790
+- !ruby/object:Game
+  name: Bendy And The Dark Revival
+  month: May
+  year: 2023
+  humble_scheme: choice
+  steam_id: 1063660
+- !ruby/object:Game
+  name: 'Spiritfarer®: Farewell Edition'
+  month: May
+  year: 2023
+  humble_scheme: choice
+  steam_id: 972660
+- !ruby/object:Game
+  name: 'Warhammer 40,000: Chaos Gate - Daemonhunters'
+  month: May
+  year: 2023
+  humble_scheme: choice
+  steam_id: 1611910
+- !ruby/object:Game
+  name: Meeple Station
+  month: June
+  year: 2023
+  humble_scheme: choice
+  steam_id: 900010
+- !ruby/object:Game
+  name: Turbo Golf Racing
+  month: June
+  year: 2023
+  humble_scheme: choice
+  steam_id: 1324350
+- !ruby/object:Game
+  name: Grime
+  month: June
+  year: 2023
+  humble_scheme: choice
+  steam_id: 1123050
+- !ruby/object:Game
+  name: Eternal Threads
+  month: June
+  year: 2023
+  humble_scheme: choice
+  steam_id: 1046790
+- !ruby/object:Game
+  name: Honey, I Joined A Cult
+  month: June
+  year: 2023
+  humble_scheme: choice
+  steam_id: 841190
+- !ruby/object:Game
+  name: Curse Of The Dead Gods
+  month: June
+  year: 2023
+  humble_scheme: choice
+  steam_id: 1123770
+- !ruby/object:Game
+  name: 'Remnant: From the Ashes - Subject 2923'
+  month: June
+  year: 2023
+  humble_scheme: choice
+  steam_id: 1344680
+- !ruby/object:Game
+  name: 'Remnant: From the Ashes - Swamps of Corsus'
+  month: June
+  year: 2023
+  humble_scheme: choice
+  steam_id: 1245150
+- !ruby/object:Game
+  name: 'Remnant: From the Ashes'
+  month: June
+  year: 2023
+  humble_scheme: choice
+  steam_id: 617290
+- !ruby/object:Game
+  name: 'Ghostwire: Tokyo'
+  month: June
+  year: 2023
+  humble_scheme: choice
+  steam_id: 1475810
+- !ruby/object:Game
+  name: 'Shotgun King: The Final Checkmate'
+  month: July
+  year: 2023
+  humble_scheme: choice
+  steam_id: 1972440
+- !ruby/object:Game
+  name: 'Ozymandias: Bronze Age Empire Sim'
+  month: July
+  year: 2023
+  humble_scheme: choice
+  steam_id: 1768280
+- !ruby/object:Game
+  name: Merchant Of The Skies
+  month: July
+  year: 2023
+  humble_scheme: choice
+  steam_id: 1040070
+- !ruby/object:Game
+  name: Kraken Academy!!
+  month: July
+  year: 2023
+  humble_scheme: choice
+  steam_id: 1158220
+- !ruby/object:Game
+  name: Roadwarden
+  month: July
+  year: 2023
+  humble_scheme: choice
+  steam_id: 1155970
+- !ruby/object:Game
+  name: Yakuza 4 Remastered
+  month: July
+  year: 2023
+  humble_scheme: choice
+  steam_id: 1105500
+- !ruby/object:Game
+  name: Temtem
+  month: July
+  year: 2023
+  humble_scheme: choice
+  steam_id: 745920
+- !ruby/object:Game
+  name: 'The Outer Worlds: Spacer''s Choice Edition'
+  month: July
+  year: 2023
+  humble_scheme: choice
+  steam_id: 1920490
+- !ruby/object:Game
+  name: Hot Brass
+  month: August
+  year: 2023
+  humble_scheme: choice
+  steam_id: 892860
+- !ruby/object:Game
+  name: Tin Can
+  month: August
+  year: 2023
+  humble_scheme: choice
+  steam_id: 1315980
+- !ruby/object:Game
+  name: 'SuchArt: Genius Artist Simulator'
+  month: August
+  year: 2023
+  humble_scheme: choice
+  steam_id: 1293180
+- !ruby/object:Game
+  name: Arcade Paradise
+  month: August
+  year: 2023
+  humble_scheme: choice
+  steam_id: 1388870
+- !ruby/object:Game
+  name: Trek To Yomi
+  month: August
+  year: 2023
+  humble_scheme: choice
+  steam_id: 1370050
+- !ruby/object:Game
+  name: "Road 96 \U0001F6E3️"
+  month: August
+  year: 2023
+  humble_scheme: choice
+  steam_id: 1466640
+- !ruby/object:Game
+  name: Chivalry 2
+  month: August
+  year: 2023
+  humble_scheme: choice
+  steam_id: 1824220
+- !ruby/object:Game
+  name: Disco Elysium - The Final Cut
+  month: August
+  year: 2023
+  humble_scheme: choice
+  steam_id: 632470
+- !ruby/object:Game
+  name: Autonauts Vs Piratebots
+  month: September
+  year: 2023
+  humble_scheme: choice
+  steam_id: 1907720
+- !ruby/object:Game
+  name: Who Pressed Mute on Uncle Marcus?
+  month: September
+  year: 2023
+  humble_scheme: choice
+  steam_id: 1628130
+- !ruby/object:Game
+  name: Foretales
+  month: September
+  year: 2023
+  humble_scheme: choice
+  steam_id: 1170080
+- !ruby/object:Game
+  name: Patch Quest
+  month: September
+  year: 2023
+  humble_scheme: choice
+  steam_id: 1347970
+- !ruby/object:Game
+  name: Aces & Adventures
+  month: September
+  year: 2023
+  humble_scheme: choice
+  steam_id: 1815570
+- !ruby/object:Game
+  name: The Forgotten City
+  month: September
+  year: 2023
+  humble_scheme: choice
+  steam_id: 874260
+- !ruby/object:Game
+  name: Deceive Inc.
+  month: September
+  year: 2023
+  humble_scheme: choice
+  steam_id: 820520
+- !ruby/object:Game
+  name: 'Tiny Tina''s Wonderlands: Season Pass'
+  month: September
+  year: 2023
+  humble_scheme: choice
+  steam_id: 1621031
+- !ruby/object:Game
+  name: Tiny Tina's Wonderlands
+  month: September
+  year: 2023
+  humble_scheme: choice
+  steam_id: 1286680
+- !ruby/object:Game
+  name: Mr. Prepper
+  month: October
+  year: 2023
+  humble_scheme: choice
+  steam_id: 761830
+- !ruby/object:Game
+  name: A Juggler's Tale
+  month: October
+  year: 2023
+  humble_scheme: choice
+  steam_id: 1252830
+- !ruby/object:Game
+  name: Lords And Villeins
+  month: October
+  year: 2023
+  humble_scheme: choice
+  steam_id: 1287530
+- !ruby/object:Game
+  name: Spirit Of The Island
+  month: October
+  year: 2023
+  humble_scheme: choice
+  steam_id: 1592110
+- !ruby/object:Game
+  name: 'Rebel Inc: Escalation'
+  month: October
+  year: 2023
+  humble_scheme: choice
+  steam_id: 1088790
+- !ruby/object:Game
+  name: 'The Dark Pictures Anthology: House of Ashes'
+  month: October
+  year: 2023
+  humble_scheme: choice
+  steam_id: 1281590
+- !ruby/object:Game
+  name: 'Metal: Hellsinger'
+  month: October
+  year: 2023
+  humble_scheme: choice
+  steam_id: 1061910
+- !ruby/object:Game
+  name: The Quarry – Horror History Visual Filter Pack
+  month: October
+  year: 2023
+  humble_scheme: choice
+  steam_id: 1877110
+- !ruby/object:Game
+  name: The Quarry – Deluxe Bonus Content Pack
+  month: October
+  year: 2023
+  humble_scheme: choice
+  steam_id: 1877111
+- !ruby/object:Game
+  name: The Quarry
+  month: October
+  year: 2023
+  humble_scheme: choice
+  steam_id: 1577120
+- !ruby/object:Game
+  name: Souldiers
+  month: November
+  year: 2023
+  humble_scheme: choice
+  steam_id: 1419160
+- !ruby/object:Game
+  name: 'SCP: Secret Files'
+  month: November
+  year: 2023
+  humble_scheme: choice
+  steam_id: 1718130
+- !ruby/object:Game
+  name: The Legend Of Tianding
+  month: November
+  year: 2023
+  humble_scheme: choice
+  steam_id: 1406850
+- !ruby/object:Game
+  name: Prodeus
+  month: November
+  year: 2023
+  humble_scheme: choice
+  steam_id: 964800
+- !ruby/object:Game
+  name: Friends Vs Friends
+  month: November
+  year: 2023
+  humble_scheme: choice
+  steam_id: 1785150
+- !ruby/object:Game
+  name: Unpacking
+  month: November
+  year: 2023
+  humble_scheme: choice
+  steam_id: 1135690
+- !ruby/object:Game
+  name: WWE 2k23
+  month: November
+  year: 2023
+  humble_scheme: choice
+  steam_id:
+- !ruby/object:Game
+  name: 'Hardspace: Shipbreaker'
+  month: November
+  year: 2023
+  humble_scheme: choice
+  steam_id: 1161580
+- !ruby/object:Game
+  name: From Space
+  month: December
+  year: 2023
+  humble_scheme: choice
+  steam_id: 1502190
+- !ruby/object:Game
+  name: Last Call BBS
+  month: December
+  year: 2023
+  humble_scheme: choice
+  steam_id: 1511780
+- !ruby/object:Game
+  name: The Pale Beyond
+  month: December
+  year: 2023
+  humble_scheme: choice
+  steam_id: 1266030
+- !ruby/object:Game
+  name: The Gunk
+  month: December
+  year: 2023
+  humble_scheme: choice
+  steam_id: 1087760
+- !ruby/object:Game
+  name: Nobody Saves The World
+  month: December
+  year: 2023
+  humble_scheme: choice
+  steam_id: 1432050
+- !ruby/object:Game
+  name: Elex II
+  month: December
+  year: 2023
+  humble_scheme: choice
+  steam_id: 900040
+- !ruby/object:Game
+  name: Midnight Fight Express
+  month: December
+  year: 2023
+  humble_scheme: choice
+  steam_id: 1390410
+- !ruby/object:Game
+  name: 'Expeditions: Rome'
+  month: December
+  year: 2023
+  humble_scheme: choice
+  steam_id: 987840
+2024:
+- !ruby/object:Game
+  name: Twin Mirror
+  month: January
+  year: 2024
+  humble_scheme: choice
+  steam_id: 1552810
+- !ruby/object:Game
+  name: Hell Pie
+  month: January
+  year: 2024
+  humble_scheme: choice
+  steam_id: 889910
+- !ruby/object:Game
+  name: The Red Lantern
+  month: January
+  year: 2024
+  humble_scheme: choice
+  steam_id: 1053710
+- !ruby/object:Game
+  name: Roguebook
+  month: January
+  year: 2024
+  humble_scheme: choice
+  steam_id: 1076200
+- !ruby/object:Game
+  name: Otxo
+  month: January
+  year: 2024
+  humble_scheme: choice
+  steam_id: 1608640
+- !ruby/object:Game
+  name: Aragami 2
+  month: January
+  year: 2024
+  humble_scheme: choice
+  steam_id: 1158370
+- !ruby/object:Game
+  name: Two Point Campus
+  month: January
+  year: 2024
+  humble_scheme: choice
+  steam_id: 1649080
+- !ruby/object:Game
+  name: Doctor Strange Defenders Skin
+  month: January
+  year: 2024
+  humble_scheme: choice
+  steam_id: 1712442
+- !ruby/object:Game
+  name: Marvel's Midnight Suns
+  month: January
+  year: 2024
+  humble_scheme: choice
+  steam_id: 368260
+- !ruby/object:Game
+  name: 'Snowtopia: Ski Resort Builder'
+  month: February
+  year: 2024
+  humble_scheme: choice
+  steam_id: 1124260
+- !ruby/object:Game
+  name: Oaken
+  month: February
+  year: 2024
+  humble_scheme: choice
+  steam_id: 1348690
+- !ruby/object:Game
+  name: Children Of Silentown
+  month: February
+  year: 2024
+  humble_scheme: choice
+  steam_id: 1108000
+- !ruby/object:Game
+  name: 'There Is No Light: Enhanced Edition'
+  month: February
+  year: 2024
+  humble_scheme: choice
+  steam_id: 1132980
+- !ruby/object:Game
+  name: Beacon Pines
+  month: February
+  year: 2024
+  humble_scheme: choice
+  steam_id: 1269640
+- !ruby/object:Game
+  name: Destroy All Humans! 2 - Reprobed
+  month: February
+  year: 2024
+  humble_scheme: choice
+  steam_id: 1266700
+- !ruby/object:Game
+  name: Scorn
+  month: February
+  year: 2024
+  humble_scheme: choice
+  steam_id: 698670
+- !ruby/object:Game
+  name: 'Life Is Strange: True Colors'
+  month: February
+  year: 2024
+  humble_scheme: choice
+  steam_id: 936790
+- !ruby/object:Game
+  name: 'Destroyer: The U-Boat Hunter'
+  month: March
+  year: 2024
+  humble_scheme: choice
+  steam_id: 1272010
+- !ruby/object:Game
+  name: Afterimage
+  month: March
+  year: 2024
+  humble_scheme: choice
+  steam_id: 1701520
+- !ruby/object:Game
+  name: Soulstice
+  month: March
+  year: 2024
+  humble_scheme: choice
+  steam_id: 1602080
+- !ruby/object:Game
+  name: Black Skylands
+  month: March
+  year: 2024
+  humble_scheme: choice
+  steam_id: 1143810
+- !ruby/object:Game
+  name: Citizen Sleeper
+  month: March
+  year: 2024
+  humble_scheme: choice
+  steam_id: 1578650
+- !ruby/object:Game
+  name: Saints Row
+  month: March
+  year: 2024
+  humble_scheme: choice
+  steam_id: 742420
+- !ruby/object:Game
+  name: Nioh 2 – The Complete Edition
+  month: March
+  year: 2024
+  humble_scheme: choice
+  steam_id: 1325200
+- !ruby/object:Game
+  name: 'Warhammer Age of Sigmar: Realms of Ruin Deluxe Upgrade Pack'
+  month: March
+  year: 2024
+  humble_scheme: choice
+  steam_id: 2531130
+- !ruby/object:Game
+  name: 'Warhammer Age Of Sigmar: Realms Of Ruin'
+  month: March
+  year: 2024
+  humble_scheme: choice
+  steam_id: 1844380
+- !ruby/object:Game
+  name: The Excavation Of Hob's Barrow
+  month: April
+  year: 2024
+  humble_scheme: choice
+  steam_id: 1182310
+- !ruby/object:Game
+  name: Coromon
+  month: April
+  year: 2024
+  humble_scheme: choice
+  steam_id: 1218210
+- !ruby/object:Game
+  name: 'Symphony Of War: The Nephilim Saga'
+  month: April
+  year: 2024
+  humble_scheme: choice
+  steam_id: 1488200
+- !ruby/object:Game
+  name: Terraformers
+  month: April
+  year: 2024
+  humble_scheme: choice
+  steam_id: 1244800
+- !ruby/object:Game
+  name: Fashion Police Squad
+  month: April
+  year: 2024
+  humble_scheme: choice
+  steam_id: 1319460
+- !ruby/object:Game
+  name: HUMANKIND™
+  month: April
+  year: 2024
+  humble_scheme: choice
+  steam_id: 1124300
+- !ruby/object:Game
+  name: HUMANKIND™ - Para Bellum Wonders Pack
+  month: April
+  year: 2024
+  humble_scheme: choice
+  steam_id: 2320210
+- !ruby/object:Game
+  name: HUMANKIND™ - Cultures of Oceania Pack
+  month: April
+  year: 2024
+  humble_scheme: choice
+  steam_id: 2320211
+- !ruby/object:Game
+  name: HUMANKIND™ - Cultures of Latin America Pack
+  month: April
+  year: 2024
+  humble_scheme: choice
+  steam_id: 1819410
+- !ruby/object:Game
+  name: HUMANKIND™ - Cultures of Africa Pack
+  month: April
+  year: 2024
+  humble_scheme: choice
+  steam_id: 1819400
+- !ruby/object:Game
+  name: HUMANKIND™ - Together We Rule Expansion Pack
+  month: April
+  year: 2024
+  humble_scheme: choice
+  steam_id: 1833990
+- !ruby/object:Game
+  name: HUMANKIND™ - Digital Deluxe Upgrade
+  month: April
+  year: 2024
+  humble_scheme: choice
+  steam_id: 1633650
+- !ruby/object:Game
+  name: The Callisto Protocol™
+  month: April
+  year: 2024
+  humble_scheme: choice
+  steam_id: 1544020
+- !ruby/object:Game
+  name: Victoria 3
+  month: April
+  year: 2024
+  humble_scheme: choice
+  steam_id: 529340
+- !ruby/object:Game
+  name: Mediterranea Inferno
+  month: May
+  year: 2024
+  humble_scheme: choice
+  steam_id: 2103680
+- !ruby/object:Game
+  name: Amanda The Adventurer
+  month: May
+  year: 2024
+  humble_scheme: choice
+  steam_id: 2166060
+- !ruby/object:Game
+  name: Bravery And Greed
+  month: May
+  year: 2024
+  humble_scheme: choice
+  steam_id: 943370
+- !ruby/object:Game
+  name: King Of The Castle
+  month: May
+  year: 2024
+  humble_scheme: choice
+  steam_id: 1839880
+- !ruby/object:Game
+  name: Loddlenaut
+  month: May
+  year: 2024
+  humble_scheme: choice
+  steam_id: 1644940
+- !ruby/object:Game
+  name: Steelrising
+  month: May
+  year: 2024
+  humble_scheme: choice
+  steam_id: 1283400
+- !ruby/object:Game
+  name: Hi-Fi Rush
+  month: May
+  year: 2024
+  humble_scheme: choice
+  steam_id: 1817230
+- !ruby/object:Game
+  name: 'Yakuza: Like A Dragon'
+  month: May
+  year: 2024
+  humble_scheme: choice
+  steam_id: 1235140
+- !ruby/object:Game
+  name: Empyrion - Galactic Survival
+  month: June
+  year: 2024
+  humble_scheme: choice
+  steam_id: 383120
+- !ruby/object:Game
+  name: A Guidebook Of Babel
+  month: June
+  year: 2024
+  humble_scheme: choice
+  steam_id: 1467920
+- !ruby/object:Game
+  name: 'Stray Gods: The Roleplaying Musical'
+  month: June
+  year: 2024
+  humble_scheme: choice
+  steam_id: 1920780
+- !ruby/object:Game
+  name: Miasma Chronicles
+  month: June
+  year: 2024
+  humble_scheme: choice
+  steam_id: 1649010
+- !ruby/object:Game
+  name: 'Warhammer 40,000: Battlesector'
+  month: June
+  year: 2024
+  humble_scheme: choice
+  steam_id: 1295500
+- !ruby/object:Game
+  name: LEGO® 2K Drive
+  month: June
+  year: 2024
+  humble_scheme: choice
+  steam_id: 1451810
+- !ruby/object:Game
+  name: 'Knights Of Honor II: Sovereign'
+  month: June
+  year: 2024
+  humble_scheme: choice
+  steam_id: 736820
+- !ruby/object:Game
+  name: Risk Of Rain 2
+  month: June
+  year: 2024
+  humble_scheme: choice
+  steam_id: 632360
+- !ruby/object:Game
+  name: Hyperviolent
+  month: July
+  year: 2024
+  humble_scheme: choice
+  steam_id: 1409200
+- !ruby/object:Game
+  name: Heretic'S Fork
+  month: July
+  year: 2024
+  humble_scheme: choice
+  steam_id: 2181610
+- !ruby/object:Game
+  name: 'Figment 2: Creed Valley'
+  month: July
+  year: 2024
+  humble_scheme: choice
+  steam_id: 1085220
+- !ruby/object:Game
+  name: Zoeti
+  month: July
+  year: 2024
+  humble_scheme: choice
+  steam_id: 1434540
+- !ruby/object:Game
+  name: Sticky Business
+  month: July
+  year: 2024
+  humble_scheme: choice
+  steam_id: 2303350
+- !ruby/object:Game
+  name: 'Starship Troopers: Terran Command'
+  month: July
+  year: 2024
+  humble_scheme: choice
+  steam_id: 1202130
+- !ruby/object:Game
+  name: Ghostrunner 2
+  month: July
+  year: 2024
+  humble_scheme: choice
+  steam_id: 2144740
+- !ruby/object:Game
+  name: 'A Plague Tale: Requiem'
+  month: July
+  year: 2024
+  humble_scheme: choice
+  steam_id: 1182900
+- !ruby/object:Game
+  name: This Means Warp
+  month: August
+  year: 2024
+  humble_scheme: choice
+  steam_id: 1269300
+- !ruby/object:Game
+  name: Universe For Sale
+  month: August
+  year: 2024
+  humble_scheme: choice
+  steam_id: 1627840
+- !ruby/object:Game
+  name: Diluvian Ultra
+  month: August
+  year: 2024
+  humble_scheme: choice
+  steam_id: 1306970
+- !ruby/object:Game
+  name: Astral Ascent
+  month: August
+  year: 2024
+  humble_scheme: choice
+  steam_id: 1280930
+- !ruby/object:Game
+  name: Blacktail
+  month: August
+  year: 2024
+  humble_scheme: choice
+  steam_id: 1532690
+- !ruby/object:Game
+  name: Gotham Knights
+  month: August
+  year: 2024
+  humble_scheme: choice
+  steam_id: 1496790
+- !ruby/object:Game
+  name: High On Life
+  month: August
+  year: 2024
+  humble_scheme: choice
+  steam_id: 1583230
+- !ruby/object:Game
+  name: Sifu
+  month: August
+  year: 2024
+  humble_scheme: choice
+  steam_id: 2138710
+- !ruby/object:Game
+  name: Rue Valley - Alpha Playtest
+  month: September
+  year: 2024
+  humble_scheme: choice
+  steam_id:
+- !ruby/object:Game
+  name: You Suck at Parking® - Complete Edition
+  month: September
+  year: 2024
+  humble_scheme: choice
+  steam_id: 837880
+- !ruby/object:Game
+  name: InfraSpace
+  month: September
+  year: 2024
+  humble_scheme: choice
+  steam_id: 1511460
+- !ruby/object:Game
+  name: 'Astrea: Six-Sided Oracles'
+  month: September
+  year: 2024
+  humble_scheme: choice
+  steam_id: 1755830
+- !ruby/object:Game
+  name: Lost Eidolons
+  month: September
+  year: 2024
+  humble_scheme: choice
+  steam_id: 1580520
+- !ruby/object:Game
+  name: 'SpongeBob SquarePants: The Cosmic Shake'
+  month: September
+  year: 2024
+  humble_scheme: choice
+  steam_id: 1282150
+- !ruby/object:Game
+  name: Coral Island
+  month: September
+  year: 2024
+  humble_scheme: choice
+  steam_id: 1158160
+- !ruby/object:Game
+  name: 'Stranded: Alien Dawn'
+  month: September
+  year: 2024
+  humble_scheme: choice
+  steam_id: 1324130
+- !ruby/object:Game
+  name: Marvel's Guardians of the Galaxy
+  month: September
+  year: 2024
+  humble_scheme: choice
+  steam_id: 1088850
+- !ruby/object:Game
+  name: McPixel 3
+  month: October
+  year: 2024
+  humble_scheme: choice
+  steam_id: 1338580
+- !ruby/object:Game
+  name: Remnant Records
+  month: October
+  year: 2024
+  humble_scheme: choice
+  steam_id: 1916310
+- !ruby/object:Game
+  name: Station to Station
+  month: October
+  year: 2024
+  humble_scheme: choice
+  steam_id: 2272400
+- !ruby/object:Game
+  name: Jack Move
+  month: October
+  year: 2024
+  humble_scheme: choice
+  steam_id: 1099640
+- !ruby/object:Game
+  name: Dome Keeper
+  month: October
+  year: 2024
+  humble_scheme: choice
+  steam_id: 1637320
+- !ruby/object:Game
+  name: Jusant
+  month: October
+  year: 2024
+  humble_scheme: choice
+  steam_id: 1977170
+- !ruby/object:Game
+  name: Persona® 5 Strikers
+  month: October
+  year: 2024
+  humble_scheme: choice
+  steam_id: 1382330
+- !ruby/object:Game
+  name: REMNANT II®
+  month: October
+  year: 2024
+  humble_scheme: choice
+  steam_id: 1282100
+- !ruby/object:Game
+  name: 'Garden Life: A Cozy Simulator'
+  month: November
+  year: 2024
+  humble_scheme: choice
+  steam_id: 1915380
+- !ruby/object:Game
+  name: Hexarchy
+  month: November
+  year: 2024
+  humble_scheme: choice
+  steam_id: 1356810
+- !ruby/object:Game
+  name: KarmaZoo
+  month: November
+  year: 2024
+  humble_scheme: choice
+  steam_id: 1661630
+- !ruby/object:Game
+  name: 'The Bookwalker: Thief of Tales'
+  month: November
+  year: 2024
+  humble_scheme: choice
+  steam_id: 1432100
+- !ruby/object:Game
+  name: Cassette Beasts
+  month: November
+  year: 2024
+  humble_scheme: choice
+  steam_id: 1321440
+- !ruby/object:Game
+  name: The Lamplighters League
+  month: November
+  year: 2024
+  humble_scheme: choice
+  steam_id: 1167750
+- !ruby/object:Game
+  name: Persona 4 Golden
+  month: November
+  year: 2024
+  humble_scheme: choice
+  steam_id: 1113000
+- !ruby/object:Game
+  name: 'Warhammer 40,000: Darktide'
+  month: November
+  year: 2024
+  humble_scheme: choice
+  steam_id: 1361210
+- !ruby/object:Game
+  name: 'Monster Prom 3: Monster Roadtrip'
+  month: December
+  year: 2024
+  humble_scheme: choice
+  steam_id: 1665190
+- !ruby/object:Game
+  name: Venba
+  month: December
+  year: 2024
+  humble_scheme: choice
+  steam_id: 1491670
+- !ruby/object:Game
+  name: Inkulinati
+  month: December
+  year: 2024
+  humble_scheme: choice
+  steam_id: 957960
+- !ruby/object:Game
+  name: Moonstone Island
+  month: December
+  year: 2024
+  humble_scheme: choice
+  steam_id: 1658150
+- !ruby/object:Game
+  name: The Invincible
+  month: December
+  year: 2024
+  humble_scheme: choice
+  steam_id: 731040
+- !ruby/object:Game
+  name: 'Crime Boss: Rockay City - Tactical Weapon Pack'
+  month: December
+  year: 2024
+  humble_scheme: choice
+  steam_id: 2934440
+- !ruby/object:Game
+  name: 'Crime Boss: Rockay City - Heavy Hitters Pack'
+  month: December
+  year: 2024
+  humble_scheme: choice
+  steam_id: 2934460
+- !ruby/object:Game
+  name: 'Crime Boss: Rockay City - Dragon''s Gold Cup'
+  month: December
+  year: 2024
+  humble_scheme: choice
+  steam_id: 2934450
+- !ruby/object:Game
+  name: 'Crime Boss: Rockay City - Cagnali''s Order'
+  month: December
+  year: 2024
+  humble_scheme: choice
+  steam_id: 2939860
+- !ruby/object:Game
+  name: 'Crime Boss: Rockay City'
+  month: December
+  year: 2024
+  humble_scheme: choice
+  steam_id: 2933080
+- !ruby/object:Game
+  name: 'Atlas Fallen: Reign of Sand'
+  month: December
+  year: 2024
+  humble_scheme: choice
+  steam_id: 1230530
+- !ruby/object:Game
+  name: Old World
+  month: December
+  year: 2024
+  humble_scheme: choice
+  steam_id: 597180
+- !ruby/object:Game
+  name: Bomb Rush Cyberfunk
+  month: December
+  year: 2024
+  humble_scheme: choice
+  steam_id: 1353230
