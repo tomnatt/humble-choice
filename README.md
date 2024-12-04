@@ -4,6 +4,8 @@ Humble Choice (formerly Humble Monthly) game selections marked up as YAML and JS
 
 Output in `output/` - [here](https://github.com/tomnatt/humble-choice/tree/main/output). Output in both JSON and YAML formats. Steam IDs included where possible, but note that some games have been withdrawn from the platform, and others are from other platforms (eg Battle.net), so there are some empty `steam_id` fields. Games with omitted IDs are listed in `ignore-list.txt` along with the reason.
 
+Both formats have file output by year and a combined file. Note YAML files are divided by year, where JSON are in a single list.
+
 Humble Choice data is drawn from [this public spreadsheet of Humble Monthly / Choice games](https://docs.google.com/spreadsheets/d/1VZHuYi0OB6kc9Ma31RG57S7GqX2ND3Gk3FFfgDkToIk/edit?usp=sharing) with credit to the owner of [this public spreadsheet](https://docs.google.com/spreadsheets/d/1Y5ySEXPLZdmKFNdMOrGlCEVl6nb_G0X3nYCFSWIdktY/edit#gid=0) which has been copied, reformatted a bit and updated since the original was abandoned.
 
 Steam IDs are pulled from the [Steam API](https://steamapi.xpaw.me/#IStoreService) (unofficial docs).
