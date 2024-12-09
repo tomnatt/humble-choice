@@ -1,6 +1,7 @@
 require 'json'
 require 'net/http'
 require 'uri'
+require_relative 'config'
 require_relative 'game'
 
 class SteamStore
@@ -8,14 +9,13 @@ class SteamStore
 
   def initialize(load_file: true)
     @entries = []
-    @ids_file = 'steam/steam-store.yml'
 
     load_entries_from_file if load_file
   end
 
   def load_entries_from_file
-    if File.exist?(@ids_file)
-      @entries = YAML.load_file(@ids_file, permitted_classes: [Game])
+    if File.exist?(Config.steam_store)
+      @entries = YAML.load_file(Config.steam_store, permitted_classes: [Game])
     else
       puts 'Load entries from Steam API'
     end
@@ -63,13 +63,13 @@ class SteamStore
 
   def save_entries
     # Write steam store to file
-    f = File.open(@ids_file, 'w+')
+    f = File.open(Config.steam_store, 'w+')
     f << @entries.to_yaml
     f.close
   end
 
   def delete_entries_file
-    FileUtils.rm_f(@ids_file)
+    FileUtils.rm_f(Config.steam_store)
   end
 
   private
