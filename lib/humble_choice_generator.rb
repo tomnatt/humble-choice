@@ -30,13 +30,11 @@ class HumbleChoiceGenerator
 
   # Create all YAML and JSON files
   def generate_output
-    all_yaml_output = {}
-    all_json_output = []
+    all_output = []
 
     @game_list.each_key do |year|
-      # Prep output objects for all in one files
-      all_yaml_output[year] = @game_list[year]
-      all_json_output.push(*@game_list[year])
+      # Prep output object for all in one files
+      all_output.push(*@game_list[year])
 
       # YAML output by year
       o = { year => @game_list[year] }
@@ -46,8 +44,8 @@ class HumbleChoiceGenerator
       File.write(Config.humble_year_file_json(year), JSON.pretty_generate(@game_list[year]))
     end
 
-    File.write(Config.humble_all_file_yaml, all_yaml_output.to_yaml)
-    File.write(Config.humble_all_file_json, JSON.pretty_generate(all_json_output))
+    File.write(Config.humble_all_file_yaml, all_output.to_yaml)
+    File.write(Config.humble_all_file_json, JSON.pretty_generate(all_output))
   end
 
   def read_ignore_list
