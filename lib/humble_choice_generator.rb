@@ -1,5 +1,5 @@
-require_relative 'humble_data'
 require_relative 'game'
+require_relative 'humble_data'
 require_relative 'steam_store'
 
 class HumbleChoiceGenerator
@@ -50,9 +50,10 @@ class HumbleChoiceGenerator
   end
 
   def read_ignore_list
-    f = File.open('ignore-list.txt', 'r')
-    f.each_line do |line|
-      @ignore_list << line.downcase.chomp unless line.chars.first == '#'
+    File.open('ignore-list.txt', 'r') do |f|
+      f.each_line do |line|
+        @ignore_list << line.downcase.chomp unless line.chars.first == '#'
+      end
     end
   end
 
