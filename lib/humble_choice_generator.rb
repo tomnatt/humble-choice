@@ -4,6 +4,8 @@ require_relative 'humble_data'
 require_relative 'steam_store'
 
 class HumbleChoiceGenerator
+  attr_reader :game_list
+
   def initialize
     @game_list = []
     @ignore_list = []
@@ -13,7 +15,7 @@ class HumbleChoiceGenerator
   def generate
     generate_list
     populate_steam_ids
-    generate_output
+    HumbleGamesFiles.generate_output(@game_list)
   end
 
   # Generate game list
@@ -28,26 +30,6 @@ class HumbleChoiceGenerator
     @game_list = steam_store.populate_all_games(@game_list)
   end
 
-  # Create all YAML and JSON files
-  def generate_output
-    all_output = []
-
-    @game_list.each_key do |year|
-      # Prep output object for all in one files
-      all_output.push(*@game_list[year])
-
-      # YAML output by year
-      o = { year => @game_list[year] }
-      File.write(Config.humble_year_file_yaml(year), o.to_yaml)
-
-      # JSON output by year
-      File.write(Config.humble_year_file_json(year), JSON.pretty_generate(@game_list[year]))
-    end
-
-    File.write(Config.humble_all_file_yaml, all_output.to_yaml)
-    File.write(Config.humble_all_file_json, JSON.pretty_generate(all_output))
-  end
-
   def read_ignore_list
     File.open(Config.ignore_list, 'r') do |f|
       f.each_line do |line|
@@ -58,13 +40,12 @@ class HumbleChoiceGenerator
 
   def missing_steam_ids
     missing = {}
-    @game_list.each_key do |year|
-      missing[year] = []
+    @game_list.each do |game|
+      # Create array for year if doesn't already exist
+      missing[game.year] = [] if missing[game.year].nil?
 
-      @game_list[year].each do |game|
-        # Include if empty, and not on ignore list
-        missing[year] << game if game.steam_id.nil? && !(@ignore_list.include? game.name.downcase)
-      end
+      # Include if empty, and not on ignore list
+      missing[game.year] << game if game.steam_id.nil? && !(@ignore_list.include? game.name.downcase)
     end
 
     missing

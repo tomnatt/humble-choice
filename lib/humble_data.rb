@@ -12,10 +12,10 @@ class HumbleData
     session = GoogleDrive::Session.from_service_account_key(ENV.fetch('HUMBLE_CHOICE_SERVICE_ACCOUNT_KEY'))
     @spreadsheet = session.spreadsheet_by_key('1VZHuYi0OB6kc9Ma31RG57S7GqX2ND3Gk3FFfgDkToIk')
 
-    monthly = read_data(@spreadsheet.worksheets.first, 'monthly')
-    choice = read_data(@spreadsheet.worksheets.last, 'choice')
-    # Merge Monthly and Choice lists - on overlap, merge the clashing arrays then sort the keys
-    @output = monthly.merge(choice) { |_y, m, c| m.concat(c) }.sort.to_h
+    monthly = read_data(@spreadsheet.worksheets.first, 'monthly').sort.to_h
+    choice = read_data(@spreadsheet.worksheets.last, 'choice').sort.to_h
+    # Merge Monthly and Choice lists, take just the games and flatten into a single array
+    @output = (monthly.values + choice.values).flatten
   end
 
   def read_data(worksheet, source)

@@ -21,14 +21,12 @@ class SteamStore
     end
   end
 
-  def populate_all_games(output)
-    output.each_value do |games_list|
-      games_list.each do |game|
-        game.steam_id = find_id(game.name)
-      end
+  def populate_all_games(games_list)
+    games_list.each do |game|
+      game.steam_id = find_id(game.name)
     end
 
-    output
+    games_list
   end
 
   def find_id(name)
