@@ -1,5 +1,4 @@
 ---
-2023:
 - !ruby/object:Game
   name: The Serpent Rogue
   month: January
