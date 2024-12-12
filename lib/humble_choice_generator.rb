@@ -18,10 +18,14 @@ class HumbleChoiceGenerator
     HumbleGamesFiles.write_output_files(@game_list)
   end
 
-  # Generate game list
+  # Generate game list for action
   def generate_list
     humble_data = HumbleData.new
     @game_list = humble_data.output
+
+    # Get the existing list and add into working list
+    existing_list = HumbleGamesFiles.read_games
+    @game_list.map { |game| existing_list.select { |existing_game| game.name.downcase == existing_game.name.downcase } }
   end
 
   def add_steam_ids
