@@ -3,7 +3,7 @@ require_relative 'game'
 
 class HumbleGamesFiles
   # Create all YAML and JSON files
-  def self.generate_output(game_list)
+  def self.write_output_files(game_list)
     games_by_year = {}
     game_list.each do |game|
       games_by_year[game.year] = [] if games_by_year[game.year].nil?
