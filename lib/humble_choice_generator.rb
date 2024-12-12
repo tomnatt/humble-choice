@@ -11,11 +11,11 @@ class HumbleChoiceGenerator
     @ignore_list = []
   end
 
-  # Convenience method to fire everything
+  # Generate list, add Steam Ids and write files in one method
   def generate
     generate_list
-    populate_steam_ids
-    HumbleGamesFiles.generate_output(@game_list)
+    add_steam_ids
+    HumbleGamesFiles.write_output_files(@game_list)
   end
 
   # Generate game list
@@ -24,10 +24,9 @@ class HumbleChoiceGenerator
     @game_list = humble_data.output
   end
 
-  # Populate Steam Ids
-  def populate_steam_ids
+  def add_steam_ids
     steam_store = SteamStore.new
-    @game_list = steam_store.populate_all_games(@game_list)
+    @game_list.map { |game| steam_store.populate_steam_id(game) }
   end
 
   def read_ignore_list
