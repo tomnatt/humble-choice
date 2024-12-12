@@ -1,5 +1,6 @@
 require './lib/humble_choice_generator'
 require './lib/games_list_files'
+require './lib/steam_spy'
 require './lib/steam_store'
 
 task :default do
@@ -68,4 +69,18 @@ task :regenerate do
   Rake::Task['get_steam'].invoke
   Rake::Task['generate_with_steam_ids'].invoke
   Rake::Task['missing_steam_ids'].invoke
+end
+
+# Add in steam tags
+
+desc 'Regenerate all tags - slow'
+task :regenerate_tags do
+  spy = SteamSpy.new
+  spy.add_all_tags
+end
+
+desc 'Add missing tags'
+task :add_tags do
+  spy = SteamSpy.new
+  spy.add_missing_tags
 end
