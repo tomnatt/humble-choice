@@ -3,8 +3,8 @@ require 'google_drive'
 require 'yaml'
 require_relative 'game'
 
-class HumbleData
-  attr_reader :output
+class GoogleData
+  attr_reader :games_list
 
   def initialize
     # Get the sheet:
@@ -15,7 +15,7 @@ class HumbleData
     monthly = read_data(@spreadsheet.worksheets.first, 'monthly').sort.to_h
     choice = read_data(@spreadsheet.worksheets.last, 'choice').sort.to_h
     # Merge Monthly and Choice lists, take just the games and flatten into a single array
-    @output = (monthly.values + choice.values).flatten
+    @games_list = (monthly.values + choice.values).flatten
   end
 
   def read_data(worksheet, source)

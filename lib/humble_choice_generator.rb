@@ -1,6 +1,6 @@
 require_relative 'config'
 require_relative 'game'
-require_relative 'humble_data'
+require_relative 'google_data'
 require_relative 'steam_store'
 
 class HumbleChoiceGenerator
@@ -8,9 +8,10 @@ class HumbleChoiceGenerator
 
   def initialize
     @game_list = []
-    @ignore_list = []
+    @ignore_list = [] # TODO: refactor?
   end
 
+  # TODO: rework
   # Generate list, add Steam Ids and write files in one method
   def generate
     generate_list
@@ -20,8 +21,8 @@ class HumbleChoiceGenerator
 
   # Generate game list for action
   def generate_list
-    humble_data = HumbleData.new
-    @game_list = humble_data.output
+    google_data = GoogleData.new
+    @game_list = google_data.game_list
 
     # Get the existing list and add into working list
     existing_list = HumbleGamesFiles.read_games
