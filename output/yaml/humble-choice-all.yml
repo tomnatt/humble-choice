@@ -1,5 +1,4 @@
 ---
-2015:
 - !ruby/object:Game
   name: Legend of Grimrock
   month: November
@@ -90,7 +89,6 @@
   year: 2015
   humble_scheme: monthly
   steam_id: 251470
-2016:
 - !ruby/object:Game
   name: A Fistful of Gun
   month: January
@@ -595,7 +593,6 @@
   year: 2016
   humble_scheme: monthly
   steam_id: 367500
-2017:
 - !ruby/object:Game
   name: Hopiko
   month: January
@@ -1136,7 +1133,6 @@
   year: 2017
   humble_scheme: monthly
   steam_id: 433850
-2018:
 - !ruby/object:Game
   name: Cursed Castilla (Maldita Castilla EX)
   month: January
@@ -1755,7 +1751,6 @@
   year: 2018
   humble_scheme: monthly
   steam_id: 255710
-2019:
 - !ruby/object:Game
   name: The Darkside Detective
   month: January
@@ -2374,7 +2369,6 @@
   year: 2019
   humble_scheme: choice
   steam_id: 750920
-2020:
 - !ruby/object:Game
   name: 'GRIP: Combat Racing - Artifex Car Pack'
   month: January
@@ -3365,7 +3359,6 @@
   year: 2020
   humble_scheme: choice
   steam_id: 728880
-2021:
 - !ruby/object:Game
   name: 'The Ambassador: Fractured Timelines'
   month: January
@@ -4292,7 +4285,6 @@
   year: 2021
   humble_scheme: choice
   steam_id: 629820
-2022:
 - !ruby/object:Game
   name: Midnight Protocol
   month: January
@@ -4893,7 +4885,6 @@
   year: 2022
   humble_scheme: choice
   steam_id: 719040
-2023:
 - !ruby/object:Game
   name: The Serpent Rogue
   month: January
@@ -5536,7 +5527,6 @@
   year: 2023
   humble_scheme: choice
   steam_id: 987840
-2024:
 - !ruby/object:Game
   name: Twin Mirror
   month: January

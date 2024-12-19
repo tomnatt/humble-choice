@@ -1,5 +1,4 @@
 ---
-2024:
 - !ruby/object:Game
   name: Twin Mirror
   month: January

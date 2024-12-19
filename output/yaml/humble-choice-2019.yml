@@ -1,5 +1,4 @@
 ---
-2019:
 - !ruby/object:Game
   name: The Darkside Detective
   month: January

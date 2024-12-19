@@ -1,16 +1,19 @@
 require './lib/humble_choice_generator'
+require './lib/humble_games_files'
 require './lib/steam_store'
 
 task :default do
   Rake::Task['generate'].invoke
 end
 
+# Generate games and ids
+
 desc 'Generate Game objects, YAML and JSON with no Steam Ids'
 task :generate_games do
   puts 'Generating Games with no Steam Ids'
   hc = HumbleChoiceGenerator.new
   hc.generate_list
-  hc.generate_output
+  HumbleGamesFiles.write_output_files(hc.game_list)
 end
 
 desc 'Generate everything with output (default)'
@@ -47,6 +50,8 @@ task :generate_silent do
   hc.generate
 end
 
+# Steam datastore
+
 desc 'Create Steam datastore'
 task get_steam: :delete_steam do
   store = SteamStore.new(load_file: false)
@@ -60,13 +65,15 @@ task :delete_steam do
   store.delete_entries_file
 end
 
-desc 'Regenerate everything'
+# Full regeneration
+
+desc 'Regenerate all listings with no tags'
 task :regenerate do
   Rake::Task['get_steam'].invoke
   Rake::Task['generate'].invoke
 end
 
-desc 'Regenerate everything with no output'
+desc 'Regenerate all listings with no tags - no output'
 task :regenerate_silent do
   Rake::Task['get_steam'].invoke
   Rake::Task['generate_silent'].invoke

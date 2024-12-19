@@ -1,5 +1,4 @@
 ---
-2021:
 - !ruby/object:Game
   name: 'The Ambassador: Fractured Timelines'
   month: January

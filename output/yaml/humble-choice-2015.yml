@@ -1,5 +1,4 @@
 ---
-2015:
 - !ruby/object:Game
   name: Legend of Grimrock
   month: November

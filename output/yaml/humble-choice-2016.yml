@@ -1,5 +1,4 @@
 ---
-2016:
 - !ruby/object:Game
   name: A Fistful of Gun
   month: January
