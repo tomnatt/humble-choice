@@ -6187,3 +6187,51 @@
   year: 2024
   humble_scheme: choice
   steam_id: 1353230
+- !ruby/object:Game
+  name: The Pegasus Expedition
+  month: January
+  year: 2025
+  humble_scheme: choice
+  steam_id: 1521070
+- !ruby/object:Game
+  name: Dordogne
+  month: January
+  year: 2025
+  humble_scheme: choice
+  steam_id: 1272840
+- !ruby/object:Game
+  name: 'Boxes: Lost Fragments'
+  month: January
+  year: 2025
+  humble_scheme: choice
+  steam_id: 2019810
+- !ruby/object:Game
+  name: Fort Solis
+  month: January
+  year: 2025
+  humble_scheme: choice
+  steam_id: 1931730
+- !ruby/object:Game
+  name: Beneath Oresa
+  month: January
+  year: 2025
+  humble_scheme: choice
+  steam_id: 1803400
+- !ruby/object:Game
+  name: Blasphemous 2
+  month: January
+  year: 2025
+  humble_scheme: choice
+  steam_id: 2114740
+- !ruby/object:Game
+  name: Jagged Alliance 3
+  month: January
+  year: 2025
+  humble_scheme: choice
+  steam_id: 1084160
+- !ruby/object:Game
+  name: Against the Storm
+  month: January
+  year: 2025
+  humble_scheme: choice
+  steam_id: 1336490
