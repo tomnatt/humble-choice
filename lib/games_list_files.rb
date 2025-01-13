@@ -1,7 +1,7 @@
 require_relative 'config'
 require_relative 'game'
 
-class HumbleGamesFiles
+class GamesListFiles
   # Create all YAML and JSON files
   def self.write_output_files(game_list)
     games_by_year = {}

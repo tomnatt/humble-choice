@@ -1,5 +1,5 @@
 require './lib/humble_choice_generator'
-require './lib/humble_games_files'
+require './lib/games_list_files'
 require './lib/steam_store'
 
 task :default do
@@ -13,7 +13,7 @@ task :generate_games do
   puts 'Generating Games with no Steam Ids'
   hc = HumbleChoiceGenerator.new
   hc.generate_list
-  HumbleGamesFiles.write_output_files(hc.game_list)
+  GamesListFiles.write_output_files(hc.game_list)
 end
 
 desc 'Generate everything with output (default)'
