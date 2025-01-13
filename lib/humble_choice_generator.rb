@@ -22,7 +22,7 @@ class HumbleChoiceGenerator
   # Generate game list for action
   def generate_list
     google_data = GoogleData.new
-    @game_list = google_data.game_list
+    @game_list = google_data.games_list
 
     # Get the existing list and add into working list
     existing_list = HumbleGamesFiles.read_games
