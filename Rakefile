@@ -3,7 +3,7 @@ require './lib/games_list_files'
 require './lib/steam_store'
 
 task :default do
-  Rake::Task['generate'].invoke
+  Rake::Task['generate_with_steam_ids'].invoke
 end
 
 # Generate games and ids
@@ -16,14 +16,15 @@ task :generate_games do
   GamesListFiles.write_output_files(hc.game_list)
 end
 
-desc 'Generate everything with output (default)'
-task :generate do
-  puts 'Generating...'
+desc 'Generate Game objects with Steam Ids (default)'
+task :generate_with_steam_ids do
+  puts 'Generate Games with Steam Ids'
   hc = HumbleChoiceGenerator.new
-  hc.generate
+  hc.generate_list
+  hc.add_steam_ids
+  GamesListFiles.write_output_files(hc.game_list)
 
-  # Output list of games with missing Steam Ids, skipping the ignore list
-  hc.read_ignore_list
+  # Output missing ids
   missing = hc.missing_steam_ids
   missing.keys.sort.each do |year|
     unless missing[year].empty?
@@ -42,12 +43,6 @@ task :generate do
   end
 
   puts "Total: #{total}"
-end
-
-desc 'Generate everything silently'
-task :generate_silent do
-  hc = HumbleChoiceGenerator.new
-  hc.generate
 end
 
 # Steam datastore
@@ -70,11 +65,5 @@ end
 desc 'Regenerate all listings with no tags'
 task :regenerate do
   Rake::Task['get_steam'].invoke
-  Rake::Task['generate'].invoke
-end
-
-desc 'Regenerate all listings with no tags - no output'
-task :regenerate_silent do
-  Rake::Task['get_steam'].invoke
-  Rake::Task['generate_silent'].invoke
+  Rake::Task['generate_with_steam_ids'].invoke
 end

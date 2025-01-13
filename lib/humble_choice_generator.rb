@@ -8,15 +8,6 @@ class HumbleChoiceGenerator
 
   def initialize
     @game_list = []
-    @ignore_list = [] # TODO: refactor?
-  end
-
-  # TODO: rework
-  # Generate list, add Steam Ids and write files in one method
-  def generate
-    generate_list
-    add_steam_ids
-    GamesListFiles.write_output_files(@game_list)
   end
 
   # Generate game list for action
@@ -34,24 +25,28 @@ class HumbleChoiceGenerator
     @game_list.map { |game| steam_store.populate_steam_id(game) }
   end
 
-  def read_ignore_list
-    File.open(Config.ignore_list, 'r') do |f|
-      f.each_line do |line|
-        @ignore_list << line.downcase.chomp unless line.chars.first == '#'
-      end
-    end
-  end
-
   def missing_steam_ids
+    ignore_list = read_ignore_list
+
     missing = {}
     @game_list.each do |game|
       # Create array for year if doesn't already exist
       missing[game.year] = [] if missing[game.year].nil?
 
       # Include if empty, and not on ignore list
-      missing[game.year] << game if game.steam_id.nil? && !(@ignore_list.include? game.name.downcase)
+      missing[game.year] << game if game.steam_id.nil? && !(ignore_list.include? game.name.downcase)
     end
 
     missing
+  end
+
+  def read_ignore_list
+    ignore_list = []
+    File.open(Config.ignore_list, 'r') do |f|
+      f.each_line do |line|
+        ignore_list << line.downcase.chomp unless line.chars.first == '#'
+      end
+    end
+    ignore_list
   end
 end
