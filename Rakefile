@@ -7,10 +7,17 @@ task :default do
 end
 
 # Generate games and ids
-
-desc 'Generate Game objects, YAML and JSON with no Steam Ids'
-task :generate_games do
+desc 'Generate Game objects with no Steam Ids'
+task :generate_games_list do
   puts 'Generating Games with no Steam Ids'
+  hc = HumbleChoiceGenerator.new
+  hc.generate_list_no_ids
+  GamesListFiles.write_output_files(hc.game_list)
+end
+
+desc 'Generate Game objects with no change to Steam Ids'
+task :generate_games do
+  puts 'Generating Games with no change to Steam Ids'
   hc = HumbleChoiceGenerator.new
   hc.generate_list
   GamesListFiles.write_output_files(hc.game_list)
@@ -18,7 +25,7 @@ end
 
 desc 'Generate Game objects with Steam Ids (default)'
 task :generate_with_steam_ids, [:month, :year] do |_t, args|
-  m = args[:month]
+  m = args[:month].to_i
   y = args[:year].to_i
 
   puts 'Generate Games with Steam Ids'
@@ -33,7 +40,7 @@ task :generate_with_steam_ids, [:month, :year] do |_t, args|
 
   GamesListFiles.write_output_files(hc.game_list)
 
-  # TODO - refactor to another method
+  # TODO: refactor to another method
 
   # Output missing ids
   missing = hc.missing_steam_ids

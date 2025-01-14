@@ -10,10 +10,15 @@ class HumbleChoiceGenerator
     @game_list = []
   end
 
-  # Generate game list for action
-  def generate_list
+  # Generate game list fresh
+  def generate_list_no_ids
     google_data = GoogleData.new
     @game_list = google_data.games_list
+  end
+
+  # Generate game list for action
+  def generate_list
+    generate_list_no_ids
 
     # Get the existing list and add into working list
     existing_list = GamesListFiles.read_games
@@ -27,14 +32,11 @@ class HumbleChoiceGenerator
 
   def add_steam_ids_for(month, year)
     steam_store = SteamStore.new
-    # @game_list.select # HERE
-
     @game_list.map do |game|
       if game.year == year
         steam_store.populate_steam_id(game)
       end
     end
-    # @game_list.map { |game| steam_store.populate_steam_id(game) }
   end
 
   def missing_steam_ids
