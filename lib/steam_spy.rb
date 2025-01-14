@@ -41,8 +41,6 @@ class SteamSpy
   def get_tags_for(appid)
     game_raw_json = Net::HTTP.get(URI.parse(steam_spy_api_url(appid)))
     game = JSON.parse(game_raw_json)
-
-    puts "#{game['name']} - #{game['appid']}"
     game['tags'].empty? ? [] : game['tags'].keys
   end
 end
