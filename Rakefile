@@ -3,7 +3,7 @@ require './lib/games_list_files'
 require './lib/steam_store'
 
 task :default do
-  Rake::Task['generate_with_steam_ids'].invoke
+  Rake::Task['generate_with_steam_ids_output'].invoke
 end
 
 # Generate games and ids
@@ -55,10 +55,17 @@ task :delete_steam do
   store.delete_entries_file
 end
 
-# Full regeneration
+# Convenience methods
 
-desc 'Regenerate all listings with no tags'
+desc 'Update all lists with Steam Ids including missing game output (default)'
+task :generate_with_steam_ids_output do
+  Rake::Task['generate_with_steam_ids'].invoke
+  Rake::Task['missing_steam_ids'].invoke
+end
+
+desc 'Regenerate all listings and Steam datastore with missing game output'
 task :regenerate do
   Rake::Task['get_steam'].invoke
   Rake::Task['generate_with_steam_ids'].invoke
+  Rake::Task['missing_steam_ids'].invoke
 end
