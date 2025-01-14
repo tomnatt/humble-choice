@@ -56,6 +56,20 @@ task :delete_steam do
   store.delete_entries_file
 end
 
+# Steam tags
+
+desc 'Regenerate all tags - slow'
+task :regenerate_tags do
+  spy = SteamSpy.new
+  spy.add_all_tags
+end
+
+desc 'Add missing tags'
+task :add_tags do
+  spy = SteamSpy.new
+  spy.add_missing_tags
+end
+
 # Convenience methods
 
 desc 'Update all lists with Steam Ids including missing game output (default)'
@@ -69,18 +83,4 @@ task :regenerate do
   Rake::Task['get_steam'].invoke
   Rake::Task['generate_with_steam_ids'].invoke
   Rake::Task['missing_steam_ids'].invoke
-end
-
-# Add in steam tags
-
-desc 'Regenerate all tags - slow'
-task :regenerate_tags do
-  spy = SteamSpy.new
-  spy.add_all_tags
-end
-
-desc 'Add missing tags'
-task :add_tags do
-  spy = SteamSpy.new
-  spy.add_missing_tags
 end
