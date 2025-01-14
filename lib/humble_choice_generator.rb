@@ -39,7 +39,7 @@ class HumbleChoiceGenerator
   def add_steam_ids_for(month, year)
     steam_store = SteamStore.new
     @game_list.each do |game|
-      if game.year == year
+      if (month.nil? && game.year == year) || (year.nil? && game.month.downcase == Date::MONTHNAMES[month].downcase) || (game.year == year && game.month.downcase == Date::MONTHNAMES[month].downcase)
         steam_store.populate_steam_id(game)
       end
     end
