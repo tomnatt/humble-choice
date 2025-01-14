@@ -27,14 +27,24 @@ To run:
 
 Or `bundle exec rake regenerate` will do it all in a single step.
 
+Incremental update can be done thus:
+
+```
+bundle exec rake generate_with_steam_ids[,2016]   # Update all Steam Ids for 2016 games
+bundle exec rake generate_with_steam_ids[2,]      # Update all Steam Ids for February games
+bundle exec rake generate_with_steam_ids[2,2016]  # Update all Steam Ids for February 2016 games
+bundle exec rake generate_with_steam_ids          # Omit params - update all Steam Ids for all games
+```
+
 All rake tasks (run through bundle, obv):
 
 ```
-rake delete_steam       # Delete Steam datastore
-rake generate           # Generate everything with output (default)
-rake generate_games     # Generate Game objects and YAML with no Steam Ids
-rake generate_silent    # Generate everything silently
-rake get_steam          # Create Steam datastore
-rake regenerate         # Regenerate everything
-rake regenerate_silent  # Regenerate everything with no output
+rake delete_steam                         # Delete Steam datastore
+rake generate_games                       # Generate Game objects with no change to Steam Ids
+rake generate_games_list                  # Generate Game objects with no Steam Ids
+rake generate_with_steam_ids[month,year]  # Generate Game objects with Steam Ids (default)
+rake generate_with_steam_ids_output       # Update all lists with Steam Ids including missing game output (default)
+rake get_steam                            # Create Steam datastore
+rake missing_steam_ids                    # Show missing Steam Ids
+rake regenerate                           # Regenerate all listings and Steam datastore with missing game output
 ```
