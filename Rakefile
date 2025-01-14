@@ -58,14 +58,19 @@ end
 
 # Steam tags
 
-desc 'Regenerate all tags - slow'
-task :regenerate_tags do
+desc 'Add tags - very slow with no params'
+task :add_tags, [:month, :year] do |_t, args|
+  m = args[:month]&.to_i
+  y = args[:year]&.to_i
+
   spy = SteamSpy.new
-  spy.add_all_tags
+  spy.add_tags_for(m, y)
+
+  GamesListFiles.write_output_files(spy.game_list)
 end
 
 desc 'Add missing tags'
-task :add_tags do
+task :add_missing_tags do
   spy = SteamSpy.new
   spy.add_missing_tags
 end

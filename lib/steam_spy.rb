@@ -1,29 +1,35 @@
-require_relative 'humble_games_files'
 require_relative 'config'
 require_relative 'game'
 
 class SteamSpy
+  attr_reader :game_list
+
   def initialize
-    @game_list = HumbleGamesFiles.read_games
+    @game_list = GamesListFiles.read_games
   end
 
-  def add_all_tags
+  def add_tags_for(month, year)
     @game_list.each do |game|
+      # Skip this one unless year matches or no year set
+      next unless year.nil? || game.year == year
+
+      # Skip this one unless month matches or no month set
+      next unless month.nil? || game.month.downcase == Date::MONTHNAMES[month].downcase
+
       game.tags = get_tags_for(game.steam_id) unless game.steam_id.nil?
       # Wait between each API call to avoid hammering the API
       sleep 1
-      # Write to file each time - inefficient but saves output ongoing
-      HumbleGamesFiles.generate_output(@game_list)
     end
   end
 
   # for each game, if there is a steam id and no tags get them
   def add_missing_tags
-    @game_list.each do |game|
-      if game.tags.empty? && !game.steam_id.nil?
-        puts "#{game.name} no tags"
-      end
-    end
+    puts 'TODO'
+    # @game_list.each do |game|
+    #   if game.tags.empty? && !game.steam_id.nil?
+    #     puts "#{game.name} no tags"
+    #   end
+    # end
   end
 
   private
