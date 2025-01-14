@@ -34,15 +34,21 @@ class GamesListFiles
 
   def self.show_missing_steam_ids
     missing = missing_steam_ids
+    show_missing_steam_ids_by_year(missing)
+    puts "\n"
+    show_missing_steam_ids_counts(missing)
+  end
+
+  def self.show_missing_steam_ids_by_year(missing)
     missing.keys.sort.each do |year|
       unless missing[year].empty?
         o = { year => missing[year] }.to_yaml
         puts o
       end
     end
+  end
 
-    puts "\n"
-
+  def self.show_missing_steam_ids_counts(missing)
     # Output count of missing games
     total = 0
     missing.keys.sort.each do |year|
