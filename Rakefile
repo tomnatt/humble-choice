@@ -31,36 +31,13 @@ task :generate_with_steam_ids, [:month, :year] do |_t, args|
   puts 'Generate Games with Steam Ids'
   hc = HumbleChoiceGenerator.new
   hc.generate_list
-
-  if m.nil? && y.nil?
-    hc.add_all_steam_ids
-  else
-    hc.add_steam_ids_for(m, y)
-  end
-
+  hc.add_steam_ids_for(m, y)
   GamesListFiles.write_output_files(hc.game_list)
+end
 
-  # TODO: refactor to another method
-
-  # Output missing ids
-  missing = hc.missing_steam_ids
-  missing.keys.sort.each do |year|
-    unless missing[year].empty?
-      o = { year => missing[year] }.to_yaml
-      puts o
-    end
-  end
-
-  puts "\n"
-
-  # Output count of missing games
-  total = 0
-  missing.keys.sort.each do |year|
-    puts "#{year}: #{missing[year].count}" unless missing[year].empty?
-    total += missing[year].count
-  end
-
-  puts "Total: #{total}"
+desc 'Show missing Steam Ids'
+task :missing_steam_ids do
+  GamesListFiles.show_missing_steam_ids
 end
 
 # Steam datastore

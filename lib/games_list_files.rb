@@ -31,4 +31,51 @@ class GamesListFiles
       File.write(Config.humble_year_file_json(year), JSON.pretty_generate(games_by_year[year]))
     end
   end
+
+  def self.show_missing_steam_ids
+    missing = missing_steam_ids
+    missing.keys.sort.each do |year|
+      unless missing[year].empty?
+        o = { year => missing[year] }.to_yaml
+        puts o
+      end
+    end
+
+    puts "\n"
+
+    # Output count of missing games
+    total = 0
+    missing.keys.sort.each do |year|
+      puts "#{year}: #{missing[year].count}" unless missing[year].empty?
+      total += missing[year].count
+    end
+
+    puts "Total: #{total}"
+  end
+
+  def self.missing_steam_ids
+    ignore_list = read_ignore_list
+    existing_list = read_games
+
+    missing = {}
+    existing_list.each do |game|
+      # Create array for year if doesn't already exist
+      missing[game.year] = [] if missing[game.year].nil?
+
+      # Include if empty, and not on ignore list
+      missing[game.year] << game if game.steam_id.nil? && !(ignore_list.include? game.name.downcase)
+    end
+
+    missing
+  end
+
+  def self.read_ignore_list
+    ignore_list = []
+    File.open(Config.ignore_list, 'r') do |f|
+      f.each_line do |line|
+        ignore_list << line.downcase.chomp unless line.chars.first == '#'
+      end
+    end
+    ignore_list
+  end
 end
