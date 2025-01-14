@@ -20,9 +20,21 @@ class HumbleChoiceGenerator
     @game_list.map { |game| existing_list.select { |existing_game| game.name.downcase == existing_game.name.downcase } }
   end
 
-  def add_steam_ids
+  def add_all_steam_ids
     steam_store = SteamStore.new
     @game_list.map { |game| steam_store.populate_steam_id(game) }
+  end
+
+  def add_steam_ids_for(month, year)
+    steam_store = SteamStore.new
+    # @game_list.select # HERE
+
+    @game_list.map do |game|
+      if game.year == year
+        steam_store.populate_steam_id(game)
+      end
+    end
+    # @game_list.map { |game| steam_store.populate_steam_id(game) }
   end
 
   def missing_steam_ids

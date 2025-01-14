@@ -17,12 +17,23 @@ task :generate_games do
 end
 
 desc 'Generate Game objects with Steam Ids (default)'
-task :generate_with_steam_ids do
+task :generate_with_steam_ids, [:month, :year] do |_t, args|
+  m = args[:month]
+  y = args[:year].to_i
+
   puts 'Generate Games with Steam Ids'
   hc = HumbleChoiceGenerator.new
   hc.generate_list
-  hc.add_steam_ids
+
+  if m.nil? && y.nil?
+    hc.add_all_steam_ids
+  else
+    hc.add_steam_ids_for(m, y)
+  end
+
   GamesListFiles.write_output_files(hc.game_list)
+
+  # TODO - refactor to another method
 
   # Output missing ids
   missing = hc.missing_steam_ids
