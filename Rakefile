@@ -25,8 +25,8 @@ end
 
 desc 'Generate Game objects with Steam Ids (default)'
 task :generate_with_steam_ids, [:month, :year] do |_t, args|
-  m = args[:month].to_i
-  y = args[:year].to_i
+  m = args[:month]&.to_i
+  y = args[:year]&.to_i
 
   puts 'Generate Games with Steam Ids'
   hc = HumbleChoiceGenerator.new
