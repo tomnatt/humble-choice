@@ -23,12 +23,12 @@ class HumbleChoiceGenerator
     # Get the existing list and add into working list
     existing_list = GamesListFiles.read_games
     @game_list.map! do |game|
-      matches = existing_list.select do |existing_game|
-        game.name.downcase == existing_game.name.downcase && game.month == existing_game.month
-      end
-
-      matches.first
+      existing_list.select { |existing_game| games_match?(game, existing_game) }.first
     end
+  end
+
+  def games_match?(game1, game2)
+    game1.name.downcase == game2.name.downcase && game1.month == game2.month
   end
 
   def add_all_steam_ids
