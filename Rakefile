@@ -88,6 +88,7 @@ task :monthly do
   Rake::Task['generate_with_steam_ids'].invoke
   Rake::Task['missing_steam_ids'].invoke
   Rake::Task['add_missing_tags'].invoke
+  Rake::Task['missing_tags'].invoke
 end
 
 desc 'Regenerate all listings and Steam datastore with missing game output'
