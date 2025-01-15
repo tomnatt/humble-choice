@@ -53,5 +53,5 @@ rake get_steam                            # Create local Steam datastore
 rake missing_steam_ids                    # Show missing Steam Ids
 rake missing_tags                         # Show missing Tags
 rake monthly                              # Monthly task - run when adding new games (default)
-rake regenerate                           # Regenerate all listings and Steam datastore with missing game output
+rake regenerate                           # Regenerate all listings and Steam datastore with missing game output - retains Tags unchanged
 ```
