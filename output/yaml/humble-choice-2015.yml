@@ -5,87 +5,392 @@
   year: 2015
   humble_scheme: monthly
   steam_id: 207170
+  tags:
+  - Dungeon Crawler
+  - RPG
+  - Grid-Based Movement
+  - Indie
+  - Fantasy
+  - Old School
+  - Adventure
+  - Singleplayer
+  - Party-Based RPG
+  - First-Person
+  - Puzzle
+  - Real-Time
+  - Atmospheric
+  - Moddable
+  - Retro
+  - Difficult
+  - Character Customization
+  - Action
+  - Tactical
+  - Level Editor
 - !ruby/object:Game
   name: TowerFall Ascension
   month: November
   year: 2015
   humble_scheme: monthly
   steam_id: 251470
+  tags:
+  - Local Multiplayer
+  - Indie
+  - 2D Fighter
+  - Action
+  - Local Co-Op
+  - Pixel Graphics
+  - Platformer
+  - 4 Player Local
+  - Multiplayer
+  - 2D
+  - Co-op
+  - Arcade
+  - Controller
+  - Adventure
+  - Fighting
+  - Retro
+  - Party Game
+  - Great Soundtrack
+  - Difficult
+  - Archery
 - !ruby/object:Game
   name: 'SanctuaryRPG: Black Edition'
   month: November
   year: 2015
   humble_scheme: monthly
   steam_id: 328760
+  tags:
+  - RPG
+  - Indie
+  - Text-Based
+  - Retro
+  - Action Roguelike
+  - Adventure
+  - Rogue-like
+  - Great Soundtrack
+  - Dungeon Crawler
+  - Rogue-lite
+  - Strategy
+  - Loot
+  - Action
+  - Casual
+  - Strategy RPG
+  - Singleplayer
+  - Turn-Based
+  - Funny
+  - Pixel Graphics
 - !ruby/object:Game
   name: Lethal League
   month: November
   year: 2015
   humble_scheme: monthly
   steam_id: 261180
+  tags:
+  - Fighting
+  - Local Multiplayer
+  - Indie
+  - 2D Fighter
+  - Multiplayer
+  - Great Soundtrack
+  - Action
+  - Sports
+  - 2D
+  - 4 Player Local
+  - Arcade
+  - Competitive
+  - Fast-Paced
+  - Pixel Graphics
+  - Funny
+  - Local Co-Op
+  - Online Co-Op
+  - Singleplayer
+  - e-sports
+  - Soundtrack
 - !ruby/object:Game
   name: Valkyria Chronicles™
   month: November
   year: 2015
   humble_scheme: monthly
   steam_id: 294860
+  tags:
+  - Anime
+  - Strategy
+  - Turn-Based
+  - Story Rich
+  - JRPG
+  - RPG
+  - Tactical
+  - Singleplayer
+  - Great Soundtrack
+  - Strategy RPG
+  - Tactical RPG
+  - War
+  - Tanks
+  - Third Person
+  - Turn-Based Strategy
+  - Action
+  - World War II
+  - Romance
+  - Female Protagonist
+  - Classic
 - !ruby/object:Game
   name: Besiege
   month: November
   year: 2015
   humble_scheme: monthly
   steam_id: 346010
+  tags:
+  - PvP
+  - Singleplayer
+  - Funny
+  - Co-op
+  - Simulation
+  - Sandbox
+  - Destruction
+  - Medieval
+  - Physics
+  - Moddable
+  - Building
+  - Real-Time with Pause
+  - Multiplayer
+  - Puzzle
+  - Online Co-Op
+  - Flight
+  - Replay Value
+  - Logic
+  - PvE
+  - Robots
 - !ruby/object:Game
   name: 'Saints Row IV: Re-Elected'
   month: November
   year: 2015
   humble_scheme: monthly
   steam_id: 206420
+  tags:
+  - Open World
+  - Action
+  - Comedy
+  - Co-op
+  - Third-Person Shooter
+  - Superhero
+  - Character Customization
+  - Sandbox
+  - Funny
+  - Third Person
+  - Adventure
+  - Online Co-Op
+  - Aliens
+  - 'Parody '
+  - Multiplayer
+  - Great Soundtrack
+  - Singleplayer
+  - Sci-fi
+  - Dark Humor
+  - Female Protagonist
 - !ruby/object:Game
   name: Legend of Grimrock 2
   month: November
   year: 2015
   humble_scheme: monthly
   steam_id: 251730
+  tags:
+  - Dungeon Crawler
+  - RPG
+  - Grid-Based Movement
+  - First-Person
+  - Adventure
+  - Fantasy
+  - Puzzle
+  - Party-Based RPG
+  - Indie
+  - Singleplayer
+  - Atmospheric
+  - Difficult
+  - Old School
+  - Level Editor
+  - Exploration
+  - Great Soundtrack
+  - Moddable
+  - Action
+  - Retro
+  - Turn-Based
 - !ruby/object:Game
   name: Company of Heroes 2
   month: December
   year: 2015
   humble_scheme: monthly
   steam_id: 231430
+  tags:
+  - Strategy
+  - World War II
+  - RTS
+  - Multiplayer
+  - Tactical
+  - War
+  - Historical
+  - Military
+  - Singleplayer
+  - Co-op
+  - Online Co-Op
+  - Base-Building
+  - Tanks
+  - Real-Time
+  - Action
+  - Real-Time with Pause
+  - Atmospheric
+  - Simulation
+  - Great Soundtrack
+  - Adventure
 - !ruby/object:Game
   name: Chroma Squad
   month: December
   year: 2015
   humble_scheme: monthly
   steam_id: 251130
+  tags:
+  - RPG
+  - Strategy
+  - Tactical RPG
+  - Indie
+  - Pixel Graphics
+  - Turn-Based Tactics
+  - Superhero
+  - Turn-Based
+  - Turn-Based Combat
+  - Management
+  - Great Soundtrack
+  - Comedy
+  - Singleplayer
+  - 2D
+  - Memes
+  - Funny
+  - Isometric
+  - Mechs
+  - Story Rich
+  - Simulation
 - !ruby/object:Game
   name: NEON STRUCT
   month: December
   year: 2015
   humble_scheme: monthly
   steam_id: 310740
+  tags:
+  - Indie
+  - Stealth
+  - Cyberpunk
+  - First-Person
+  - Female Protagonist
+  - Immersive Sim
+  - Action
+  - Great Soundtrack
+  - Story Rich
+  - Singleplayer
+  - Atmospheric
 - !ruby/object:Game
   name: PAYDAY 2
   month: December
   year: 2015
   humble_scheme: monthly
   steam_id: 218620
+  tags:
+  - Co-op
+  - Action
+  - FPS
+  - Heist
+  - Multiplayer
+  - Looter Shooter
+  - Online Co-Op
+  - Stealth
+  - Crime
+  - Shooter
+  - Team-Based
+  - First-Person
+  - Great Soundtrack
+  - Gun Customization
+  - Tactical
+  - PvE
+  - Strategy
+  - Singleplayer
+  - Funny
+  - Simulation
 - !ruby/object:Game
   name: Rust
   month: December
   year: 2015
   humble_scheme: monthly
   steam_id: 252490
+  tags:
+  - Survival
+  - Crafting
+  - Multiplayer
+  - Open World
+  - Open World Survival Craft
+  - Building
+  - PvP
+  - Sandbox
+  - Adventure
+  - First-Person
+  - Action
+  - Nudity
+  - FPS
+  - Shooter
+  - Co-op
+  - Online Co-Op
+  - Indie
+  - Post-apocalyptic
+  - Early Access
+  - Simulation
 - !ruby/object:Game
   name: Banished
   month: December
   year: 2015
   humble_scheme: monthly
   steam_id: 242920
+  tags:
+  - City Builder
+  - Colony Sim
+  - Strategy
+  - Simulation
+  - Survival
+  - Indie
+  - Singleplayer
+  - Sandbox
+  - Medieval
+  - Resource Management
+  - Relaxing
+  - Economy
+  - Building
+  - Management
+  - Open World
+  - Difficult
+  - Beautiful
+  - Procedural Generation
+  - Historical
+  - RTS
 - !ruby/object:Game
   name: TowerFall Ascension
   month: December
   year: 2015
   humble_scheme: monthly
   steam_id: 251470
+  tags:
+  - Local Multiplayer
+  - Indie
+  - 2D Fighter
+  - Action
+  - Local Co-Op
+  - Pixel Graphics
+  - Platformer
+  - 4 Player Local
+  - Multiplayer
+  - 2D
+  - Co-op
+  - Arcade
+  - Controller
+  - Adventure
+  - Fighting
+  - Retro
+  - Party Game
+  - Great Soundtrack
+  - Difficult
+  - Archery

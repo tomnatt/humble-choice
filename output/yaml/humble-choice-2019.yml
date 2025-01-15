@@ -5,30 +5,130 @@
   year: 2019
   humble_scheme: monthly
   steam_id: 368390
+  tags:
+  - Point & Click
+  - Detective
+  - Pixel Graphics
+  - Adventure
+  - Story Rich
+  - Mystery
+  - Comedy
+  - Funny
+  - Singleplayer
+  - Indie
+  - Supernatural
+  - Retro
+  - Puzzle
+  - 2D
+  - Casual
+  - Dark Humor
+  - Lovecraftian
+  - Cartoony
+  - 1980s
+  - 1990's
 - !ruby/object:Game
   name: Regions of Ruin
   month: January
   year: 2019
   humble_scheme: monthly
   steam_id: 680360
+  tags:
+  - RPG
+  - Adventure
+  - Indie
+  - Hack and Slash
+  - Pixel Graphics
+  - 2D
+  - Side Scroller
+  - Action RPG
+  - Fantasy
+  - Dungeon Crawler
+  - Resource Management
+  - Base-Building
+  - Building
+  - 2D Platformer
+  - Dwarf
+  - Exploration
+  - Atmospheric
+  - Singleplayer
+  - Platformer
+  - Colony Sim
 - !ruby/object:Game
   name: 'Sundered®: Eldritch Edition'
   month: January
   year: 2019
   humble_scheme: monthly
   steam_id: 535480
+  tags:
+  - Roguevania
+  - Metroidvania
+  - Lovecraftian
+  - Action Roguelike
+  - Indie
+  - Platformer
+  - Hand-drawn
+  - 2D
+  - Female Protagonist
+  - Action
+  - Difficult
+  - Adventure
+  - Side Scroller
+  - Atmospheric
+  - Singleplayer
+  - Exploration
+  - Rogue-like
+  - Controller
+  - Horror
+  - Great Soundtrack
 - !ruby/object:Game
   name: 'Observer: System Redux'
   month: January
   year: 2019
   humble_scheme: monthly
   steam_id: 1386900
+  tags:
+  - Horror
+  - Investigation
+  - Cyberpunk
+  - Hacking
+  - Stealth
+  - Walking Simulator
+  - First-Person
+  - Action-Adventure
+  - Story Rich
+  - Alternate History
+  - Detective
+  - Psychological Horror
+  - Dynamic Narration
+  - Surreal
+  - Choices Matter
+  - Conversation
+  - Multiple Endings
+  - Narration
+  - 'Dystopian '
+  - Stylized
 - !ruby/object:Game
   name: Q.U.B.E. 2
   month: January
   year: 2019
   humble_scheme: monthly
   steam_id: 359100
+  tags:
+  - Adventure
+  - Action
+  - Indie
+  - Puzzle
+  - First-Person
+  - Female Protagonist
+  - Singleplayer
+  - Sci-fi
+  - Simulation
+  - Space
+  - Atmospheric
+  - Great Soundtrack
+  - 3D
+  - Puzzle-Platformer
+  - Epic
 - !ruby/object:Game
   name: Project CARS 2
   month: January
@@ -41,54 +141,211 @@
   year: 2019
   humble_scheme: monthly
   steam_id: 445980
+  tags:
+  - Action Roguelike
+  - Pixel Graphics
+  - Rogue-like
+  - Dungeon Crawler
+  - Action
+  - Magic
+  - Local Co-Op
+  - Multiplayer
+  - Adventure
+  - Rogue-lite
+  - Co-op
+  - Indie
+  - Hack and Slash
+  - Local Multiplayer
+  - Difficult
+  - 2D
+  - Singleplayer
+  - RPG
+  - Procedural Generation
+  - Fast-Paced
 - !ruby/object:Game
   name: Just Cause™ 3
   month: January
   year: 2019
   humble_scheme: monthly
   steam_id: 225540
+  tags:
+  - Open World
+  - Action
+  - Destruction
+  - Third-Person Shooter
+  - Multiplayer
+  - Singleplayer
+  - Adventure
+  - Shooter
+  - Sandbox
+  - Third Person
+  - Exploration
+  - Physics
+  - Funny
+  - Atmospheric
+  - Co-op
+  - Parkour
+  - Comedy
+  - Great Soundtrack
+  - Moddable
+  - RPG
 - !ruby/object:Game
   name: Super Daryl Deluxe
   month: February
   year: 2019
   humble_scheme: monthly
   steam_id: 361230
+  tags:
+  - Action
+  - Indie
+  - RPG
+  - Hand-drawn
+  - 2D
+  - Metroidvania
+  - Singleplayer
+  - Side Scroller
+  - Funny
+  - Great Soundtrack
+  - Adventure
+  - Comedy
+  - Exploration
+  - Atmospheric
+  - Controller
+  - Co-op
+  - Crowdfunded
+  - Story Rich
+  - Colorful
+  - Surreal
 - !ruby/object:Game
   name: Bleed 2
   month: February
   year: 2019
   humble_scheme: monthly
   steam_id: 396350
+  tags:
+  - Action
+  - Indie
+  - Shoot 'Em Up
+  - Bullet Hell
+  - Female Protagonist
+  - Arcade
+  - Platformer
+  - 2D
+  - Local Co-Op
+  - Pixel Graphics
+  - Procedural Generation
+  - Great Soundtrack
+  - Action Roguelike
+  - Twin Stick Shooter
+  - Fast-Paced
+  - Side Scroller
+  - Bullet Time
 - !ruby/object:Game
   name: Aaero
   month: February
   year: 2019
   humble_scheme: monthly
   steam_id: 499890
+  tags:
+  - Indie
+  - Action
+  - Music
+  - Rhythm
+  - Great Soundtrack
+  - Controller
+  - On-Rails Shooter
+  - Singleplayer
 - !ruby/object:Game
   name: Full Metal Furies
   month: February
   year: 2019
   humble_scheme: monthly
   steam_id: 416600
+  tags:
+  - Action
+  - Co-op
+  - Indie
+  - RPG
+  - Beat 'em up
+  - Adventure
+  - Local Co-Op
+  - Female Protagonist
+  - 4 Player Local
+  - Online Co-Op
+  - Pixel Graphics
+  - Puzzle
+  - Action RPG
+  - 2D
+  - Local Multiplayer
+  - Difficult
+  - Side Scroller
+  - Multiplayer
+  - Funny
+  - Bullet Hell
 - !ruby/object:Game
   name: Tom Clancy’s The Division™ - Survival
   month: February
   year: 2019
   humble_scheme: monthly
   steam_id: 556470
+  tags:
+  - Action
+  - Adventure
+  - RPG
+  - Violent
+  - Survival
 - !ruby/object:Game
   name: 'Rock of Ages 2: Bigger & Boulder™'
   month: February
   year: 2019
   humble_scheme: monthly
   steam_id: 434460
+  tags:
+  - Strategy
+  - Action
+  - Comedy
+  - Racing
+  - Indie
+  - Multiplayer
+  - Tower Defense
+  - Funny
+  - Historical
+  - Co-op
+  - Split Screen
+  - Singleplayer
+  - Local Multiplayer
+  - Memes
+  - Destruction
+  - Great Soundtrack
+  - Local Co-Op
+  - Physics
 - !ruby/object:Game
   name: Sniper Elite 3
   month: February
   year: 2019
   humble_scheme: monthly
   steam_id: 238090
+  tags:
+  - Sniper
+  - Action
+  - Stealth
+  - Multiplayer
+  - Co-op
+  - World War II
+  - Shooter
+  - Adventure
+  - Third-Person Shooter
+  - Singleplayer
+  - Tactical
+  - War
+  - Third Person
+  - Online Co-Op
+  - Gore
+  - Open World
+  - FPS
+  - Strategy
+  - Atmospheric
+  - Simulation
 - !ruby/object:Game
   name: Rapture Rejects
   month: February
@@ -101,192 +358,790 @@
   year: 2019
   humble_scheme: monthly
   steam_id: 365590
+  tags:
+  - Open World
+  - Looter Shooter
+  - Multiplayer
+  - Third-Person Shooter
+  - Action
+  - Co-op
+  - Shooter
+  - RPG
+  - Online Co-Op
+  - Post-apocalyptic
+  - Survival
+  - Massively Multiplayer
+  - Tactical
+  - Third Person
+  - Singleplayer
+  - MMORPG
+  - Adventure
+  - Atmospheric
+  - FPS
+  - Stealth
 - !ruby/object:Game
   name: Yakuza 0
   month: February
   year: 2019
   humble_scheme: monthly
   steam_id: 638970
+  tags:
+  - Story Rich
+  - Action
+  - Beat 'em up
+  - Great Soundtrack
+  - Open World
+  - Crime
+  - RPG
+  - Minigames
+  - Funny
+  - Singleplayer
+  - Violent
+  - Mature
+  - Adventure
+  - Comedy
+  - Sexual Content
+  - Third Person
+  - Drama
+  - Atmospheric
+  - JRPG
+  - Dating Sim
 - !ruby/object:Game
   name: Slipstream
   month: March
   year: 2019
   humble_scheme: monthly
   steam_id: 732810
+  tags:
+  - Racing
+  - Stylized
+  - Driving
+  - Arcade
+  - Colorful
+  - Relaxing
+  - Soundtrack
+  - 1990's
+  - Music
+  - 1980s
+  - Pixel Graphics
+  - Indie
+  - Atmospheric
+  - 2D
+  - Psychedelic
+  - Old School
+  - Retro
+  - Controller
+  - Local Multiplayer
+  - Singleplayer
 - !ruby/object:Game
   name: Fight'N Rage
   month: March
   year: 2019
   humble_scheme: monthly
   steam_id: 674520
+  tags:
+  - Beat 'em up
+  - Action
+  - 2D
+  - Local Multiplayer
+  - Local Co-Op
+  - Multiple Endings
+  - Arcade
+  - Indie
+  - Great Soundtrack
+  - Classic
+  - Female Protagonist
+  - Retro
+  - Side Scroller
+  - Pixel Graphics
+  - Anime
+  - Fighting
+  - Difficult
+  - Singleplayer
+  - Choices Matter
+  - Post-apocalyptic
 - !ruby/object:Game
   name: Paradigm
   month: March
   year: 2019
   humble_scheme: monthly
   steam_id: 600370
+  tags:
+  - Adventure
+  - Indie
+  - Point & Click
+  - Comedy
+  - Surreal
+  - Funny
+  - Singleplayer
+  - Great Soundtrack
+  - Story Rich
+  - 2D
+  - Sci-fi
+  - Atmospheric
+  - Puzzle
+  - Epic
 - !ruby/object:Game
   name: Late Shift
   month: March
   year: 2019
   humble_scheme: monthly
   steam_id: 584980
+  tags:
+  - Choices Matter
+  - FMV
+  - Choose Your Own Adventure
+  - Multiple Endings
+  - Story Rich
+  - Interactive Fiction
+  - Adventure
+  - Movie
+  - Indie
+  - Crime
+  - Singleplayer
+  - Realistic
+  - Sexual Content
+  - Violent
+  - Thriller
+  - Cinematic
+  - Drama
+  - Atmospheric
+  - Horror
+  - Simulation
 - !ruby/object:Game
   name: Tower Unite
   month: March
   year: 2019
   humble_scheme: monthly
   steam_id: 394690
+  tags:
+  - Multiplayer
+  - Casual
+  - Mini Golf
+  - Character Customization
+  - Massively Multiplayer
+  - Early Access
+  - Open World
+  - Sandbox
+  - Funny
+  - Indie
+  - Great Soundtrack
+  - Action
+  - Adventure
+  - Racing
+  - FPS
+  - Memes
+  - Zombies
+  - Simulation
+  - Third Person
+  - Arcade
 - !ruby/object:Game
   name: Cultist Simulator
   month: March
   year: 2019
   humble_scheme: monthly
   steam_id: 718670
+  tags:
+  - Strategy
+  - Simulation
+  - Choices Matter
+  - Singleplayer
+  - Dark Fantasy
+  - Dark
+  - Roguelike Deckbuilder
+  - Deckbuilding
+  - Card Game
+  - Narrative
+  - Replay Value
+  - Rogue-lite
+  - Management
+  - Rogue-like
+  - Lovecraftian
+  - Difficult
+  - Crafting
+  - Story Rich
+  - Tabletop
+  - Choose Your Own Adventure
 - !ruby/object:Game
   name: EARTH DEFENSE FORCE 4.1 The Shadow of New Despair
   month: March
   year: 2019
   humble_scheme: monthly
   steam_id: 410320
+  tags:
+  - Action
+  - Third-Person Shooter
+  - Co-op
+  - Online Co-Op
+  - Aliens
+  - Mechs
+  - Sci-fi
+  - Local Co-Op
+  - Anime
+  - Split Screen
+  - Funny
+  - Multiplayer
+  - Shooter
+  - Robots
+  - Destruction
+  - Comedy
+  - Difficult
+  - Singleplayer
+  - Gore
+  - Memes
 - !ruby/object:Game
   name: 'Warhammer: Vermintide 2 - Collector''s Edition Upgrade'
   month: March
   year: 2019
   humble_scheme: monthly
   steam_id: 737040
+  tags:
+  - Action
+  - Indie
+  - Gore
+  - Violent
+  - Co-op
+  - Dark Fantasy
+  - Action RPG
+  - Hack and Slash
+  - Fantasy
+  - Multiplayer
+  - Singleplayer
+  - Adventure
+  - PvE
+  - Replay Value
+  - Online Co-Op
+  - First-Person
+  - FPS
+  - Atmospheric
+  - Games Workshop
+  - Team-Based
 - !ruby/object:Game
   name: 'Warhammer: Vermintide 2'
   month: March
   year: 2019
   humble_scheme: monthly
   steam_id: 552500
+  tags:
+  - Co-op
+  - Dark Fantasy
+  - Games Workshop
+  - Online Co-Op
+  - Hack and Slash
+  - Multiplayer
+  - Gore
+  - PvE
+  - Dwarf
+  - Fantasy
+  - First-Person
+  - Elf
+  - RPG
+  - Combat
+  - Rogue-lite
+  - Action RPG
+  - Atmospheric
+  - Action
+  - FPS
+  - Singleplayer
 - !ruby/object:Game
   name: 'Dandara: Trials of Fear Edition'
   month: April
   year: 2019
   humble_scheme: monthly
   steam_id: 612390
+  tags:
+  - Indie
+  - Action
+  - Metroidvania
+  - Platformer
+  - Pixel Graphics
+  - Female Protagonist
+  - 2D
+  - Great Soundtrack
+  - Difficult
+  - Action-Adventure
+  - Singleplayer
+  - Souls-like
+  - Adventure
+  - Exploration
 - !ruby/object:Game
   name: Steel Rats™
   month: April
   year: 2019
   humble_scheme: monthly
   steam_id: 619700
+  tags:
+  - Action
+  - Racing
+  - Platformer
+  - Arcade
+  - Singleplayer
+  - Bikes
+  - 2.5D
+  - Side Scroller
+  - Physics
+  - Violent
+  - Controller
+  - 3D Platformer
+  - Indie
+  - Motorbike
 - !ruby/object:Game
   name: She Remembered Caterpillars
   month: April
   year: 2019
   humble_scheme: monthly
   steam_id: 470780
+  tags:
+  - Puzzle
+  - Indie
+  - Hand-drawn
+  - Isometric
+  - Cute
+  - Atmospheric
 - !ruby/object:Game
   name: Minit
   month: April
   year: 2019
   humble_scheme: monthly
   steam_id: 609490
+  tags:
+  - Minimalist
+  - Adventure
+  - Indie
+  - Pixel Graphics
+  - Puzzle
+  - Singleplayer
+  - Great Soundtrack
+  - 2D
+  - Retro
+  - Funny
+  - Short
+  - RPG
+  - Cute
+  - Action
+  - Exploration
+  - Fast-Paced
+  - Top-Down
+  - Action-Adventure
+  - Casual
+  - Metroidvania
 - !ruby/object:Game
   name: Tannenberg
   month: April
   year: 2019
   humble_scheme: monthly
   steam_id: 633460
+  tags:
+  - Gore
+  - World War I
+  - Team-Based
+  - Shooter
+  - PvP
+  - FPS
+  - Horror
+  - Realistic
+  - Action
+  - First-Person
+  - Historical
+  - Multiplayer
+  - Wargame
+  - War
+  - 3D
+  - Atmospheric
+  - Strategy
+  - Military
+  - Indie
+  - Simulation
 - !ruby/object:Game
   name: Absolver
   month: April
   year: 2019
   humble_scheme: monthly
   steam_id: 473690
+  tags:
+  - Fighting
+  - Martial Arts
+  - Action
+  - Multiplayer
+  - PvP
+  - Open World
+  - Adventure
+  - Indie
+  - PvE
+  - Online Co-Op
+  - RPG
+  - Character Customization
+  - Difficult
+  - Co-op
+  - Singleplayer
+  - Swordplay
+  - MMORPG
+  - Massively Multiplayer
+  - Souls-like
+  - Atmospheric
 - !ruby/object:Game
   name: 'Mutant Year Zero: Road to Eden'
   month: April
   year: 2019
   humble_scheme: monthly
   steam_id: 760060
+  tags:
+  - Strategy
+  - RPG
+  - Turn-Based Combat
+  - Post-apocalyptic
+  - Turn-Based Tactics
+  - Tactical
+  - Turn-Based
+  - Adventure
+  - Stealth
+  - Singleplayer
+  - Turn-Based Strategy
+  - Atmospheric
+  - Action
+  - Survival
+  - Dark Fantasy
+  - Difficult
+  - Funny
+  - Horror
+  - Exploration
+  - Fantasy
 - !ruby/object:Game
   name: Northgard
   month: April
   year: 2019
   humble_scheme: monthly
   steam_id: 466560
+  tags:
+  - Strategy
+  - City Builder
+  - Simulation
+  - RTS
+  - Base-Building
+  - Colony Sim
+  - Building
+  - Multiplayer
+  - Economy
+  - Tactical
+  - 4X
+  - War
+  - Management
+  - PvP
+  - Co-op
+  - Singleplayer
+  - Vikings
+  - Moddable
+  - PvE
+  - Resource Management
 - !ruby/object:Game
   name: 'I am not a Monster: First Contact'
   month: May
   year: 2019
   humble_scheme: monthly
   steam_id: 826600
+  tags:
+  - Turn-Based Tactics
+  - Strategy
+  - Sci-fi
+  - Online Co-Op
+  - 1980s
+  - Tactical
+  - Turn-Based
+  - Retro
+  - Multiplayer
+  - Space
+  - Atmospheric
+  - Isometric
+  - PvP
+  - Singleplayer
+  - Co-op
+  - Turn-Based Strategy
+  - Real Time Tactics
+  - Turn-Based Combat
+  - Stylized
+  - Indie
 - !ruby/object:Game
   name: Do Not Feed the Monkeys
   month: May
   year: 2019
   humble_scheme: monthly
   steam_id: 658850
+  tags:
+  - Point & Click
+  - Political Sim
+  - Management
+  - Dark Humor
+  - Strategy
+  - Multiple Endings
+  - 2D
+  - Choices Matter
+  - Story Rich
+  - Funny
+  - Pixel Graphics
+  - Simulation
+  - Adventure
+  - 'Dystopian '
+  - Resource Management
+  - Singleplayer
+  - Atmospheric
+  - Sexual Content
+  - Mature
+  - Nudity
 - !ruby/object:Game
   name: 'The Journey Down: Chapter Three'
   month: May
   year: 2019
   humble_scheme: monthly
   steam_id: 579760
+  tags:
+  - Adventure
+  - Point & Click
+  - Indie
+  - Great Soundtrack
+  - Comedy
+  - Story Rich
+  - Singleplayer
+  - Puzzle
+  - Atmospheric
 - !ruby/object:Game
   name: Monster Prom
   month: May
   year: 2019
   humble_scheme: monthly
   steam_id: 743450
+  tags:
+  - Dating Sim
+  - Comedy
+  - LGBTQ+
+  - Multiplayer
+  - Choices Matter
+  - Visual Novel
+  - Funny
+  - Indie
+  - Simulation
+  - Sexual Content
+  - Local Multiplayer
+  - Fantasy
+  - Story Rich
+  - Demons
+  - Vampire
+  - Online Co-Op
+  - Zombies
+  - Nudity
+  - Great Soundtrack
+  - Life Sim
 - !ruby/object:Game
   name: Finding Paradise
   month: May
   year: 2019
   humble_scheme: monthly
   steam_id: 337340
+  tags:
+  - Story Rich
+  - Emotional
+  - Pixel Graphics
+  - Adventure
+  - RPG
+  - 2D
+  - Singleplayer
+  - Funny
+  - Atmospheric
+  - Interactive Fiction
+  - Psychological
+  - Drama
+  - Top-Down
+  - Comedy
+  - Cute
+  - Female Protagonist
+  - Retro
+  - Romance
+  - JRPG
+  - Linear
 - !ruby/object:Game
   name: Wandersong
   month: May
   year: 2019
   humble_scheme: monthly
   steam_id: 530320
+  tags:
+  - Music
+  - Adventure
+  - Comedy
+  - Indie
+  - Emotional
+  - Story Rich
+  - Great Soundtrack
+  - Colorful
+  - Cute
+  - Funny
+  - Casual
+  - Platformer
+  - Family Friendly
+  - Stylized
+  - Side Scroller
+  - Cartoony
+  - Rhythm
+  - 2D
+  - Exploration
+  - Experimental
 - !ruby/object:Game
   name: Assassin's Creed® Origins
   month: May
   year: 2019
   humble_scheme: monthly
   steam_id: 582160
+  tags:
+  - Open World
+  - Assassin
+  - Action
+  - RPG
+  - Stealth
+  - Parkour
+  - Adventure
+  - Historical
+  - Singleplayer
+  - Third Person
+  - Story Rich
+  - Action RPG
+  - Multiplayer
+  - Exploration
+  - Atmospheric
+  - Great Soundtrack
+  - Nudity
+  - Heist
+  - Sexual Content
+  - Co-op
 - !ruby/object:Game
   name: Pool Panic
   month: June
   year: 2019
   humble_scheme: monthly
   steam_id: 522240
+  tags:
+  - Sports
+  - Action
+  - Adventure
+  - Funny
+  - Puzzle
+  - Pool
+  - 4 Player Local
+  - Local Multiplayer
 - !ruby/object:Game
   name: Paratopic
   month: June
   year: 2019
   humble_scheme: monthly
   steam_id: 897030
+  tags:
+  - Indie
+  - Horror
+  - Surreal
+  - Adventure
+  - Retro
+  - Atmospheric
+  - Short
+  - Experimental
+  - Psychological Horror
+  - Stylized
+  - Great Soundtrack
+  - Dark
+  - Walking Simulator
+  - Violent
+  - First-Person
+  - Singleplayer
+  - Mystery
+  - Pixel Graphics
 - !ruby/object:Game
   name: Duskers
   month: June
   year: 2019
   humble_scheme: monthly
   steam_id: 254320
+  tags:
+  - Exploration
+  - Typing
+  - Real Time Tactics
+  - Space
+  - Rogue-lite
+  - Programming
+  - Hacking
+  - Puzzle
+  - Horror
+  - Survival
+  - Rogue-like
+  - Difficult
+  - Strategy
+  - 2D
+  - Procedural Generation
+  - Simulation
+  - Sci-fi
+  - Nonlinear
+  - Tactical
+  - Atmospheric
 - !ruby/object:Game
   name: Red Faction Guerrilla Re-Mars-tered
   month: June
   year: 2019
   humble_scheme: monthly
   steam_id: 667720
+  tags:
+  - Destruction
+  - Open World
+  - Third-Person Shooter
+  - Mars
+  - Sci-fi
+  - Physics
+  - Action
+  - Singleplayer
+  - Sandbox
+  - Third Person
+  - Multiplayer
+  - Shooter
+  - Gore
+  - Great Soundtrack
+  - Adventure
+  - Violent
+  - Co-op
+  - Atmospheric
+  - Remake
 - !ruby/object:Game
   name: 911 Operator - Special Resources
   month: June
   year: 2019
   humble_scheme: monthly
   steam_id: 580730
+  tags:
+  - Strategy
+  - Simulation
+  - Indie
+  - Casual
 - !ruby/object:Game
   name: 911 Operator
   month: June
   year: 2019
   humble_scheme: monthly
   steam_id: 503560
+  tags:
+  - Simulation
+  - Strategy
+  - Management
+  - Singleplayer
+  - Indie
+  - Casual
+  - Realistic
+  - Crime
+  - Choices Matter
+  - Education
+  - Tactical
+  - Real Time Tactics
+  - 2D
+  - Atmospheric
+  - Addictive
+  - Modern
+  - Minimalist
+  - Moddable
+  - Mature
+  - Drama
 - !ruby/object:Game
   name: Black Ops 4 Battle Edition
   month: June
@@ -299,138 +1154,606 @@
   year: 2019
   humble_scheme: monthly
   steam_id: 802450
+  tags:
+  - Adventure
+  - Indie
+  - Cute
+  - Story Rich
+  - Singleplayer
+  - Point & Click
+  - Visual Novel
+  - 2D
+  - Hand-drawn
+  - Female Protagonist
+  - Great Soundtrack
+  - Family Friendly
+  - Comedy
+  - Casual
+  - Colorful
+  - Fantasy
+  - Funny
+  - Kickstarter
+  - Crowdfunded
+  - Anime
 - !ruby/object:Game
   name: 60 Parsecs!
   month: July
   year: 2019
   humble_scheme: monthly
   steam_id: 646270
+  tags:
+  - Turn-Based Strategy
+  - Text-Based
+  - Funny
+  - Dark Humor
+  - Sci-fi
+  - Management
+  - LGBTQ+
+  - Turn-Based Tactics
+  - Exploration
+  - Outbreak Sim
+  - Comedy
+  - Wrestling
+  - Life Sim
+  - Point & Click
+  - Space Sim
+  - Cold War
+  - Romance
+  - RPG
+  - Strategy
+  - 2D
 - !ruby/object:Game
   name: Love is Dead
   month: July
   year: 2019
   humble_scheme: monthly
   steam_id: 453910
+  tags:
+  - Indie
+  - Puzzle
+  - Casual
+  - Zombies
+  - Cute
+  - Story Rich
+  - Puzzle-Platformer
+  - Narration
+  - Great Soundtrack
+  - Singleplayer
+  - LGBTQ+
+  - Colorful
+  - Local Co-Op
+  - Family Friendly
+  - Cult Classic
+  - Classic
 - !ruby/object:Game
   name: 'Warhammer 40,000: Mechanicus'
   month: July
   year: 2019
   humble_scheme: monthly
   steam_id: 673880
+  tags:
+  - Warhammer 40K
+  - Strategy
+  - Turn-Based Tactics
+  - Games Workshop
+  - Turn-Based Combat
+  - Sci-fi
+  - Great Soundtrack
+  - Turn-Based
+  - Atmospheric
+  - Tactical
+  - Singleplayer
+  - Turn-Based Strategy
+  - Robots
+  - Indie
+  - RPG
+  - Dungeon Crawler
+  - Character Customization
+  - Story Rich
+  - Difficult
+  - Board Game
 - !ruby/object:Game
   name: Road Redemption
   month: July
   year: 2019
   humble_scheme: monthly
   steam_id: 300380
+  tags:
+  - Vehicular Combat
+  - Racing
+  - Beat 'em up
+  - Action
+  - Motorbike
+  - Violent
+  - Multiplayer
+  - Indie
+  - Controller
+  - Local Co-Op
+  - Gore
+  - PvP
+  - Arcade
+  - 4 Player Local
+  - Co-op
+  - Combat Racing
+  - Singleplayer
+  - Local Multiplayer
+  - Third Person
+  - Funny
 - !ruby/object:Game
   name: Moonlighter
   month: July
   year: 2019
   humble_scheme: monthly
   steam_id: 606150
+  tags:
+  - Hack and Slash
+  - Pixel Graphics
+  - Dungeon Crawler
+  - Rogue-lite
+  - Action Roguelike
+  - Rogue-like
+  - RPG
+  - Character Action Game
+  - Management
+  - Action RPG
+  - Procedural Generation
+  - Adventure
+  - Controller
+  - Singleplayer
+  - Exploration
+  - Top-Down
+  - Action
+  - Simulation
+  - Fantasy
+  - 2D
 - !ruby/object:Game
   name: 'Hellblade: Senua''s Sacrifice'
   month: July
   year: 2019
   humble_scheme: monthly
   steam_id: 414340
+  tags:
+  - Atmospheric
+  - Psychological
+  - Story Rich
+  - Female Protagonist
+  - Mythology
+  - Singleplayer
+  - Dark
+  - Adventure
+  - Horror
+  - Third Person
+  - Dark Fantasy
+  - Action
+  - Violent
+  - Indie
+  - Walking Simulator
+  - Hack and Slash
+  - Action-Adventure
+  - Fantasy
+  - Realistic
+  - Blood
 - !ruby/object:Game
   name: Swords and Soldiers 2 Shawarmageddon
   month: August
   year: 2019
   humble_scheme: monthly
   steam_id: 703880
+  tags:
+  - Strategy
+  - Action
+  - Indie
+  - RTS
+  - Side Scroller
+  - Multiplayer
+  - 2D
+  - Real-Time
+  - Casual
+  - Competitive
+  - Fantasy
+  - Singleplayer
+  - Colorful
+  - Controller
+  - Funny
+  - Classic
+  - Vikings
+  - Great Soundtrack
+  - Difficult
 - !ruby/object:Game
   name: 'Almost There: The Platformer'
   month: August
   year: 2019
   humble_scheme: monthly
   steam_id: 951940
+  tags:
+  - Indie
+  - 2D Platformer
+  - Casual
+  - Platformer
+  - Unforgiving
+  - Precision Platformer
+  - Action
+  - Minimalist
+  - Abstract
+  - Parkour
+  - Difficult
+  - Replay Value
+  - Cartoon
+  - Singleplayer
+  - 2D
+  - Cartoony
+  - Strategy
+  - Controller
+  - Fast-Paced
+  - Colorful
 - !ruby/object:Game
   name: The Adventure Pals
   month: August
   year: 2019
   humble_scheme: monthly
   steam_id: 396710
+  tags:
+  - Adventure
+  - Platformer
+  - Action
+  - Indie
+  - RPG
+  - Local Co-Op
+  - Funny
+  - Singleplayer
+  - Family Friendly
+  - Colorful
+  - Cute
+  - Great Soundtrack
+  - Kickstarter
+  - Co-op
+  - 2D
+  - Local Multiplayer
+  - Casual
 - !ruby/object:Game
   name: Yoku's Island Express
   month: August
   year: 2019
   humble_scheme: monthly
   steam_id: 334940
+  tags:
+  - Pinball
+  - Metroidvania
+  - Adventure
+  - Platformer
+  - Singleplayer
+  - Family Friendly
+  - Indie
+  - Great Soundtrack
+  - Puzzle-Platformer
+  - Cute
+  - Physics
+  - Open World
+  - 2D
+  - Hand-drawn
+  - Controller
+  - Exploration
+  - Casual
 - !ruby/object:Game
   name: 'Rising Storm 2: Vietnam'
   month: August
   year: 2019
   humble_scheme: monthly
   steam_id: 418460
+  tags:
+  - FPS
+  - Wargame
+  - Massively Multiplayer
+  - Cold War
+  - Military
+  - Immersive Sim
+  - War
+  - PvP
+  - Historical
+  - Horror
+  - First-Person
+  - Gore
+  - Team-Based
+  - Action
+  - Vehicular Combat
+  - Realistic
+  - Simulation
+  - Multiplayer
+  - Tactical
+  - Atmospheric
 - !ruby/object:Game
   name: Surviving Mars
   month: August
   year: 2019
   humble_scheme: monthly
   steam_id: 464920
+  tags:
+  - Colony Sim
+  - City Builder
+  - Strategy
+  - Survival
+  - Space
+  - Base-Building
+  - Mars
+  - Simulation
+  - Sci-fi
+  - Resource Management
+  - Singleplayer
+  - Building
+  - Management
+  - Sandbox
+  - Space Sim
+  - Futuristic
+  - Open World
+  - RTS
+  - Great Soundtrack
+  - Moddable
 - !ruby/object:Game
   name: 'Kingdom Come: Deliverance'
   month: August
   year: 2019
   humble_scheme: monthly
   steam_id: 379430
+  tags:
+  - Medieval
+  - RPG
+  - Open World
+  - Singleplayer
+  - Realistic
+  - Historical
+  - Story Rich
+  - First-Person
+  - Adventure
+  - Swordplay
+  - Nudity
+  - Action
+  - Choices Matter
+  - Choose Your Own Adventure
+  - Atmospheric
+  - Horses
+  - Action RPG
+  - Indie
+  - Kickstarter
+  - Crowdfunded
 - !ruby/object:Game
   name: God's Trigger
   month: September
   year: 2019
   humble_scheme: monthly
   steam_id: 488730
+  tags:
+  - Top-Down Shooter
+  - Action Roguelike
+  - Hack and Slash
+  - Twin Stick Shooter
+  - Shoot 'Em Up
+  - Difficult
+  - Fighting
+  - Shooter
+  - Platformer
+  - Rogue-like
+  - Action-Adventure
+  - 2D
+  - 3D
+  - Top-Down
+  - 2.5D
+  - Split Screen
+  - Comic Book
+  - Action
+  - Stylized
+  - Co-op
 - !ruby/object:Game
   name: State of Mind
   month: September
   year: 2019
   humble_scheme: monthly
   steam_id: 437630
+  tags:
+  - Sci-fi
+  - Story Rich
+  - Adventure
+  - Futuristic
+  - Singleplayer
+  - Cyberpunk
+  - Indie
+  - 'Dystopian '
+  - Transhumanism
+  - Sexual Content
+  - Dark
+  - Action
+  - Third Person
+  - Robots
+  - Stylized
+  - Atmospheric
+  - Open World
+  - Interactive Fiction
+  - Drama
+  - Exploration
 - !ruby/object:Game
   name: MOTHERGUNSHIP
   month: September
   year: 2019
   humble_scheme: monthly
   steam_id: 574090
+  tags:
+  - Action Roguelike
+  - FPS
+  - Action
+  - First-Person
+  - Boomer Shooter
+  - Crafting
+  - Gun Customization
+  - Indie
+  - Rogue-lite
+  - Fast-Paced
+  - Rogue-like
+  - Online Co-Op
+  - Bullet Hell
+  - Singleplayer
+  - Procedural Generation
+  - Replay Value
+  - Co-op
+  - Sci-fi
+  - Difficult
+  - Perma Death
 - !ruby/object:Game
   name: Guacamelee! 2
   month: September
   year: 2019
   humble_scheme: monthly
   steam_id: 534550
+  tags:
+  - Metroidvania
+  - Cartoony
+  - Platformer
+  - Local Co-Op
+  - Action
+  - 2D
+  - Co-op
+  - Difficult
+  - Beat 'em up
+  - Adventure
+  - Singleplayer
+  - Colorful
+  - Funny
+  - 4 Player Local
+  - Side Scroller
+  - Action-Adventure
+  - Atmospheric
+  - Wrestling
+  - Exploration
+  - 2D Platformer
 - !ruby/object:Game
   name: Distance
   month: September
   year: 2019
   humble_scheme: monthly
   steam_id: 233610
+  tags:
+  - Racing
+  - Great Soundtrack
+  - Futuristic
+  - Multiplayer
+  - Level Editor
+  - Indie
+  - Action
+  - Atmospheric
+  - Fast-Paced
+  - Singleplayer
+  - Arcade
+  - Cyberpunk
+  - Local Multiplayer
+  - Sci-fi
+  - Split Screen
+  - Platformer
+  - Survival
+  - Horror
+  - VR
+  - 4 Player Local
 - !ruby/object:Game
   name: Squad
   month: September
   year: 2019
   humble_scheme: monthly
   steam_id: 393380
+  tags:
+  - Military
+  - Realistic
+  - FPS
+  - Multiplayer
+  - Tactical
+  - Shooter
+  - Team-Based
+  - War
+  - First-Person
+  - Action
+  - Massively Multiplayer
+  - Strategy
+  - Modern
+  - Simulation
+  - Wargame
+  - Base-Building
+  - Open World
+  - Immersive Sim
+  - Atmospheric
+  - PvP
 - !ruby/object:Game
   name: Slay the Spire
   month: September
   year: 2019
   humble_scheme: monthly
   steam_id: 646570
+  tags:
+  - Roguelike Deckbuilder
+  - Card Game
+  - Card Battler
+  - Rogue-like
+  - Deckbuilding
+  - Turn-Based
+  - Strategy
+  - Singleplayer
+  - Rogue-lite
+  - Replay Value
+  - Indie
+  - Difficult
+  - Dungeon Crawler
+  - RPG
+  - Mouse only
+  - 2D
+  - Great Soundtrack
+  - Procedural Generation
+  - Fantasy
+  - Casual
 - !ruby/object:Game
   name: 'Avernum 3: Ruined World'
   month: October
   year: 2019
   humble_scheme: monthly
   steam_id: 691830
+  tags:
+  - RPG
+  - Indie
+  - Adventure
+  - Strategy
+  - Isometric
+  - CRPG
+  - Fantasy
+  - Story Rich
+  - Singleplayer
+  - Party-Based RPG
+  - Old School
+  - Retro
+  - Grid-Based Movement
+  - Turn-Based Combat
+  - 2D
+  - Turn-Based
 - !ruby/object:Game
   name: PUSS!
   month: October
   year: 2019
   humble_scheme: monthly
   steam_id: 719750
+  tags:
+  - Psychedelic
+  - Difficult
+  - Indie
+  - Bullet Hell
+  - Cats
+  - Cute
+  - Psychological Horror
+  - Action Roguelike
+  - Horror
+  - Surreal
+  - 2D
+  - Singleplayer
+  - Stylized
+  - Experimental
+  - Retro
+  - Demons
+  - Memes
+  - Colorful
+  - Atmospheric
+  - Puzzle
 - !ruby/object:Game
   name: Override
   month: October
@@ -443,177 +1766,737 @@
   year: 2019
   humble_scheme: monthly
   steam_id: 485030
+  tags:
+  - Adventure
+  - Indie
+  - Action
+  - Platformer
+  - Atmospheric
+  - 2.5D
+  - Aliens
+  - Sci-fi
+  - Side Scroller
+  - Space
+  - Exploration
+  - Survival
+  - Singleplayer
+  - Stealth
+  - Puzzle-Platformer
 - !ruby/object:Game
   name: The Spiral Scouts
   month: October
   year: 2019
   humble_scheme: monthly
   steam_id: 862480
+  tags:
+  - Adventure
+  - Indie
+  - Puzzle
+  - Comedy
+  - Female Protagonist
+  - Funny
+  - Mature
+  - Cute
+  - Sexual Content
+  - Singleplayer
 - !ruby/object:Game
   name: Sonic Mania
   month: October
   year: 2019
   humble_scheme: monthly
   steam_id: 584400
+  tags:
+  - Great Soundtrack
+  - 2D
+  - Platformer
+  - Retro
+  - Classic
+  - Pixel Graphics
+  - Fast-Paced
+  - Colorful
+  - Adventure
+  - Action
+  - Side Scroller
+  - Singleplayer
+  - Family Friendly
+  - Local Co-Op
+  - Casual
+  - Multiplayer
+  - Arcade
+  - Action-Adventure
+  - Cartoony
+  - Remake
 - !ruby/object:Game
   name: BATTLETECH Shadow Hawk Pack
   month: October
   year: 2019
   humble_scheme: monthly
   steam_id: 799751
+  tags:
+  - Strategy
+  - Action
+  - Adventure
 - !ruby/object:Game
   name: BATTLETECH Flashpoint
   month: October
   year: 2019
   humble_scheme: monthly
   steam_id: 911930
+  tags:
+  - Adventure
+  - Strategy
+  - Action
+  - Mechs
+  - Turn-Based
 - !ruby/object:Game
   name: BATTLETECH
   month: October
   year: 2019
   humble_scheme: monthly
   steam_id: 637090
+  tags:
+  - Mechs
+  - Strategy
+  - Turn-Based Tactics
+  - Turn-Based
+  - Sci-fi
+  - Turn-Based Strategy
+  - Tactical
+  - Action
+  - Robots
+  - Character Customization
+  - Singleplayer
+  - RPG
+  - Space
+  - Adventure
+  - Futuristic
+  - Management
+  - Multiplayer
+  - Story Rich
+  - Great Soundtrack
+  - Difficult
 - !ruby/object:Game
   name: Evergarden
   month: November
   year: 2019
   humble_scheme: monthly
   steam_id: 576500
+  tags:
+  - Puzzle
+  - Strategy
+  - Adventure
+  - Open World
+  - Exploration
+  - Logic
+  - Hex Grid
+  - Relaxing
+  - Abstract
+  - Magic
+  - Family Friendly
+  - Score Attack
+  - Mystery
+  - Top-Down
+  - Nature
+  - Atmospheric
+  - Emotional
+  - Singleplayer
+  - 3D
+  - Isometric
 - !ruby/object:Game
   name: 'SYNTHETIK: Legion Rising'
   month: November
   year: 2019
   humble_scheme: monthly
   steam_id: 528230
+  tags:
+  - Top-Down Shooter
+  - Rogue-lite
+  - Indie
+  - Action
+  - Action Roguelike
+  - Online Co-Op
+  - Difficult
+  - Co-op
+  - Shooter
+  - Twin Stick Shooter
+  - Rogue-like
+  - Isometric
+  - Robots
+  - Top-Down
+  - Cyberpunk
+  - Bullet Hell
+  - Multiplayer
+  - Great Soundtrack
+  - Singleplayer
+  - Tactical
 - !ruby/object:Game
   name: 11-11 Memories Retold
   month: November
   year: 2019
   humble_scheme: monthly
   steam_id: 735580
+  tags:
+  - Adventure
+  - Casual
+  - World War I
+  - Story Rich
+  - Historical
+  - Singleplayer
+  - War
+  - Walking Simulator
+  - Great Soundtrack
+  - Atmospheric
+  - Third Person
+  - Stylized
+  - Choices Matter
 - !ruby/object:Game
   name: Shenmue I & II
   month: November
   year: 2019
   humble_scheme: monthly
   steam_id: 758330
+  tags:
+  - Adventure
+  - Open World
+  - Story Rich
+  - Martial Arts
+  - Classic
+  - Action
+  - RPG
+  - Atmospheric
+  - Fighting
+  - Quick-Time Events
+  - Cult Classic
+  - Great Soundtrack
+  - Singleplayer
+  - Retro
+  - JRPG
+  - Beat 'em up
+  - Epic
+  - Third Person
+  - Simulation
+  - Anime
 - !ruby/object:Game
   name: Spyro™ Reignited Trilogy
   month: November
   year: 2019
   humble_scheme: monthly
   steam_id: 996580
+  tags:
+  - 3D Platformer
+  - Adventure
+  - Dragons
+  - Remake
+  - Family Friendly
+  - Action
+  - Classic
+  - Singleplayer
+  - Platformer
+  - Collectathon
+  - Cute
+  - Colorful
+  - Fantasy
+  - Cult Classic
+  - Cartoony
+  - Great Soundtrack
+  - Casual
+  - Third Person
+  - Atmospheric
+  - Funny
 - !ruby/object:Game
   name: Crash Bandicoot™ N. Sane Trilogy
   month: November
   year: 2019
   humble_scheme: monthly
   steam_id: 731490
+  tags:
+  - 3D Platformer
+  - Remake
+  - Classic
+  - Platformer
+  - Difficult
+  - Singleplayer
+  - Adventure
+  - Great Soundtrack
+  - Action
+  - Funny
+  - Cartoony
+  - Colorful
+  - Controller
+  - Family Friendly
+  - Retro
+  - 1990's
+  - Comedy
+  - Third Person
+  - Nostalgia
+  - Souls-like
 - !ruby/object:Game
   name: 'Call of Duty®: WWII'
   month: November
   year: 2019
   humble_scheme: monthly
   steam_id: 476600
+  tags:
+  - World War II
+  - FPS
+  - Singleplayer
+  - Multiplayer
+  - Zombies
+  - War
+  - Action
+  - Shooter
+  - First-Person
+  - Co-op
+  - Violent
+  - Gore
+  - Historical
+  - Story Rich
+  - Horror
+  - Psychological Horror
+  - Massively Multiplayer
+  - Open World
+  - Female Protagonist
+  - Heist
 - !ruby/object:Game
   name: 'Sword Legacy: Omen'
   month: December
   year: 2019
   humble_scheme: monthly
   steam_id: 690140
+  tags:
+  - RPG
+  - Strategy
+  - Indie
+  - Turn-Based Tactics
+  - Turn-Based Strategy
+  - Dark Fantasy
+  - Tactical RPG
+  - Adventure
+  - Story Rich
+  - Lore-Rich
+  - Gore
+  - Violent
+  - Action
+  - Singleplayer
+  - Fantasy
+  - Hand-drawn
+  - Strategy RPG
+  - Turn-Based
+  - Isometric
+  - Tactical
 - !ruby/object:Game
   name: Regular Human Basketball
   month: December
   year: 2019
   humble_scheme: monthly
   steam_id: 661940
+  tags:
+  - Mechs
+  - Basketball
+  - Funny
+  - Party Game
+  - Local Multiplayer
+  - Multiplayer
+  - Sports
+  - Comedy
+  - Indie
+  - Local Co-Op
+  - Online Co-Op
+  - Competitive
+  - Transhumanism
+  - 4 Player Local
+  - Controller
+  - Action
+  - Platformer
+  - 2D Platformer
+  - Split Screen
+  - 2D
 - !ruby/object:Game
   name: Chasm
   month: December
   year: 2019
   humble_scheme: monthly
   steam_id: 312200
+  tags:
+  - Metroidvania
+  - Indie
+  - Pixel Graphics
+  - Adventure
+  - Action
+  - RPG
+  - Platformer
+  - 2D
+  - Procedural Generation
+  - Side Scroller
+  - Singleplayer
+  - Rogue-like
+  - Retro
+  - Fantasy
+  - Action RPG
+  - Kickstarter
 - !ruby/object:Game
   name: Fluffy Horde
   month: December
   year: 2019
   humble_scheme: monthly
   steam_id: 777880
+  tags:
+  - Tower Defense
+  - Indie
+  - Strategy
+  - Action
+  - Side Scroller
+  - 2D
+  - Puzzle
+  - Pixel Graphics
+  - Comedy
 - !ruby/object:Game
   name: My Time At Portia
   month: December
   year: 2019
   humble_scheme: monthly
   steam_id: 666140
+  tags:
+  - Life Sim
+  - RPG
+  - Open World
+  - Farming Sim
+  - Crafting
+  - Simulation
+  - Casual
+  - Adventure
+  - Singleplayer
+  - Building
+  - Agriculture
+  - Sandbox
+  - Indie
+  - Relaxing
+  - Mining
+  - Exploration
+  - Survival
+  - Cartoony
+  - Post-apocalyptic
+  - Female Protagonist
 - !ruby/object:Game
   name: SOULCALIBUR VI
   month: December
   year: 2019
   humble_scheme: monthly
   steam_id: 544750
+  tags:
+  - Fighting
+  - Action
+  - Character Customization
+  - Multiplayer
+  - Fantasy
+  - Swordplay
+  - Arcade
+  - Local Multiplayer
+  - 3D Fighter
+  - Nudity
+  - Competitive
+  - Singleplayer
+  - Female Protagonist
+  - Sexual Content
+  - Great Soundtrack
+  - Medieval
+  - Anime
+  - Story Rich
+  - Beat 'em up
+  - Memes
 - !ruby/object:Game
   name: Yakuza Kiwami
   month: December
   year: 2019
   humble_scheme: monthly
   steam_id: 834530
+  tags:
+  - Action
+  - Story Rich
+  - Adventure
+  - Beat 'em up
+  - RPG
+  - Open World
+  - Crime
+  - Singleplayer
+  - Great Soundtrack
+  - Violent
+  - Minigames
+  - Drama
+  - Comedy
+  - Third Person
+  - Sexual Content
+  - Remake
+  - Atmospheric
+  - Funny
+  - JRPG
+  - Anime
 - !ruby/object:Game
   name: Desert Child
   month: December
   year: 2019
   humble_scheme: choice
   steam_id: 844050
+  tags:
+  - Racing
+  - Action-Adventure
+  - Shooter
+  - Singleplayer
+  - Shoot 'Em Up
+  - Pixel Graphics
+  - Funny
+  - Local Multiplayer
+  - Side Scroller
+  - Anime
+  - Sci-fi
+  - Indie
+  - 2D
+  - Retro
+  - Space
+  - Action
+  - Fast-Paced
+  - Aliens
+  - Arcade
+  - PvP
 - !ruby/object:Game
   name: Aegis Defenders
   month: December
   year: 2019
   humble_scheme: choice
   steam_id: 371140
+  tags:
+  - Pixel Graphics
+  - Tower Defense
+  - Action
+  - Indie
+  - Strategy
+  - RPG
+  - Adventure
+  - Platformer
+  - Local Co-Op
+  - Co-op
+  - Local Multiplayer
+  - 2D
+  - Split Screen
+  - Multiplayer
+  - Singleplayer
+  - Anime
+  - Female Protagonist
+  - Great Soundtrack
+  - Side Scroller
 - !ruby/object:Game
   name: 'X-Morph: Defense'
   month: December
   year: 2019
   humble_scheme: choice
   steam_id: 408410
+  tags:
+  - Tower Defense
+  - Strategy
+  - Action
+  - Indie
+  - Co-op
+  - Sci-fi
+  - Aliens
+  - Local Co-Op
+  - Twin Stick Shooter
+  - Shooter
+  - Top-Down Shooter
+  - Destruction
+  - Singleplayer
+  - Futuristic
+  - Top-Down
+  - Isometric
+  - Replay Value
+  - Controller
+  - Difficult
+  - Villain Protagonist
 - !ruby/object:Game
   name: 'Dark Future: Blood Red States'
   month: December
   year: 2019
   humble_scheme: choice
   steam_id: 370870
+  tags:
+  - Vehicular Combat
+  - RTS
+  - Turn-Based Tactics
+  - Games Workshop
+  - Automobile Sim
+  - Strategy
+  - Physics
+  - Real-Time
+  - Singleplayer
+  - Bullet Time
+  - Action
+  - Real Time Tactics
+  - Indie
+  - Strategy RPG
+  - Board Game
+  - Action Roguelike
+  - Adventure
+  - Turn-Based Strategy
+  - Third Person
+  - Driving
 - !ruby/object:Game
   name: Horizon Chase Turbo
   month: December
   year: 2019
   humble_scheme: choice
   steam_id: 389140
+  tags:
+  - Racing
+  - Arcade
+  - Casual
+  - Indie
+  - Retro
+  - Sports
+  - Action
+  - Local Multiplayer
+  - Great Soundtrack
+  - Split Screen
+  - 4 Player Local
+  - Local Co-Op
+  - Nostalgia
+  - Singleplayer
+  - Driving
+  - 1990's
+  - Colorful
+  - Multiplayer
+  - Old School
+  - Epic
 - !ruby/object:Game
   name: Dead In Vinland
   month: December
   year: 2019
   humble_scheme: choice
   steam_id: 573120
+  tags:
+  - RPG
+  - Strategy
+  - Survival
+  - Adventure
+  - Simulation
+  - Indie
+  - Turn-Based
+  - Turn-Based Combat
+  - Resource Management
+  - Singleplayer
+  - Perma Death
+  - 2D
+  - Difficult
+  - Atmospheric
+  - Management
+  - Vikings
+  - Violent
+  - Choices Matter
+  - Crafting
+  - Story Rich
 - !ruby/object:Game
   name: Phantom Doctrine
   month: December
   year: 2019
   humble_scheme: choice
   steam_id: 559100
+  tags:
+  - Turn-Based Tactics
+  - Strategy
+  - Cold War
+  - Stealth
+  - RPG
+  - Singleplayer
+  - Tactical
+  - Turn-Based Strategy
+  - Turn-Based
+  - Character Customization
+  - Action
+  - Violent
+  - Multiplayer
+  - Replay Value
+  - Isometric
+  - Great Soundtrack
+  - Atmospheric
+  - Alternate History
+  - Story Rich
+  - Management
 - !ruby/object:Game
   name: Ancestors Legacy
   month: December
   year: 2019
   humble_scheme: choice
   steam_id: 620590
+  tags:
+  - Strategy
+  - RTS
+  - Medieval
+  - Historical
+  - Violent
+  - Tactical
+  - Real-Time
+  - War
+  - Great Soundtrack
+  - Multiplayer
+  - Atmospheric
+  - Vikings
+  - Singleplayer
+  - Gore
+  - Action
+  - Co-op
+  - Base-Building
+  - Real Time Tactics
+  - City Builder
+  - Local Multiplayer
 - !ruby/object:Game
   name: Blasphemous
   month: December
   year: 2019
   humble_scheme: choice
   steam_id: 774361
+  tags:
+  - Metroidvania
+  - Pixel Graphics
+  - Souls-like
+  - Dark Fantasy
+  - Gore
+  - 2D
+  - Violent
+  - Action
+  - Indie
+  - Difficult
+  - Platformer
+  - Singleplayer
+  - Adventure
+  - Blood
+  - Horror
+  - Gothic
+  - Lore-Rich
+  - Great Soundtrack
+  - Side Scroller
+  - Nudity
 - !ruby/object:Game
   name: 'Shadow of the Tomb Raider: Definitive Edition'
   month: December
   year: 2019
   humble_scheme: choice
   steam_id: 750920
+  tags:
+  - Adventure
+  - Action
+  - Female Protagonist
+  - Singleplayer
+  - Open World
+  - Third Person
+  - Story Rich
+  - Puzzle
+  - Stealth
+  - Action-Adventure
+  - Exploration
+  - Survival
+  - Violent
+  - Atmospheric
+  - Shooter
+  - Gore
+  - Great Soundtrack
+  - Multiplayer
+  - Dark
+  - Heist
