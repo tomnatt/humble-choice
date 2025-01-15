@@ -1,28 +1,39 @@
 ---
 - !ruby/object:Game
-  name: Twin Mirror
+  name: Aragami 2
   month: January
   year: 2024
   humble_scheme: choice
-  steam_id: 1552810
+  steam_id: 1158370
   tags:
-  - Choose Your Own Adventure
-  - Choices Matter
-  - Interactive Fiction
-  - Adventure
+  - Stealth
+  - Ninja
+  - Assassin
+  - Online Co-Op
+  - Co-op Campaign
+  - Action
+  - Action-Adventure
   - Third Person
+  - Stylized
   - 3D
-  - Narration
-  - Mystery
-  - Realistic
-  - Crime
-  - Drama
-  - Psychological
-  - Cinematic
-  - Violent
-  - Singleplayer
-  - America
+  - Dark
+  - Fantasy
+  - Magic
   - Story Rich
+  - Character Customization
+  - Combat
+  - PvE
+  - Co-op
+  - Multiplayer
+  - Singleplayer
+- !ruby/object:Game
+  name: Doctor Strange Defenders Skin
+  month: January
+  year: 2024
+  humble_scheme: choice
+  steam_id: 1712442
+  tags:
+  - dlc
 - !ruby/object:Game
   name: Hell Pie
   month: January
@@ -51,59 +62,32 @@
   - Sexual Content
   - Combat
 - !ruby/object:Game
-  name: The Red Lantern
+  name: Marvel's Midnight Suns
   month: January
   year: 2024
   humble_scheme: choice
-  steam_id: 1053710
+  steam_id: 368260
   tags:
-  - Exploration
-  - Dog
-  - Choose Your Own Adventure
-  - Interactive Fiction
-  - Emotional
-  - Female Protagonist
-  - Snow
-  - Rogue-lite
-  - Relaxing
-  - Colorful
-  - 3D
-  - First-Person
-  - RPG
-  - Hunting
-  - Choices Matter
-  - Story Rich
-  - Casual
-  - Walking Simulator
-  - Adventure
-  - Stylized
-- !ruby/object:Game
-  name: Roguebook
-  month: January
-  year: 2024
-  humble_scheme: choice
-  steam_id: 1076200
-  tags:
-  - RPG
-  - Indie
-  - Card Game
-  - Deckbuilding
-  - Strategy
-  - Singleplayer
-  - Rogue-lite
-  - Turn-Based
-  - Rogue-like
+  - Superhero
   - Turn-Based Tactics
-  - Card Battler
-  - Turn-Based Combat
-  - Roguelike Deckbuilder
-  - 2D
-  - Difficult
-  - Fantasy
+  - Deckbuilding
+  - Tactical RPG
   - Turn-Based Strategy
-  - Replay Value
+  - Card Game
+  - Turn-Based Combat
+  - Character Customization
+  - Strategy RPG
+  - Tactical
+  - RPG
+  - Strategy
+  - Card Battler
   - Adventure
+  - Singleplayer
+  - 3D
+  - Third Person
+  - Supernatural
   - Magic
+  - Fantasy
 - !ruby/object:Game
   name: Otxo
   month: January
@@ -132,32 +116,83 @@
   - Great Soundtrack
   - Simulation
 - !ruby/object:Game
-  name: Aragami 2
+  name: Roguebook
   month: January
   year: 2024
   humble_scheme: choice
-  steam_id: 1158370
+  steam_id: 1076200
   tags:
-  - Stealth
-  - Ninja
-  - Assassin
-  - Online Co-Op
-  - Co-op Campaign
-  - Action
-  - Action-Adventure
-  - Third Person
-  - Stylized
-  - 3D
-  - Dark
-  - Fantasy
-  - Magic
-  - Story Rich
-  - Character Customization
-  - Combat
-  - PvE
-  - Co-op
-  - Multiplayer
+  - RPG
+  - Indie
+  - Card Game
+  - Deckbuilding
+  - Strategy
   - Singleplayer
+  - Rogue-lite
+  - Turn-Based
+  - Rogue-like
+  - Turn-Based Tactics
+  - Card Battler
+  - Turn-Based Combat
+  - Roguelike Deckbuilder
+  - 2D
+  - Difficult
+  - Fantasy
+  - Turn-Based Strategy
+  - Replay Value
+  - Adventure
+  - Magic
+- !ruby/object:Game
+  name: The Red Lantern
+  month: January
+  year: 2024
+  humble_scheme: choice
+  steam_id: 1053710
+  tags:
+  - Exploration
+  - Dog
+  - Choose Your Own Adventure
+  - Interactive Fiction
+  - Emotional
+  - Female Protagonist
+  - Snow
+  - Rogue-lite
+  - Relaxing
+  - Colorful
+  - 3D
+  - First-Person
+  - RPG
+  - Hunting
+  - Choices Matter
+  - Story Rich
+  - Casual
+  - Walking Simulator
+  - Adventure
+  - Stylized
+- !ruby/object:Game
+  name: Twin Mirror
+  month: January
+  year: 2024
+  humble_scheme: choice
+  steam_id: 1552810
+  tags:
+  - Choose Your Own Adventure
+  - Choices Matter
+  - Interactive Fiction
+  - Adventure
+  - Third Person
+  - 3D
+  - Narration
+  - Mystery
+  - Realistic
+  - Crime
+  - Drama
+  - Psychological
+  - Cinematic
+  - Violent
+  - Singleplayer
+  - America
+  - Story Rich
 - !ruby/object:Game
   name: Two Point Campus
   month: January
@@ -186,94 +221,32 @@
   - Retro
   - Cute
 - !ruby/object:Game
-  name: Doctor Strange Defenders Skin
-  month: January
-  year: 2024
-  humble_scheme: choice
-  steam_id: 1712442
-  tags:
-  - dlc
-- !ruby/object:Game
-  name: Marvel's Midnight Suns
-  month: January
-  year: 2024
-  humble_scheme: choice
-  steam_id: 368260
-  tags:
-  - Superhero
-  - Turn-Based Tactics
-  - Deckbuilding
-  - Tactical RPG
-  - Turn-Based Strategy
-  - Card Game
-  - Turn-Based Combat
-  - Character Customization
-  - Strategy RPG
-  - Tactical
-  - RPG
-  - Strategy
-  - Card Battler
-  - Adventure
-  - Singleplayer
-  - 3D
-  - Third Person
-  - Supernatural
-  - Magic
-  - Fantasy
-- !ruby/object:Game
-  name: 'Snowtopia: Ski Resort Builder'
+  name: Beacon Pines
   month: February
   year: 2024
   humble_scheme: choice
-  steam_id: 1124260
+  steam_id: 1269640
   tags:
-  - Simulation
-  - Building
-  - Management
-  - Base-Building
-  - Sandbox
-  - City Builder
-  - Relaxing
-  - Nature
-  - Resource Management
+  - Visual Novel
+  - Story Rich
+  - Emotional
+  - Cozy
+  - Colorful
+  - Exploration
   - Singleplayer
-  - Skiing
-  - Family Friendly
+  - Interactive Fiction
+  - Horror
   - Casual
-  - Colony Sim
-  - Strategy
-  - Colorful
-  - Funny
-  - Atmospheric
-  - Moddable
-  - Economy
-- !ruby/object:Game
-  name: Oaken
-  month: February
-  year: 2024
-  humble_scheme: choice
-  steam_id: 1348690
-  tags:
-  - Turn-Based Tactics
-  - Card Battler
-  - Singleplayer
-  - Rogue-lite
-  - Fantasy
-  - Hex Grid
-  - Turn-Based Strategy
-  - Board Game
-  - Turn-Based
-  - Creature Collector
-  - Colorful
+  - Cute
+  - Relaxing
   - RPG
   - Atmospheric
-  - Tabletop
-  - Strategy
-  - Turn-Based Combat
-  - Deckbuilding
+  - Mystery
+  - Narration
+  - Hand-drawn
   - Adventure
-  - Magic
-  - Puzzle
+  - Action-Adventure
+  - Point & Click
 - !ruby/object:Game
   name: Children Of Silentown
   month: February
@@ -302,60 +275,6 @@
   - Singleplayer
   - Psychological Horror
 - !ruby/object:Game
-  name: 'There Is No Light: Enhanced Edition'
-  month: February
-  year: 2024
-  humble_scheme: choice
-  steam_id: 1132980
-  tags:
-  - Fantasy
-  - Horror
-  - Souls-like
-  - Action
-  - Hack and Slash
-  - Difficult
-  - Atmospheric
-  - Multiple Endings
-  - Adventure
-  - Spectacle fighter
-  - Action-Adventure
-  - RPG
-  - Action RPG
-  - Pixel Graphics
-  - Choose Your Own Adventure
-  - Dark Fantasy
-  - Top-Down
-  - Dark
-  - Story Rich
-  - 2D
-- !ruby/object:Game
-  name: Beacon Pines
-  month: February
-  year: 2024
-  humble_scheme: choice
-  steam_id: 1269640
-  tags:
-  - Visual Novel
-  - Story Rich
-  - Emotional
-  - Cozy
-  - Colorful
-  - Exploration
-  - Singleplayer
-  - Interactive Fiction
-  - Horror
-  - Casual
-  - Cute
-  - Relaxing
-  - RPG
-  - Atmospheric
-  - Mystery
-  - Narration
-  - Hand-drawn
-  - Adventure
-  - Action-Adventure
-  - Point & Click
-- !ruby/object:Game
   name: Destroy All Humans! 2 - Reprobed
   month: February
   year: 2024
@@ -382,33 +301,6 @@
   - Local Multiplayer
   - Co-op Campaign
   - Multiplayer
-- !ruby/object:Game
-  name: Scorn
-  month: February
-  year: 2024
-  humble_scheme: choice
-  steam_id: 698670
-  tags:
-  - Gore
-  - Horror
-  - Atmospheric
-  - Puzzle
-  - Sexual Content
-  - First-Person
-  - Dark
-  - Nudity
-  - Adventure
-  - Psychological Horror
-  - Lovecraftian
-  - Violent
-  - Singleplayer
-  - Sci-fi
-  - Walking Simulator
-  - Surreal
-  - Indie
-  - Survival Horror
-  - FPS
-  - Action
 - !ruby/object:Game
   name: 'Life Is Strange: True Colors'
   month: February
@@ -437,32 +329,113 @@
   - Mature
   - Supernatural
 - !ruby/object:Game
-  name: 'Destroyer: The U-Boat Hunter'
-  month: March
+  name: Oaken
+  month: February
   year: 2024
   humble_scheme: choice
-  steam_id: 1272010
+  steam_id: 1348690
+  tags:
+  - Turn-Based Tactics
+  - Card Battler
+  - Singleplayer
+  - Rogue-lite
+  - Fantasy
+  - Hex Grid
+  - Turn-Based Strategy
+  - Board Game
+  - Turn-Based
+  - Creature Collector
+  - Colorful
+  - RPG
+  - Atmospheric
+  - Tabletop
+  - Strategy
+  - Turn-Based Combat
+  - Deckbuilding
+  - Adventure
+  - Magic
+  - Puzzle
+- !ruby/object:Game
+  name: Scorn
+  month: February
+  year: 2024
+  humble_scheme: choice
+  steam_id: 698670
+  tags:
+  - Gore
+  - Horror
+  - Atmospheric
+  - Puzzle
+  - Sexual Content
+  - First-Person
+  - Dark
+  - Nudity
+  - Adventure
+  - Psychological Horror
+  - Lovecraftian
+  - Violent
+  - Singleplayer
+  - Sci-fi
+  - Walking Simulator
+  - Surreal
+  - Indie
+  - Survival Horror
+  - FPS
+  - Action
+- !ruby/object:Game
+  name: 'Snowtopia: Ski Resort Builder'
+  month: February
+  year: 2024
+  humble_scheme: choice
+  steam_id: 1124260
   tags:
   - Simulation
-  - Naval Combat
-  - World War II
-  - Military
-  - Immersive Sim
-  - Action
-  - Real Time Tactics
-  - Naval
-  - RTS
-  - Submarine
-  - War
-  - Tactical
-  - 3D
-  - Historical
-  - Combat
-  - Realistic
-  - Wargame
+  - Building
+  - Management
+  - Base-Building
+  - Sandbox
+  - City Builder
+  - Relaxing
+  - Nature
+  - Resource Management
   - Singleplayer
-  - Dynamic Narration
-  - Procedural Generation
+  - Skiing
+  - Family Friendly
+  - Casual
+  - Colony Sim
+  - Strategy
+  - Colorful
+  - Funny
+  - Atmospheric
+  - Moddable
+  - Economy
+- !ruby/object:Game
+  name: 'There Is No Light: Enhanced Edition'
+  month: February
+  year: 2024
+  humble_scheme: choice
+  steam_id: 1132980
+  tags:
+  - Fantasy
+  - Horror
+  - Souls-like
+  - Action
+  - Hack and Slash
+  - Difficult
+  - Atmospheric
+  - Multiple Endings
+  - Adventure
+  - Spectacle fighter
+  - Action-Adventure
+  - RPG
+  - Action RPG
+  - Pixel Graphics
+  - Choose Your Own Adventure
+  - Dark Fantasy
+  - Top-Down
+  - Dark
+  - Story Rich
+  - 2D
 - !ruby/object:Game
   name: Afterimage
   month: March
@@ -490,33 +463,6 @@
   - Story Rich
   - Choices Matter
   - Multiple Endings
-- !ruby/object:Game
-  name: Soulstice
-  month: March
-  year: 2024
-  humble_scheme: choice
-  steam_id: 1602080
-  tags:
-  - Hack and Slash
-  - Spectacle fighter
-  - Character Action Game
-  - Female Protagonist
-  - Action-Adventure
-  - Third Person
-  - Exploration
-  - Dark Fantasy
-  - 3D Platformer
-  - Beat 'em up
-  - Action RPG
-  - Swordplay
-  - 3D
-  - Story Rich
-  - Horror
-  - Lore-Rich
-  - Controller
-  - Fantasy
-  - Action
-  - Demons
 - !ruby/object:Game
   name: Black Skylands
   month: March
@@ -572,32 +518,32 @@
   - Conversation
   - Adventure
 - !ruby/object:Game
-  name: Saints Row
+  name: 'Destroyer: The U-Boat Hunter'
   month: March
   year: 2024
   humble_scheme: choice
-  steam_id: 742420
+  steam_id: 1272010
   tags:
-  - Open World
-  - Character Customization
+  - Simulation
+  - Naval Combat
+  - World War II
+  - Military
+  - Immersive Sim
   - Action
-  - Co-op
-  - Crime
-  - Third-Person Shooter
-  - Adventure
-  - Sandbox
+  - Real Time Tactics
+  - Naval
+  - RTS
+  - Submarine
+  - War
+  - Tactical
+  - 3D
+  - Historical
+  - Combat
+  - Realistic
+  - Wargame
   - Singleplayer
-  - Funny
-  - Multiplayer
-  - Shooter
-  - Comedy
-  - Third Person
-  - America
-  - Driving
-  - Dark Humor
-  - 'Parody '
-  - Satire
-  - Superhero
+  - Dynamic Narration
+  - Procedural Generation
 - !ruby/object:Game
   name: Nioh 2 – The Complete Edition
   month: March
@@ -626,13 +572,59 @@
   - Female Protagonist
   - Loot
 - !ruby/object:Game
-  name: 'Warhammer Age of Sigmar: Realms of Ruin Deluxe Upgrade Pack'
+  name: Saints Row
   month: March
   year: 2024
   humble_scheme: choice
-  steam_id: 2531130
+  steam_id: 742420
   tags:
-  - dlc
+  - Open World
+  - Character Customization
+  - Action
+  - Co-op
+  - Crime
+  - Third-Person Shooter
+  - Adventure
+  - Sandbox
+  - Singleplayer
+  - Funny
+  - Multiplayer
+  - Shooter
+  - Comedy
+  - Third Person
+  - America
+  - Driving
+  - Dark Humor
+  - 'Parody '
+  - Satire
+  - Superhero
+- !ruby/object:Game
+  name: Soulstice
+  month: March
+  year: 2024
+  humble_scheme: choice
+  steam_id: 1602080
+  tags:
+  - Hack and Slash
+  - Spectacle fighter
+  - Character Action Game
+  - Female Protagonist
+  - Action-Adventure
+  - Third Person
+  - Exploration
+  - Dark Fantasy
+  - 3D Platformer
+  - Beat 'em up
+  - Action RPG
+  - Swordplay
+  - 3D
+  - Story Rich
+  - Horror
+  - Lore-Rich
+  - Controller
+  - Fantasy
+  - Action
+  - Demons
 - !ruby/object:Game
   name: 'Warhammer Age Of Sigmar: Realms Of Ruin'
   month: March
@@ -661,32 +653,13 @@
   - Warhammer 40K
   - Realistic
 - !ruby/object:Game
-  name: The Excavation Of Hob's Barrow
-  month: April
+  name: 'Warhammer Age of Sigmar: Realms of Ruin Deluxe Upgrade Pack'
+  month: March
   year: 2024
   humble_scheme: choice
-  steam_id: 1182310
+  steam_id: 2531130
   tags:
-  - Point & Click
-  - Adventure
-  - Horror
-  - Pixel Graphics
-  - Female Protagonist
-  - Puzzle
-  - Atmospheric
-  - Dark
-  - Interactive Fiction
-  - Drama
-  - Mystery
-  - Emotional
-  - Retro
-  - Story Rich
-  - Singleplayer
-  - Thriller
-  - Indie
-  - Cinematic
-  - Lovecraftian
-  - Investigation
+  - dlc
 - !ruby/object:Game
   name: Coromon
   month: April
@@ -714,60 +687,6 @@
   - Retro
   - Anime
   - Difficult
-- !ruby/object:Game
-  name: 'Symphony Of War: The Nephilim Saga'
-  month: April
-  year: 2024
-  humble_scheme: choice
-  steam_id: 1488200
-  tags:
-  - Tactical RPG
-  - RPG
-  - Story Rich
-  - Fantasy
-  - Turn-Based Strategy
-  - Adventure
-  - Female Protagonist
-  - Strategy RPG
-  - Pixel Graphics
-  - Lore-Rich
-  - Romance
-  - Drama
-  - Strategy
-  - 2D
-  - JRPG
-  - Singleplayer
-  - Indie
-  - Party-Based RPG
-  - Auto Battler
-  - Tactical
-- !ruby/object:Game
-  name: Terraformers
-  month: April
-  year: 2024
-  humble_scheme: choice
-  steam_id: 1244800
-  tags:
-  - Simulation
-  - Procedural Generation
-  - Survival
-  - Atmospheric
-  - Rogue-like
-  - Sci-fi
-  - Singleplayer
-  - Space
-  - Choices Matter
-  - Science
-  - Resource Management
-  - Card Game
-  - Turn-Based
-  - Mars
-  - Board Game
-  - Exploration
-  - Turn-Based Strategy
-  - Management
-  - Futuristic
-  - Nonlinear
 - !ruby/object:Game
   name: Fashion Police Squad
   month: April
@@ -823,19 +742,11 @@
   - Building
   - Character Customization
 - !ruby/object:Game
-  name: HUMANKIND™ - Para Bellum Wonders Pack
+  name: HUMANKIND™ - Cultures of Africa Pack
   month: April
   year: 2024
   humble_scheme: choice
-  steam_id: 2320210
-  tags:
-  - dlc
-- !ruby/object:Game
-  name: HUMANKIND™ - Cultures of Oceania Pack
-  month: April
-  year: 2024
-  humble_scheme: choice
-  steam_id: 2320211
+  steam_id: 1819400
   tags:
   - dlc
 - !ruby/object:Game
@@ -847,11 +758,27 @@
   tags:
   - dlc
 - !ruby/object:Game
-  name: HUMANKIND™ - Cultures of Africa Pack
+  name: HUMANKIND™ - Cultures of Oceania Pack
   month: April
   year: 2024
   humble_scheme: choice
-  steam_id: 1819400
+  steam_id: 2320211
+  tags:
+  - dlc
+- !ruby/object:Game
+  name: HUMANKIND™ - Digital Deluxe Upgrade
+  month: April
+  year: 2024
+  humble_scheme: choice
+  steam_id: 1633650
+  tags:
+  - dlc
+- !ruby/object:Game
+  name: HUMANKIND™ - Para Bellum Wonders Pack
+  month: April
+  year: 2024
+  humble_scheme: choice
+  steam_id: 2320210
   tags:
   - dlc
 - !ruby/object:Game
@@ -863,13 +790,59 @@
   tags:
   - dlc
 - !ruby/object:Game
-  name: HUMANKIND™ - Digital Deluxe Upgrade
+  name: 'Symphony Of War: The Nephilim Saga'
   month: April
   year: 2024
   humble_scheme: choice
-  steam_id: 1633650
+  steam_id: 1488200
   tags:
-  - dlc
+  - Tactical RPG
+  - RPG
+  - Story Rich
+  - Fantasy
+  - Turn-Based Strategy
+  - Adventure
+  - Female Protagonist
+  - Strategy RPG
+  - Pixel Graphics
+  - Lore-Rich
+  - Romance
+  - Drama
+  - Strategy
+  - 2D
+  - JRPG
+  - Singleplayer
+  - Indie
+  - Party-Based RPG
+  - Auto Battler
+  - Tactical
+- !ruby/object:Game
+  name: Terraformers
+  month: April
+  year: 2024
+  humble_scheme: choice
+  steam_id: 1244800
+  tags:
+  - Simulation
+  - Procedural Generation
+  - Survival
+  - Atmospheric
+  - Rogue-like
+  - Sci-fi
+  - Singleplayer
+  - Space
+  - Choices Matter
+  - Science
+  - Resource Management
+  - Card Game
+  - Turn-Based
+  - Mars
+  - Board Game
+  - Exploration
+  - Turn-Based Strategy
+  - Management
+  - Futuristic
+  - Nonlinear
 - !ruby/object:Game
   name: The Callisto Protocol™
   month: April
@@ -898,6 +871,33 @@
   - Futuristic
   - Singleplayer
 - !ruby/object:Game
+  name: The Excavation Of Hob's Barrow
+  month: April
+  year: 2024
+  humble_scheme: choice
+  steam_id: 1182310
+  tags:
+  - Point & Click
+  - Adventure
+  - Horror
+  - Pixel Graphics
+  - Female Protagonist
+  - Puzzle
+  - Atmospheric
+  - Dark
+  - Interactive Fiction
+  - Drama
+  - Mystery
+  - Emotional
+  - Retro
+  - Story Rich
+  - Singleplayer
+  - Thriller
+  - Indie
+  - Cinematic
+  - Lovecraftian
+  - Investigation
+- !ruby/object:Game
   name: Victoria 3
   month: April
   year: 2024
@@ -924,33 +924,6 @@
   - Multiplayer
   - Singleplayer
   - Military
-- !ruby/object:Game
-  name: Mediterranea Inferno
-  month: May
-  year: 2024
-  humble_scheme: choice
-  steam_id: 2103680
-  tags:
-  - LGBTQ+
-  - Choose Your Own Adventure
-  - Visual Novel
-  - Horror
-  - Comic Book
-  - Romance
-  - Surreal
-  - Choices Matter
-  - Multiple Endings
-  - Story Rich
-  - Anime
-  - Colorful
-  - Hand-drawn
-  - Thriller
-  - Psychedelic
-  - Drama
-  - Dark
-  - Psychological
-  - Adventure
-  - Emotional
 - !ruby/object:Game
   name: Amanda The Adventurer
   month: May
@@ -1006,6 +979,33 @@
   - Platformer
   - Procedural Generation
 - !ruby/object:Game
+  name: Hi-Fi Rush
+  month: May
+  year: 2024
+  humble_scheme: choice
+  steam_id: 1817230
+  tags:
+  - Rhythm
+  - Action
+  - Hack and Slash
+  - Singleplayer
+  - Great Soundtrack
+  - Cartoony
+  - Action-Adventure
+  - Music
+  - Platformer
+  - Character Action Game
+  - Spectacle fighter
+  - Colorful
+  - Comedy
+  - Stylized
+  - Beat 'em up
+  - Anime
+  - Cyberpunk
+  - Third Person
+  - Robots
+  - Adventure
+- !ruby/object:Game
   name: King Of The Castle
   month: May
   year: 2024
@@ -1060,6 +1060,33 @@
   - Survival
   - Pixel Graphics
 - !ruby/object:Game
+  name: Mediterranea Inferno
+  month: May
+  year: 2024
+  humble_scheme: choice
+  steam_id: 2103680
+  tags:
+  - LGBTQ+
+  - Choose Your Own Adventure
+  - Visual Novel
+  - Horror
+  - Comic Book
+  - Romance
+  - Surreal
+  - Choices Matter
+  - Multiple Endings
+  - Story Rich
+  - Anime
+  - Colorful
+  - Hand-drawn
+  - Thriller
+  - Psychedelic
+  - Drama
+  - Dark
+  - Psychological
+  - Adventure
+  - Emotional
+- !ruby/object:Game
   name: Steelrising
   month: May
   year: 2024
@@ -1086,33 +1113,6 @@
   - Character Action Game
   - Action-Adventure
   - Cinematic
-- !ruby/object:Game
-  name: Hi-Fi Rush
-  month: May
-  year: 2024
-  humble_scheme: choice
-  steam_id: 1817230
-  tags:
-  - Rhythm
-  - Action
-  - Hack and Slash
-  - Singleplayer
-  - Great Soundtrack
-  - Cartoony
-  - Action-Adventure
-  - Music
-  - Platformer
-  - Character Action Game
-  - Spectacle fighter
-  - Colorful
-  - Comedy
-  - Stylized
-  - Beat 'em up
-  - Anime
-  - Cyberpunk
-  - Third Person
-  - Robots
-  - Adventure
 - !ruby/object:Game
   name: 'Yakuza: Like A Dragon'
   month: May
@@ -1141,33 +1141,6 @@
   - Third Person
   - Anime
 - !ruby/object:Game
-  name: Empyrion - Galactic Survival
-  month: June
-  year: 2024
-  humble_scheme: choice
-  steam_id: 383120
-  tags:
-  - Simulation
-  - Co-op
-  - Open World Survival Craft
-  - Space
-  - Survival
-  - Building
-  - Open World
-  - Exploration
-  - Space Sim
-  - Voxel
-  - Sandbox
-  - Physics
-  - Multiplayer
-  - Singleplayer
-  - Sci-fi
-  - PvE
-  - PvP
-  - Crafting
-  - Strategy
-  - FPS
-- !ruby/object:Game
   name: A Guidebook Of Babel
   month: June
   year: 2024
@@ -1195,86 +1168,51 @@
   - Time Travel
   - Comic Book
 - !ruby/object:Game
-  name: 'Stray Gods: The Roleplaying Musical'
+  name: Empyrion - Galactic Survival
   month: June
   year: 2024
   humble_scheme: choice
-  steam_id: 1920780
+  steam_id: 383120
   tags:
-  - Interactive Fiction
-  - Story Rich
-  - Female Protagonist
-  - Choices Matter
-  - Music
-  - Singleplayer
-  - Atmospheric
-  - Adventure
-  - Multiple Endings
-  - Mythology
-  - Choose Your Own Adventure
-  - Romance
-  - Comic Book
-  - Stylized
-  - Hand-drawn
-  - Fantasy
-  - Cinematic
-  - Comedy
-  - Funny
-  - Visual Novel
-- !ruby/object:Game
-  name: Miasma Chronicles
-  month: June
-  year: 2024
-  humble_scheme: choice
-  steam_id: 1649010
-  tags:
-  - Tactical RPG
-  - Turn-Based Strategy
-  - Tactical
-  - Action
-  - Turn-Based Tactics
-  - Strategy
-  - Action-Adventure
-  - Cinematic
-  - Third Person
-  - America
-  - Atmospheric
-  - 'Dystopian '
-  - Futuristic
-  - Post-apocalyptic
-  - Lore-Rich
-  - Robots
-  - Sci-fi
-  - Story Rich
-  - Singleplayer
-  - Violent
-- !ruby/object:Game
-  name: 'Warhammer 40,000: Battlesector'
-  month: June
-  year: 2024
-  humble_scheme: choice
-  steam_id: 1295500
-  tags:
-  - Strategy
-  - Warhammer 40K
-  - Turn-Based Tactics
-  - Turn-Based Strategy
-  - 3D
-  - Isometric
-  - Sci-fi
-  - Tactical
-  - Turn-Based Combat
-  - Singleplayer
-  - PvP
-  - Asynchronous Multiplayer
-  - Combat
-  - Violent
-  - Multiplayer
-  - War
-  - Turn-Based
+  - Simulation
+  - Co-op
+  - Open World Survival Craft
   - Space
-  - Replay Value
-  - Games Workshop
+  - Survival
+  - Building
+  - Open World
+  - Exploration
+  - Space Sim
+  - Voxel
+  - Sandbox
+  - Physics
+  - Multiplayer
+  - Singleplayer
+  - Sci-fi
+  - PvE
+  - PvP
+  - Crafting
+  - Strategy
+  - FPS
+- !ruby/object:Game
+  name: 'Knights Of Honor II: Sovereign'
+  month: June
+  year: 2024
+  humble_scheme: choice
+  steam_id: 736820
+  tags:
+  - Strategy
+  - Simulation
+  - Medieval
+  - Grand Strategy
+  - RTS
+  - Historical
+  - Multiplayer
+  - Singleplayer
+  - 4X
+  - Sandbox
+  - City Builder
+  - Open World
 - !ruby/object:Game
   name: LEGO® 2K Drive
   month: June
@@ -1303,24 +1241,32 @@
   - PvE
   - Sports
 - !ruby/object:Game
-  name: 'Knights Of Honor II: Sovereign'
+  name: Miasma Chronicles
   month: June
   year: 2024
   humble_scheme: choice
-  steam_id: 736820
+  steam_id: 1649010
   tags:
+  - Tactical RPG
+  - Turn-Based Strategy
+  - Tactical
+  - Action
+  - Turn-Based Tactics
   - Strategy
-  - Simulation
-  - Medieval
-  - Grand Strategy
-  - RTS
-  - Historical
-  - Multiplayer
+  - Action-Adventure
+  - Cinematic
+  - Third Person
+  - America
+  - Atmospheric
+  - 'Dystopian '
+  - Futuristic
+  - Post-apocalyptic
+  - Lore-Rich
+  - Robots
+  - Sci-fi
+  - Story Rich
   - Singleplayer
-  - 4X
-  - Sandbox
-  - City Builder
-  - Open World
+  - Violent
 - !ruby/object:Game
   name: Risk Of Rain 2
   month: June
@@ -1349,194 +1295,59 @@
   - Early Access
   - Bullet Hell
 - !ruby/object:Game
-  name: Hyperviolent
-  month: July
+  name: 'Stray Gods: The Roleplaying Musical'
+  month: June
   year: 2024
   humble_scheme: choice
-  steam_id: 1409200
+  steam_id: 1920780
   tags:
-  - Early Access
-  - Lovecraftian
-  - FPS
-  - Boomer Shooter
-  - Shooter
-  - Immersive Sim
-  - RPG
-  - First-Person
-  - Horror
-  - 3D
-  - Atmospheric
-  - Survival Horror
+  - Interactive Fiction
   - Story Rich
-  - Sci-fi
-  - Dark
-  - Action
-  - Pixel Graphics
-  - Space
-  - Combat
-  - Violent
-- !ruby/object:Game
-  name: Heretic'S Fork
-  month: July
-  year: 2024
-  humble_scheme: choice
-  steam_id: 2181610
-  tags:
-  - Deckbuilding
-  - Tower Defense
-  - Arcade
-  - Strategy
-  - Action
-  - Card Game
-  - Roguelike Deckbuilder
-  - 2D
-  - Bullet Hell
-  - Tactical
-  - Rogue-lite
-  - Singleplayer
-  - Top-Down
-  - Rogue-like
-  - Perma Death
-  - Pixel Graphics
-  - Arena Shooter
-  - Demons
-  - Auto Battler
-  - Casual
-- !ruby/object:Game
-  name: 'Figment 2: Creed Valley'
-  month: July
-  year: 2024
-  humble_scheme: choice
-  steam_id: 1085220
-  tags:
-  - Soundtrack
-  - Exploration
-  - Puzzle
-  - Cute
-  - Action
-  - Controller
-  - 2D
-  - Fantasy
-  - Action-Adventure
-  - Story Rich
-  - Atmospheric
-  - Emotional
-  - Singleplayer
-  - Adventure
-  - Indie
-  - Metroidvania
-  - Hand-drawn
-  - Surreal
-  - Isometric
-  - Funny
-- !ruby/object:Game
-  name: Zoeti
-  month: July
-  year: 2024
-  humble_scheme: choice
-  steam_id: 1434540
-  tags:
-  - Roguelike Deckbuilder
-  - Card Game
-  - Card Battler
-  - Singleplayer
-  - Rogue-like
-  - Turn-Based
-  - Strategy
-  - Rogue-lite
-  - Replay Value
-  - Turn-Based Strategy
-  - Adventure
-  - Deckbuilding
   - Female Protagonist
-  - Fantasy
-  - 2D
-  - Hand-drawn
-  - Turn-Based Combat
-  - Colorful
-  - Lore-Rich
-  - Story Rich
-- !ruby/object:Game
-  name: Sticky Business
-  month: July
-  year: 2024
-  humble_scheme: choice
-  steam_id: 2303350
-  tags:
-  - Casual
-  - Simulation
-  - Relaxing
-  - Cute
-  - Indie
-  - Wholesome
-  - Pixel Graphics
-  - Colorful
-  - Puzzle
-  - Family Friendly
-  - Singleplayer
-  - LGBTQ+
-  - Life Sim
-  - Cozy
-  - 2D
-  - Sandbox
-  - Economy
-  - Point & Click
-  - Atmospheric
-  - Immersive Sim
-- !ruby/object:Game
-  name: 'Starship Troopers: Terran Command'
-  month: July
-  year: 2024
-  humble_scheme: choice
-  steam_id: 1202130
-  tags:
-  - Strategy
-  - RTS
-  - Singleplayer
-  - Military
-  - Tactical
-  - War
-  - Sci-fi
-  - Resource Management
-  - Real-Time
-  - Wargame
-  - Aliens
-  - Replay Value
-  - Artificial Intelligence
-  - Great Soundtrack
-  - Tower Defense
-  - Gore
-  - Villain Protagonist
-  - Simulation
-  - Real Time Tactics
-  - Action
-- !ruby/object:Game
-  name: Ghostrunner 2
-  month: July
-  year: 2024
-  humble_scheme: choice
-  steam_id: 2144740
-  tags:
-  - Action
-  - Cyberpunk
-  - Runner
-  - Hack and Slash
-  - Fast-Paced
-  - First-Person
-  - Difficult
-  - Swordplay
-  - Vehicular Combat
-  - Violent
+  - Choices Matter
   - Music
-  - Adventure
-  - Action-Adventure
-  - Post-apocalyptic
   - Singleplayer
-  - Combat
-  - Ninja
-  - Motorbike
-  - Fighting
+  - Atmospheric
+  - Adventure
+  - Multiple Endings
+  - Mythology
+  - Choose Your Own Adventure
+  - Romance
+  - Comic Book
+  - Stylized
+  - Hand-drawn
+  - Fantasy
+  - Cinematic
+  - Comedy
+  - Funny
+  - Visual Novel
+- !ruby/object:Game
+  name: 'Warhammer 40,000: Battlesector'
+  month: June
+  year: 2024
+  humble_scheme: choice
+  steam_id: 1295500
+  tags:
   - Strategy
+  - Warhammer 40K
+  - Turn-Based Tactics
+  - Turn-Based Strategy
+  - 3D
+  - Isometric
+  - Sci-fi
+  - Tactical
+  - Turn-Based Combat
+  - Singleplayer
+  - PvP
+  - Asynchronous Multiplayer
+  - Combat
+  - Violent
+  - Multiplayer
+  - War
+  - Turn-Based
+  - Space
+  - Replay Value
+  - Games Workshop
 - !ruby/object:Game
   name: 'A Plague Tale: Requiem'
   month: July
@@ -1565,85 +1376,194 @@
   - Mystery
   - Narration
 - !ruby/object:Game
-  name: This Means Warp
-  month: August
+  name: 'Figment 2: Creed Valley'
+  month: July
   year: 2024
   humble_scheme: choice
-  steam_id: 1269300
+  steam_id: 1085220
   tags:
-  - Survival
-  - Online Co-Op
-  - Space
-  - Co-op
-  - Multiplayer
-  - Top-Down
-  - Rogue-lite
-  - Local Multiplayer
-  - Sci-fi
-  - Co-op Campaign
-  - Singleplayer
-  - Action
-  - Strategy
-  - Arcade
-  - 3D
-  - Rogue-like
-  - Comedy
-  - Funny
-  - Controller
-  - 4 Player Local
-- !ruby/object:Game
-  name: Universe For Sale
-  month: August
-  year: 2024
-  humble_scheme: choice
-  steam_id: 1627840
-  tags:
-  - Atmospheric
-  - Point & Click
-  - Visual Novel
-  - Hand-drawn
+  - Soundtrack
   - Exploration
-  - Sci-fi
-  - Adventure
-  - 2D
+  - Puzzle
   - Cute
-  - Comic Book
-  - Crafting
-  - Time Travel
-  - Conversation
-  - Narration
-  - Female Protagonist
-  - Indie
+  - Action
+  - Controller
+  - 2D
+  - Fantasy
+  - Action-Adventure
   - Story Rich
+  - Atmospheric
+  - Emotional
   - Singleplayer
+  - Adventure
+  - Indie
+  - Metroidvania
+  - Hand-drawn
+  - Surreal
+  - Isometric
+  - Funny
+- !ruby/object:Game
+  name: Ghostrunner 2
+  month: July
+  year: 2024
+  humble_scheme: choice
+  steam_id: 2144740
+  tags:
+  - Action
+  - Cyberpunk
+  - Runner
+  - Hack and Slash
+  - Fast-Paced
+  - First-Person
+  - Difficult
+  - Swordplay
+  - Vehicular Combat
+  - Violent
+  - Music
+  - Adventure
+  - Action-Adventure
+  - Post-apocalyptic
+  - Singleplayer
+  - Combat
+  - Ninja
+  - Motorbike
+  - Fighting
+  - Strategy
+- !ruby/object:Game
+  name: Heretic'S Fork
+  month: July
+  year: 2024
+  humble_scheme: choice
+  steam_id: 2181610
+  tags:
+  - Deckbuilding
+  - Tower Defense
+  - Arcade
+  - Strategy
+  - Action
+  - Card Game
+  - Roguelike Deckbuilder
+  - 2D
+  - Bullet Hell
+  - Tactical
+  - Rogue-lite
+  - Singleplayer
+  - Top-Down
+  - Rogue-like
+  - Perma Death
+  - Pixel Graphics
+  - Arena Shooter
+  - Demons
+  - Auto Battler
   - Casual
 - !ruby/object:Game
-  name: Diluvian Ultra
-  month: August
+  name: Hyperviolent
+  month: July
   year: 2024
   humble_scheme: choice
-  steam_id: 1306970
+  steam_id: 1409200
   tags:
+  - Early Access
+  - Lovecraftian
   - FPS
   - Boomer Shooter
-  - Exploration
   - Shooter
-  - Tutorial
+  - Immersive Sim
+  - RPG
   - First-Person
-  - 2.5D
+  - Horror
   - 3D
-  - Lore-Rich
-  - Mars
-  - Action
-  - Linear
-  - Pixel Graphics
-  - Action-Adventure
-  - Stylized
+  - Atmospheric
+  - Survival Horror
+  - Story Rich
   - Sci-fi
-  - 'Dystopian '
-  - Gothic
-  - Vampire
-  - Score Attack
+  - Dark
+  - Action
+  - Pixel Graphics
+  - Space
+  - Combat
+  - Violent
+- !ruby/object:Game
+  name: 'Starship Troopers: Terran Command'
+  month: July
+  year: 2024
+  humble_scheme: choice
+  steam_id: 1202130
+  tags:
+  - Strategy
+  - RTS
+  - Singleplayer
+  - Military
+  - Tactical
+  - War
+  - Sci-fi
+  - Resource Management
+  - Real-Time
+  - Wargame
+  - Aliens
+  - Replay Value
+  - Artificial Intelligence
+  - Great Soundtrack
+  - Tower Defense
+  - Gore
+  - Villain Protagonist
+  - Simulation
+  - Real Time Tactics
+  - Action
+- !ruby/object:Game
+  name: Sticky Business
+  month: July
+  year: 2024
+  humble_scheme: choice
+  steam_id: 2303350
+  tags:
+  - Casual
+  - Simulation
+  - Relaxing
+  - Cute
+  - Indie
+  - Wholesome
+  - Pixel Graphics
+  - Colorful
+  - Puzzle
+  - Family Friendly
+  - Singleplayer
+  - LGBTQ+
+  - Life Sim
+  - Cozy
+  - 2D
+  - Sandbox
+  - Economy
+  - Point & Click
+  - Atmospheric
+  - Immersive Sim
+- !ruby/object:Game
+  name: Zoeti
+  month: July
+  year: 2024
+  humble_scheme: choice
+  steam_id: 1434540
+  tags:
+  - Roguelike Deckbuilder
+  - Card Game
+  - Card Battler
+  - Singleplayer
+  - Rogue-like
+  - Turn-Based
+  - Strategy
+  - Rogue-lite
+  - Replay Value
+  - Turn-Based Strategy
+  - Adventure
+  - Deckbuilding
+  - Female Protagonist
+  - Fantasy
+  - 2D
+  - Hand-drawn
+  - Turn-Based Combat
+  - Colorful
+  - Lore-Rich
+  - Story Rich
 - !ruby/object:Game
   name: Astral Ascent
   month: August
@@ -1698,6 +1618,33 @@
   - Action
   - FPS
   - Multiple Endings
+- !ruby/object:Game
+  name: Diluvian Ultra
+  month: August
+  year: 2024
+  humble_scheme: choice
+  steam_id: 1306970
+  tags:
+  - FPS
+  - Boomer Shooter
+  - Exploration
+  - Shooter
+  - Tutorial
+  - First-Person
+  - 2.5D
+  - 3D
+  - Lore-Rich
+  - Mars
+  - Action
+  - Linear
+  - Pixel Graphics
+  - Action-Adventure
+  - Stylized
+  - Sci-fi
+  - 'Dystopian '
+  - Gothic
+  - Vampire
+  - Score Attack
 - !ruby/object:Game
   name: Gotham Knights
   month: August
@@ -1780,65 +1727,58 @@
   - Action-Adventure
   - Action RPG
 - !ruby/object:Game
-  name: Rue Valley - Alpha Playtest
-  month: September
+  name: This Means Warp
+  month: August
   year: 2024
   humble_scheme: choice
-  steam_id:
-- !ruby/object:Game
-  name: You Suck at Parking® - Complete Edition
-  month: September
-  year: 2024
-  humble_scheme: choice
-  steam_id: 837880
+  steam_id: 1269300
   tags:
-  - Racing
-  - Driving
-  - Arcade
-  - Parkour
-  - Character Customization
-  - Cute
-  - 3D
-  - Isometric
-  - Colorful
-  - Controller
-  - Cartoony
-  - Stylized
-  - Family Friendly
-  - Score Attack
-  - Comedy
-  - Physics
-  - Cartoon
-  - Sports
+  - Survival
+  - Online Co-Op
+  - Space
+  - Co-op
+  - Multiplayer
+  - Top-Down
+  - Rogue-lite
+  - Local Multiplayer
+  - Sci-fi
+  - Co-op Campaign
   - Singleplayer
   - Action
+  - Strategy
+  - Arcade
+  - 3D
+  - Rogue-like
+  - Comedy
+  - Funny
+  - Controller
+  - 4 Player Local
 - !ruby/object:Game
-  name: InfraSpace
-  month: September
+  name: Universe For Sale
+  month: August
   year: 2024
   humble_scheme: choice
-  steam_id: 1511460
+  steam_id: 1627840
   tags:
-  - City Builder
-  - Automation
-  - Transportation
-  - Space
-  - Resource Management
-  - Sandbox
-  - Building
-  - Economy
-  - Management
+  - Atmospheric
+  - Point & Click
+  - Visual Novel
+  - Hand-drawn
+  - Exploration
   - Sci-fi
-  - Simulation
-  - Science
-  - Base-Building
+  - Adventure
+  - 2D
+  - Cute
+  - Comic Book
   - Crafting
-  - Moddable
-  - Trains
-  - Capitalism
-  - Modern
-  - Strategy
+  - Time Travel
+  - Conversation
+  - Narration
+  - Female Protagonist
+  - Indie
+  - Story Rich
   - Singleplayer
+  - Casual
 - !ruby/object:Game
   name: 'Astrea: Six-Sided Oracles'
   month: September
@@ -1865,6 +1805,60 @@
   - 2D
   - Hand-drawn
   - Dark Fantasy
+  - Singleplayer
+- !ruby/object:Game
+  name: Coral Island
+  month: September
+  year: 2024
+  humble_scheme: choice
+  steam_id: 1158160
+  tags:
+  - Farming Sim
+  - Life Sim
+  - Relaxing
+  - Dating Sim
+  - Simulation
+  - Agriculture
+  - RPG
+  - Crafting
+  - Character Customization
+  - Singleplayer
+  - Building
+  - Sandbox
+  - Open World
+  - Casual
+  - Indie
+  - Adventure
+  - Fishing
+  - Mining
+  - Cartoony
+  - LGBTQ+
+- !ruby/object:Game
+  name: InfraSpace
+  month: September
+  year: 2024
+  humble_scheme: choice
+  steam_id: 1511460
+  tags:
+  - City Builder
+  - Automation
+  - Transportation
+  - Space
+  - Resource Management
+  - Sandbox
+  - Building
+  - Economy
+  - Management
+  - Sci-fi
+  - Simulation
+  - Science
+  - Base-Building
+  - Crafting
+  - Moddable
+  - Trains
+  - Capitalism
+  - Modern
+  - Strategy
   - Singleplayer
 - !ruby/object:Game
   name: Lost Eidolons
@@ -1894,6 +1888,39 @@
   - Historical
   - Party-Based RPG
 - !ruby/object:Game
+  name: Marvel's Guardians of the Galaxy
+  month: September
+  year: 2024
+  humble_scheme: choice
+  steam_id: 1088850
+  tags:
+  - Singleplayer
+  - Story Rich
+  - Action
+  - Action-Adventure
+  - Superhero
+  - Third-Person Shooter
+  - Choices Matter
+  - Comedy
+  - Sci-fi
+  - Exploration
+  - Adventure
+  - Space
+  - Shooter
+  - Cinematic
+  - Great Soundtrack
+  - Atmospheric
+  - Aliens
+  - RPG
+  - Multiplayer
+  - Open World
+- !ruby/object:Game
+  name: Rue Valley - Alpha Playtest
+  month: September
+  year: 2024
+  humble_scheme: choice
+  steam_id:
+- !ruby/object:Game
   name: 'SpongeBob SquarePants: The Cosmic Shake'
   month: September
   year: 2024
@@ -1920,33 +1947,6 @@
   - Collectathon
   - Memes
   - Mature
-- !ruby/object:Game
-  name: Coral Island
-  month: September
-  year: 2024
-  humble_scheme: choice
-  steam_id: 1158160
-  tags:
-  - Farming Sim
-  - Life Sim
-  - Relaxing
-  - Dating Sim
-  - Simulation
-  - Agriculture
-  - RPG
-  - Crafting
-  - Character Customization
-  - Singleplayer
-  - Building
-  - Sandbox
-  - Open World
-  - Casual
-  - Indie
-  - Adventure
-  - Fishing
-  - Mining
-  - Cartoony
-  - LGBTQ+
 - !ruby/object:Game
   name: 'Stranded: Alien Dawn'
   month: September
@@ -1975,32 +1975,113 @@
   - Building
   - Space
 - !ruby/object:Game
-  name: Marvel's Guardians of the Galaxy
+  name: You Suck at Parking® - Complete Edition
   month: September
   year: 2024
   humble_scheme: choice
-  steam_id: 1088850
+  steam_id: 837880
+  tags:
+  - Racing
+  - Driving
+  - Arcade
+  - Parkour
+  - Character Customization
+  - Cute
+  - 3D
+  - Isometric
+  - Colorful
+  - Controller
+  - Cartoony
+  - Stylized
+  - Family Friendly
+  - Score Attack
+  - Comedy
+  - Physics
+  - Cartoon
+  - Sports
+  - Singleplayer
+  - Action
+- !ruby/object:Game
+  name: Dome Keeper
+  month: October
+  year: 2024
+  humble_scheme: choice
+  steam_id: 1637320
   tags:
   - Singleplayer
-  - Story Rich
+  - Post-apocalyptic
+  - Rogue-like
   - Action
-  - Action-Adventure
-  - Superhero
-  - Third-Person Shooter
-  - Choices Matter
-  - Comedy
   - Sci-fi
+  - Combat
+  - Resource Management
+  - Tower Defense
+  - Atmospheric
+  - Space
+  - Pixel Graphics
+  - Procedural Generation
+  - Physics
+  - Replay Value
+  - Retro
+  - Exploration
+  - Controller
+  - 2D
+  - Tactical
+  - Adventure
+- !ruby/object:Game
+  name: Jack Move
+  month: October
+  year: 2024
+  humble_scheme: choice
+  steam_id: 1099640
+  tags:
+  - Turn-Based
+  - JRPG
+  - Cyberpunk
+  - Pixel Graphics
+  - Story Rich
+  - Female Protagonist
+  - Turn-Based Combat
+  - Character Customization
+  - RPG
+  - Controller
+  - 2D
+  - Anime
+  - 'Dystopian '
+  - Sci-fi
+  - Hacking
+  - Adventure
+  - Exploration
+  - Singleplayer
+  - Party-Based RPG
+  - Turn-Based Tactics
+- !ruby/object:Game
+  name: Jusant
+  month: October
+  year: 2024
+  humble_scheme: choice
+  steam_id: 1977170
+  tags:
+  - Atmospheric
+  - Action-Adventure
+  - Action
+  - Parkour
+  - Puzzle
+  - Soundtrack
   - Exploration
   - Adventure
-  - Space
-  - Shooter
+  - Nature
+  - 3D Platformer
+  - Cute
+  - Platformer
+  - Fantasy
+  - Third Person
+  - 3D
+  - Relaxing
+  - Colorful
+  - Narration
+  - Singleplayer
   - Cinematic
-  - Great Soundtrack
-  - Atmospheric
-  - Aliens
-  - RPG
-  - Multiplayer
-  - Open World
 - !ruby/object:Game
   name: McPixel 3
   month: October
@@ -2028,6 +2109,60 @@
   - Linear
   - Multiple Endings
   - Story Rich
+- !ruby/object:Game
+  name: Persona® 5 Strikers
+  month: October
+  year: 2024
+  humble_scheme: choice
+  steam_id: 1382330
+  tags:
+  - Anime
+  - Hack and Slash
+  - JRPG
+  - Great Soundtrack
+  - Adventure
+  - Story Rich
+  - Singleplayer
+  - RPG
+  - Action
+  - Action-Adventure
+  - Third Person
+  - Musou
+  - 3D
+  - Action RPG
+  - Colorful
+  - Atmospheric
+  - 3D Platformer
+  - Funny
+  - Simulation
+  - 2D
+- !ruby/object:Game
+  name: REMNANT II®
+  month: October
+  year: 2024
+  humble_scheme: choice
+  steam_id: 1282100
+  tags:
+  - Souls-like
+  - Action
+  - Co-op
+  - Adventure
+  - Third-Person Shooter
+  - RPG
+  - Shooter
+  - Dark
+  - Action-Adventure
+  - Post-apocalyptic
+  - Online Co-Op
+  - Multiplayer
+  - Combat
+  - Horror
+  - Third Person
+  - Atmospheric
+  - PvE
+  - Singleplayer
+  - Controller
+  - Gore
 - !ruby/object:Game
   name: Remnant Records
   month: October
@@ -2083,140 +2218,32 @@
   - Minimalist
   - Building
 - !ruby/object:Game
-  name: Jack Move
-  month: October
+  name: Cassette Beasts
+  month: November
   year: 2024
   humble_scheme: choice
-  steam_id: 1099640
+  steam_id: 1321440
   tags:
-  - Turn-Based
-  - JRPG
-  - Cyberpunk
-  - Pixel Graphics
-  - Story Rich
-  - Female Protagonist
+  - Controller
+  - Comedy
+  - Creature Collector
+  - Local Co-Op
   - Turn-Based Combat
-  - Character Customization
-  - RPG
-  - Controller
-  - 2D
-  - Anime
-  - 'Dystopian '
-  - Sci-fi
-  - Hacking
-  - Adventure
-  - Exploration
-  - Singleplayer
-  - Party-Based RPG
-  - Turn-Based Tactics
-- !ruby/object:Game
-  name: Dome Keeper
-  month: October
-  year: 2024
-  humble_scheme: choice
-  steam_id: 1637320
-  tags:
-  - Singleplayer
-  - Post-apocalyptic
-  - Rogue-like
-  - Action
-  - Sci-fi
-  - Combat
-  - Resource Management
-  - Tower Defense
-  - Atmospheric
-  - Space
-  - Pixel Graphics
-  - Procedural Generation
-  - Physics
-  - Replay Value
-  - Retro
-  - Exploration
-  - Controller
-  - 2D
-  - Tactical
-  - Adventure
-- !ruby/object:Game
-  name: Jusant
-  month: October
-  year: 2024
-  humble_scheme: choice
-  steam_id: 1977170
-  tags:
-  - Atmospheric
-  - Action-Adventure
-  - Action
-  - Parkour
-  - Puzzle
-  - Soundtrack
-  - Exploration
-  - Adventure
-  - Nature
-  - 3D Platformer
-  - Cute
-  - Platformer
-  - Fantasy
-  - Third Person
+  - PvP
+  - Co-op
   - 3D
   - Relaxing
-  - Colorful
-  - Narration
-  - Singleplayer
-  - Cinematic
-- !ruby/object:Game
-  name: Persona® 5 Strikers
-  month: October
-  year: 2024
-  humble_scheme: choice
-  steam_id: 1382330
-  tags:
-  - Anime
-  - Hack and Slash
+  - Collectathon
+  - Sandbox
+  - Cartoony
   - JRPG
-  - Great Soundtrack
-  - Adventure
-  - Story Rich
-  - Singleplayer
   - RPG
-  - Action
-  - Action-Adventure
-  - Third Person
-  - Musou
-  - 3D
-  - Action RPG
-  - Colorful
-  - Atmospheric
-  - 3D Platformer
-  - Funny
-  - Simulation
+  - Open World
+  - Adventure
+  - Singleplayer
+  - Pixel Graphics
   - 2D
-- !ruby/object:Game
-  name: REMNANT II®
-  month: October
-  year: 2024
-  humble_scheme: choice
-  steam_id: 1282100
-  tags:
-  - Souls-like
-  - Action
-  - Co-op
-  - Adventure
-  - Third-Person Shooter
-  - RPG
-  - Shooter
-  - Dark
-  - Action-Adventure
-  - Post-apocalyptic
-  - Online Co-Op
-  - Multiplayer
-  - Combat
-  - Horror
-  - Third Person
-  - Atmospheric
-  - PvE
-  - Singleplayer
-  - Controller
-  - Gore
+  - Colorful
 - !ruby/object:Game
   name: 'Garden Life: A Cozy Simulator'
   month: November
@@ -2298,6 +2325,33 @@
   - Party Game
   - Experimental
 - !ruby/object:Game
+  name: Persona 4 Golden
+  month: November
+  year: 2024
+  humble_scheme: choice
+  steam_id: 1113000
+  tags:
+  - JRPG
+  - Great Soundtrack
+  - Story Rich
+  - Anime
+  - Turn-Based Combat
+  - RPG
+  - Singleplayer
+  - Party-Based RPG
+  - Mystery
+  - Multiple Endings
+  - Emotional
+  - Turn-Based Strategy
+  - Detective
+  - Dating Sim
+  - Colorful
+  - Adventure
+  - Strategy
+  - Visual Novel
+  - Violent
+  - Turn-Based
+- !ruby/object:Game
   name: 'The Bookwalker: Thief of Tales'
   month: November
   year: 2024
@@ -2324,33 +2378,6 @@
   - Drama
   - Puzzle
   - Visual Novel
-- !ruby/object:Game
-  name: Cassette Beasts
-  month: November
-  year: 2024
-  humble_scheme: choice
-  steam_id: 1321440
-  tags:
-  - Controller
-  - Comedy
-  - Creature Collector
-  - Local Co-Op
-  - Turn-Based Combat
-  - PvP
-  - Co-op
-  - 3D
-  - Relaxing
-  - Collectathon
-  - Sandbox
-  - Cartoony
-  - JRPG
-  - RPG
-  - Open World
-  - Adventure
-  - Singleplayer
-  - Pixel Graphics
-  - 2D
-  - Colorful
 - !ruby/object:Game
   name: The Lamplighters League
   month: November
@@ -2379,33 +2406,6 @@
   - Singleplayer
   - Dark Fantasy
 - !ruby/object:Game
-  name: Persona 4 Golden
-  month: November
-  year: 2024
-  humble_scheme: choice
-  steam_id: 1113000
-  tags:
-  - JRPG
-  - Great Soundtrack
-  - Story Rich
-  - Anime
-  - Turn-Based Combat
-  - RPG
-  - Singleplayer
-  - Party-Based RPG
-  - Mystery
-  - Multiple Endings
-  - Emotional
-  - Turn-Based Strategy
-  - Detective
-  - Dating Sim
-  - Colorful
-  - Adventure
-  - Strategy
-  - Visual Novel
-  - Violent
-  - Turn-Based
-- !ruby/object:Game
   name: 'Warhammer 40,000: Darktide'
   month: November
   year: 2024
@@ -2432,200 +2432,6 @@
   - First-Person
   - Action
   - Survival Horror
-- !ruby/object:Game
-  name: 'Monster Prom 3: Monster Roadtrip'
-  month: December
-  year: 2024
-  humble_scheme: choice
-  steam_id: 1665190
-  tags:
-  - Visual Novel
-  - LGBTQ+
-  - Comedy
-  - Multiplayer
-  - Dating Sim
-  - Choices Matter
-  - Story Rich
-  - Dark Humor
-  - Funny
-  - Multiple Endings
-  - Memes
-  - Choose Your Own Adventure
-  - Romance
-  - Survival
-  - Indie
-  - Comic Book
-  - Resource Management
-  - 2D
-  - Simulation
-  - Text-Based
-- !ruby/object:Game
-  name: Venba
-  month: December
-  year: 2024
-  humble_scheme: choice
-  steam_id: 1491670
-  tags:
-  - Cooking
-  - Casual
-  - Narrative
-  - Puzzle
-  - Female Protagonist
-  - Stylized
-  - 1980s
-  - Emotional
-  - Conversation
-  - Cinematic
-  - Interactive Fiction
-  - Visual Novel
-  - Story Rich
-  - Indie
-  - Choices Matter
-  - Soundtrack
-  - Atmospheric
-  - Crafting
-  - Hand-drawn
-  - Exploration
-- !ruby/object:Game
-  name: Inkulinati
-  month: December
-  year: 2024
-  humble_scheme: choice
-  steam_id: 957960
-  tags:
-  - Medieval
-  - Turn-Based Strategy
-  - Turn-Based Tactics
-  - Rogue-lite
-  - Turn-Based
-  - Funny
-  - Deckbuilding
-  - Dark Humor
-  - Hand-drawn
-  - PvP
-  - 2D
-  - Stylized
-  - Strategy RPG
-  - PvE
-  - Historical
-  - Turn-Based Combat
-  - Strategy
-  - Multiplayer
-  - Singleplayer
-  - Local Multiplayer
-- !ruby/object:Game
-  name: Moonstone Island
-  month: December
-  year: 2024
-  humble_scheme: choice
-  steam_id: 1658150
-  tags:
-  - Creature Collector
-  - Deckbuilding
-  - 2D
-  - Pixel Graphics
-  - Cute
-  - Sandbox
-  - Building
-  - Farming Sim
-  - Card Battler
-  - Life Sim
-  - Agriculture
-  - RPG
-  - Simulation
-  - Relaxing
-  - Fantasy
-  - Action-Adventure
-  - Strategy
-  - Dating Sim
-  - Cooking
-  - Fishing
-- !ruby/object:Game
-  name: The Invincible
-  month: December
-  year: 2024
-  humble_scheme: choice
-  steam_id: 731040
-  tags:
-  - Adventure
-  - Robots
-  - Futuristic
-  - Walking Simulator
-  - Conversation
-  - Sci-fi
-  - Female Protagonist
-  - Choices Matter
-  - Multiple Endings
-  - Mystery
-  - Space
-  - Thriller
-  - Story Rich
-  - Science
-  - Aliens
-  - Singleplayer
-  - Interactive Fiction
-  - Nonlinear
-  - First-Person
-  - Narration
-- !ruby/object:Game
-  name: 'Crime Boss: Rockay City - Tactical Weapon Pack'
-  month: December
-  year: 2024
-  humble_scheme: choice
-  steam_id: 2934440
-  tags:
-  - dlc
-- !ruby/object:Game
-  name: 'Crime Boss: Rockay City - Heavy Hitters Pack'
-  month: December
-  year: 2024
-  humble_scheme: choice
-  steam_id: 2934460
-  tags:
-  - dlc
-- !ruby/object:Game
-  name: 'Crime Boss: Rockay City - Dragon''s Gold Cup'
-  month: December
-  year: 2024
-  humble_scheme: choice
-  steam_id: 2934450
-  tags:
-  - dlc
-- !ruby/object:Game
-  name: 'Crime Boss: Rockay City - Cagnali''s Order'
-  month: December
-  year: 2024
-  humble_scheme: choice
-  steam_id: 2939860
-  tags:
-  - dlc
-- !ruby/object:Game
-  name: 'Crime Boss: Rockay City'
-  month: December
-  year: 2024
-  humble_scheme: choice
-  steam_id: 2933080
-  tags:
-  - Action
-  - Shooter
-  - FPS
-  - Heist
-  - Action Roguelike
-  - Co-op
-  - Multiplayer
-  - Crime
-  - Realistic
-  - Looter Shooter
-  - Singleplayer
-  - Tactical
-  - Online Co-Op
-  - America
-  - 3D
-  - PvE
-  - Combat
-  - Team-Based
-  - Stealth
-  - Funny
 - !ruby/object:Game
   name: 'Atlas Fallen: Reign of Sand'
   month: December
@@ -2654,6 +2460,173 @@
   - RPG
   - Story Rich
 - !ruby/object:Game
+  name: Bomb Rush Cyberfunk
+  month: December
+  year: 2024
+  humble_scheme: choice
+  steam_id: 1353230
+  tags:
+  - Action
+  - 3D Platformer
+  - Stylized
+  - Adventure
+  - Parkour
+  - Colorful
+  - 3D
+  - Cyberpunk
+  - Great Soundtrack
+  - Futuristic
+  - Cartoon
+  - Anime
+  - Jet
+  - Walking Simulator
+  - Relaxing
+  - Indie
+  - Singleplayer
+  - Transhumanism
+  - Score Attack
+  - Skating
+- !ruby/object:Game
+  name: 'Crime Boss: Rockay City'
+  month: December
+  year: 2024
+  humble_scheme: choice
+  steam_id: 2933080
+  tags:
+  - Action
+  - Shooter
+  - FPS
+  - Heist
+  - Action Roguelike
+  - Co-op
+  - Multiplayer
+  - Crime
+  - Realistic
+  - Looter Shooter
+  - Singleplayer
+  - Tactical
+  - Online Co-Op
+  - America
+  - 3D
+  - PvE
+  - Combat
+  - Team-Based
+  - Stealth
+  - Funny
+- !ruby/object:Game
+  name: 'Crime Boss: Rockay City - Cagnali''s Order'
+  month: December
+  year: 2024
+  humble_scheme: choice
+  steam_id: 2939860
+  tags:
+  - dlc
+- !ruby/object:Game
+  name: 'Crime Boss: Rockay City - Dragon''s Gold Cup'
+  month: December
+  year: 2024
+  humble_scheme: choice
+  steam_id: 2934450
+  tags:
+  - dlc
+- !ruby/object:Game
+  name: 'Crime Boss: Rockay City - Heavy Hitters Pack'
+  month: December
+  year: 2024
+  humble_scheme: choice
+  steam_id: 2934460
+  tags:
+  - dlc
+- !ruby/object:Game
+  name: 'Crime Boss: Rockay City - Tactical Weapon Pack'
+  month: December
+  year: 2024
+  humble_scheme: choice
+  steam_id: 2934440
+  tags:
+  - dlc
+- !ruby/object:Game
+  name: Inkulinati
+  month: December
+  year: 2024
+  humble_scheme: choice
+  steam_id: 957960
+  tags:
+  - Medieval
+  - Turn-Based Strategy
+  - Turn-Based Tactics
+  - Rogue-lite
+  - Turn-Based
+  - Funny
+  - Deckbuilding
+  - Dark Humor
+  - Hand-drawn
+  - PvP
+  - 2D
+  - Stylized
+  - Strategy RPG
+  - PvE
+  - Historical
+  - Turn-Based Combat
+  - Strategy
+  - Multiplayer
+  - Singleplayer
+  - Local Multiplayer
+- !ruby/object:Game
+  name: 'Monster Prom 3: Monster Roadtrip'
+  month: December
+  year: 2024
+  humble_scheme: choice
+  steam_id: 1665190
+  tags:
+  - Visual Novel
+  - LGBTQ+
+  - Comedy
+  - Multiplayer
+  - Dating Sim
+  - Choices Matter
+  - Story Rich
+  - Dark Humor
+  - Funny
+  - Multiple Endings
+  - Memes
+  - Choose Your Own Adventure
+  - Romance
+  - Survival
+  - Indie
+  - Comic Book
+  - Resource Management
+  - 2D
+  - Simulation
+  - Text-Based
+- !ruby/object:Game
+  name: Moonstone Island
+  month: December
+  year: 2024
+  humble_scheme: choice
+  steam_id: 1658150
+  tags:
+  - Creature Collector
+  - Deckbuilding
+  - 2D
+  - Pixel Graphics
+  - Cute
+  - Sandbox
+  - Building
+  - Farming Sim
+  - Card Battler
+  - Life Sim
+  - Agriculture
+  - RPG
+  - Simulation
+  - Relaxing
+  - Fantasy
+  - Action-Adventure
+  - Strategy
+  - Dating Sim
+  - Cooking
+  - Fishing
+- !ruby/object:Game
   name: Old World
   month: December
   year: 2024
@@ -2681,29 +2654,56 @@
   - Diplomacy
   - Hex Grid
 - !ruby/object:Game
-  name: Bomb Rush Cyberfunk
+  name: The Invincible
   month: December
   year: 2024
   humble_scheme: choice
-  steam_id: 1353230
+  steam_id: 731040
   tags:
-  - Action
-  - 3D Platformer
-  - Stylized
   - Adventure
-  - Parkour
-  - Colorful
-  - 3D
-  - Cyberpunk
-  - Great Soundtrack
+  - Robots
   - Futuristic
-  - Cartoon
-  - Anime
-  - Jet
   - Walking Simulator
-  - Relaxing
-  - Indie
+  - Conversation
+  - Sci-fi
+  - Female Protagonist
+  - Choices Matter
+  - Multiple Endings
+  - Mystery
+  - Space
+  - Thriller
+  - Story Rich
+  - Science
+  - Aliens
   - Singleplayer
-  - Transhumanism
-  - Score Attack
-  - Skating
+  - Interactive Fiction
+  - Nonlinear
+  - First-Person
+  - Narration
+- !ruby/object:Game
+  name: Venba
+  month: December
+  year: 2024
+  humble_scheme: choice
+  steam_id: 1491670
+  tags:
+  - Cooking
+  - Casual
+  - Narrative
+  - Puzzle
+  - Female Protagonist
+  - Stylized
+  - 1980s
+  - Emotional
+  - Conversation
+  - Cinematic
+  - Interactive Fiction
+  - Visual Novel
+  - Story Rich
+  - Indie
+  - Choices Matter
+  - Soundtrack
+  - Atmospheric
+  - Crafting
+  - Hand-drawn
+  - Exploration
