@@ -41,6 +41,10 @@ class SteamSpy
   def get_tags_for(appid)
     game_raw_json = Net::HTTP.get(URI.parse(steam_spy_api_url(appid)))
     game = JSON.parse(game_raw_json)
+
+    # If both positive and negative scores are zero, this is likely DLC
+    return ['dlc'] if game['positive'].zero? && game['negative'].zero?
+
     game['tags'].empty? ? [] : game['tags'].keys
   end
 end
