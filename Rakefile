@@ -4,7 +4,7 @@ require './lib/steam_spy'
 require './lib/steam_store'
 
 task :default do
-  Rake::Task['generate_with_steam_ids_output'].invoke
+  Rake::Task['monthly'].invoke
 end
 
 # Generate games and ids
@@ -38,7 +38,7 @@ end
 
 desc 'Show missing Steam Ids'
 task :missing_steam_ids do
-  GamesListFiles.show_missing_steam_ids
+  GamesListFiles.show_missing('steam_ids')
 end
 
 # Steam datastore
@@ -73,14 +73,21 @@ desc 'Add missing tags'
 task :add_missing_tags do
   spy = SteamSpy.new
   spy.add_missing_tags
+  GamesListFiles.write_output_files(spy.game_list)
+end
+
+desc 'Show missing Tags'
+task :show_missing_tags do
+  GamesListFiles.show_missing('tags')
 end
 
 # Convenience methods
 
-desc 'Update all lists with Steam Ids including missing game output (default)'
-task :generate_with_steam_ids_output do
+desc 'Monthly task - run when adding new games (default)'
+task :monthly do
   Rake::Task['generate_with_steam_ids'].invoke
   Rake::Task['missing_steam_ids'].invoke
+  Rake::Task['add_missing_tags'].invoke
 end
 
 desc 'Regenerate all listings and Steam datastore with missing game output'
