@@ -24,7 +24,7 @@ task :generate_games do
   GamesListFiles.write_output_files(hc.game_list)
 end
 
-desc 'Generate Game objects with Steam Ids (default)'
+desc 'Generate Game objects with Steam Ids'
 task :generate_with_steam_ids, [:month, :year] do |_t, args|
   m = args[:month]&.to_i
   y = args[:year]&.to_i
