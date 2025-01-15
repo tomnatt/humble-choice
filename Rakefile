@@ -43,14 +43,14 @@ end
 
 # Steam datastore
 
-desc 'Create Steam datastore'
+desc 'Create local Steam datastore'
 task get_steam: :delete_steam do
   store = SteamStore.new(load_file: false)
   store.load_entries_from_steam_api
   store.save_entries
 end
 
-desc 'Delete Steam datastore'
+desc 'Delete local Steam datastore'
 task :delete_steam do
   store = SteamStore.new(load_file: false)
   store.delete_entries_file
