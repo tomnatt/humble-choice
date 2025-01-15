@@ -22,14 +22,15 @@ class SteamSpy
     end
   end
 
-  # for each game, if there is a steam id and no tags get them
   def add_missing_tags
-    puts 'TODO'
-    # @game_list.each do |game|
-    #   if game.tags.empty? && !game.steam_id.nil?
-    #     puts "#{game.name} no tags"
-    #   end
-    # end
+    @game_list.each do |game|
+      # Skip this game unless there is a steam id and no tags, in which case fetch them
+      next unless (game.tags.nil? || game.tags.empty?) && !game.steam_id.nil?
+
+      game.tags = get_tags_for(game.steam_id)
+      # Wait between each API call to avoid hammering the API
+      sleep 1
+    end
   end
 
   private
