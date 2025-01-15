@@ -32,14 +32,15 @@ class GamesListFiles
     end
   end
 
-  def self.show_missing_steam_ids
-    missing = missing_steam_ids
-    show_missing_steam_ids_by_year(missing)
+  def self.show_missing(field)
+    missing = missing_list(field)
+
+    show_missing_by_year(missing)
     puts "\n"
-    show_missing_steam_ids_counts(missing)
+    show_missing_counts(missing)
   end
 
-  def self.show_missing_steam_ids_by_year(missing)
+  def self.show_missing_by_year(missing)
     missing.keys.sort.each do |year|
       unless missing[year].empty?
         o = { year => missing[year] }.to_yaml
@@ -48,7 +49,7 @@ class GamesListFiles
     end
   end
 
-  def self.show_missing_steam_ids_counts(missing)
+  def self.show_missing_counts(missing)
     # Output count of missing games
     total = 0
     missing.keys.sort.each do |year|
@@ -59,7 +60,7 @@ class GamesListFiles
     puts "Total: #{total}"
   end
 
-  def self.missing_steam_ids
+  def self.missing_list(field)
     ignore_list = read_ignore_list
     existing_list = read_games
 
@@ -68,11 +69,19 @@ class GamesListFiles
       # Create array for year if doesn't already exist
       missing[game.year] = [] if missing[game.year].nil?
 
-      # Include if empty, and not on ignore list
-      missing[game.year] << game if game.steam_id.nil? && !(ignore_list.include? game.name.downcase)
+      # Include if missing, and not on ignore list
+      missing[game.year] << game if missing?(field, game) && !(ignore_list.include? game.name.downcase)
     end
-
     missing
+  end
+
+  def self.missing?(field, game)
+    # Criteria for information missing for a Steam Id vs Tags
+    if field == 'steam_ids'
+      game.steam_id.nil?
+    else
+      game.tags.nil? || game.tags.empty?
+    end
   end
 
   def self.read_ignore_list

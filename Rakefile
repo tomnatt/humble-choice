@@ -1,9 +1,10 @@
 require './lib/humble_choice_generator'
 require './lib/games_list_files'
+require './lib/steam_spy'
 require './lib/steam_store'
 
 task :default do
-  Rake::Task['generate_with_steam_ids_output'].invoke
+  Rake::Task['monthly'].invoke
 end
 
 # Generate games and ids
@@ -23,7 +24,7 @@ task :generate_games do
   GamesListFiles.write_output_files(hc.game_list)
 end
 
-desc 'Generate Game objects with Steam Ids (default)'
+desc 'Generate Game objects with Steam Ids'
 task :generate_with_steam_ids, [:month, :year] do |_t, args|
   m = args[:month]&.to_i
   y = args[:year]&.to_i
@@ -37,33 +38,60 @@ end
 
 desc 'Show missing Steam Ids'
 task :missing_steam_ids do
-  GamesListFiles.show_missing_steam_ids
+  GamesListFiles.show_missing('steam_ids')
 end
 
 # Steam datastore
 
-desc 'Create Steam datastore'
+desc 'Create local Steam datastore'
 task get_steam: :delete_steam do
   store = SteamStore.new(load_file: false)
   store.load_entries_from_steam_api
   store.save_entries
 end
 
-desc 'Delete Steam datastore'
+desc 'Delete local Steam datastore'
 task :delete_steam do
   store = SteamStore.new(load_file: false)
   store.delete_entries_file
 end
 
-# Convenience methods
+# Steam tags
 
-desc 'Update all lists with Steam Ids including missing game output (default)'
-task :generate_with_steam_ids_output do
-  Rake::Task['generate_with_steam_ids'].invoke
-  Rake::Task['missing_steam_ids'].invoke
+desc 'Add tags - very slow with no params'
+task :add_tags, [:month, :year] do |_t, args|
+  m = args[:month]&.to_i
+  y = args[:year]&.to_i
+
+  spy = SteamSpy.new
+  spy.add_tags_for(m, y)
+
+  GamesListFiles.write_output_files(spy.game_list)
 end
 
-desc 'Regenerate all listings and Steam datastore with missing game output'
+desc 'Add missing tags'
+task :add_missing_tags do
+  spy = SteamSpy.new
+  spy.add_missing_tags
+  GamesListFiles.write_output_files(spy.game_list)
+end
+
+desc 'Show missing Tags'
+task :missing_tags do
+  GamesListFiles.show_missing('tags')
+end
+
+# Convenience methods
+
+desc 'Monthly task - run when adding new games (default)'
+task :monthly do
+  Rake::Task['generate_with_steam_ids'].invoke
+  Rake::Task['missing_steam_ids'].invoke
+  Rake::Task['add_missing_tags'].invoke
+  Rake::Task['missing_tags'].invoke
+end
+
+desc 'Regenerate all listings and Steam datastore with missing game output - retains Tags unchanged'
 task :regenerate do
   Rake::Task['get_steam'].invoke
   Rake::Task['generate_with_steam_ids'].invoke

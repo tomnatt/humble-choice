@@ -5,30 +5,122 @@
   year: 2017
   humble_scheme: monthly
   steam_id: 437390
+  tags:
+  - Indie
+  - Casual
+  - Action
+  - Platformer
+  - Great Soundtrack
+  - 2D
+  - Difficult
 - !ruby/object:Game
   name: 'Jotun: Valhalla Edition'
   month: January
   year: 2017
   humble_scheme: monthly
   steam_id: 323580
+  tags:
+  - Adventure
+  - Mythology
+  - Action
+  - Indie
+  - Hand-drawn
+  - Female Protagonist
+  - Difficult
+  - Singleplayer
+  - Atmospheric
+  - Exploration
+  - Great Soundtrack
+  - 2D
+  - Isometric
+  - Fantasy
+  - Vikings
+  - Controller
+  - Kickstarter
+  - Story Rich
+  - Boss Rush
+  - Souls-like
 - !ruby/object:Game
   name: Neon Chrome
   month: January
   year: 2017
   humble_scheme: monthly
   steam_id: 428750
+  tags:
+  - Cyberpunk
+  - Twin Stick Shooter
+  - Action Roguelike
+  - Action
+  - Top-Down Shooter
+  - Rogue-lite
+  - Indie
+  - Local Co-Op
+  - Shooter
+  - Top-Down
+  - Sci-fi
+  - Great Soundtrack
+  - Moddable
+  - Rogue-like
+  - Level Editor
+  - Gore
+  - 'Dystopian '
+  - RPG
+  - Dungeon Crawler
+  - Local Multiplayer
 - !ruby/object:Game
   name: 'The Legend of Heroes: Trails in the Sky'
   month: January
   year: 2017
   humble_scheme: monthly
   steam_id: 251150
+  tags:
+  - JRPG
+  - Story Rich
+  - RPG
+  - Anime
+  - Great Soundtrack
+  - Turn-Based
+  - Female Protagonist
+  - Fantasy
+  - Adventure
+  - Singleplayer
+  - Turn-Based Strategy
+  - Classic
+  - Tactical RPG
+  - Turn-Based Combat
+  - Strategy
+  - Romance
+  - Action
+  - Strategy RPG
+  - Isometric
+  - Tactical
 - !ruby/object:Game
   name: Mother Russia Bleeds
   month: January
   year: 2017
   humble_scheme: monthly
   steam_id: 361300
+  tags:
+  - Beat 'em up
+  - Gore
+  - Violent
+  - Action
+  - Pixel Graphics
+  - Indie
+  - Great Soundtrack
+  - Co-op
+  - Local Co-Op
+  - 2D
+  - Retro
+  - Mature
+  - Atmospheric
+  - Multiplayer
+  - 4 Player Local
+  - Difficult
+  - Psychological Horror
+  - Female Protagonist
+  - Nudity
+  - Memes
 - !ruby/object:Game
   name: Project CARS
   month: January
@@ -41,144 +133,602 @@
   year: 2017
   humble_scheme: monthly
   steam_id: 235540
+  tags:
+  - Action
+  - Online Co-Op
+  - Co-op
+  - Dark Fantasy
+  - First-Person
+  - Gore
+  - Games Workshop
+  - Multiplayer
+  - FPS
+  - Fantasy
+  - Hack and Slash
+  - Atmospheric
+  - Action RPG
+  - Survival
+  - Dwarf
+  - RPG
+  - Singleplayer
+  - Adventure
+  - Indie
+  - Horror
 - !ruby/object:Game
   name: Husk
   month: February
   year: 2017
   humble_scheme: monthly
   steam_id: 553960
+  tags:
+  - Horror
+  - Indie
+  - Atmospheric
+  - Psychological
+  - Walking Simulator
+  - First-Person
+  - Singleplayer
+  - Psychological Horror
+  - Adventure
+  - Violent
+  - Story Rich
+  - Exploration
+  - Emotional
+  - Action
+  - Dark
+  - Drama
+  - Survival Horror
+  - Survival
+  - Action-Adventure
+  - Realistic
 - !ruby/object:Game
   name: Project Highrise
   month: February
   year: 2017
   humble_scheme: monthly
   steam_id: 423580
+  tags:
+  - Simulation
+  - Management
+  - Building
+  - Strategy
+  - Singleplayer
+  - 2D
+  - Sandbox
+  - Indie
+  - Economy
+  - Casual
+  - City Builder
+  - Pixel Graphics
+  - Base-Building
+  - Multiplayer
 - !ruby/object:Game
   name: 'Okhlos: Omega'
   month: February
   year: 2017
   humble_scheme: monthly
   steam_id: 400180
+  tags:
+  - Action Roguelike
+  - Action
+  - Indie
+  - Comedy
+  - Mythology
+  - Singleplayer
+  - Rogue-like
+  - 2.5D
+  - Strategy
+  - Arcade
+  - Pixel Graphics
+  - Rogue-lite
+  - Procedural Generation
+  - Historical
+  - Violent
+  - Difficult
+  - Retro
+  - Perma Death
+  - Real Time Tactics
+  - Funny
 - !ruby/object:Game
   name: SteamWorld Heist
   month: February
   year: 2017
   humble_scheme: monthly
   steam_id: 322190
+  tags:
+  - Strategy
+  - Turn-Based
+  - Steampunk
+  - RPG
+  - Indie
+  - Action
+  - Adventure
+  - 2D
+  - Female Protagonist
+  - Turn-Based Tactics
+  - Singleplayer
+  - Robots
+  - Great Soundtrack
+  - Turn-Based Combat
+  - Sci-fi
+  - Heist
+  - Turn-Based Strategy
+  - Comedy
+  - Atmospheric
+  - Touch-Friendly
 - !ruby/object:Game
   name: ABZU
   month: February
   year: 2017
   humble_scheme: monthly
   steam_id: 384190
+  tags:
+  - Relaxing
+  - Atmospheric
+  - Underwater
+  - Exploration
+  - Great Soundtrack
+  - Adventure
+  - Singleplayer
+  - Casual
+  - Colorful
+  - Indie
+  - Beautiful
+  - Family Friendly
+  - Fantasy
+  - Short
+  - Open World
+  - Story Rich
+  - Third Person
+  - Walking Simulator
+  - Simulation
+  - Controller
 - !ruby/object:Game
   name: 'Ryse: Son of Rome'
   month: February
   year: 2017
   humble_scheme: monthly
   steam_id: 302510
+  tags:
+  - Hack and Slash
+  - Action
+  - Quick-Time Events
+  - Rome
+  - Historical
+  - Third Person
+  - Singleplayer
+  - Gore
+  - Adventure
+  - Linear
+  - War
+  - Atmospheric
+  - Nudity
+  - RPG
+  - Multiplayer
+  - Co-op
+  - Open World
+  - Benchmark
+  - Short
+  - Fantasy
 - !ruby/object:Game
   name: XCOM® 2
   month: February
   year: 2017
   humble_scheme: monthly
   steam_id: 268500
+  tags:
+  - Strategy
+  - Turn-Based
+  - Turn-Based Strategy
+  - Tactical
+  - Turn-Based Tactics
+  - Aliens
+  - Sci-fi
+  - Character Customization
+  - Singleplayer
+  - Difficult
+  - Multiplayer
+  - RPG
+  - Moddable
+  - Perma Death
+  - Futuristic
+  - Action
+  - Atmospheric
+  - Great Soundtrack
+  - Co-op
+  - Base-Building
 - !ruby/object:Game
   name: Morphblade
   month: March
   year: 2017
   humble_scheme: monthly
   steam_id: 494720
+  tags:
+  - Casual
+  - Indie
+  - Strategy
+  - Turn-Based
+  - Hex Grid
+  - Puzzle
+  - Singleplayer
+  - Turn-Based Strategy
+  - Top-Down
+  - 2D
+  - Turn-Based Tactics
+  - GameMaker
+  - Rogue-lite
 - !ruby/object:Game
   name: 'RIVE: Wreck, Hack, Die, Retry!'
   month: March
   year: 2017
   humble_scheme: monthly
   steam_id: 278100
+  tags:
+  - Action
+  - Twin Stick Shooter
+  - Arcade
+  - Side Scroller
+  - Shoot 'Em Up
+  - Indie
+  - Bullet Hell
+  - Platformer
+  - Shooter
+  - Difficult
+  - 2D
+  - Singleplayer
+  - Robots
 - !ruby/object:Game
   name: Flat Heroes
   month: March
   year: 2017
   humble_scheme: monthly
   steam_id: 508790
+  tags:
+  - 2D
+  - PvP
+  - Team-Based
+  - Precision Platformer
+  - Multiplayer
+  - Co-op Campaign
+  - Arcade
+  - Local Multiplayer
+  - Party
+  - 4 Player Local
+  - Local Co-Op
+  - Co-op
+  - Family Friendly
+  - Platformer
+  - Colorful
+  - Minimalist
+  - Fast-Paced
+  - Singleplayer
+  - Action
+  - Difficult
 - !ruby/object:Game
   name: ONE PIECE PIRATE WARRIORS 3
   month: March
   year: 2017
   humble_scheme: monthly
   steam_id: 331600
+  tags:
+  - Anime
+  - Action
+  - Pirates
+  - Hack and Slash
+  - Adventure
+  - Fighting
+  - Beat 'em up
+  - Multiplayer
+  - Third Person
+  - Musou
+  - Singleplayer
+  - Local Co-Op
+  - Comedy
+  - Story Rich
+  - Co-op
+  - JRPG
+  - Funny
+  - Great Soundtrack
+  - Controller
+  - Open World
 - !ruby/object:Game
   name: Space Run Galaxy
   month: March
   year: 2017
   humble_scheme: monthly
   steam_id: 355800
+  tags:
+  - Strategy
+  - Indie
+  - Tower Defense
+  - Space
+  - Sci-fi
 - !ruby/object:Game
   name: Poly Bridge
   month: March
   year: 2017
   humble_scheme: monthly
   steam_id: 367450
+  tags:
+  - Building
+  - Simulation
+  - Physics
+  - Puzzle
+  - Singleplayer
+  - Sandbox
+  - Difficult
+  - Indie
+  - Funny
+  - Family Friendly
+  - Level Editor
+  - Great Soundtrack
+  - Education
+  - Crafting
+  - Cartoon
+  - Colorful
+  - Cute
+  - Stylized
+  - Strategy
+  - Choices Matter
 - !ruby/object:Game
   name: 'Total War: WARHAMMER'
   month: March
   year: 2017
   humble_scheme: monthly
   steam_id: 364360
+  tags:
+  - Strategy
+  - Fantasy
+  - RTS
+  - War
+  - Turn-Based Strategy
+  - Games Workshop
+  - Grand Strategy
+  - Multiplayer
+  - Tactical
+  - Dark Fantasy
+  - Action
+  - Singleplayer
+  - Turn-Based
+  - Atmospheric
+  - Dwarf
+  - Co-op
+  - Story Rich
+  - Open World
+  - RPG
+  - Gore
 - !ruby/object:Game
   name: 'Slime-san: Superslime Edition'
   month: April
   year: 2017
   humble_scheme: monthly
   steam_id: 473530
+  tags:
+  - Platformer
+  - Precision Platformer
+  - 2D Platformer
+  - Difficult
+  - Funny
+  - Indie
+  - Action
+  - Adventure
+  - Great Soundtrack
+  - Pixel Graphics
+  - Arcade
+  - Fast-Paced
+  - Singleplayer
+  - Puzzle-Platformer
+  - Anime
+  - Level Editor
+  - Local Co-Op
+  - Local Multiplayer
+  - Replay Value
+  - Retro
 - !ruby/object:Game
   name: Tumblestone
   month: April
   year: 2017
   humble_scheme: monthly
   steam_id: 269710
+  tags:
+  - Indie
+  - Casual
+  - Action
+  - Strategy
+  - Puzzle
+  - Match 3
+  - Local Multiplayer
+  - Singleplayer
+  - 4 Player Local
+  - Arcade
+  - Local Co-Op
+  - Co-op
+  - 2D
+  - Competitive
+  - Split Screen
+  - Multiplayer
+  - Relaxing
+  - Funny
+  - Family Friendly
+  - Hand-drawn
 - !ruby/object:Game
   name: Event[0]
   month: April
   year: 2017
   humble_scheme: monthly
   steam_id: 470260
+  tags:
+  - Adventure
+  - Sci-fi
+  - Atmospheric
+  - Space
+  - Indie
+  - Singleplayer
+  - Mystery
+  - First-Person
+  - Choices Matter
+  - Multiple Endings
+  - Artificial Intelligence
+  - Story Rich
+  - Exploration
+  - Short
+  - Dynamic Narration
+  - Narration
+  - Walking Simulator
+  - Horror
+  - Text-Based
+  - Typing
 - !ruby/object:Game
   name: 'Kingdom: New Lands'
   month: April
   year: 2017
   humble_scheme: monthly
   steam_id: 496300
+  tags:
+  - Tower Defense
+  - Survival
+  - Base-Building
+  - Minimalist
+  - Exploration
+  - Rogue-lite
+  - Rogue-like
+  - Building
+  - Strategy
+  - Colony Sim
+  - Atmospheric
+  - Side Scroller
+  - Singleplayer
+  - Soundtrack
+  - Adventure
+  - Fantasy
+  - Pixel Graphics
+  - Medieval
+  - Open World
+  - Simulation
 - !ruby/object:Game
   name: Black Mesa
   month: April
   year: 2017
   humble_scheme: monthly
   steam_id: 362890
+  tags:
+  - FPS
+  - Remake
+  - Action
+  - Sci-fi
+  - First-Person
+  - Singleplayer
+  - Shooter
+  - Atmospheric
+  - Classic
+  - Story Rich
+  - Great Soundtrack
+  - Aliens
+  - Zombies
+  - Adventure
+  - Horror
+  - Multiplayer
+  - Indie
+  - Mod
+  - Early Access
+  - Gore
 - !ruby/object:Game
   name: Layers of Fear (2016)
   month: April
   year: 2017
   humble_scheme: monthly
   steam_id: 391720
+  tags:
+  - Horror
+  - Psychological Horror
+  - Atmospheric
+  - Walking Simulator
+  - First-Person
+  - Singleplayer
+  - Story Rich
+  - Indie
+  - Adventure
+  - Multiplayer
+  - Psychedelic
+  - Dark
+  - Puzzle
+  - Exploration
+  - Great Soundtrack
+  - Mystery
+  - Lovecraftian
+  - Surreal
+  - Survival Horror
+  - Short
 - !ruby/object:Game
   name: The Witness
   month: April
   year: 2017
   humble_scheme: monthly
   steam_id: 210970
+  tags:
+  - Puzzle
+  - Exploration
+  - First-Person
+  - Open World
+  - Singleplayer
+  - Colorful
+  - Indie
+  - Atmospheric
+  - Difficult
+  - Walking Simulator
+  - Adventure
+  - Mystery
+  - Nonlinear
+  - Relaxing
+  - Philosophical
+  - Surreal
+  - Casual
+  - Great Soundtrack
+  - Story Rich
+  - Beautiful
 - !ruby/object:Game
   name: Super Rude Bear Resurrection
   month: May
   year: 2017
   humble_scheme: monthly
   steam_id: 384250
+  tags:
+  - Indie
+  - Action
+  - Precision Platformer
+  - Difficult
+  - Platformer
+  - 2D
+  - Side Scroller
+  - Great Soundtrack
+  - Fast-Paced
+  - Replay Value
+  - Time Attack
 - !ruby/object:Game
   name: The Turing Test
   month: May
   year: 2017
   humble_scheme: monthly
   steam_id: 499520
+  tags:
+  - Puzzle
+  - Sci-fi
+  - First-Person
+  - Female Protagonist
+  - Space
+  - Adventure
+  - Singleplayer
+  - Atmospheric
+  - Story Rich
+  - Great Soundtrack
+  - Artificial Intelligence
+  - Short
+  - Philosophical
+  - Robots
+  - Psychological Horror
+  - Indie
+  - Mystery
+  - Horror
 - !ruby/object:Game
   name: GoNNER OST
   month: May
@@ -191,30 +741,117 @@
   year: 2017
   humble_scheme: monthly
   steam_id: 437570
+  tags:
+  - Rogue-lite
+  - Indie
+  - Action Roguelike
+  - Platformer
+  - Shooter
+  - Singleplayer
+  - Difficult
+  - Great Soundtrack
+  - 2D
+  - Procedural Generation
+  - Action
+  - Perma Death
+  - Cute
+  - Atmospheric
+  - Side Scroller
+  - Rogue-like
 - !ruby/object:Game
   name: Metrico+
   month: May
   year: 2017
   humble_scheme: monthly
   steam_id: 373990
+  tags:
+  - Indie
+  - Adventure
+  - Puzzle-Platformer
+  - Abstract
+  - Platformer
+  - Puzzle
 - !ruby/object:Game
   name: UNDERTALE
   month: May
   year: 2017
   humble_scheme: monthly
   steam_id: 391540
+  tags:
+  - Great Soundtrack
+  - Story Rich
+  - Choices Matter
+  - Multiple Endings
+  - Pixel Graphics
+  - Funny
+  - RPG
+  - Singleplayer
+  - Indie
+  - Comedy
+  - 2D
+  - Replay Value
+  - Bullet Hell
+  - Cute
+  - Memes
+  - Retro
+  - Dark
+  - Psychological Horror
+  - Dating Sim
+  - Horror
 - !ruby/object:Game
   name: This Is the Police
   month: May
   year: 2017
   humble_scheme: monthly
   steam_id: 443810
+  tags:
+  - Strategy
+  - Management
+  - Story Rich
+  - Crime
+  - Choices Matter
+  - Singleplayer
+  - Indie
+  - Simulation
+  - Detective
+  - Noir
+  - Atmospheric
+  - Adventure
+  - Mature
+  - Great Soundtrack
+  - Political
+  - Villain Protagonist
+  - Visual Novel
+  - Kickstarter
+  - Memes
+  - Sexual Content
 - !ruby/object:Game
   name: Inside
   month: May
   year: 2017
   humble_scheme: monthly
   steam_id: 304430
+  tags:
+  - 2.5D
+  - Puzzle-Platformer
+  - Atmospheric
+  - Dark
+  - Story Rich
+  - Cinematic
+  - Indie
+  - Horror
+  - Singleplayer
+  - Adventure
+  - Multiple Endings
+  - 2D Platformer
+  - Minimalist
+  - Platformer
+  - Action-Adventure
+  - Ambient
+  - Controller
+  - Puzzle
+  - Narrative
+  - Action
 - !ruby/object:Game
   name: Dirt Rally
   month: May
@@ -227,126 +864,560 @@
   year: 2017
   humble_scheme: monthly
   steam_id: 284240
+  tags:
+  - Adventure
+  - Comedy
+  - Indie
+  - Story Rich
+  - Puzzle
+  - First-Person
+  - Funny
+  - Walking Simulator
+  - Singleplayer
+  - Exploration
+  - Point & Click
+  - Sci-fi
+  - Hidden Object
+  - Atmospheric
+  - Surreal
+  - Family Friendly
+  - Collectathon
+  - 3D
+  - Realistic
+  - 1980s
 - !ruby/object:Game
   name: Shoppe Keep
   month: June
   year: 2017
   humble_scheme: monthly
   steam_id: 381120
+  tags:
+  - Simulation
+  - RPG
+  - Indie
+  - Management
+  - Adventure
+  - Economy
+  - First-Person
+  - Fantasy
+  - Sandbox
+  - Medieval
+  - Singleplayer
+  - Early Access
+  - Capitalism
+  - Multiplayer
+  - Replay Value
+  - Trading
+  - Funny
+  - Shop Keeper
+  - Action
 - !ruby/object:Game
   name: 'Brigador: Up-Armored Edition'
   month: June
   year: 2017
   humble_scheme: monthly
   steam_id: 274500
+  tags:
+  - Twin Stick Shooter
+  - Action
+  - Top-Down Shooter
+  - Mechs
+  - Difficult
+  - Sci-fi
+  - Destruction
+  - Cyberpunk
+  - Rogue-lite
+  - Action Roguelike
+  - Isometric
+  - Vehicular Combat
+  - Shooter
+  - Top-Down
+  - Indie
+  - 'Dystopian '
+  - Atmospheric
+  - Capitalism
+  - Soundtrack
+  - Robots
 - !ruby/object:Game
   name: 'Ashes of the Singularity: Escalation'
   month: June
   year: 2017
   humble_scheme: monthly
   steam_id: 507490
+  tags:
+  - RTS
+  - Base-Building
+  - PvP
+  - Real Time Tactics
+  - Moddable
+  - Strategy
+  - Online Co-Op
+  - Transhumanism
+  - Sci-fi
+  - Military
+  - Simulation
+  - Isometric
+  - Building
+  - Dark
+  - Futuristic
+  - Robots
+  - Co-op
+  - Singleplayer
+  - Multiplayer
+  - War
 - !ruby/object:Game
   name: SUPERHOT
   month: June
   year: 2017
   humble_scheme: monthly
   steam_id: 322500
+  tags:
+  - Action
+  - FPS
+  - Bullet Time
+  - Time Manipulation
+  - Indie
+  - First-Person
+  - Singleplayer
+  - Shooter
+  - Puzzle
+  - Minimalist
+  - Short
+  - Difficult
+  - Cyberpunk
+  - Kickstarter
+  - Fast-Paced
+  - Violent
+  - Sci-fi
+  - Casual
+  - Gore
+  - Adventure
 - !ruby/object:Game
   name: 'Plague Inc: Evolved'
   month: June
   year: 2017
   humble_scheme: monthly
   steam_id: 246620
+  tags:
+  - Strategy
+  - Simulation
+  - Outbreak Sim
+  - Indie
+  - Singleplayer
+  - Multiplayer
+  - Zombies
+  - Casual
+  - Tactical
+  - Replay Value
+  - Post-apocalyptic
+  - Addictive
+  - Realistic
+  - 2D
+  - Difficult
+  - Atmospheric
+  - Co-op
+  - Sandbox
+  - Early Access
+  - Survival
 - !ruby/object:Game
   name: Stellaris
   month: June
   year: 2017
   humble_scheme: monthly
   steam_id: 281990
+  tags:
+  - Space
+  - Grand Strategy
+  - Strategy
+  - Sci-fi
+  - 4X
+  - Exploration
+  - Sandbox
+  - Simulation
+  - Multiplayer
+  - Singleplayer
+  - Real-Time with Pause
+  - Moddable
+  - Management
+  - Diplomacy
+  - Military
+  - Futuristic
+  - Replay Value
+  - Great Soundtrack
+  - Procedural Generation
+  - Atmospheric
 - !ruby/object:Game
   name: Kero Blaster
   month: July
   year: 2017
   humble_scheme: monthly
   steam_id: 292500
+  tags:
+  - Side Scroller
+  - Shoot 'Em Up
+  - Platformer
+  - Difficult
+  - Shooter
+  - Arcade
+  - Silent Protagonist
+  - 2D
+  - Controller
+  - Action
+  - Pixel Graphics
+  - Fantasy
+  - Adventure
+  - Retro
+  - Singleplayer
+  - Satire
+  - Indie
+  - Great Soundtrack
+  - Soundtrack
+  - Classic
 - !ruby/object:Game
   name: 'Sherlock Holmes: The Devil''s Daughter'
   month: July
   year: 2017
   humble_scheme: monthly
   steam_id: 350640
+  tags:
+  - Adventure
+  - Detective
+  - Mystery
+  - Story Rich
+  - Puzzle
+  - Crime
+  - Thriller
+  - Singleplayer
+  - Third Person
+  - Atmospheric
+  - Action
+  - Investigation
+  - Point & Click
+  - Choices Matter
+  - First-Person
+  - Action-Adventure
+  - 3D
+  - Casual
+  - Controller
+  - Multiplayer
 - !ruby/object:Game
   name: SimplePlanes
   month: July
   year: 2017
   humble_scheme: monthly
   steam_id: 397340
+  tags:
+  - Flight
+  - Sandbox
+  - Automation
+  - Physics
+  - Building
+  - Exploration
+  - Racing
+  - Automobile Sim
+  - Controller
+  - Military
+  - Combat Racing
+  - 3D
+  - Open World
+  - Strategy
+  - Funny
+  - Collectathon
+  - Action
+  - Vehicular Combat
+  - Moddable
+  - Artificial Intelligence
 - !ruby/object:Game
   name: Armello
   month: July
   year: 2017
   humble_scheme: monthly
   steam_id: 290340
+  tags:
+  - Board Game
+  - PvP
+  - Turn-Based Strategy
+  - Card Game
+  - Turn-Based
+  - Strategy
+  - RPG
+  - Dark Fantasy
+  - 3D
+  - Atmospheric
+  - 2D
+  - Hand-drawn
+  - Tabletop
+  - Multiple Endings
+  - Fantasy
+  - Hex Grid
+  - Lore-Rich
+  - Adventure
+  - Tactical RPG
+  - Grand Strategy
 - !ruby/object:Game
   name: Hyper Light Drifter
   month: July
   year: 2017
   humble_scheme: monthly
   steam_id: 257850
+  tags:
+  - Pixel Graphics
+  - Great Soundtrack
+  - Atmospheric
+  - Adventure
+  - Difficult
+  - Indie
+  - Action
+  - Hack and Slash
+  - Singleplayer
+  - Exploration
+  - RPG
+  - 2D
+  - Colorful
+  - Top-Down
+  - Post-apocalyptic
+  - Action RPG
+  - Metroidvania
+  - Souls-like
+  - Fantasy
+  - Sci-fi
 - !ruby/object:Game
   name: Galactic Civilizations III
   month: July
   year: 2017
   humble_scheme: monthly
   steam_id: 226860
+  tags:
+  - Aliens
+  - Sci-fi
+  - 4X
+  - Turn-Based Strategy
+  - Sandbox
+  - 3D
+  - Grand Strategy
+  - Moddable
+  - Hex Grid
+  - PvE
+  - Strategy
+  - PvP
+  - Procedural Generation
+  - Turn-Based
+  - Space
+  - Third Person
+  - Lore-Rich
+  - War
+  - Futuristic
+  - Multiplayer
 - !ruby/object:Game
   name: 'DARK SOULS™ II: Scholar of the First Sin'
   month: July
   year: 2017
   humble_scheme: monthly
   steam_id: 335300
+  tags:
+  - Souls-like
+  - Dark Fantasy
+  - RPG
+  - Difficult
+  - Action
+  - Third Person
+  - Atmospheric
+  - Action RPG
+  - Character Customization
+  - Co-op
+  - Multiplayer
+  - Adventure
+  - Fantasy
+  - Medieval
+  - Dark
+  - Singleplayer
+  - Lore-Rich
+  - Story Rich
+  - PvP
+  - Remake
 - !ruby/object:Game
   name: 'Nongunz: Doppelganger Edition'
   month: August
   year: 2017
   humble_scheme: monthly
   steam_id: 1304780
+  tags:
+  - Action Roguelike
+  - Roguevania
+  - Local Co-Op
+  - Difficult
+  - Action
+  - Adventure
+  - 2D
+  - Metroidvania
+  - Rogue-lite
+  - Gothic
+  - Surreal
+  - Co-op
+  - Side Scroller
+  - Dark
+  - Action-Adventure
+  - 2D Platformer
+  - Rogue-like
+  - Pixel Graphics
+  - Singleplayer
+  - Platformer
 - !ruby/object:Game
   name: 'Wuppo: Definitive Edition'
   month: August
   year: 2017
   humble_scheme: monthly
   steam_id: 400630
+  tags:
+  - Metroidvania
+  - Exploration
+  - Platformer
+  - 2D
+  - 2D Platformer
+  - Cute
+  - Great Soundtrack
+  - Puzzle
+  - Action
+  - Singleplayer
+  - Funny
+  - Story Rich
+  - Co-op
+  - Family Friendly
+  - Score Attack
+  - Colorful
+  - Difficult
+  - Local Co-Op
+  - Puzzle-Platformer
+  - Hand-drawn
 - !ruby/object:Game
   name: Overcooked
   month: August
   year: 2017
   humble_scheme: monthly
   steam_id: 448510
+  tags:
+  - Local Co-Op
+  - Multiplayer
+  - Local Multiplayer
+  - Co-op
+  - Casual
+  - Cooking
+  - 4 Player Local
+  - Family Friendly
+  - Funny
+  - Co-op Campaign
+  - Indie
+  - Simulation
+  - Action
+  - Cute
+  - Singleplayer
+  - Colorful
+  - Difficult
+  - Split Screen
+  - Great Soundtrack
+  - Adventure
 - !ruby/object:Game
   name: War for the Overworld
   month: August
   year: 2017
   humble_scheme: monthly
   steam_id: 230190
+  tags:
+  - Simulation
+  - God Game
+  - Strategy
+  - RTS
+  - City Builder
+  - Villain Protagonist
+  - Base-Building
+  - Dungeon Crawler
+  - Management
+  - Fantasy
+  - Underground
+  - Dark Comedy
+  - Singleplayer
+  - Funny
+  - Indie
+  - Level Editor
+  - Sandbox
+  - Old School
+  - Colony Sim
+  - Comedy
 - !ruby/object:Game
   name: Offworld Trading Company
   month: August
   year: 2017
   humble_scheme: monthly
   steam_id: 271240
+  tags:
+  - Replay Value
+  - Atmospheric
+  - 3D
+  - PvP
+  - Sci-fi
+  - Strategy
+  - Simulation
+  - Colorful
+  - Resource Management
+  - Economy
+  - Colony Sim
+  - City Builder
+  - Multiplayer
+  - Exploration
+  - Management
+  - Singleplayer
+  - Space
+  - Survival
+  - Base-Building
+  - Online Co-Op
 - !ruby/object:Game
   name: ONE PIECE BURNING BLOOD
   month: August
   year: 2017
   humble_scheme: monthly
   steam_id: 425220
+  tags:
+  - Anime
+  - Action
+  - Fighting
+  - Multiplayer
+  - Pirates
+  - Singleplayer
+  - Local Multiplayer
+  - Beat 'em up
+  - Co-op
+  - Story Rich
+  - PvP
+  - 3D Fighter
+  - RPG
+  - Split Screen
 - !ruby/object:Game
   name: Pillars of Eternity
   month: August
   year: 2017
   humble_scheme: monthly
   steam_id: 291650
+  tags:
+  - RPG
+  - Fantasy
+  - Isometric
+  - Story Rich
+  - Singleplayer
+  - CRPG
+  - Party-Based RPG
+  - Real-Time with Pause
+  - Adventure
+  - Kickstarter
+  - Character Customization
+  - Atmospheric
+  - Dark Fantasy
+  - Open World
+  - Exploration
+  - Classic
+  - Great Soundtrack
+  - Strategy
+  - Indie
+  - Crowdfunded
 - !ruby/object:Game
   name: NBA 2K17
   month: August
@@ -365,114 +1436,494 @@
   year: 2017
   humble_scheme: monthly
   steam_id: 508530
+  tags:
+  - Indie
+  - Sports
+  - Action
+  - Platformer
+  - Puzzle-Platformer
+  - Puzzle
+  - Difficult
 - !ruby/object:Game
   name: Stories Untold
   month: September
   year: 2017
   humble_scheme: monthly
   steam_id: 558420
+  tags:
+  - Adventure
+  - Text-Based
+  - Horror
+  - Indie
+  - Atmospheric
+  - Psychological Horror
+  - Singleplayer
+  - Point & Click
+  - 1980s
+  - Retro
+  - Thriller
+  - Sci-fi
+  - Story Rich
+  - Puzzle
+  - Great Soundtrack
+  - Mystery
+  - Interactive Fiction
+  - First-Person
+  - Walking Simulator
+  - FMV
 - !ruby/object:Game
   name: Worms W.M.D
   month: September
   year: 2017
   humble_scheme: monthly
   steam_id: 327030
+  tags:
+  - Strategy
+  - Multiplayer
+  - Action
+  - Turn-Based Strategy
+  - Funny
+  - Local Multiplayer
+  - 2D
+  - Turn-Based
+  - Co-op
+  - Shooter
+  - Singleplayer
+  - Comedy
+  - Local Co-Op
+  - Classic
+  - Memes
+  - Casual
+  - Platformer
+  - War
+  - Adventure
+  - Gore
 - !ruby/object:Game
   name: 'Momodora: Reverie Under the Moonlight'
   month: September
   year: 2017
   humble_scheme: monthly
   steam_id: 428550
+  tags:
+  - Metroidvania
+  - 2D Platformer
+  - Side Scroller
+  - Exploration
+  - Female Protagonist
+  - Pixel Graphics
+  - Souls-like
+  - 2D
+  - Spectacle fighter
+  - Difficult
+  - Cute
+  - Platformer
+  - Action
+  - Controller
+  - Anime
+  - Colorful
+  - Fantasy
+  - Dark Fantasy
+  - Magic
+  - Atmospheric
 - !ruby/object:Game
   name: The Banner Saga 2
   month: September
   year: 2017
   humble_scheme: monthly
   steam_id: 281640
+  tags:
+  - RPG
+  - Strategy
+  - Story Rich
+  - Turn-Based Strategy
+  - Indie
+  - Choices Matter
+  - Atmospheric
+  - Turn-Based
+  - Fantasy
+  - Singleplayer
+  - Tactical
+  - Great Soundtrack
+  - Adventure
+  - Hand-drawn
+  - Vikings
+  - Turn-Based Tactics
+  - Tactical RPG
+  - Turn-Based Combat
+  - Medieval
+  - Dark Fantasy
 - !ruby/object:Game
   name: Killing Floor 2
   month: September
   year: 2017
   humble_scheme: monthly
   steam_id: 232090
+  tags:
+  - Zombies
+  - Multiplayer
+  - Online Co-Op
+  - Gore
+  - FPS
+  - Post-apocalyptic
+  - Hack and Slash
+  - Horror
+  - Shooter
+  - Action
+  - Moddable
+  - First-Person
+  - Survival
+  - Co-op
+  - Team-Based
+  - Survival Horror
+  - Atmospheric
+  - PvE
+  - Character Customization
+  - Dark
 - !ruby/object:Game
   name: Scanner Sombre
   month: October
   year: 2017
   humble_scheme: monthly
   steam_id: 475190
+  tags:
+  - Exploration
+  - Walking Simulator
+  - Horror
+  - Atmospheric
+  - Indie
+  - Adventure
+  - First-Person
+  - VR
+  - Singleplayer
+  - Short
+  - Psychological Horror
+  - Colorful
+  - Action
+  - Casual
+  - Lovecraftian
+  - Sci-fi
+  - Jump Scare
+  - Underground
+  - Linear
+  - Mystery Dungeon
 - !ruby/object:Game
   name: The Shrouded Isle
   month: October
   year: 2017
   humble_scheme: monthly
   steam_id: 501320
+  tags:
+  - Political Sim
+  - Management
+  - 2D
+  - Horror
+  - Turn-Based Strategy
+  - Turn-Based
+  - Difficult
+  - Diplomacy
+  - Villain Protagonist
+  - Dark Humor
+  - Building
+  - Strategy RPG
+  - Story Rich
+  - Strategy
+  - Noir
+  - Experimental
+  - Choices Matter
+  - Multiple Endings
+  - Lovecraftian
+  - Procedural Generation
 - !ruby/object:Game
   name: Seasons after Fall
   month: October
   year: 2017
   humble_scheme: monthly
   steam_id: 366320
+  tags:
+  - Adventure
+  - Indie
+  - Platformer
+  - Great Soundtrack
+  - Atmospheric
+  - Puzzle-Platformer
+  - Cute
+  - Hand-drawn
+  - Singleplayer
+  - 2D
+  - Fantasy
+  - Puzzle
+  - Fox
+  - Metroidvania
+  - Side Scroller
+  - Relaxing
+  - Beautiful
+  - Colorful
+  - Nature
 - !ruby/object:Game
   name: 'Orwell: Keeping an Eye On You'
   month: October
   year: 2017
   humble_scheme: monthly
   steam_id: 491950
+  tags:
+  - Choices Matter
+  - Political Sim
+  - 'Dystopian '
+  - Story Rich
+  - Indie
+  - Singleplayer
+  - Detective
+  - Simulation
+  - Interactive Fiction
+  - Hacking
+  - Politics
+  - Political
+  - Adventure
+  - Mouse only
+  - Atmospheric
+  - Visual Novel
+  - Episodic
+  - Mystery
+  - Point & Click
+  - Great Soundtrack
 - !ruby/object:Game
   name: Furi
   month: October
   year: 2017
   humble_scheme: monthly
   steam_id: 423230
+  tags:
+  - Hack and Slash
+  - Bullet Hell
+  - Difficult
+  - Shoot 'Em Up
+  - Beat 'em up
+  - Top-Down
+  - Third Person
+  - Atmospheric
+  - Sci-fi
+  - Controller
+  - Action
+  - Boss Rush
+  - Cyberpunk
+  - Story Rich
+  - Fast-Paced
+  - Violent
+  - Replay Value
+  - Singleplayer
+  - Indie
+  - Great Soundtrack
 - !ruby/object:Game
   name: 'Wargame: Red Dragon'
   month: October
   year: 2017
   humble_scheme: monthly
   steam_id: 251060
+  tags:
+  - Strategy
+  - RTS
+  - Military
+  - Realistic
+  - Wargame
+  - Cold War
+  - Tactical
+  - Multiplayer
+  - Real Time Tactics
+  - War
+  - Simulation
+  - Naval
+  - Alternate History
+  - Singleplayer
+  - Real-Time
+  - Action
+  - Co-op
+  - Difficult
+  - Epic
+  - Adventure
 - !ruby/object:Game
   name: Rise of the Tomb Raider™
   month: October
   year: 2017
   humble_scheme: monthly
   steam_id: 391220
+  tags:
+  - Adventure
+  - Action
+  - Female Protagonist
+  - Singleplayer
+  - Third Person
+  - Exploration
+  - Open World
+  - Action-Adventure
+  - Story Rich
+  - Survival
+  - Puzzle
+  - Stealth
+  - Atmospheric
+  - Third-Person Shooter
+  - Parkour
+  - Shooter
+  - RPG
+  - Multiplayer
+  - Great Soundtrack
+  - Quick-Time Events
 - !ruby/object:Game
   name: World to the West
   month: November
   year: 2017
   humble_scheme: monthly
   steam_id: 530020
+  tags:
+  - Indie
+  - Adventure
+  - Action
+  - Action-Adventure
+  - RPG
+  - Exploration
+  - Top-Down
+  - Singleplayer
+  - Action RPG
+  - Retro
+  - Puzzle
+  - Family Friendly
+  - Funny
+  - Fantasy
+  - Atmospheric
+  - Colorful
+  - Great Soundtrack
+  - Story Rich
+  - Cute
+  - Isometric
 - !ruby/object:Game
   name: Emily is Away Too
   month: November
   year: 2017
   humble_scheme: monthly
   steam_id: 523780
+  tags:
+  - Indie
+  - Simulation
+  - Choices Matter
+  - Dating Sim
+  - Casual
+  - Story Rich
+  - Pixel Graphics
+  - Multiple Endings
+  - Singleplayer
+  - Text-Based
+  - RPG
+  - Visual Novel
+  - Adventure
+  - Memes
+  - Funny
+  - Psychological Horror
+  - Retro
+  - Great Soundtrack
+  - Romance
+  - Atmospheric
 - !ruby/object:Game
   name: Silence
   month: November
   year: 2017
   humble_scheme: monthly
   steam_id: 314790
+  tags:
+  - Adventure
+  - Point & Click
+  - Story Rich
+  - Great Soundtrack
+  - Indie
+  - Singleplayer
+  - Puzzle
+  - Female Protagonist
+  - Exploration
+  - Casual
+  - 2D
+  - Retro
+  - Cult Classic
+  - Short
+  - Classic
 - !ruby/object:Game
   name: Dead Rising® 2
   month: November
   year: 2017
   humble_scheme: monthly
   steam_id: 45740
+  tags:
+  - Zombies
+  - Action
+  - Open World
+  - Co-op
+  - Adventure
+  - Online Co-Op
+  - Third Person
+  - Gore
+  - Comedy
+  - Multiplayer
+  - Survival
+  - Funny
+  - Character Customization
+  - Sandbox
+  - Crafting
+  - Singleplayer
+  - Multiple Endings
+  - Horror
+  - RPG
+  - 3D Vision
 - !ruby/object:Game
   name: 'Shadow Tactics: Blades of the Shogun'
   month: November
   year: 2017
   humble_scheme: monthly
   steam_id: 418240
+  tags:
+  - Stealth
+  - Strategy
+  - Tactical
+  - Ninja
+  - Real Time Tactics
+  - Singleplayer
+  - Indie
+  - Isometric
+  - Assassin
+  - Historical
+  - Action
+  - RTS
+  - Difficult
+  - Violent
+  - Atmospheric
+  - Third Person
+  - Adventure
+  - Survival
+  - Puzzle
+  - Great Soundtrack
 - !ruby/object:Game
   name: Resident Evil 5
   month: November
   year: 2017
   humble_scheme: monthly
   steam_id: 21690
+  tags:
+  - Co-op
+  - Action
+  - Zombies
+  - Co-op Campaign
+  - Third-Person Shooter
+  - Online Co-Op
+  - Horror
+  - Multiplayer
+  - Adventure
+  - Third Person
+  - Survival Horror
+  - Shooter
+  - Local Co-Op
+  - Singleplayer
+  - Female Protagonist
+  - Quick-Time Events
+  - Survival
+  - Gore
+  - Split Screen
+  - Atmospheric
 - !ruby/object:Game
   name: 'The Elder Scrolls: Legends'
   month: November
@@ -485,57 +1936,250 @@
   year: 2017
   humble_scheme: monthly
   steam_id: 306130
+  tags:
+  - RPG
+  - MMORPG
+  - Open World
+  - Fantasy
+  - Adventure
+  - Exploration
+  - Multiplayer
+  - Singleplayer
+  - Massively Multiplayer
+  - Action
+  - Character Customization
+  - PvP
+  - PvE
+  - Lore-Rich
+  - Story Rich
+  - Choose Your Own Adventure
+  - Magic
+  - Class-Based
+  - Action RPG
+  - Atmospheric
 - !ruby/object:Game
   name: Quake Champions
   month: November
   year: 2017
   humble_scheme: monthly
   steam_id: 611500
+  tags:
+  - Arena Shooter
+  - Hero Shooter
+  - Early Access
+  - FPS
+  - Multiplayer
+  - Free to Play
+  - Fast-Paced
+  - Gore
+  - Shooter
+  - Action
+  - First-Person
+  - Competitive
+  - Violent
+  - e-sports
+  - Difficult
+  - Classic
+  - Sci-fi
+  - Singleplayer
+  - Lovecraftian
+  - Horror
 - !ruby/object:Game
   name: Way of the Passive Fist
   month: December
   year: 2017
   humble_scheme: monthly
   steam_id: 625680
+  tags:
+  - Action
+  - Indie
+  - Beat 'em up
+  - Pixel Graphics
+  - 2D
 - !ruby/object:Game
   name: 'Passpartout: The Starving Artist'
   month: December
   year: 2017
   humble_scheme: monthly
   steam_id: 582550
+  tags:
+  - Casual
+  - Simulation
+  - Indie
+  - Singleplayer
+  - Relaxing
+  - Hand-drawn
+  - Funny
+  - Design & Illustration
+  - Cartoon
+  - Colorful
+  - Family Friendly
+  - Multiplayer
+  - Great Soundtrack
+  - Action
+  - Cute
+  - Cartoony
+  - Strategy
+  - Memes
 - !ruby/object:Game
   name: 'STRAFE: Gold Edition'
   month: December
   year: 2017
   humble_scheme: monthly
   steam_id: 442780
+  tags:
+  - Rogue-lite
+  - Action
+  - Shooter
+  - FPS
+  - First-Person
+  - Action Roguelike
+  - Retro
+  - Violent
+  - Indie
+  - Rogue-like
+  - Gore
+  - Boomer Shooter
+  - Fast-Paced
+  - 1990's
+  - Difficult
+  - Soundtrack
+  - Pixel Graphics
+  - Procedural Generation
+  - Singleplayer
+  - Blood
 - !ruby/object:Game
   name: The Sexy Brutale
   month: December
   year: 2017
   humble_scheme: monthly
   steam_id: 552590
+  tags:
+  - Puzzle
+  - Adventure
+  - Mystery
+  - Indie
+  - Time Manipulation
+  - Sexual Content
+  - Detective
+  - Time Travel
+  - Great Soundtrack
+  - Story Rich
+  - Singleplayer
+  - Stealth
+  - Atmospheric
+  - Mature
+  - Point & Click
+  - Nudity
+  - Dark
+  - Isometric
+  - Horror
+  - NSFW
 - !ruby/object:Game
   name: Nex Machina
   month: December
   year: 2017
   humble_scheme: monthly
   steam_id: 404540
+  tags:
+  - Twin Stick Shooter
+  - Bullet Hell
+  - Action
+  - Arcade
+  - Great Soundtrack
+  - Indie
+  - Shoot 'Em Up
+  - Cyberpunk
+  - Local Co-Op
+  - Difficult
+  - Shooter
+  - Top-Down
+  - Sci-fi
+  - Controller
+  - Singleplayer
+  - Co-op
+  - Top-Down Shooter
+  - Replay Value
+  - Competitive
+  - Rogue-like
 - !ruby/object:Game
   name: 'BlazBlue: Chronophantasma Extend'
   month: December
   year: 2017
   humble_scheme: monthly
   steam_id: 388750
+  tags:
+  - Anime
+  - Fighting
+  - 2D Fighter
+  - Action
+  - Great Soundtrack
+  - Story Rich
+  - Visual Novel
+  - Arcade
+  - Multiplayer
+  - 2D
+  - Local Multiplayer
+  - e-sports
+  - Singleplayer
+  - Controller
+  - Cute
+  - Difficult
+  - Nudity
+  - Comedy
+  - Competitive
+  - Mature
 - !ruby/object:Game
   name: Rivals of Aether
   month: December
   year: 2017
   humble_scheme: monthly
   steam_id: 383980
+  tags:
+  - Fighting
+  - 2D Fighter
+  - Multiplayer
+  - Pixel Graphics
+  - Indie
+  - Local Multiplayer
+  - Competitive
+  - Platformer
+  - Games Workshop
+  - Great Soundtrack
+  - 2D
+  - Moddable
+  - 4 Player Local
+  - Action
+  - Controller
+  - Arcade
+  - Beat 'em up
+  - Singleplayer
+  - Retro
+  - GameMaker
 - !ruby/object:Game
   name: Z1 Battle Royale
   month: December
   year: 2017
   humble_scheme: monthly
   steam_id: 433850
+  tags:
+  - Survival
+  - Massively Multiplayer
+  - Multiplayer
+  - Open World
+  - Battle Royale
+  - PvP
+  - FPS
+  - Action
+  - Shooter
+  - Free to Play
+  - Third-Person Shooter
+  - Zombies
+  - Co-op
+  - Early Access
+  - Online Co-Op
+  - Adventure
+  - First-Person
+  - Violent
+  - Gore
+  - Walking Simulator

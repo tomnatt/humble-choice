@@ -1,7 +1,7 @@
 require 'yaml'
 
 class Game
-  attr_accessor :year, :month, :name, :humble_scheme, :steam_id
+  attr_accessor :year, :month, :name, :humble_scheme, :steam_id, :tags
 
   def initialize(name, month, year, scheme, steam_id = nil)
     @name = name
@@ -9,6 +9,7 @@ class Game
     @year = year
     @humble_scheme = scheme
     @steam_id = steam_id
+    @tags = []
   end
 
   def as_json(_options = {})
