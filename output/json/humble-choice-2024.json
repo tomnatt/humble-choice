@@ -1,52 +1,10 @@
 [
   {
-    "name": "Twin Mirror",
-    "month": "January",
-    "year": 2024,
-    "humble_scheme": "choice",
-    "steam_id": 1552810
-  },
-  {
-    "name": "Hell Pie",
-    "month": "January",
-    "year": 2024,
-    "humble_scheme": "choice",
-    "steam_id": 889910
-  },
-  {
-    "name": "The Red Lantern",
-    "month": "January",
-    "year": 2024,
-    "humble_scheme": "choice",
-    "steam_id": 1053710
-  },
-  {
-    "name": "Roguebook",
-    "month": "January",
-    "year": 2024,
-    "humble_scheme": "choice",
-    "steam_id": 1076200
-  },
-  {
-    "name": "Otxo",
-    "month": "January",
-    "year": 2024,
-    "humble_scheme": "choice",
-    "steam_id": 1608640
-  },
-  {
     "name": "Aragami 2",
     "month": "January",
     "year": 2024,
     "humble_scheme": "choice",
     "steam_id": 1158370
-  },
-  {
-    "name": "Two Point Campus",
-    "month": "January",
-    "year": 2024,
-    "humble_scheme": "choice",
-    "steam_id": 1649080
   },
   {
     "name": "Doctor Strange Defenders Skin",
@@ -56,6 +14,13 @@
     "steam_id": 1712442
   },
   {
+    "name": "Hell Pie",
+    "month": "January",
+    "year": 2024,
+    "humble_scheme": "choice",
+    "steam_id": 889910
+  },
+  {
     "name": "Marvel's Midnight Suns",
     "month": "January",
     "year": 2024,
@@ -63,32 +28,39 @@
     "steam_id": 368260
   },
   {
-    "name": "Snowtopia: Ski Resort Builder",
-    "month": "February",
+    "name": "Otxo",
+    "month": "January",
     "year": 2024,
     "humble_scheme": "choice",
-    "steam_id": 1124260
+    "steam_id": 1608640
   },
   {
-    "name": "Oaken",
-    "month": "February",
+    "name": "Roguebook",
+    "month": "January",
     "year": 2024,
     "humble_scheme": "choice",
-    "steam_id": 1348690
+    "steam_id": 1076200
   },
   {
-    "name": "Children Of Silentown",
-    "month": "February",
+    "name": "The Red Lantern",
+    "month": "January",
     "year": 2024,
     "humble_scheme": "choice",
-    "steam_id": 1108000
+    "steam_id": 1053710
   },
   {
-    "name": "There Is No Light: Enhanced Edition",
-    "month": "February",
+    "name": "Twin Mirror",
+    "month": "January",
     "year": 2024,
     "humble_scheme": "choice",
-    "steam_id": 1132980
+    "steam_id": 1552810
+  },
+  {
+    "name": "Two Point Campus",
+    "month": "January",
+    "year": 2024,
+    "humble_scheme": "choice",
+    "steam_id": 1649080
   },
   {
     "name": "Beacon Pines",
@@ -98,18 +70,18 @@
     "steam_id": 1269640
   },
   {
+    "name": "Children Of Silentown",
+    "month": "February",
+    "year": 2024,
+    "humble_scheme": "choice",
+    "steam_id": 1108000
+  },
+  {
     "name": "Destroy All Humans! 2 - Reprobed",
     "month": "February",
     "year": 2024,
     "humble_scheme": "choice",
     "steam_id": 1266700
-  },
-  {
-    "name": "Scorn",
-    "month": "February",
-    "year": 2024,
-    "humble_scheme": "choice",
-    "steam_id": 698670
   },
   {
     "name": "Life Is Strange: True Colors",
@@ -119,11 +91,32 @@
     "steam_id": 936790
   },
   {
-    "name": "Destroyer: The U-Boat Hunter",
-    "month": "March",
+    "name": "Oaken",
+    "month": "February",
     "year": 2024,
     "humble_scheme": "choice",
-    "steam_id": 1272010
+    "steam_id": 1348690
+  },
+  {
+    "name": "Scorn",
+    "month": "February",
+    "year": 2024,
+    "humble_scheme": "choice",
+    "steam_id": 698670
+  },
+  {
+    "name": "Snowtopia: Ski Resort Builder",
+    "month": "February",
+    "year": 2024,
+    "humble_scheme": "choice",
+    "steam_id": 1124260
+  },
+  {
+    "name": "There Is No Light: Enhanced Edition",
+    "month": "February",
+    "year": 2024,
+    "humble_scheme": "choice",
+    "steam_id": 1132980
   },
   {
     "name": "Afterimage",
@@ -131,13 +124,6 @@
     "year": 2024,
     "humble_scheme": "choice",
     "steam_id": 1701520
-  },
-  {
-    "name": "Soulstice",
-    "month": "March",
-    "year": 2024,
-    "humble_scheme": "choice",
-    "steam_id": 1602080
   },
   {
     "name": "Black Skylands",
@@ -154,11 +140,11 @@
     "steam_id": 1578650
   },
   {
-    "name": "Saints Row",
+    "name": "Destroyer: The U-Boat Hunter",
     "month": "March",
     "year": 2024,
     "humble_scheme": "choice",
-    "steam_id": 742420
+    "steam_id": 1272010
   },
   {
     "name": "Nioh 2 – The Complete Edition",
@@ -168,11 +154,18 @@
     "steam_id": 1325200
   },
   {
-    "name": "Warhammer Age of Sigmar: Realms of Ruin Deluxe Upgrade Pack",
+    "name": "Saints Row",
     "month": "March",
     "year": 2024,
     "humble_scheme": "choice",
-    "steam_id": 2531130
+    "steam_id": 742420
+  },
+  {
+    "name": "Soulstice",
+    "month": "March",
+    "year": 2024,
+    "humble_scheme": "choice",
+    "steam_id": 1602080
   },
   {
     "name": "Warhammer Age Of Sigmar: Realms Of Ruin",
@@ -182,11 +175,11 @@
     "steam_id": 1844380
   },
   {
-    "name": "The Excavation Of Hob's Barrow",
-    "month": "April",
+    "name": "Warhammer Age of Sigmar: Realms of Ruin Deluxe Upgrade Pack",
+    "month": "March",
     "year": 2024,
     "humble_scheme": "choice",
-    "steam_id": 1182310
+    "steam_id": 2531130
   },
   {
     "name": "Coromon",
@@ -194,20 +187,6 @@
     "year": 2024,
     "humble_scheme": "choice",
     "steam_id": 1218210
-  },
-  {
-    "name": "Symphony Of War: The Nephilim Saga",
-    "month": "April",
-    "year": 2024,
-    "humble_scheme": "choice",
-    "steam_id": 1488200
-  },
-  {
-    "name": "Terraformers",
-    "month": "April",
-    "year": 2024,
-    "humble_scheme": "choice",
-    "steam_id": 1244800
   },
   {
     "name": "Fashion Police Squad",
@@ -224,18 +203,11 @@
     "steam_id": 1124300
   },
   {
-    "name": "HUMANKIND™ - Para Bellum Wonders Pack",
+    "name": "HUMANKIND™ - Cultures of Africa Pack",
     "month": "April",
     "year": 2024,
     "humble_scheme": "choice",
-    "steam_id": 2320210
-  },
-  {
-    "name": "HUMANKIND™ - Cultures of Oceania Pack",
-    "month": "April",
-    "year": 2024,
-    "humble_scheme": "choice",
-    "steam_id": 2320211
+    "steam_id": 1819400
   },
   {
     "name": "HUMANKIND™ - Cultures of Latin America Pack",
@@ -245,18 +217,11 @@
     "steam_id": 1819410
   },
   {
-    "name": "HUMANKIND™ - Cultures of Africa Pack",
+    "name": "HUMANKIND™ - Cultures of Oceania Pack",
     "month": "April",
     "year": 2024,
     "humble_scheme": "choice",
-    "steam_id": 1819400
-  },
-  {
-    "name": "HUMANKIND™ - Together We Rule Expansion Pack",
-    "month": "April",
-    "year": 2024,
-    "humble_scheme": "choice",
-    "steam_id": 1833990
+    "steam_id": 2320211
   },
   {
     "name": "HUMANKIND™ - Digital Deluxe Upgrade",
@@ -266,6 +231,34 @@
     "steam_id": 1633650
   },
   {
+    "name": "HUMANKIND™ - Para Bellum Wonders Pack",
+    "month": "April",
+    "year": 2024,
+    "humble_scheme": "choice",
+    "steam_id": 2320210
+  },
+  {
+    "name": "HUMANKIND™ - Together We Rule Expansion Pack",
+    "month": "April",
+    "year": 2024,
+    "humble_scheme": "choice",
+    "steam_id": 1833990
+  },
+  {
+    "name": "Symphony Of War: The Nephilim Saga",
+    "month": "April",
+    "year": 2024,
+    "humble_scheme": "choice",
+    "steam_id": 1488200
+  },
+  {
+    "name": "Terraformers",
+    "month": "April",
+    "year": 2024,
+    "humble_scheme": "choice",
+    "steam_id": 1244800
+  },
+  {
     "name": "The Callisto Protocol™",
     "month": "April",
     "year": 2024,
@@ -273,18 +266,18 @@
     "steam_id": 1544020
   },
   {
+    "name": "The Excavation Of Hob's Barrow",
+    "month": "April",
+    "year": 2024,
+    "humble_scheme": "choice",
+    "steam_id": 1182310
+  },
+  {
     "name": "Victoria 3",
     "month": "April",
     "year": 2024,
     "humble_scheme": "choice",
     "steam_id": 529340
-  },
-  {
-    "name": "Mediterranea Inferno",
-    "month": "May",
-    "year": 2024,
-    "humble_scheme": "choice",
-    "steam_id": 2103680
   },
   {
     "name": "Amanda The Adventurer",
@@ -301,6 +294,13 @@
     "steam_id": 943370
   },
   {
+    "name": "Hi-Fi Rush",
+    "month": "May",
+    "year": 2024,
+    "humble_scheme": "choice",
+    "steam_id": 1817230
+  },
+  {
     "name": "King Of The Castle",
     "month": "May",
     "year": 2024,
@@ -315,18 +315,18 @@
     "steam_id": 1644940
   },
   {
+    "name": "Mediterranea Inferno",
+    "month": "May",
+    "year": 2024,
+    "humble_scheme": "choice",
+    "steam_id": 2103680
+  },
+  {
     "name": "Steelrising",
     "month": "May",
     "year": 2024,
     "humble_scheme": "choice",
     "steam_id": 1283400
-  },
-  {
-    "name": "Hi-Fi Rush",
-    "month": "May",
-    "year": 2024,
-    "humble_scheme": "choice",
-    "steam_id": 1817230
   },
   {
     "name": "Yakuza: Like A Dragon",
@@ -336,13 +336,6 @@
     "steam_id": 1235140
   },
   {
-    "name": "Empyrion - Galactic Survival",
-    "month": "June",
-    "year": 2024,
-    "humble_scheme": "choice",
-    "steam_id": 383120
-  },
-  {
     "name": "A Guidebook Of Babel",
     "month": "June",
     "year": 2024,
@@ -350,32 +343,11 @@
     "steam_id": 1467920
   },
   {
-    "name": "Stray Gods: The Roleplaying Musical",
+    "name": "Empyrion - Galactic Survival",
     "month": "June",
     "year": 2024,
     "humble_scheme": "choice",
-    "steam_id": 1920780
-  },
-  {
-    "name": "Miasma Chronicles",
-    "month": "June",
-    "year": 2024,
-    "humble_scheme": "choice",
-    "steam_id": 1649010
-  },
-  {
-    "name": "Warhammer 40,000: Battlesector",
-    "month": "June",
-    "year": 2024,
-    "humble_scheme": "choice",
-    "steam_id": 1295500
-  },
-  {
-    "name": "LEGO® 2K Drive",
-    "month": "June",
-    "year": 2024,
-    "humble_scheme": "choice",
-    "steam_id": 1451810
+    "steam_id": 383120
   },
   {
     "name": "Knights Of Honor II: Sovereign",
@@ -385,6 +357,20 @@
     "steam_id": 736820
   },
   {
+    "name": "LEGO® 2K Drive",
+    "month": "June",
+    "year": 2024,
+    "humble_scheme": "choice",
+    "steam_id": 1451810
+  },
+  {
+    "name": "Miasma Chronicles",
+    "month": "June",
+    "year": 2024,
+    "humble_scheme": "choice",
+    "steam_id": 1649010
+  },
+  {
     "name": "Risk Of Rain 2",
     "month": "June",
     "year": 2024,
@@ -392,53 +378,18 @@
     "steam_id": 632360
   },
   {
-    "name": "Hyperviolent",
-    "month": "July",
+    "name": "Stray Gods: The Roleplaying Musical",
+    "month": "June",
     "year": 2024,
     "humble_scheme": "choice",
-    "steam_id": 1409200
+    "steam_id": 1920780
   },
   {
-    "name": "Heretic'S Fork",
-    "month": "July",
+    "name": "Warhammer 40,000: Battlesector",
+    "month": "June",
     "year": 2024,
     "humble_scheme": "choice",
-    "steam_id": 2181610
-  },
-  {
-    "name": "Figment 2: Creed Valley",
-    "month": "July",
-    "year": 2024,
-    "humble_scheme": "choice",
-    "steam_id": 1085220
-  },
-  {
-    "name": "Zoeti",
-    "month": "July",
-    "year": 2024,
-    "humble_scheme": "choice",
-    "steam_id": 1434540
-  },
-  {
-    "name": "Sticky Business",
-    "month": "July",
-    "year": 2024,
-    "humble_scheme": "choice",
-    "steam_id": 2303350
-  },
-  {
-    "name": "Starship Troopers: Terran Command",
-    "month": "July",
-    "year": 2024,
-    "humble_scheme": "choice",
-    "steam_id": 1202130
-  },
-  {
-    "name": "Ghostrunner 2",
-    "month": "July",
-    "year": 2024,
-    "humble_scheme": "choice",
-    "steam_id": 2144740
+    "steam_id": 1295500
   },
   {
     "name": "A Plague Tale: Requiem",
@@ -448,25 +399,53 @@
     "steam_id": 1182900
   },
   {
-    "name": "This Means Warp",
-    "month": "August",
+    "name": "Figment 2: Creed Valley",
+    "month": "July",
     "year": 2024,
     "humble_scheme": "choice",
-    "steam_id": 1269300
+    "steam_id": 1085220
   },
   {
-    "name": "Universe For Sale",
-    "month": "August",
+    "name": "Ghostrunner 2",
+    "month": "July",
     "year": 2024,
     "humble_scheme": "choice",
-    "steam_id": 1627840
+    "steam_id": 2144740
   },
   {
-    "name": "Diluvian Ultra",
-    "month": "August",
+    "name": "Heretic'S Fork",
+    "month": "July",
     "year": 2024,
     "humble_scheme": "choice",
-    "steam_id": 1306970
+    "steam_id": 2181610
+  },
+  {
+    "name": "Hyperviolent",
+    "month": "July",
+    "year": 2024,
+    "humble_scheme": "choice",
+    "steam_id": 1409200
+  },
+  {
+    "name": "Starship Troopers: Terran Command",
+    "month": "July",
+    "year": 2024,
+    "humble_scheme": "choice",
+    "steam_id": 1202130
+  },
+  {
+    "name": "Sticky Business",
+    "month": "July",
+    "year": 2024,
+    "humble_scheme": "choice",
+    "steam_id": 2303350
+  },
+  {
+    "name": "Zoeti",
+    "month": "July",
+    "year": 2024,
+    "humble_scheme": "choice",
+    "steam_id": 1434540
   },
   {
     "name": "Astral Ascent",
@@ -481,6 +460,13 @@
     "year": 2024,
     "humble_scheme": "choice",
     "steam_id": 1532690
+  },
+  {
+    "name": "Diluvian Ultra",
+    "month": "August",
+    "year": 2024,
+    "humble_scheme": "choice",
+    "steam_id": 1306970
   },
   {
     "name": "Gotham Knights",
@@ -504,25 +490,18 @@
     "steam_id": 2138710
   },
   {
-    "name": "Rue Valley - Alpha Playtest",
-    "month": "September",
+    "name": "This Means Warp",
+    "month": "August",
     "year": 2024,
     "humble_scheme": "choice",
-    "steam_id": null
+    "steam_id": 1269300
   },
   {
-    "name": "You Suck at Parking® - Complete Edition",
-    "month": "September",
+    "name": "Universe For Sale",
+    "month": "August",
     "year": 2024,
     "humble_scheme": "choice",
-    "steam_id": 837880
-  },
-  {
-    "name": "InfraSpace",
-    "month": "September",
-    "year": 2024,
-    "humble_scheme": "choice",
-    "steam_id": 1511460
+    "steam_id": 1627840
   },
   {
     "name": "Astrea: Six-Sided Oracles",
@@ -532,20 +511,6 @@
     "steam_id": 1755830
   },
   {
-    "name": "Lost Eidolons",
-    "month": "September",
-    "year": 2024,
-    "humble_scheme": "choice",
-    "steam_id": 1580520
-  },
-  {
-    "name": "SpongeBob SquarePants: The Cosmic Shake",
-    "month": "September",
-    "year": 2024,
-    "humble_scheme": "choice",
-    "steam_id": 1282150
-  },
-  {
     "name": "Coral Island",
     "month": "September",
     "year": 2024,
@@ -553,11 +518,18 @@
     "steam_id": 1158160
   },
   {
-    "name": "Stranded: Alien Dawn",
+    "name": "InfraSpace",
     "month": "September",
     "year": 2024,
     "humble_scheme": "choice",
-    "steam_id": 1324130
+    "steam_id": 1511460
+  },
+  {
+    "name": "Lost Eidolons",
+    "month": "September",
+    "year": 2024,
+    "humble_scheme": "choice",
+    "steam_id": 1580520
   },
   {
     "name": "Marvel's Guardians of the Galaxy",
@@ -567,11 +539,74 @@
     "steam_id": 1088850
   },
   {
+    "name": "Rue Valley - Alpha Playtest",
+    "month": "September",
+    "year": 2024,
+    "humble_scheme": "choice",
+    "steam_id": null
+  },
+  {
+    "name": "SpongeBob SquarePants: The Cosmic Shake",
+    "month": "September",
+    "year": 2024,
+    "humble_scheme": "choice",
+    "steam_id": 1282150
+  },
+  {
+    "name": "Stranded: Alien Dawn",
+    "month": "September",
+    "year": 2024,
+    "humble_scheme": "choice",
+    "steam_id": 1324130
+  },
+  {
+    "name": "You Suck at Parking® - Complete Edition",
+    "month": "September",
+    "year": 2024,
+    "humble_scheme": "choice",
+    "steam_id": 837880
+  },
+  {
+    "name": "Dome Keeper",
+    "month": "October",
+    "year": 2024,
+    "humble_scheme": "choice",
+    "steam_id": 1637320
+  },
+  {
+    "name": "Jack Move",
+    "month": "October",
+    "year": 2024,
+    "humble_scheme": "choice",
+    "steam_id": 1099640
+  },
+  {
+    "name": "Jusant",
+    "month": "October",
+    "year": 2024,
+    "humble_scheme": "choice",
+    "steam_id": 1977170
+  },
+  {
     "name": "McPixel 3",
     "month": "October",
     "year": 2024,
     "humble_scheme": "choice",
     "steam_id": 1338580
+  },
+  {
+    "name": "Persona® 5 Strikers",
+    "month": "October",
+    "year": 2024,
+    "humble_scheme": "choice",
+    "steam_id": 1382330
+  },
+  {
+    "name": "REMNANT II®",
+    "month": "October",
+    "year": 2024,
+    "humble_scheme": "choice",
+    "steam_id": 1282100
   },
   {
     "name": "Remnant Records",
@@ -588,39 +623,11 @@
     "steam_id": 2272400
   },
   {
-    "name": "Jack Move",
-    "month": "October",
+    "name": "Cassette Beasts",
+    "month": "November",
     "year": 2024,
     "humble_scheme": "choice",
-    "steam_id": 1099640
-  },
-  {
-    "name": "Dome Keeper",
-    "month": "October",
-    "year": 2024,
-    "humble_scheme": "choice",
-    "steam_id": 1637320
-  },
-  {
-    "name": "Jusant",
-    "month": "October",
-    "year": 2024,
-    "humble_scheme": "choice",
-    "steam_id": 1977170
-  },
-  {
-    "name": "Persona® 5 Strikers",
-    "month": "October",
-    "year": 2024,
-    "humble_scheme": "choice",
-    "steam_id": 1382330
-  },
-  {
-    "name": "REMNANT II®",
-    "month": "October",
-    "year": 2024,
-    "humble_scheme": "choice",
-    "steam_id": 1282100
+    "steam_id": 1321440
   },
   {
     "name": "Garden Life: A Cozy Simulator",
@@ -644,18 +651,18 @@
     "steam_id": 1661630
   },
   {
+    "name": "Persona 4 Golden",
+    "month": "November",
+    "year": 2024,
+    "humble_scheme": "choice",
+    "steam_id": 1113000
+  },
+  {
     "name": "The Bookwalker: Thief of Tales",
     "month": "November",
     "year": 2024,
     "humble_scheme": "choice",
     "steam_id": 1432100
-  },
-  {
-    "name": "Cassette Beasts",
-    "month": "November",
-    "year": 2024,
-    "humble_scheme": "choice",
-    "steam_id": 1321440
   },
   {
     "name": "The Lamplighters League",
@@ -665,88 +672,11 @@
     "steam_id": 1167750
   },
   {
-    "name": "Persona 4 Golden",
-    "month": "November",
-    "year": 2024,
-    "humble_scheme": "choice",
-    "steam_id": 1113000
-  },
-  {
     "name": "Warhammer 40,000: Darktide",
     "month": "November",
     "year": 2024,
     "humble_scheme": "choice",
     "steam_id": 1361210
-  },
-  {
-    "name": "Monster Prom 3: Monster Roadtrip",
-    "month": "December",
-    "year": 2024,
-    "humble_scheme": "choice",
-    "steam_id": 1665190
-  },
-  {
-    "name": "Venba",
-    "month": "December",
-    "year": 2024,
-    "humble_scheme": "choice",
-    "steam_id": 1491670
-  },
-  {
-    "name": "Inkulinati",
-    "month": "December",
-    "year": 2024,
-    "humble_scheme": "choice",
-    "steam_id": 957960
-  },
-  {
-    "name": "Moonstone Island",
-    "month": "December",
-    "year": 2024,
-    "humble_scheme": "choice",
-    "steam_id": 1658150
-  },
-  {
-    "name": "The Invincible",
-    "month": "December",
-    "year": 2024,
-    "humble_scheme": "choice",
-    "steam_id": 731040
-  },
-  {
-    "name": "Crime Boss: Rockay City - Tactical Weapon Pack",
-    "month": "December",
-    "year": 2024,
-    "humble_scheme": "choice",
-    "steam_id": 2934440
-  },
-  {
-    "name": "Crime Boss: Rockay City - Heavy Hitters Pack",
-    "month": "December",
-    "year": 2024,
-    "humble_scheme": "choice",
-    "steam_id": 2934460
-  },
-  {
-    "name": "Crime Boss: Rockay City - Dragon's Gold Cup",
-    "month": "December",
-    "year": 2024,
-    "humble_scheme": "choice",
-    "steam_id": 2934450
-  },
-  {
-    "name": "Crime Boss: Rockay City - Cagnali's Order",
-    "month": "December",
-    "year": 2024,
-    "humble_scheme": "choice",
-    "steam_id": 2939860
-  },
-  {
-    "name": "Crime Boss: Rockay City",
-    "month": "December",
-    "year": 2024,
-    "humble_scheme": "choice",
-    "steam_id": 2933080
   },
   {
     "name": "Atlas Fallen: Reign of Sand",
@@ -756,6 +686,69 @@
     "steam_id": 1230530
   },
   {
+    "name": "Bomb Rush Cyberfunk",
+    "month": "December",
+    "year": 2024,
+    "humble_scheme": "choice",
+    "steam_id": 1353230
+  },
+  {
+    "name": "Crime Boss: Rockay City",
+    "month": "December",
+    "year": 2024,
+    "humble_scheme": "choice",
+    "steam_id": 2933080
+  },
+  {
+    "name": "Crime Boss: Rockay City - Cagnali's Order",
+    "month": "December",
+    "year": 2024,
+    "humble_scheme": "choice",
+    "steam_id": 2939860
+  },
+  {
+    "name": "Crime Boss: Rockay City - Dragon's Gold Cup",
+    "month": "December",
+    "year": 2024,
+    "humble_scheme": "choice",
+    "steam_id": 2934450
+  },
+  {
+    "name": "Crime Boss: Rockay City - Heavy Hitters Pack",
+    "month": "December",
+    "year": 2024,
+    "humble_scheme": "choice",
+    "steam_id": 2934460
+  },
+  {
+    "name": "Crime Boss: Rockay City - Tactical Weapon Pack",
+    "month": "December",
+    "year": 2024,
+    "humble_scheme": "choice",
+    "steam_id": 2934440
+  },
+  {
+    "name": "Inkulinati",
+    "month": "December",
+    "year": 2024,
+    "humble_scheme": "choice",
+    "steam_id": 957960
+  },
+  {
+    "name": "Monster Prom 3: Monster Roadtrip",
+    "month": "December",
+    "year": 2024,
+    "humble_scheme": "choice",
+    "steam_id": 1665190
+  },
+  {
+    "name": "Moonstone Island",
+    "month": "December",
+    "year": 2024,
+    "humble_scheme": "choice",
+    "steam_id": 1658150
+  },
+  {
     "name": "Old World",
     "month": "December",
     "year": 2024,
@@ -763,10 +756,17 @@
     "steam_id": 597180
   },
   {
-    "name": "Bomb Rush Cyberfunk",
+    "name": "The Invincible",
     "month": "December",
     "year": 2024,
     "humble_scheme": "choice",
-    "steam_id": 1353230
+    "steam_id": 731040
+  },
+  {
+    "name": "Venba",
+    "month": "December",
+    "year": 2024,
+    "humble_scheme": "choice",
+    "steam_id": 1491670
   }
 ]

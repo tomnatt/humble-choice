@@ -1,40 +1,5 @@
 [
   {
-    "name": "Legend of Grimrock",
-    "month": "November",
-    "year": 2015,
-    "humble_scheme": "monthly",
-    "steam_id": 207170
-  },
-  {
-    "name": "TowerFall Ascension",
-    "month": "November",
-    "year": 2015,
-    "humble_scheme": "monthly",
-    "steam_id": 251470
-  },
-  {
-    "name": "SanctuaryRPG: Black Edition",
-    "month": "November",
-    "year": 2015,
-    "humble_scheme": "monthly",
-    "steam_id": 328760
-  },
-  {
-    "name": "Lethal League",
-    "month": "November",
-    "year": 2015,
-    "humble_scheme": "monthly",
-    "steam_id": 261180
-  },
-  {
-    "name": "Valkyria Chronicles™",
-    "month": "November",
-    "year": 2015,
-    "humble_scheme": "monthly",
-    "steam_id": 294860
-  },
-  {
     "name": "Besiege",
     "month": "November",
     "year": 2015,
@@ -42,11 +7,11 @@
     "steam_id": 346010
   },
   {
-    "name": "Saints Row IV: Re-Elected",
+    "name": "Legend of Grimrock",
     "month": "November",
     "year": 2015,
     "humble_scheme": "monthly",
-    "steam_id": 206420
+    "steam_id": 207170
   },
   {
     "name": "Legend of Grimrock 2",
@@ -56,11 +21,46 @@
     "steam_id": 251730
   },
   {
-    "name": "Company of Heroes 2",
+    "name": "Lethal League",
+    "month": "November",
+    "year": 2015,
+    "humble_scheme": "monthly",
+    "steam_id": 261180
+  },
+  {
+    "name": "Saints Row IV: Re-Elected",
+    "month": "November",
+    "year": 2015,
+    "humble_scheme": "monthly",
+    "steam_id": 206420
+  },
+  {
+    "name": "SanctuaryRPG: Black Edition",
+    "month": "November",
+    "year": 2015,
+    "humble_scheme": "monthly",
+    "steam_id": 328760
+  },
+  {
+    "name": "TowerFall Ascension",
+    "month": "November",
+    "year": 2015,
+    "humble_scheme": "monthly",
+    "steam_id": 251470
+  },
+  {
+    "name": "Valkyria Chronicles™",
+    "month": "November",
+    "year": 2015,
+    "humble_scheme": "monthly",
+    "steam_id": 294860
+  },
+  {
+    "name": "Banished",
     "month": "December",
     "year": 2015,
     "humble_scheme": "monthly",
-    "steam_id": 231430
+    "steam_id": 242920
   },
   {
     "name": "Chroma Squad",
@@ -68,6 +68,13 @@
     "year": 2015,
     "humble_scheme": "monthly",
     "steam_id": 251130
+  },
+  {
+    "name": "Company of Heroes 2",
+    "month": "December",
+    "year": 2015,
+    "humble_scheme": "monthly",
+    "steam_id": 231430
   },
   {
     "name": "NEON STRUCT",
@@ -89,13 +96,6 @@
     "year": 2015,
     "humble_scheme": "monthly",
     "steam_id": 252490
-  },
-  {
-    "name": "Banished",
-    "month": "December",
-    "year": 2015,
-    "humble_scheme": "monthly",
-    "steam_id": 242920
   },
   {
     "name": "TowerFall Ascension",

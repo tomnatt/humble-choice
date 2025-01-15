@@ -1,108 +1,31 @@
 ---
 - !ruby/object:Game
-  name: The Pegasus Expedition
+  name: Against the Storm
   month: January
   year: 2025
   humble_scheme: choice
-  steam_id: 1521070
+  steam_id: 1336490
   tags:
-  - Grand Strategy
   - Strategy
-  - 4X
-  - Space
-  - Sci-fi
-  - Diplomacy
-  - Exploration
-  - War
-  - Story Rich
-  - Narrative
-  - Choices Matter
-  - Atmospheric
-  - Singleplayer
-  - Cinematic
-  - Management
-  - Aliens
-  - Futuristic
-  - Turn-Based Strategy
   - Simulation
-  - Dark
-- !ruby/object:Game
-  name: Dordogne
-  month: January
-  year: 2025
-  humble_scheme: choice
-  steam_id: 1272840
-  tags:
-  - Narrative
-  - Wholesome
-  - Cute
-  - Casual
-  - Emotional
-  - Exploration
-  - Adventure
-  - Family Friendly
-  - Relaxing
-  - Female Protagonist
+  - City Builder
+  - Base-Building
+  - Management
+  - Colony Sim
+  - Building
+  - Grand Strategy
+  - Resource Management
+  - Moddable
+  - Sandbox
+  - RTS
+  - Open World
+  - Survival
   - Singleplayer
-  - Story Rich
-  - Nature
-  - Atmospheric
-  - Collectathon
-  - Stylized
-  - Colorful
-  - Hand-drawn
-  - Linear
-  - Indie
-- !ruby/object:Game
-  name: 'Boxes: Lost Fragments'
-  month: January
-  year: 2025
-  humble_scheme: choice
-  steam_id: 2019810
-  tags:
-  - Puzzle
-  - Adventure
-  - Mystery
-  - Casual
-  - Point & Click
-  - 3D
-  - Atmospheric
-  - Hidden Object
-  - Story Rich
-  - Indie
-  - Clicker
-  - Cinematic
-  - Singleplayer
-  - 3D Vision
-  - Stylized
-  - Narration
-- !ruby/object:Game
-  name: Fort Solis
-  month: January
-  year: 2025
-  humble_scheme: choice
-  steam_id: 1931730
-  tags:
-  - Thriller
-  - Mars
-  - Story Rich
-  - Sci-fi
-  - Futuristic
-  - Space
-  - Walking Simulator
-  - Narration
-  - Mystery
-  - Adventure
-  - Cinematic
-  - Exploration
-  - Third Person
-  - Realistic
-  - 3D
-  - Linear
-  - Singleplayer
-  - Interactive Fiction
-  - Quick-Time Events
-  - Dark
+  - Historical
+  - Economy
+  - Real-Time with Pause
+  - 4X
+  - Replay Value
 - !ruby/object:Game
   name: Beneath Oresa
   month: January
@@ -158,6 +81,83 @@
   - Nonlinear
   - Multiple Endings
 - !ruby/object:Game
+  name: 'Boxes: Lost Fragments'
+  month: January
+  year: 2025
+  humble_scheme: choice
+  steam_id: 2019810
+  tags:
+  - Puzzle
+  - Adventure
+  - Mystery
+  - Casual
+  - Point & Click
+  - 3D
+  - Atmospheric
+  - Hidden Object
+  - Story Rich
+  - Indie
+  - Clicker
+  - Cinematic
+  - Singleplayer
+  - 3D Vision
+  - Stylized
+  - Narration
+- !ruby/object:Game
+  name: Dordogne
+  month: January
+  year: 2025
+  humble_scheme: choice
+  steam_id: 1272840
+  tags:
+  - Narrative
+  - Wholesome
+  - Cute
+  - Casual
+  - Emotional
+  - Exploration
+  - Adventure
+  - Family Friendly
+  - Relaxing
+  - Female Protagonist
+  - Singleplayer
+  - Story Rich
+  - Nature
+  - Atmospheric
+  - Collectathon
+  - Stylized
+  - Colorful
+  - Hand-drawn
+  - Linear
+  - Indie
+- !ruby/object:Game
+  name: Fort Solis
+  month: January
+  year: 2025
+  humble_scheme: choice
+  steam_id: 1931730
+  tags:
+  - Thriller
+  - Mars
+  - Story Rich
+  - Sci-fi
+  - Futuristic
+  - Space
+  - Walking Simulator
+  - Narration
+  - Mystery
+  - Adventure
+  - Cinematic
+  - Exploration
+  - Third Person
+  - Realistic
+  - 3D
+  - Linear
+  - Singleplayer
+  - Interactive Fiction
+  - Quick-Time Events
+  - Dark
+- !ruby/object:Game
   name: Jagged Alliance 3
   month: January
   year: 2025
@@ -185,29 +185,29 @@
   - Online Co-Op
   - Sexual Content
 - !ruby/object:Game
-  name: Against the Storm
+  name: The Pegasus Expedition
   month: January
   year: 2025
   humble_scheme: choice
-  steam_id: 1336490
+  steam_id: 1521070
   tags:
-  - Strategy
-  - Simulation
-  - City Builder
-  - Base-Building
-  - Management
-  - Colony Sim
-  - Building
   - Grand Strategy
-  - Resource Management
-  - Moddable
-  - Sandbox
-  - RTS
-  - Open World
-  - Survival
-  - Singleplayer
-  - Historical
-  - Economy
-  - Real-Time with Pause
+  - Strategy
   - 4X
-  - Replay Value
+  - Space
+  - Sci-fi
+  - Diplomacy
+  - Exploration
+  - War
+  - Story Rich
+  - Narrative
+  - Choices Matter
+  - Atmospheric
+  - Singleplayer
+  - Cinematic
+  - Management
+  - Aliens
+  - Futuristic
+  - Turn-Based Strategy
+  - Simulation
+  - Dark

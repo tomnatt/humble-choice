@@ -1,31 +1,31 @@
 ---
 - !ruby/object:Game
-  name: 'The Ambassador: Fractured Timelines'
+  name: 'Ancestors: The Humankind Odyssey'
   month: January
   year: 2021
   humble_scheme: choice
-  steam_id: 1171660
+  steam_id: 536270
   tags:
-  - Twin Stick Shooter
-  - Fantasy
-  - Pixel Graphics
-  - Time Manipulation
-  - Action
-  - Adventure
+  - Open World Survival Craft
+  - Survival
+  - Exploration
+  - Open World
   - Singleplayer
-  - Top-Down
-  - Indie
-  - Dark Fantasy
-  - 2D
-  - Retro
-  - Casual
+  - Adventure
+  - Crafting
+  - Simulation
+  - Atmospheric
   - RPG
-  - Action RPG
-  - Arcade
-  - Shooter
+  - Action
+  - Third Person
+  - Nature
+  - Immersive Sim
+  - Historical
+  - Choices Matter
+  - Science
+  - Indie
   - Action-Adventure
-  - Top-Down Shooter
-  - Medieval
+  - Multiplayer
 - !ruby/object:Game
   name: Deleveled
   month: January
@@ -80,52 +80,6 @@
   - Nudity
   - Sexual Content
 - !ruby/object:Game
-  name: Tales of the Neon Sea
-  month: January
-  year: 2021
-  humble_scheme: choice
-  steam_id: 828740
-  tags:
-  - Pixel Graphics
-  - Cyberpunk
-  - Point & Click
-  - Story Rich
-  - Investigation
-  - Kickstarter
-  - Surreal
-  - 'Dystopian '
-  - Detective
-  - Crowdfunded
-  - Walking Simulator
-  - 'Parody '
-  - Exploration
-  - Puzzle
-  - Emotional
-  - Atmospheric
-  - Noir
-  - Sci-fi
-  - Adventure
-  - Narration
-- !ruby/object:Game
-  name: 'Vampire: The Masquerade - Shadows of New York'
-  month: January
-  year: 2021
-  humble_scheme: choice
-  steam_id: 1279630
-  tags:
-  - Visual Novel
-  - Indie
-  - Vampire
-  - Story Rich
-  - Female Protagonist
-  - Choices Matter
-  - LGBTQ+
-  - Great Soundtrack
-  - Singleplayer
-  - Sexual Content
-  - Horror
-  - RPG
-- !ruby/object:Game
   name: Not Tonight
   month: January
   year: 2021
@@ -152,141 +106,6 @@
   - Replay Value
   - Addictive
   - Casual
-- !ruby/object:Game
-  name: SONG OF HORROR COMPLETE EDITION
-  month: January
-  year: 2021
-  humble_scheme: choice
-  steam_id: 1096570
-  tags:
-  - Survival Horror
-  - Dark
-  - Horror
-  - Psychological Horror
-  - Choices Matter
-  - Investigation
-  - Atmospheric
-  - Adventure
-  - Third Person
-  - Lovecraftian
-  - Story Rich
-  - Supernatural
-  - Exploration
-  - Action
-  - Singleplayer
-  - Cinematic
-  - Mature
-  - Action-Adventure
-  - Replay Value
-  - Survival
-- !ruby/object:Game
-  name: Total Tank Simulator
-  month: January
-  year: 2021
-  humble_scheme: choice
-  steam_id: 674500
-  tags:
-  - Strategy
-  - Simulation
-  - Action
-  - Sandbox
-  - World War II
-  - Indie
-  - Tanks
-  - War
-  - Singleplayer
-  - Physics
-  - Realistic
-  - FPS
-  - First-Person
-  - Funny
-  - Casual
-  - Third Person
-  - Multiplayer
-  - Difficult
-  - Comedy
-  - Adventure
-- !ruby/object:Game
-  name: 'Warhammer: Chaosbane'
-  month: January
-  year: 2021
-  humble_scheme: choice
-  steam_id: 774241
-  tags:
-  - Singleplayer
-  - PvE
-  - RPG
-  - Co-op Campaign
-  - Hack and Slash
-  - Action
-  - Action RPG
-  - Adventure
-  - Isometric
-  - Multiplayer
-  - Dark Fantasy
-  - Co-op
-  - Dungeon Crawler
-  - Top-Down
-  - Violent
-  - Online Co-Op
-  - Character Customization
-  - Demons
-  - Local Multiplayer
-  - Local Co-Op
-- !ruby/object:Game
-  name: Pathologic 2
-  month: January
-  year: 2021
-  humble_scheme: choice
-  steam_id: 505230
-  tags:
-  - Story Rich
-  - Atmospheric
-  - Choices Matter
-  - RPG
-  - Difficult
-  - Survival
-  - Detective
-  - Singleplayer
-  - Immersive Sim
-  - Psychological Horror
-  - Surreal
-  - Survival Horror
-  - Open World
-  - 'Dystopian '
-  - Adventure
-  - Indie
-  - Dark
-  - First-Person
-  - CRPG
-  - Isometric
-- !ruby/object:Game
-  name: 'Ancestors: The Humankind Odyssey'
-  month: January
-  year: 2021
-  humble_scheme: choice
-  steam_id: 536270
-  tags:
-  - Open World Survival Craft
-  - Survival
-  - Exploration
-  - Open World
-  - Singleplayer
-  - Adventure
-  - Crafting
-  - Simulation
-  - Atmospheric
-  - RPG
-  - Action
-  - Third Person
-  - Nature
-  - Immersive Sim
-  - Historical
-  - Choices Matter
-  - Science
-  - Indie
-  - Action-Adventure
-  - Multiplayer
 - !ruby/object:Game
   name: PC Building Simulator
   month: January
@@ -315,6 +134,187 @@
   - Atmospheric
   - Indie
 - !ruby/object:Game
+  name: Pathologic 2
+  month: January
+  year: 2021
+  humble_scheme: choice
+  steam_id: 505230
+  tags:
+  - Story Rich
+  - Atmospheric
+  - Choices Matter
+  - RPG
+  - Difficult
+  - Survival
+  - Detective
+  - Singleplayer
+  - Immersive Sim
+  - Psychological Horror
+  - Surreal
+  - Survival Horror
+  - Open World
+  - 'Dystopian '
+  - Adventure
+  - Indie
+  - Dark
+  - First-Person
+  - CRPG
+  - Isometric
+- !ruby/object:Game
+  name: SONG OF HORROR COMPLETE EDITION
+  month: January
+  year: 2021
+  humble_scheme: choice
+  steam_id: 1096570
+  tags:
+  - Survival Horror
+  - Dark
+  - Horror
+  - Psychological Horror
+  - Choices Matter
+  - Investigation
+  - Atmospheric
+  - Adventure
+  - Third Person
+  - Lovecraftian
+  - Story Rich
+  - Supernatural
+  - Exploration
+  - Action
+  - Singleplayer
+  - Cinematic
+  - Mature
+  - Action-Adventure
+  - Replay Value
+  - Survival
+- !ruby/object:Game
+  name: Tales of the Neon Sea
+  month: January
+  year: 2021
+  humble_scheme: choice
+  steam_id: 828740
+  tags:
+  - Pixel Graphics
+  - Cyberpunk
+  - Point & Click
+  - Story Rich
+  - Investigation
+  - Kickstarter
+  - Surreal
+  - 'Dystopian '
+  - Detective
+  - Crowdfunded
+  - Walking Simulator
+  - 'Parody '
+  - Exploration
+  - Puzzle
+  - Emotional
+  - Atmospheric
+  - Noir
+  - Sci-fi
+  - Adventure
+  - Narration
+- !ruby/object:Game
+  name: 'The Ambassador: Fractured Timelines'
+  month: January
+  year: 2021
+  humble_scheme: choice
+  steam_id: 1171660
+  tags:
+  - Twin Stick Shooter
+  - Fantasy
+  - Pixel Graphics
+  - Time Manipulation
+  - Action
+  - Adventure
+  - Singleplayer
+  - Top-Down
+  - Indie
+  - Dark Fantasy
+  - 2D
+  - Retro
+  - Casual
+  - RPG
+  - Action RPG
+  - Arcade
+  - Shooter
+  - Action-Adventure
+  - Top-Down Shooter
+  - Medieval
+- !ruby/object:Game
+  name: Total Tank Simulator
+  month: January
+  year: 2021
+  humble_scheme: choice
+  steam_id: 674500
+  tags:
+  - Strategy
+  - Simulation
+  - Action
+  - Sandbox
+  - World War II
+  - Indie
+  - Tanks
+  - War
+  - Singleplayer
+  - Physics
+  - Realistic
+  - FPS
+  - First-Person
+  - Funny
+  - Casual
+  - Third Person
+  - Multiplayer
+  - Difficult
+  - Comedy
+  - Adventure
+- !ruby/object:Game
+  name: 'Vampire: The Masquerade - Shadows of New York'
+  month: January
+  year: 2021
+  humble_scheme: choice
+  steam_id: 1279630
+  tags:
+  - Visual Novel
+  - Indie
+  - Vampire
+  - Story Rich
+  - Female Protagonist
+  - Choices Matter
+  - LGBTQ+
+  - Great Soundtrack
+  - Singleplayer
+  - Sexual Content
+  - Horror
+  - RPG
+- !ruby/object:Game
+  name: 'Warhammer: Chaosbane'
+  month: January
+  year: 2021
+  humble_scheme: choice
+  steam_id: 774241
+  tags:
+  - Singleplayer
+  - PvE
+  - RPG
+  - Co-op Campaign
+  - Hack and Slash
+  - Action
+  - Action RPG
+  - Adventure
+  - Isometric
+  - Multiplayer
+  - Dark Fantasy
+  - Co-op
+  - Dungeon Crawler
+  - Top-Down
+  - Violent
+  - Online Co-Op
+  - Character Customization
+  - Demons
+  - Local Multiplayer
+  - Local Co-Op
+- !ruby/object:Game
   name: Boomerang Fu
   month: February
   year: 2021
@@ -341,6 +341,33 @@
   - Arcade
   - Action
   - Casual
+- !ruby/object:Game
+  name: ENDLESS™ Space 2
+  month: February
+  year: 2021
+  humble_scheme: choice
+  steam_id: 392110
+  tags:
+  - Strategy
+  - Space
+  - Sci-fi
+  - 4X
+  - Turn-Based Strategy
+  - Multiplayer
+  - Turn-Based
+  - Grand Strategy
+  - Great Soundtrack
+  - Singleplayer
+  - Action
+  - Open World
+  - War
+  - Atmospheric
+  - Moddable
+  - Sandbox
+  - Co-op
+  - RPG
+  - Indie
+  - RTS
 - !ruby/object:Game
   name: Iris and the Giant
   month: February
@@ -396,141 +423,6 @@
   - Great Soundtrack
   - Top-Down
 - !ruby/object:Game
-  name: 'Werewolf: The Apocalypse — Heart of the Forest'
-  month: February
-  year: 2021
-  humble_scheme: choice
-  steam_id: 1342620
-  tags:
-  - Story Rich
-  - Visual Novel
-  - Choices Matter
-  - RPG
-  - Interactive Fiction
-  - Multiple Endings
-  - Surreal
-  - Choose Your Own Adventure
-  - Dark Fantasy
-  - Thriller
-  - Narration
-  - Female Protagonist
-  - Werewolves
-  - Text-Based
-  - Supernatural
-  - Tabletop
-  - Investigation
-  - Mystery
-  - Replay Value
-  - Emotional
-- !ruby/object:Game
-  name: Valfaris
-  month: February
-  year: 2021
-  humble_scheme: choice
-  steam_id: 600130
-  tags:
-  - Action
-  - Indie
-  - Gore
-  - Platformer
-  - Pixel Graphics
-  - 2D
-  - Great Soundtrack
-  - Side Scroller
-  - Violent
-  - Retro
-  - Sci-fi
-  - Singleplayer
-  - Difficult
-  - Shoot 'Em Up
-  - Gothic
-  - Dark
-  - Fantasy
-  - Horror
-  - Science
-  - Old School
-- !ruby/object:Game
-  name: Train Station Renovation
-  month: February
-  year: 2021
-  humble_scheme: choice
-  steam_id: 914010
-  tags:
-  - Simulation
-  - Casual
-  - Indie
-  - Trains
-  - First-Person
-  - Singleplayer
-  - Building
-  - Realistic
-  - Relaxing
-  - Family Friendly
-  - Adventure
-  - Physics
-  - Exploration
-  - Action
-  - Management
-  - Destruction
-  - Atmospheric
-  - Economy
-  - Funny
-  - Design & Illustration
-- !ruby/object:Game
-  name: The Wild Eight
-  month: February
-  year: 2021
-  humble_scheme: choice
-  steam_id: 526160
-  tags:
-  - Survival
-  - Open World Survival Craft
-  - Multiplayer
-  - Open World
-  - Mystery
-  - Co-op
-  - Adventure
-  - Crafting
-  - Online Co-Op
-  - Sandbox
-  - Indie
-  - Action
-  - RPG
-  - Atmospheric
-  - Singleplayer
-  - Simulation
-  - Survival Horror
-  - Difficult
-  - Strategy
-  - Horror
-- !ruby/object:Game
-  name: 'Trine 4: The Nightmare Prince'
-  month: February
-  year: 2021
-  humble_scheme: choice
-  steam_id: 690640
-  tags:
-  - Puzzle-Platformer
-  - Local Co-Op
-  - Online Co-Op
-  - Action-Adventure
-  - Co-op
-  - Beautiful
-  - Fantasy
-  - 2.5D
-  - Multiplayer
-  - Adventure
-  - Platformer
-  - Puzzle
-  - Action
-  - Atmospheric
-  - Local Multiplayer
-  - Great Soundtrack
-  - Stylized
-  - Indie
-  - Singleplayer
-  - RPG
-- !ruby/object:Game
   name: Moving Out
   month: February
   year: 2021
@@ -557,66 +449,6 @@
   - Controller
   - Physics
   - Beautiful
-- !ruby/object:Game
-  name: ENDLESS™ Space 2
-  month: February
-  year: 2021
-  humble_scheme: choice
-  steam_id: 392110
-  tags:
-  - Strategy
-  - Space
-  - Sci-fi
-  - 4X
-  - Turn-Based Strategy
-  - Multiplayer
-  - Turn-Based
-  - Grand Strategy
-  - Great Soundtrack
-  - Singleplayer
-  - Action
-  - Open World
-  - War
-  - Atmospheric
-  - Moddable
-  - Sandbox
-  - Co-op
-  - RPG
-  - Indie
-  - RTS
-- !ruby/object:Game
-  name: Valkyria Chronicles 4 Complete Edition
-  month: February
-  year: 2021
-  humble_scheme: choice
-  steam_id: 790820
-  tags:
-  - Strategy
-  - Anime
-  - Turn-Based
-  - RPG
-  - War
-  - Strategy RPG
-  - Singleplayer
-  - Tactical
-  - Turn-Based Tactics
-  - JRPG
-  - Action
-  - Story Rich
-  - Third Person
-  - Tactical RPG
-  - Turn-Based Strategy
-  - Tanks
-  - Violent
-  - Great Soundtrack
-  - Female Protagonist
-  - World War II
-- !ruby/object:Game
-  name: Outward Soundtrack
-  month: February
-  year: 2021
-  humble_scheme: choice
-  steam_id:
 - !ruby/object:Game
   name: Outward - The Soroboreans
   month: February
@@ -652,6 +484,174 @@
   - Realistic
   - Moddable
   - Violent
+- !ruby/object:Game
+  name: Outward Soundtrack
+  month: February
+  year: 2021
+  humble_scheme: choice
+  steam_id:
+- !ruby/object:Game
+  name: The Wild Eight
+  month: February
+  year: 2021
+  humble_scheme: choice
+  steam_id: 526160
+  tags:
+  - Survival
+  - Open World Survival Craft
+  - Multiplayer
+  - Open World
+  - Mystery
+  - Co-op
+  - Adventure
+  - Crafting
+  - Online Co-Op
+  - Sandbox
+  - Indie
+  - Action
+  - RPG
+  - Atmospheric
+  - Singleplayer
+  - Simulation
+  - Survival Horror
+  - Difficult
+  - Strategy
+  - Horror
+- !ruby/object:Game
+  name: Train Station Renovation
+  month: February
+  year: 2021
+  humble_scheme: choice
+  steam_id: 914010
+  tags:
+  - Simulation
+  - Casual
+  - Indie
+  - Trains
+  - First-Person
+  - Singleplayer
+  - Building
+  - Realistic
+  - Relaxing
+  - Family Friendly
+  - Adventure
+  - Physics
+  - Exploration
+  - Action
+  - Management
+  - Destruction
+  - Atmospheric
+  - Economy
+  - Funny
+  - Design & Illustration
+- !ruby/object:Game
+  name: 'Trine 4: The Nightmare Prince'
+  month: February
+  year: 2021
+  humble_scheme: choice
+  steam_id: 690640
+  tags:
+  - Puzzle-Platformer
+  - Local Co-Op
+  - Online Co-Op
+  - Action-Adventure
+  - Co-op
+  - Beautiful
+  - Fantasy
+  - 2.5D
+  - Multiplayer
+  - Adventure
+  - Platformer
+  - Puzzle
+  - Action
+  - Atmospheric
+  - Local Multiplayer
+  - Great Soundtrack
+  - Stylized
+  - Indie
+  - Singleplayer
+  - RPG
+- !ruby/object:Game
+  name: Valfaris
+  month: February
+  year: 2021
+  humble_scheme: choice
+  steam_id: 600130
+  tags:
+  - Action
+  - Indie
+  - Gore
+  - Platformer
+  - Pixel Graphics
+  - 2D
+  - Great Soundtrack
+  - Side Scroller
+  - Violent
+  - Retro
+  - Sci-fi
+  - Singleplayer
+  - Difficult
+  - Shoot 'Em Up
+  - Gothic
+  - Dark
+  - Fantasy
+  - Horror
+  - Science
+  - Old School
+- !ruby/object:Game
+  name: Valkyria Chronicles 4 Complete Edition
+  month: February
+  year: 2021
+  humble_scheme: choice
+  steam_id: 790820
+  tags:
+  - Strategy
+  - Anime
+  - Turn-Based
+  - RPG
+  - War
+  - Strategy RPG
+  - Singleplayer
+  - Tactical
+  - Turn-Based Tactics
+  - JRPG
+  - Action
+  - Story Rich
+  - Third Person
+  - Tactical RPG
+  - Turn-Based Strategy
+  - Tanks
+  - Violent
+  - Great Soundtrack
+  - Female Protagonist
+  - World War II
+- !ruby/object:Game
+  name: 'Werewolf: The Apocalypse — Heart of the Forest'
+  month: February
+  year: 2021
+  humble_scheme: choice
+  steam_id: 1342620
+  tags:
+  - Story Rich
+  - Visual Novel
+  - Choices Matter
+  - RPG
+  - Interactive Fiction
+  - Multiple Endings
+  - Surreal
+  - Choose Your Own Adventure
+  - Dark Fantasy
+  - Thriller
+  - Narration
+  - Female Protagonist
+  - Werewolves
+  - Text-Based
+  - Supernatural
+  - Tabletop
+  - Investigation
+  - Mystery
+  - Replay Value
+  - Emotional
 - !ruby/object:Game
   name: Ageless
   month: March
@@ -701,51 +701,32 @@
   - Fighting
   - Free to Play
 - !ruby/object:Game
-  name: Wildfire
+  name: Control Ultimate Edition
   month: March
   year: 2021
   humble_scheme: choice
-  steam_id: 431940
+  steam_id: 870780
   tags:
-  - Stealth
-  - Puzzle-Platformer
-  - Immersive Sim
-  - Pixel Graphics
   - Action
   - Supernatural
-  - Magic
-  - Atmospheric
-  - Fantasy
-  - Controller
-  - Platformer
-  - Indie
-  - Replay Value
-  - Side Scroller
-  - 2D
-  - Co-op
-  - Great Soundtrack
-  - Singleplayer
-  - Puzzle
-  - Medieval
-- !ruby/object:Game
-  name: Pesterquest
-  month: March
-  year: 2021
-  humble_scheme: choice
-  steam_id: 1144030
-  tags:
-  - Indie
+  - Female Protagonist
   - Adventure
-  - RPG
-  - Visual Novel
   - Story Rich
-  - Time Travel
-  - LGBTQ+
-  - Comedy
-  - Funny
+  - Third Person
+  - Atmospheric
   - Sci-fi
+  - Singleplayer
+  - Horror
+  - Third-Person Shooter
+  - Surreal
+  - Psychological Horror
+  - Shooter
+  - Metroidvania
+  - Open World
+  - Epic
+  - Violent
+  - Difficult
   - Great Soundtrack
-  - Anime
 - !ruby/object:Game
   name: Cyber Hook
   month: March
@@ -774,11 +755,32 @@
   - Minimalist
   - Old School
 - !ruby/object:Game
-  name: 'Peaky Blinders: Mastermind'
+  name: Elex
   month: March
   year: 2021
   humble_scheme: choice
-  steam_id:
+  steam_id: 411300
+  tags:
+  - RPG
+  - Open World
+  - Singleplayer
+  - Post-apocalyptic
+  - Sci-fi
+  - Fantasy
+  - Adventure
+  - Action
+  - Third Person
+  - Gothic
+  - Story Rich
+  - Atmospheric
+  - Choices Matter
+  - Difficult
+  - War
+  - Futuristic
+  - Violent
+  - Dark Fantasy
+  - Base-Building
+  - Third-Person Shooter
 - !ruby/object:Game
   name: Hotshot Racing
   month: March
@@ -807,21 +809,6 @@
   - Vehicular Combat
   - Score Attack
 - !ruby/object:Game
-  name: WWE 2K Battlegrounds
-  month: March
-  year: 2021
-  humble_scheme: choice
-  steam_id: 1142100
-  tags:
-  - Action
-  - Sports
-  - Fighting
-  - 4 Player Local
-  - Wrestling
-  - Cartoony
-  - Multiplayer
-  - Arcade
-- !ruby/object:Game
   name: Kingdom Two Crowns
   month: March
   year: 2021
@@ -849,32 +836,72 @@
   - Multiplayer
   - Pixel Graphics
 - !ruby/object:Game
-  name: Elex
+  name: 'Peaky Blinders: Mastermind'
   month: March
   year: 2021
   humble_scheme: choice
-  steam_id: 411300
+  steam_id:
+- !ruby/object:Game
+  name: Pesterquest
+  month: March
+  year: 2021
+  humble_scheme: choice
+  steam_id: 1144030
   tags:
-  - RPG
-  - Open World
-  - Singleplayer
-  - Post-apocalyptic
-  - Sci-fi
-  - Fantasy
+  - Indie
   - Adventure
-  - Action
-  - Third Person
-  - Gothic
+  - RPG
+  - Visual Novel
   - Story Rich
+  - Time Travel
+  - LGBTQ+
+  - Comedy
+  - Funny
+  - Sci-fi
+  - Great Soundtrack
+  - Anime
+- !ruby/object:Game
+  name: WWE 2K Battlegrounds
+  month: March
+  year: 2021
+  humble_scheme: choice
+  steam_id: 1142100
+  tags:
+  - Action
+  - Sports
+  - Fighting
+  - 4 Player Local
+  - Wrestling
+  - Cartoony
+  - Multiplayer
+  - Arcade
+- !ruby/object:Game
+  name: Wildfire
+  month: March
+  year: 2021
+  humble_scheme: choice
+  steam_id: 431940
+  tags:
+  - Stealth
+  - Puzzle-Platformer
+  - Immersive Sim
+  - Pixel Graphics
+  - Action
+  - Supernatural
+  - Magic
   - Atmospheric
-  - Choices Matter
-  - Difficult
-  - War
-  - Futuristic
-  - Violent
-  - Dark Fantasy
-  - Base-Building
-  - Third-Person Shooter
+  - Fantasy
+  - Controller
+  - Platformer
+  - Indie
+  - Replay Value
+  - Side Scroller
+  - 2D
+  - Co-op
+  - Great Soundtrack
+  - Singleplayer
+  - Puzzle
+  - Medieval
 - !ruby/object:Game
   name: 'XCOM®: Chimera Squad'
   month: March
@@ -899,86 +926,26 @@
   - Moddable
   - Multiplayer
 - !ruby/object:Game
-  name: Control Ultimate Edition
-  month: March
-  year: 2021
-  humble_scheme: choice
-  steam_id: 870780
-  tags:
-  - Action
-  - Supernatural
-  - Female Protagonist
-  - Adventure
-  - Story Rich
-  - Third Person
-  - Atmospheric
-  - Sci-fi
-  - Singleplayer
-  - Horror
-  - Third-Person Shooter
-  - Surreal
-  - Psychological Horror
-  - Shooter
-  - Metroidvania
-  - Open World
-  - Epic
-  - Violent
-  - Difficult
-  - Great Soundtrack
-- !ruby/object:Game
-  name: Popup Dungeon
+  name: Aven Colony
   month: April
   year: 2021
   humble_scheme: choice
-  steam_id: 349730
+  steam_id: 484900
   tags:
-  - RPG
+  - Colony Sim
+  - City Builder
   - Strategy
-  - Indie
-  - Dungeon Crawler
-  - Turn-Based
-  - Rogue-like
-  - Tabletop
-  - Turn-Based Strategy
-  - Turn-Based Tactics
-  - Moddable
-  - Tactical RPG
-  - Rogue-lite
-  - Party-Based RPG
-  - Fantasy
-  - Choices Matter
-  - Story Rich
-  - Tactical
+  - Simulation
   - Sci-fi
-  - Character Customization
-  - Replay Value
-- !ruby/object:Game
-  name: Skully
-  month: April
-  year: 2021
-  humble_scheme: choice
-  steam_id: 1249110
-  tags:
+  - Base-Building
   - Indie
-  - Adventure
-  - Puzzle
-  - Platformer
-  - 3D Platformer
-  - Action-Adventure
-  - Arcade
-  - Exploration
-  - Collectathon
-  - Puzzle-Platformer
-  - Runner
-  - Precision Platformer
-  - Third Person
-  - Atmospheric
-  - Comedy
-  - Fantasy
-  - Funny
-  - Story Rich
-  - Physics
-  - Casual
+  - Space
+  - Singleplayer
+  - Survival
+  - Resource Management
+  - Management
+  - Sandbox
+  - Epic
 - !ruby/object:Game
   name: Colt Canyon
   month: April
@@ -1007,80 +974,11 @@
   - Atmospheric
   - Top-Down Shooter
 - !ruby/object:Game
-  name: Simulacra 2
+  name: F1 2020
   month: April
   year: 2021
   humble_scheme: choice
-  steam_id: 1011190
-  tags:
-  - Horror
-  - Immersive Sim
-  - Detective
-  - Hacking
-  - Visual Novel
-  - Artificial Intelligence
-  - Point & Click
-  - FMV
-  - Experimental
-  - 2D
-  - Text-Based
-  - Psychological Horror
-  - Story Rich
-  - Surreal
-  - Choices Matter
-  - Multiple Endings
-  - Narration
-  - Conversation
-  - Puzzle
-  - Simulation
-- !ruby/object:Game
-  name: Simulacra
-  month: April
-  year: 2021
-  humble_scheme: choice
-  steam_id: 712730
-  tags:
-  - Horror
-  - Detective
-  - Immersive Sim
-  - Point & Click
-  - Visual Novel
-  - Psychological Horror
-  - FMV
-  - Choices Matter
-  - Story Rich
-  - Multiple Endings
-  - Puzzle
-  - Simulation
-  - Thriller
-  - Sci-fi
-  - Atmospheric
-  - Mystery
-  - Psychological
-  - Drama
-  - Adventure
-  - Dark
-- !ruby/object:Game
-  name: Aven Colony
-  month: April
-  year: 2021
-  humble_scheme: choice
-  steam_id: 484900
-  tags:
-  - Colony Sim
-  - City Builder
-  - Strategy
-  - Simulation
-  - Sci-fi
-  - Base-Building
-  - Indie
-  - Space
-  - Singleplayer
-  - Survival
-  - Resource Management
-  - Management
-  - Sandbox
-  - Epic
+  steam_id:
 - !ruby/object:Game
   name: In Other Waters
   month: April
@@ -1108,6 +1006,60 @@
   - Stylized
   - Futuristic
   - Space
+- !ruby/object:Game
+  name: Main Assembly
+  month: April
+  year: 2021
+  humble_scheme: choice
+  steam_id: 1078920
+  tags:
+  - 3D
+  - Online Co-Op
+  - Co-op
+  - Singleplayer
+  - Sandbox
+  - Building
+  - Simulation
+  - Programming
+  - Robots
+  - Physics
+  - Artificial Intelligence
+  - Science
+  - Crafting
+  - Management
+  - Logic
+  - Multiplayer
+  - Automation
+  - Immersive Sim
+  - Education
+  - Character Customization
+- !ruby/object:Game
+  name: Popup Dungeon
+  month: April
+  year: 2021
+  humble_scheme: choice
+  steam_id: 349730
+  tags:
+  - RPG
+  - Strategy
+  - Indie
+  - Dungeon Crawler
+  - Turn-Based
+  - Rogue-like
+  - Tabletop
+  - Turn-Based Strategy
+  - Turn-Based Tactics
+  - Moddable
+  - Tactical RPG
+  - Rogue-lite
+  - Party-Based RPG
+  - Fantasy
+  - Choices Matter
+  - Story Rich
+  - Tactical
+  - Sci-fi
+  - Character Customization
+  - Replay Value
 - !ruby/object:Game
   name: 'Remothered: Broken Porcelain'
   month: April
@@ -1162,33 +1114,6 @@
   - Level Editor
   - Tower Defense
 - !ruby/object:Game
-  name: Main Assembly
-  month: April
-  year: 2021
-  humble_scheme: choice
-  steam_id: 1078920
-  tags:
-  - 3D
-  - Online Co-Op
-  - Co-op
-  - Singleplayer
-  - Sandbox
-  - Building
-  - Simulation
-  - Programming
-  - Robots
-  - Physics
-  - Artificial Intelligence
-  - Science
-  - Crafting
-  - Management
-  - Logic
-  - Multiplayer
-  - Automation
-  - Immersive Sim
-  - Education
-  - Character Customization
-- !ruby/object:Game
   name: Shenmue III
   month: April
   year: 2021
@@ -1213,11 +1138,86 @@
   - JRPG
   - Simulation
 - !ruby/object:Game
-  name: F1 2020
+  name: Simulacra
   month: April
   year: 2021
   humble_scheme: choice
-  steam_id:
+  steam_id: 712730
+  tags:
+  - Horror
+  - Detective
+  - Immersive Sim
+  - Point & Click
+  - Visual Novel
+  - Psychological Horror
+  - FMV
+  - Choices Matter
+  - Story Rich
+  - Multiple Endings
+  - Puzzle
+  - Simulation
+  - Thriller
+  - Sci-fi
+  - Atmospheric
+  - Mystery
+  - Psychological
+  - Drama
+  - Adventure
+  - Dark
+- !ruby/object:Game
+  name: Simulacra 2
+  month: April
+  year: 2021
+  humble_scheme: choice
+  steam_id: 1011190
+  tags:
+  - Horror
+  - Immersive Sim
+  - Detective
+  - Hacking
+  - Visual Novel
+  - Artificial Intelligence
+  - Point & Click
+  - FMV
+  - Experimental
+  - 2D
+  - Text-Based
+  - Psychological Horror
+  - Story Rich
+  - Surreal
+  - Choices Matter
+  - Multiple Endings
+  - Narration
+  - Conversation
+  - Puzzle
+  - Simulation
+- !ruby/object:Game
+  name: Skully
+  month: April
+  year: 2021
+  humble_scheme: choice
+  steam_id: 1249110
+  tags:
+  - Indie
+  - Adventure
+  - Puzzle
+  - Platformer
+  - 3D Platformer
+  - Action-Adventure
+  - Arcade
+  - Exploration
+  - Collectathon
+  - Puzzle-Platformer
+  - Runner
+  - Precision Platformer
+  - Third Person
+  - Atmospheric
+  - Comedy
+  - Fantasy
+  - Funny
+  - Story Rich
+  - Physics
+  - Casual
 - !ruby/object:Game
   name: Sniper Ghost Warrior Contracts
   month: April
@@ -1246,210 +1246,6 @@
   - PvP
   - Replay Value
 - !ruby/object:Game
-  name: Vane
-  month: May
-  year: 2021
-  humble_scheme: choice
-  steam_id: 1063310
-  tags:
-  - Adventure
-  - Indie
-  - Casual
-  - Action
-  - Exploration
-  - Atmospheric
-  - Puzzle
-  - Flight
-- !ruby/object:Game
-  name: Family Man
-  month: May
-  year: 2021
-  humble_scheme: choice
-  steam_id: 904360
-  tags:
-  - Adventure
-  - RPG
-  - Violent
-  - Choices Matter
-  - FPS
-  - Open World
-  - First-Person
-  - Singleplayer
-  - Sandbox
-  - Exploration
-  - Action RPG
-  - Action
-  - Difficult
-  - Dark Comedy
-  - Dark Humor
-  - Mature
-  - Shooter
-  - Addictive
-  - Survival
-  - Story Rich
-- !ruby/object:Game
-  name: Retimed
-  month: May
-  year: 2021
-  humble_scheme: choice
-  steam_id: 760810
-  tags:
-  - Multiplayer
-  - Online Co-Op
-  - Comedy
-  - Party Game
-  - Casual
-  - Shooter
-  - Family Friendly
-  - Local Co-Op
-  - Sports
-  - Co-op
-  - Platformer
-  - Local Multiplayer
-  - Indie
-  - Funny
-  - Singleplayer
-  - Action
-  - Fighting
-  - PvP
-  - 4 Player Local
-  - Bullet Time
-- !ruby/object:Game
-  name: Relicta
-  month: May
-  year: 2021
-  humble_scheme: choice
-  steam_id: 941570
-  tags:
-  - Action
-  - Puzzle-Platformer
-  - Casual
-  - Exploration
-  - Character Action Game
-  - Female Protagonist
-  - Action-Adventure
-  - First-Person
-  - Sci-fi
-  - Story Rich
-  - Puzzle
-  - Narration
-  - Physics
-  - Singleplayer
-  - 3D
-  - Mars
-  - Colorful
-  - Logic
-  - Snow
-  - Science
-- !ruby/object:Game
-  name: Morkredd
-  month: May
-  year: 2021
-  humble_scheme: choice
-  steam_id: 1331910
-  tags:
-  - Physics
-  - Puzzle
-  - Local Co-Op
-  - Dark
-  - Atmospheric
-  - Lovecraftian
-  - Exploration
-  - Linear
-  - Co-op
-  - Dark Fantasy
-  - Supernatural
-  - Singleplayer
-  - Co-op Campaign
-  - Split Screen
-  - Puzzle-Platformer
-  - Controller
-  - Stylized
-  - 3D
-  - Mystery
-  - Indie
-- !ruby/object:Game
-  name: Size Matters
-  month: May
-  year: 2021
-  humble_scheme: choice
-  steam_id: 976700
-  tags:
-  - Simulation
-  - Casual
-  - Science
-  - Indie
-  - Education
-  - Sandbox
-  - Funny
-  - Management
-  - Puzzle
-  - First-Person
-  - Action
-  - Singleplayer
-  - Replay Value
-  - Time Management
-  - Atmospheric
-  - Choices Matter
-  - Relaxing
-  - Realistic
-  - Nudity
-  - Great Soundtrack
-- !ruby/object:Game
-  name: Fury Unleashed
-  month: May
-  year: 2021
-  humble_scheme: choice
-  steam_id: 465200
-  tags:
-  - Replay Value
-  - Rogue-like
-  - Fast-Paced
-  - Difficult
-  - Online Co-Op
-  - Old School
-  - Shooter
-  - Platformer
-  - Local Multiplayer
-  - 2D Platformer
-  - 2D
-  - Perma Death
-  - Rogue-lite
-  - Co-op
-  - Side Scroller
-  - Local Co-Op
-  - RPG
-  - Combat
-  - Multiplayer
-  - Action
-- !ruby/object:Game
-  name: 'Levelhead: Platformer Maker'
-  month: May
-  year: 2021
-  humble_scheme: choice
-  steam_id: 792710
-  tags:
-  - Precision Platformer
-  - Difficult
-  - Funny
-  - Comedy
-  - Sandbox
-  - Action
-  - Adventure
-  - Side Scroller
-  - Co-op Campaign
-  - Level Editor
-  - Hand-drawn
-  - 4 Player Local
-  - Platformer
-  - Co-op
-  - 2D
-  - Colorful
-  - Puzzle-Platformer
-  - Cartoon
-  - Programming
-  - Music
-- !ruby/object:Game
   name: Cook, Serve, Delicious! 3?!
   month: May
   year: 2021
@@ -1476,33 +1272,6 @@
   - Singleplayer
   - Co-op Campaign
   - Fast-Paced
-- !ruby/object:Game
-  name: Hellpoint
-  month: May
-  year: 2021
-  humble_scheme: choice
-  steam_id: 628670
-  tags:
-  - Souls-like
-  - Sci-fi
-  - Action
-  - RPG
-  - Multiplayer
-  - Indie
-  - Adventure
-  - Co-op
-  - Action RPG
-  - Horror
-  - Atmospheric
-  - Dark
-  - Hack and Slash
-  - Lovecraftian
-  - Third Person
-  - Singleplayer
-  - Split Screen
-  - Psychological Horror
-  - Co-op Campaign
-  - Difficult
 - !ruby/object:Game
   name: Darksiders Genesis
   month: May
@@ -1531,6 +1300,114 @@
   - Puzzle
   - Twin Stick Shooter
 - !ruby/object:Game
+  name: Family Man
+  month: May
+  year: 2021
+  humble_scheme: choice
+  steam_id: 904360
+  tags:
+  - Adventure
+  - RPG
+  - Violent
+  - Choices Matter
+  - FPS
+  - Open World
+  - First-Person
+  - Singleplayer
+  - Sandbox
+  - Exploration
+  - Action RPG
+  - Action
+  - Difficult
+  - Dark Comedy
+  - Dark Humor
+  - Mature
+  - Shooter
+  - Addictive
+  - Survival
+  - Story Rich
+- !ruby/object:Game
+  name: Fury Unleashed
+  month: May
+  year: 2021
+  humble_scheme: choice
+  steam_id: 465200
+  tags:
+  - Replay Value
+  - Rogue-like
+  - Fast-Paced
+  - Difficult
+  - Online Co-Op
+  - Old School
+  - Shooter
+  - Platformer
+  - Local Multiplayer
+  - 2D Platformer
+  - 2D
+  - Perma Death
+  - Rogue-lite
+  - Co-op
+  - Side Scroller
+  - Local Co-Op
+  - RPG
+  - Combat
+  - Multiplayer
+  - Action
+- !ruby/object:Game
+  name: Hellpoint
+  month: May
+  year: 2021
+  humble_scheme: choice
+  steam_id: 628670
+  tags:
+  - Souls-like
+  - Sci-fi
+  - Action
+  - RPG
+  - Multiplayer
+  - Indie
+  - Adventure
+  - Co-op
+  - Action RPG
+  - Horror
+  - Atmospheric
+  - Dark
+  - Hack and Slash
+  - Lovecraftian
+  - Third Person
+  - Singleplayer
+  - Split Screen
+  - Psychological Horror
+  - Co-op Campaign
+  - Difficult
+- !ruby/object:Game
+  name: 'Levelhead: Platformer Maker'
+  month: May
+  year: 2021
+  humble_scheme: choice
+  steam_id: 792710
+  tags:
+  - Precision Platformer
+  - Difficult
+  - Funny
+  - Comedy
+  - Sandbox
+  - Action
+  - Adventure
+  - Side Scroller
+  - Co-op Campaign
+  - Level Editor
+  - Hand-drawn
+  - 4 Player Local
+  - Platformer
+  - Co-op
+  - 2D
+  - Colorful
+  - Puzzle-Platformer
+  - Cartoon
+  - Programming
+  - Music
+- !ruby/object:Game
   name: Metro Exodus
   month: May
   year: 2021
@@ -1557,6 +1434,156 @@
   - Gore
   - Multiplayer
   - Psychological Horror
+- !ruby/object:Game
+  name: Morkredd
+  month: May
+  year: 2021
+  humble_scheme: choice
+  steam_id: 1331910
+  tags:
+  - Physics
+  - Puzzle
+  - Local Co-Op
+  - Dark
+  - Atmospheric
+  - Lovecraftian
+  - Exploration
+  - Linear
+  - Co-op
+  - Dark Fantasy
+  - Supernatural
+  - Singleplayer
+  - Co-op Campaign
+  - Split Screen
+  - Puzzle-Platformer
+  - Controller
+  - Stylized
+  - 3D
+  - Mystery
+  - Indie
+- !ruby/object:Game
+  name: Relicta
+  month: May
+  year: 2021
+  humble_scheme: choice
+  steam_id: 941570
+  tags:
+  - Action
+  - Puzzle-Platformer
+  - Casual
+  - Exploration
+  - Character Action Game
+  - Female Protagonist
+  - Action-Adventure
+  - First-Person
+  - Sci-fi
+  - Story Rich
+  - Puzzle
+  - Narration
+  - Physics
+  - Singleplayer
+  - 3D
+  - Mars
+  - Colorful
+  - Logic
+  - Snow
+  - Science
+- !ruby/object:Game
+  name: Retimed
+  month: May
+  year: 2021
+  humble_scheme: choice
+  steam_id: 760810
+  tags:
+  - Multiplayer
+  - Online Co-Op
+  - Comedy
+  - Party Game
+  - Casual
+  - Shooter
+  - Family Friendly
+  - Local Co-Op
+  - Sports
+  - Co-op
+  - Platformer
+  - Local Multiplayer
+  - Indie
+  - Funny
+  - Singleplayer
+  - Action
+  - Fighting
+  - PvP
+  - 4 Player Local
+  - Bullet Time
+- !ruby/object:Game
+  name: Size Matters
+  month: May
+  year: 2021
+  humble_scheme: choice
+  steam_id: 976700
+  tags:
+  - Simulation
+  - Casual
+  - Science
+  - Indie
+  - Education
+  - Sandbox
+  - Funny
+  - Management
+  - Puzzle
+  - First-Person
+  - Action
+  - Singleplayer
+  - Replay Value
+  - Time Management
+  - Atmospheric
+  - Choices Matter
+  - Relaxing
+  - Realistic
+  - Nudity
+  - Great Soundtrack
+- !ruby/object:Game
+  name: Vane
+  month: May
+  year: 2021
+  humble_scheme: choice
+  steam_id: 1063310
+  tags:
+  - Adventure
+  - Indie
+  - Casual
+  - Action
+  - Exploration
+  - Atmospheric
+  - Puzzle
+  - Flight
+- !ruby/object:Game
+  name: Desolate
+  month: June
+  year: 2021
+  humble_scheme: choice
+  steam_id: 671510
+  tags:
+  - Survival
+  - Open World
+  - Horror
+  - Zombies
+  - First-Person
+  - Adventure
+  - Action
+  - Gore
+  - Atmospheric
+  - Singleplayer
+  - Stealth
+  - Mature
+  - Survival Horror
+  - Early Access
+  - Crafting
+  - Strategy
+  - Sandbox
+  - Psychological Horror
+  - Third Person
+  - Difficult
 - !ruby/object:Game
   name: Disjunction
   month: June
@@ -1612,32 +1639,32 @@
   - Comedy
   - Indie
 - !ruby/object:Game
-  name: Paw Paw Paw
+  name: Going Under
   month: June
   year: 2021
   humble_scheme: choice
-  steam_id: 1037910
+  steam_id: 1154810
   tags:
-  - Platformer
-  - Action RPG
-  - Action
-  - Action-Adventure
-  - 2D
+  - Action Roguelike
+  - Dungeon Crawler
   - Beat 'em up
+  - Rogue-lite
   - Hack and Slash
+  - Female Protagonist
+  - Difficult
+  - Rogue-like
+  - Souls-like
+  - Action RPG
+  - Cute
   - Funny
-  - Fantasy
-  - Co-op
-  - Comedy
-  - Combat
-  - Side Scroller
-  - Local Co-Op
-  - Local Multiplayer
-  - Controller
-  - Arcade
-  - Cartoony
+  - Action-Adventure
+  - Third Person
   - Colorful
-  - Class-Based
+  - Procedural Generation
+  - Story Rich
+  - 'Dystopian '
+  - Cyberpunk
+  - Action
 - !ruby/object:Game
   name: Ikenfell
   month: June
@@ -1665,33 +1692,6 @@
   - Adventure
   - 2D
   - Tactical RPG
-- !ruby/object:Game
-  name: Desolate
-  month: June
-  year: 2021
-  humble_scheme: choice
-  steam_id: 671510
-  tags:
-  - Survival
-  - Open World
-  - Horror
-  - Zombies
-  - First-Person
-  - Adventure
-  - Action
-  - Gore
-  - Atmospheric
-  - Singleplayer
-  - Stealth
-  - Mature
-  - Survival Horror
-  - Early Access
-  - Crafting
-  - Strategy
-  - Sandbox
-  - Psychological Horror
-  - Third Person
-  - Difficult
 - !ruby/object:Game
   name: Milky Way Prince – The Vampire Star
   month: June
@@ -1747,94 +1747,32 @@
   - Side Scroller
   - Female Protagonist
 - !ruby/object:Game
-  name: Going Under
+  name: Paw Paw Paw
   month: June
   year: 2021
   humble_scheme: choice
-  steam_id: 1154810
+  steam_id: 1037910
   tags:
-  - Action Roguelike
-  - Dungeon Crawler
-  - Beat 'em up
-  - Rogue-lite
-  - Hack and Slash
-  - Female Protagonist
-  - Difficult
-  - Rogue-like
-  - Souls-like
-  - Action RPG
-  - Cute
-  - Funny
-  - Action-Adventure
-  - Third Person
-  - Colorful
-  - Procedural Generation
-  - Story Rich
-  - 'Dystopian '
-  - Cyberpunk
-  - Action
-- !ruby/object:Game
-  name: Worms Rumble - Legends Pack
-  month: June
-  year: 2021
-  humble_scheme: choice
-  steam_id: 1440191
-  tags:
-  - dlc
-- !ruby/object:Game
-  name: Worms Rumble
-  month: June
-  year: 2021
-  humble_scheme: choice
-  steam_id: 1186040
-  tags:
-  - Multiplayer
-  - Battle Royale
-  - 2.5D
-  - Arena Shooter
-  - Character Customization
-  - Action
-  - PvP
-  - Casual
-  - Third-Person Shooter
-  - Shooter
-  - Funny
-  - Gun Customization
-  - Cartoony
-  - Colorful
-  - Family Friendly
-  - Comedy
   - Platformer
-  - Team-Based
-  - Strategy
-  - Cartoon
-- !ruby/object:Game
-  name: Stubbs The Zombie In Rebel Without A Pulse
-  month: June
-  year: 2021
-  humble_scheme: choice
-  steam_id: 7800
-  tags:
-  - Zombies
-  - Funny
-  - Villain Protagonist
-  - Violent
-  - Gore
+  - Action RPG
   - Action
-  - Cartoony
   - Action-Adventure
-  - Singleplayer
-  - Third Person
-  - 3D
-  - Adventure
-  - Arcade
-  - Dark Comedy
-  - Alternate History
+  - 2D
+  - Beat 'em up
+  - Hack and Slash
+  - Funny
+  - Fantasy
+  - Co-op
+  - Comedy
+  - Combat
+  - Side Scroller
   - Local Co-Op
-  - Retro
-  - Lemmings
-  - Outbreak Sim
-  - Vehicular Combat
+  - Local Multiplayer
+  - Controller
+  - Arcade
+  - Cartoony
+  - Colorful
+  - Class-Based
 - !ruby/object:Game
   name: 'Secret Neighbor: Hello Neighbor Multiplayer'
   month: June
@@ -1863,6 +1801,28 @@
   - Casual
   - Comedy
 - !ruby/object:Game
+  name: 'Sid Meier''s Civilization® VI: Australia Civilization & Scenario Pack'
+  month: June
+  year: 2021
+  humble_scheme: choice
+  steam_id: 512034
+  tags:
+  - Strategy
+- !ruby/object:Game
+  name: 'Sid Meier''s Civilization® VI: Gathering Storm'
+  month: June
+  year: 2021
+  humble_scheme: choice
+  steam_id: 947510
+  tags:
+  - Strategy
+  - Turn-Based
+  - Turn-Based Strategy
+  - 4X
+  - Grand Strategy
+  - Multiplayer
+  - Historical
+- !ruby/object:Game
   name: 'Sid Meier''s Civilization® VI: Khmer and Indonesia Civilization & Scenario
     Pack'
   month: June
@@ -1889,14 +1849,6 @@
   tags:
   - Strategy
 - !ruby/object:Game
-  name: 'Sid Meier''s Civilization® VI: Australia Civilization & Scenario Pack'
-  month: June
-  year: 2021
-  humble_scheme: choice
-  steam_id: 512034
-  tags:
-  - Strategy
-- !ruby/object:Game
   name: 'Sid Meier''s Civilization® VI: Poland Civilization & Scenario Pack'
   month: June
   year: 2021
@@ -1912,32 +1864,6 @@
   steam_id: 512032
   tags:
   - Strategy
-- !ruby/object:Game
-  name: 'Sid Meier''s Civilization® VI: Gathering Storm'
-  month: June
-  year: 2021
-  humble_scheme: choice
-  steam_id: 947510
-  tags:
-  - Strategy
-  - Turn-Based
-  - Turn-Based Strategy
-  - 4X
-  - Grand Strategy
-  - Multiplayer
-  - Historical
-- !ruby/object:Game
-  name: 'Sid Meier’s Civilization® VI: Rise and Fall'
-  month: June
-  year: 2021
-  humble_scheme: choice
-  steam_id: 645402
-  tags:
-  - Strategy
-  - Turn-Based
-  - 4X
-  - Multiplayer
-  - Singleplayer
 - !ruby/object:Game
   name: Sid Meier’s Civilization® VI
   month: June
@@ -1966,6 +1892,80 @@
   - Hex Grid
   - Atmospheric
 - !ruby/object:Game
+  name: 'Sid Meier’s Civilization® VI: Rise and Fall'
+  month: June
+  year: 2021
+  humble_scheme: choice
+  steam_id: 645402
+  tags:
+  - Strategy
+  - Turn-Based
+  - 4X
+  - Multiplayer
+  - Singleplayer
+- !ruby/object:Game
+  name: Stubbs The Zombie In Rebel Without A Pulse
+  month: June
+  year: 2021
+  humble_scheme: choice
+  steam_id: 7800
+  tags:
+  - Zombies
+  - Funny
+  - Villain Protagonist
+  - Violent
+  - Gore
+  - Action
+  - Cartoony
+  - Action-Adventure
+  - Singleplayer
+  - Third Person
+  - 3D
+  - Adventure
+  - Arcade
+  - Dark Comedy
+  - Alternate History
+  - Local Co-Op
+  - Retro
+  - Lemmings
+  - Outbreak Sim
+  - Vehicular Combat
+- !ruby/object:Game
+  name: Worms Rumble
+  month: June
+  year: 2021
+  humble_scheme: choice
+  steam_id: 1186040
+  tags:
+  - Multiplayer
+  - Battle Royale
+  - 2.5D
+  - Arena Shooter
+  - Character Customization
+  - Action
+  - PvP
+  - Casual
+  - Third-Person Shooter
+  - Shooter
+  - Funny
+  - Gun Customization
+  - Cartoony
+  - Colorful
+  - Family Friendly
+  - Comedy
+  - Platformer
+  - Team-Based
+  - Strategy
+  - Cartoon
+- !ruby/object:Game
+  name: Worms Rumble - Legends Pack
+  month: June
+  year: 2021
+  humble_scheme: choice
+  steam_id: 1440191
+  tags:
+  - dlc
+- !ruby/object:Game
   name: Adom (Ancient Domains of Mystery)
   month: July
   year: 2021
@@ -1992,87 +1992,6 @@
   - Singleplayer
   - Indie
   - Replay Value
-- !ruby/object:Game
-  name: Deadly Days
-  month: July
-  year: 2021
-  humble_scheme: choice
-  steam_id: 740080
-  tags:
-  - Indie
-  - Action
-  - Rogue-lite
-  - Casual
-  - Action Roguelike
-  - Strategy
-  - Zombies
-  - Pixel Graphics
-  - Survival
-  - Post-apocalyptic
-  - Difficult
-  - Procedural Generation
-  - Singleplayer
-  - Perma Death
-  - Comedy
-  - Retro
-  - Addictive
-  - Early Access
-  - Tactical
-  - Rogue-like
-- !ruby/object:Game
-  name: S.W.I.N.E. HD Remaster
-  month: July
-  year: 2021
-  humble_scheme: choice
-  steam_id: 944010
-  tags:
-  - Strategy
-  - RTS
-  - Retro
-  - Funny
-  - Real Time Tactics
-  - Tanks
-  - War
-  - Real-Time
-  - Real-Time with Pause
-  - Multiplayer
-  - Classic
-  - Remake
-  - Action
-  - Comedy
-  - Difficult
-  - PvE
-  - Great Soundtrack
-  - Moddable
-  - Indie
-  - Cold War
-- !ruby/object:Game
-  name: Elderborn
-  month: July
-  year: 2021
-  humble_scheme: choice
-  steam_id: 727850
-  tags:
-  - First-Person
-  - Souls-like
-  - Dark Fantasy
-  - Dark
-  - Hack and Slash
-  - Difficult
-  - Swordplay
-  - Action RPG
-  - Dungeon Crawler
-  - 3D Fighter
-  - Perma Death
-  - Fantasy
-  - PvE
-  - Exploration
-  - Fighting
-  - Sci-fi
-  - Action
-  - Combat
-  - Atmospheric
-  - Comic Book
 - !ruby/object:Game
   name: Bee Simulator
   month: July
@@ -2101,86 +2020,86 @@
   - Linear
   - Narration
 - !ruby/object:Game
-  name: Kill It With Fire
+  name: Deadly Days
   month: July
   year: 2021
   humble_scheme: choice
-  steam_id: 1179210
+  steam_id: 740080
   tags:
+  - Indie
   - Action
-  - Simulation
-  - Comedy
-  - Family Friendly
-  - Destruction
-  - Colorful
-  - Funny
-  - Physics
-  - Horror
-  - Cute
-  - Atmospheric
+  - Rogue-lite
   - Casual
-  - Artificial Intelligence
-  - Survival Horror
-  - Co-op
-  - Sandbox
-  - Party Game
-  - Survival
-  - Shoot 'Em Up
-  - Massively Multiplayer
-- !ruby/object:Game
-  name: Paradise Killer
-  month: July
-  year: 2021
-  humble_scheme: choice
-  steam_id: 1160220
-  tags:
-  - Story Rich
-  - Investigation
-  - Open World
-  - Female Protagonist
-  - Exploration
-  - Detective
-  - First-Person
-  - Surreal
-  - Point & Click
-  - Choices Matter
-  - RPG
-  - Stylized
-  - Multiple Endings
-  - Mystery
-  - Crime
-  - Atmospheric
-  - Psychedelic
-  - Adventure
-  - Singleplayer
-  - Great Soundtrack
-- !ruby/object:Game
-  name: Nimbatus - The Space Drone Constructor
-  month: July
-  year: 2021
-  humble_scheme: choice
-  steam_id: 383840
-  tags:
+  - Action Roguelike
   - Strategy
-  - Singleplayer
-  - Adventure
-  - Sci-fi
-  - Space Sim
-  - Exploration
-  - Robots
-  - Space
-  - Sports
-  - Puzzle
-  - Action
-  - Programming
-  - Crafting
-  - Logic
+  - Zombies
+  - Pixel Graphics
   - Survival
-  - Building
+  - Post-apocalyptic
+  - Difficult
+  - Procedural Generation
+  - Singleplayer
+  - Perma Death
+  - Comedy
+  - Retro
+  - Addictive
+  - Early Access
+  - Tactical
+  - Rogue-like
+- !ruby/object:Game
+  name: Dirt 5
+  month: July
+  year: 2021
+  humble_scheme: choice
+  steam_id: 1038250
+  tags:
+  - Racing
+  - Driving
+  - Offroad
+  - 4 Player Local
+  - Multiplayer
+  - Arcade
+  - Casual
+  - Action
+  - Local Multiplayer
+  - Sports
+  - Adventure
+  - Automobile Sim
+  - Singleplayer
+  - Atmospheric
+  - First-Person
+  - Colorful
+  - Realistic
+  - PvP
+  - Local Co-Op
   - Sandbox
-  - Automation
-  - Physics
+- !ruby/object:Game
+  name: Elderborn
+  month: July
+  year: 2021
+  humble_scheme: choice
+  steam_id: 727850
+  tags:
+  - First-Person
+  - Souls-like
+  - Dark Fantasy
+  - Dark
+  - Hack and Slash
+  - Difficult
+  - Swordplay
+  - Action RPG
+  - Dungeon Crawler
+  - 3D Fighter
+  - Perma Death
+  - Fantasy
+  - PvE
+  - Exploration
   - Fighting
+  - Sci-fi
+  - Action
+  - Combat
+  - Atmospheric
+  - Comic Book
 - !ruby/object:Game
   name: Hammerting
   month: July
@@ -2209,32 +2128,113 @@
   - Mod
   - 2.5D
 - !ruby/object:Game
-  name: Dirt 5
+  name: Kill It With Fire
   month: July
   year: 2021
   humble_scheme: choice
-  steam_id: 1038250
+  steam_id: 1179210
   tags:
-  - Racing
-  - Driving
-  - Offroad
-  - 4 Player Local
-  - Multiplayer
-  - Arcade
-  - Casual
   - Action
-  - Local Multiplayer
-  - Sports
-  - Adventure
-  - Automobile Sim
-  - Singleplayer
-  - Atmospheric
-  - First-Person
+  - Simulation
+  - Comedy
+  - Family Friendly
+  - Destruction
   - Colorful
-  - Realistic
-  - PvP
-  - Local Co-Op
+  - Funny
+  - Physics
+  - Horror
+  - Cute
+  - Atmospheric
+  - Casual
+  - Artificial Intelligence
+  - Survival Horror
+  - Co-op
   - Sandbox
+  - Party Game
+  - Survival
+  - Shoot 'Em Up
+  - Massively Multiplayer
+- !ruby/object:Game
+  name: Nimbatus - The Space Drone Constructor
+  month: July
+  year: 2021
+  humble_scheme: choice
+  steam_id: 383840
+  tags:
+  - Strategy
+  - Singleplayer
+  - Adventure
+  - Sci-fi
+  - Space Sim
+  - Exploration
+  - Robots
+  - Space
+  - Sports
+  - Puzzle
+  - Action
+  - Programming
+  - Crafting
+  - Logic
+  - Survival
+  - Building
+  - Sandbox
+  - Automation
+  - Physics
+  - Fighting
+- !ruby/object:Game
+  name: Paradise Killer
+  month: July
+  year: 2021
+  humble_scheme: choice
+  steam_id: 1160220
+  tags:
+  - Story Rich
+  - Investigation
+  - Open World
+  - Female Protagonist
+  - Exploration
+  - Detective
+  - First-Person
+  - Surreal
+  - Point & Click
+  - Choices Matter
+  - RPG
+  - Stylized
+  - Multiple Endings
+  - Mystery
+  - Crime
+  - Atmospheric
+  - Psychedelic
+  - Adventure
+  - Singleplayer
+  - Great Soundtrack
+- !ruby/object:Game
+  name: S.W.I.N.E. HD Remaster
+  month: July
+  year: 2021
+  humble_scheme: choice
+  steam_id: 944010
+  tags:
+  - Strategy
+  - RTS
+  - Retro
+  - Funny
+  - Real Time Tactics
+  - Tanks
+  - War
+  - Real-Time
+  - Real-Time with Pause
+  - Multiplayer
+  - Classic
+  - Remake
+  - Action
+  - Comedy
+  - Difficult
+  - PvE
+  - Great Soundtrack
+  - Moddable
+  - Indie
+  - Cold War
 - !ruby/object:Game
   name: The Surge 2
   month: July
@@ -2290,31 +2290,59 @@
   - Great Soundtrack
   - Action-Adventure
 - !ruby/object:Game
-  name: Encodya
+  name: As Far As The Eye
   month: August
   year: 2021
   humble_scheme: choice
-  steam_id: 1137450
+  steam_id: 1119700
   tags:
-  - Adventure
-  - Point & Click
-  - Cyberpunk
-  - Robots
-  - Female Protagonist
-  - Sci-fi
+  - Strategy
+  - Building
+  - Colony Sim
+  - City Builder
+  - Tabletop
+  - Turn-Based Strategy
+  - Sandbox
   - Singleplayer
-  - Story Rich
-  - Futuristic
-  - Atmospheric
-  - Post-apocalyptic
-  - Cartoony
-  - Narration
-  - Mystery
+  - Survival
+  - Hex Grid
+  - 3D
+  - Rogue-like
+  - Management
+  - Resource Management
+  - Difficult
+  - Fantasy
+  - Economy
+  - 4X
+  - Family Friendly
+  - Board Game
+- !ruby/object:Game
+  name: 'Bloodstained: Ritual Of The Night'
+  month: August
+  year: 2021
+  humble_scheme: choice
+  steam_id: 692850
+  tags:
+  - Metroidvania
+  - RPG
+  - Female Protagonist
+  - Action
+  - Adventure
+  - Anime
+  - Side Scroller
+  - 2.5D
+  - Platformer
+  - Great Soundtrack
+  - Dark Fantasy
+  - Gothic
+  - Exploration
+  - Singleplayer
+  - Crafting
+  - 2D
+  - Difficult
+  - Nudity
   - Indie
-  - Dark
-  - Colorful
-  - Beautiful
-  - Puzzle
+  - Sexual Content
 - !ruby/object:Game
   name: Blue Fire
   month: August
@@ -2343,59 +2371,32 @@
   - Precision Platformer
   - Controller
 - !ruby/object:Game
-  name: Nowhere Prophet
+  name: Carto
   month: August
   year: 2021
   humble_scheme: choice
-  steam_id: 681730
+  steam_id: 1172450
   tags:
-  - Rogue-like
-  - Deckbuilding
-  - Card Game
-  - Turn-Based
-  - Post-apocalyptic
-  - Card Battler
-  - Turn-Based Strategy
-  - Tactical RPG
-  - Tabletop
-  - Trading Card Game
-  - Board Game
-  - RPG
-  - Strategy RPG
-  - Strategy
-  - Cyberpunk
-  - 2D
-  - Turn-Based Tactics
-  - Procedural Generation
-  - Turn-Based Combat
-  - Rogue-lite
-- !ruby/object:Game
-  name: Drake Hollow
-  month: August
-  year: 2021
-  humble_scheme: choice
-  steam_id: 739650
-  tags:
-  - Open World
-  - Survival
-  - Adventure
-  - Sandbox
-  - Exploration
-  - Multiplayer
-  - Singleplayer
-  - Action
-  - Online Co-Op
   - Indie
-  - Building
-  - Base-Building
-  - Colony Sim
-  - Character Customization
   - Cute
-  - Third Person
+  - Puzzle
+  - Exploration
+  - Hand-drawn
+  - Relaxing
+  - Story Rich
+  - Adventure
+  - Singleplayer
+  - Female Protagonist
   - Colorful
-  - Co-op
-  - Family Friendly
   - Atmospheric
+  - Family Friendly
+  - Nature
+  - 2D
+  - Stylized
+  - Funny
+  - Top-Down
+  - Cartoon
+  - Open World
 - !ruby/object:Game
   name: Cepheus Protocol
   month: August
@@ -2424,86 +2425,112 @@
   - Real Time Tactics
   - Survival Horror
 - !ruby/object:Game
-  name: As Far As The Eye
+  name: Drake Hollow
   month: August
   year: 2021
   humble_scheme: choice
-  steam_id: 1119700
+  steam_id: 739650
   tags:
-  - Strategy
-  - Building
-  - Colony Sim
-  - City Builder
-  - Tabletop
-  - Turn-Based Strategy
-  - Sandbox
-  - Singleplayer
-  - Survival
-  - Hex Grid
-  - 3D
-  - Rogue-like
-  - Management
-  - Resource Management
-  - Difficult
-  - Fantasy
-  - Economy
-  - 4X
-  - Family Friendly
-  - Board Game
-- !ruby/object:Game
-  name: Carto
-  month: August
-  year: 2021
-  humble_scheme: choice
-  steam_id: 1172450
-  tags:
-  - Indie
-  - Cute
-  - Puzzle
-  - Exploration
-  - Hand-drawn
-  - Relaxing
-  - Story Rich
-  - Adventure
-  - Singleplayer
-  - Female Protagonist
-  - Colorful
-  - Atmospheric
-  - Family Friendly
-  - Nature
-  - 2D
-  - Stylized
-  - Funny
-  - Top-Down
-  - Cartoon
   - Open World
+  - Survival
+  - Adventure
+  - Sandbox
+  - Exploration
+  - Multiplayer
+  - Singleplayer
+  - Action
+  - Online Co-Op
+  - Indie
+  - Building
+  - Base-Building
+  - Colony Sim
+  - Character Customization
+  - Cute
+  - Third Person
+  - Colorful
+  - Co-op
+  - Family Friendly
+  - Atmospheric
 - !ruby/object:Game
-  name: We Need To Go Deeper
+  name: Encodya
   month: August
   year: 2021
   humble_scheme: choice
-  steam_id: 307110
+  steam_id: 1137450
   tags:
-  - Co-op
-  - 2D
-  - Lovecraftian
-  - Rogue-lite
-  - Multiplayer
-  - Hand-drawn
-  - Underwater
-  - Submarine
-  - Action
-  - Steampunk
-  - Simulation
-  - Team-Based
-  - PvE
-  - Exploration
-  - Rogue-like
   - Adventure
-  - Online Co-Op
-  - Loot
-  - 2D Platformer
-  - Cartoon
+  - Point & Click
+  - Cyberpunk
+  - Robots
+  - Female Protagonist
+  - Sci-fi
+  - Singleplayer
+  - Story Rich
+  - Futuristic
+  - Atmospheric
+  - Post-apocalyptic
+  - Cartoony
+  - Narration
+  - Mystery
+  - Indie
+  - Dark
+  - Colorful
+  - Beautiful
+  - Puzzle
+- !ruby/object:Game
+  name: Last Oasis
+  month: August
+  year: 2021
+  humble_scheme: choice
+  steam_id: 903950
+  tags:
+  - Massively Multiplayer
+  - Survival
+  - Open World
+  - Action
+  - RPG
+  - Adventure
+  - Crafting
+  - Indie
+  - Multiplayer
+  - Building
+  - PvP
+  - Sandbox
+  - Early Access
+  - Third Person
+  - Post-apocalyptic
+  - Violent
+  - PvE
+  - Economy
+  - MMORPG
+  - Swordplay
+- !ruby/object:Game
+  name: Nowhere Prophet
+  month: August
+  year: 2021
+  humble_scheme: choice
+  steam_id: 681730
+  tags:
+  - Rogue-like
+  - Deckbuilding
+  - Card Game
+  - Turn-Based
+  - Post-apocalyptic
+  - Card Battler
+  - Turn-Based Strategy
+  - Tactical RPG
+  - Tabletop
+  - Trading Card Game
+  - Board Game
+  - RPG
+  - Strategy RPG
+  - Strategy
+  - Cyberpunk
+  - 2D
+  - Turn-Based Tactics
+  - Procedural Generation
+  - Turn-Based Combat
+  - Rogue-lite
 - !ruby/object:Game
   name: Out Of Space
   month: August
@@ -2553,194 +2580,32 @@
   - Colorful
   - Dark Humor
 - !ruby/object:Game
-  name: Last Oasis
+  name: We Need To Go Deeper
   month: August
   year: 2021
   humble_scheme: choice
-  steam_id: 903950
+  steam_id: 307110
   tags:
-  - Massively Multiplayer
-  - Survival
-  - Open World
-  - Action
-  - RPG
-  - Adventure
-  - Crafting
-  - Indie
-  - Multiplayer
-  - Building
-  - PvP
-  - Sandbox
-  - Early Access
-  - Third Person
-  - Post-apocalyptic
-  - Violent
-  - PvE
-  - Economy
-  - MMORPG
-  - Swordplay
-- !ruby/object:Game
-  name: 'Bloodstained: Ritual Of The Night'
-  month: August
-  year: 2021
-  humble_scheme: choice
-  steam_id: 692850
-  tags:
-  - Metroidvania
-  - RPG
-  - Female Protagonist
-  - Action
-  - Adventure
-  - Anime
-  - Side Scroller
-  - 2.5D
-  - Platformer
-  - Great Soundtrack
-  - Dark Fantasy
-  - Gothic
-  - Exploration
-  - Singleplayer
-  - Crafting
-  - 2D
-  - Difficult
-  - Nudity
-  - Indie
-  - Sexual Content
-- !ruby/object:Game
-  name: Framed Collection
-  month: September
-  year: 2021
-  humble_scheme: choice
-  steam_id: 322450
-  tags:
-  - Puzzle
-  - Casual
-  - Indie
-  - Adventure
-  - Noir
-  - Comic Book
-  - Singleplayer
-  - Minimalist
-  - Touch-Friendly
-  - Heist
-  - Family Friendly
-  - Point & Click
-  - Great Soundtrack
-  - Strategy
-  - 2D
-  - Cartoon
-  - Music
-  - Platformer
-  - Puzzle-Platformer
-  - Addictive
-- !ruby/object:Game
-  name: 'Orwell: Ignorance is Strength'
-  month: September
-  year: 2021
-  humble_scheme: choice
-  steam_id: 633060
-  tags:
-  - Simulation
-  - Choices Matter
-  - Political Sim
-  - Indie
-  - 'Dystopian '
-  - Story Rich
-  - Political
-  - Adventure
-  - Singleplayer
-  - Detective
-  - Interactive Fiction
-  - Hacking
-  - Mystery
-  - Visual Novel
-  - Puzzle
-  - Atmospheric
-  - Great Soundtrack
-  - Point & Click
-  - Multiple Endings
-  - Investigation
-- !ruby/object:Game
-  name: Fort Triumph
-  month: September
-  year: 2021
-  humble_scheme: choice
-  steam_id: 612570
-  tags:
-  - 3D
-  - Tactical RPG
-  - Turn-Based Tactics
   - Co-op
-  - Local Multiplayer
-  - Turn-Based
-  - Party-Based RPG
-  - Turn-Based Strategy
-  - RPG
-  - Strategy
-  - 'Parody '
-  - Turn-Based Combat
-  - Fantasy
-  - Multiplayer
-  - Medieval
-  - Tactical
-  - Adventure
-  - Local Co-Op
-  - Singleplayer
-  - Kickstarter
-- !ruby/object:Game
-  name: Swag And Sorcery
-  month: September
-  year: 2021
-  humble_scheme: choice
-  steam_id: 929010
-  tags:
-  - Pixel Graphics
-  - RPG
-  - Management
-  - Singleplayer
-  - Indie
-  - Adventure
-  - Clicker
   - 2D
-  - Crafting
-  - Comedy
-  - Idler
-  - Resource Management
-  - Funny
-  - Retro
-  - Rogue-like
-  - Cartoony
+  - Lovecraftian
   - Rogue-lite
-  - Colorful
-  - Family Friendly
-  - Fantasy
-- !ruby/object:Game
-  name: Heaven's Vault
-  month: September
-  year: 2021
-  humble_scheme: choice
-  steam_id: 774201
-  tags:
-  - Adventure
-  - Narrative
-  - Mystery
-  - Female Protagonist
-  - Sci-fi
-  - Choices Matter
-  - Point & Click
-  - Interactive Fiction
-  - Puzzle
-  - Atmospheric
+  - Multiplayer
+  - Hand-drawn
+  - Underwater
+  - Submarine
+  - Action
+  - Steampunk
+  - Simulation
+  - Team-Based
+  - PvE
   - Exploration
-  - Singleplayer
-  - Indie
-  - Choose Your Own Adventure
-  - Story Rich
-  - 2D
-  - Space
-  - Historical
-  - Colorful
-  - Great Soundtrack
+  - Rogue-like
+  - Adventure
+  - Online Co-Op
+  - Loot
+  - 2D Platformer
+  - Cartoon
 - !ruby/object:Game
   name: Atomicrops
   month: September
@@ -2769,32 +2634,86 @@
   - PvE
   - Cats
 - !ruby/object:Game
-  name: West Of Dead
+  name: Fort Triumph
   month: September
   year: 2021
   humble_scheme: choice
-  steam_id: 1016790
+  steam_id: 612570
   tags:
-  - Replay Value
-  - Rogue-like
-  - Western
-  - Rogue-lite
-  - Horror
-  - Difficult
-  - Zombies
-  - Twin Stick Shooter
-  - Action
-  - Action Roguelike
+  - 3D
+  - Tactical RPG
+  - Turn-Based Tactics
+  - Co-op
+  - Local Multiplayer
+  - Turn-Based
+  - Party-Based RPG
+  - Turn-Based Strategy
+  - RPG
+  - Strategy
+  - 'Parody '
+  - Turn-Based Combat
+  - Fantasy
+  - Multiplayer
+  - Medieval
+  - Tactical
   - Adventure
-  - Top-Down Shooter
-  - Shooter
+  - Local Co-Op
   - Singleplayer
-  - Procedural Generation
-  - Isometric
-  - Dark
-  - Fast-Paced
+  - Kickstarter
+- !ruby/object:Game
+  name: Framed Collection
+  month: September
+  year: 2021
+  humble_scheme: choice
+  steam_id: 322450
+  tags:
+  - Puzzle
+  - Casual
+  - Indie
+  - Adventure
+  - Noir
+  - Comic Book
+  - Singleplayer
+  - Minimalist
+  - Touch-Friendly
+  - Heist
+  - Family Friendly
+  - Point & Click
+  - Great Soundtrack
+  - Strategy
+  - 2D
+  - Cartoon
+  - Music
+  - Platformer
+  - Puzzle-Platformer
+  - Addictive
+- !ruby/object:Game
+  name: Heaven's Vault
+  month: September
+  year: 2021
+  humble_scheme: choice
+  steam_id: 774201
+  tags:
+  - Adventure
+  - Narrative
+  - Mystery
+  - Female Protagonist
+  - Sci-fi
+  - Choices Matter
+  - Point & Click
+  - Interactive Fiction
+  - Puzzle
   - Atmospheric
-  - Survival
+  - Exploration
+  - Singleplayer
+  - Indie
+  - Choose Your Own Adventure
+  - Story Rich
+  - 2D
+  - Space
+  - Historical
+  - Colorful
+  - Great Soundtrack
 - !ruby/object:Game
   name: Narita Boy
   month: September
@@ -2823,32 +2742,32 @@
   - Hack and Slash
   - Colorful
 - !ruby/object:Game
-  name: Röki
+  name: Neon Abyss
   month: September
   year: 2021
   humble_scheme: choice
-  steam_id: 1067540
+  steam_id: 788100
   tags:
-  - Adventure
-  - Puzzle
-  - Story Rich
-  - Atmospheric
+  - Rogue-like
+  - Platformer
+  - Loot
+  - Procedural Generation
   - Singleplayer
-  - Emotional
-  - Casual
-  - Fantasy
-  - Female Protagonist
-  - Third Person
-  - Mythology
-  - Colorful
-  - Nature
-  - Indie
-  - Exploration
   - Pixel Graphics
-  - Narration
-  - Beautiful
-  - Snow
-  - Great Soundtrack
+  - Replay Value
+  - Cyberpunk
+  - Shooter
+  - Adventure
+  - Rogue-lite
+  - Bullet Hell
+  - Action Roguelike
+  - Dungeon Crawler
+  - 2D Platformer
+  - RPG
+  - Action
+  - 2D
+  - Action-Adventure
+  - Character Customization
 - !ruby/object:Game
   name: Not For Broadcast
   month: September
@@ -2877,32 +2796,32 @@
   - Singleplayer
   - Indie
 - !ruby/object:Game
-  name: Neon Abyss
+  name: 'Orwell: Ignorance is Strength'
   month: September
   year: 2021
   humble_scheme: choice
-  steam_id: 788100
+  steam_id: 633060
   tags:
-  - Rogue-like
-  - Platformer
-  - Loot
-  - Procedural Generation
-  - Singleplayer
-  - Pixel Graphics
-  - Replay Value
-  - Cyberpunk
-  - Shooter
+  - Simulation
+  - Choices Matter
+  - Political Sim
+  - Indie
+  - 'Dystopian '
+  - Story Rich
+  - Political
   - Adventure
-  - Rogue-lite
-  - Bullet Hell
-  - Action Roguelike
-  - Dungeon Crawler
-  - 2D Platformer
-  - RPG
-  - Action
-  - 2D
-  - Action-Adventure
-  - Character Customization
+  - Singleplayer
+  - Detective
+  - Interactive Fiction
+  - Hacking
+  - Mystery
+  - Visual Novel
+  - Puzzle
+  - Atmospheric
+  - Great Soundtrack
+  - Point & Click
+  - Multiple Endings
+  - Investigation
 - !ruby/object:Game
   name: PGA Tour 2k21
   month: September
@@ -2910,212 +2829,85 @@
   humble_scheme: choice
   steam_id:
 - !ruby/object:Game
-  name: Syberia 3
-  month: October
+  name: Röki
+  month: September
   year: 2021
   humble_scheme: choice
-  steam_id: 464340
+  steam_id: 1067540
   tags:
   - Adventure
   - Puzzle
   - Story Rich
-  - Point & Click
-  - Female Protagonist
   - Atmospheric
   - Singleplayer
-  - Great Soundtrack
-  - Steampunk
-  - Hidden Object
+  - Emotional
+  - Casual
+  - Fantasy
+  - Female Protagonist
   - Third Person
-  - Mystery
-  - Controller
-  - Escape Room
-  - Open World
-  - Choices Matter
-  - Classic
+  - Mythology
+  - Colorful
+  - Nature
+  - Indie
+  - Exploration
+  - Pixel Graphics
+  - Narration
+  - Beautiful
+  - Snow
+  - Great Soundtrack
 - !ruby/object:Game
-  name: Black Future '88
-  month: October
+  name: Swag And Sorcery
+  month: September
   year: 2021
   humble_scheme: choice
-  steam_id: 751820
+  steam_id: 929010
   tags:
+  - Pixel Graphics
+  - RPG
+  - Management
+  - Singleplayer
+  - Indie
+  - Adventure
+  - Clicker
+  - 2D
+  - Crafting
+  - Comedy
+  - Idler
+  - Resource Management
+  - Funny
+  - Retro
+  - Rogue-like
+  - Cartoony
+  - Rogue-lite
+  - Colorful
+  - Family Friendly
+  - Fantasy
+- !ruby/object:Game
+  name: West Of Dead
+  month: September
+  year: 2021
+  humble_scheme: choice
+  steam_id: 1016790
+  tags:
+  - Replay Value
+  - Rogue-like
+  - Western
+  - Rogue-lite
+  - Horror
+  - Difficult
+  - Zombies
+  - Twin Stick Shooter
   - Action
   - Action Roguelike
-  - Rogue-lite
-  - Cyberpunk
   - Adventure
-  - Co-op
-  - 1980s
-  - Local Co-Op
-  - Pixel Graphics
-  - Platformer
-  - Indie
-  - Side Scroller
-  - Difficult
-  - Great Soundtrack
-  - Sci-fi
-  - 2D
-  - Rogue-like
-- !ruby/object:Game
-  name: Hiveswap Friendsim
-  month: October
-  year: 2021
-  humble_scheme: choice
-  steam_id: 833040
-  tags:
-  - Visual Novel
-  - Indie
-  - Simulation
-  - Violent
-  - Adventure
-  - Dating Sim
-  - RPG
-  - Casual
-  - Psychological Horror
-  - Memes
-  - Singleplayer
-  - LGBTQ+
-  - Great Soundtrack
-  - Story Rich
-  - Anime
-  - Music
-  - Cartoon
-  - Cute
-  - First-Person
-  - Funny
-- !ruby/object:Game
-  name: Tools Up!
-  month: October
-  year: 2021
-  humble_scheme: choice
-  steam_id: 1004490
-  tags:
-  - Casual
-  - Indie
-  - Simulation
-  - Action
-  - Adventure
-  - Local Co-Op
-  - Multiplayer
-  - Local Multiplayer
-  - 4 Player Local
-  - Co-op
-  - Funny
-  - Co-op Campaign
-  - Family Friendly
-  - Singleplayer
-  - Colorful
-  - Cute
-  - Great Soundtrack
-  - Difficult
-  - Split Screen
-  - Memes
-- !ruby/object:Game
-  name: 'The Textorcist: The Story Of Ray Bibbia'
-  month: October
-  year: 2021
-  humble_scheme: choice
-  steam_id: 940680
-  tags:
-  - Indie
-  - Action
-  - Bullet Hell
-  - Typing
-  - Difficult
-  - Pixel Graphics
-  - Great Soundtrack
-  - Singleplayer
-  - Demons
-  - Retro
-  - 2D
-  - Funny
-  - Gore
-  - Dark Humor
-  - Story Rich
-  - Atmospheric
-  - GameMaker
-  - Beautiful
-- !ruby/object:Game
-  name: 'Garage: Bad Trip'
-  month: October
-  year: 2021
-  humble_scheme: choice
-  steam_id: 878580
-  tags:
-  - Gore
-  - Action
-  - Violent
-  - Indie
-  - Top-Down
-  - Zombies
   - Top-Down Shooter
-  - Horror
-  - Pixel Graphics
-  - 2D
   - Shooter
-  - Twin Stick Shooter
-  - Retro
   - Singleplayer
-  - Blood
-  - Controller
-  - Difficult
-  - Survival Horror
-  - Stylized
+  - Procedural Generation
+  - Isometric
   - Dark
-- !ruby/object:Game
-  name: Ring Of Pain
-  month: October
-  year: 2021
-  humble_scheme: choice
-  steam_id: 998740
-  tags:
-  - Dungeon Crawler
-  - Card Game
-  - Rogue-lite
-  - Turn-Based
-  - Difficult
-  - Rogue-like
-  - Dark
-  - Strategy
-  - RPG
-  - Stylized
-  - Lore-Rich
-  - Dark Fantasy
+  - Fast-Paced
   - Atmospheric
-  - Horror
-  - Singleplayer
-  - Inventory Management
-  - Indie
-  - Replay Value
-  - Mouse only
-  - Roguelike Deckbuilder
-- !ruby/object:Game
-  name: Guts And Glory
-  month: October
-  year: 2021
-  humble_scheme: choice
-  steam_id: 537340
-  tags:
-  - Action
-  - Racing
-  - Casual
-  - Indie
-  - Gore
-  - Funny
-  - Physics
-  - Violent
-  - Open World
-  - Blood
-  - Comedy
-  - Sandbox
-  - Singleplayer
-  - Third Person
-  - Early Access
-  - Level Editor
-  - Difficult
-  - Dark Humor
-  - Multiplayer
   - Survival
 - !ruby/object:Game
   name: 112 Operator
@@ -3145,28 +2937,6 @@
   - Real Time Tactics
   - Heist
 - !ruby/object:Game
-  name: John Wick Hex
-  month: October
-  year: 2021
-  humble_scheme: choice
-  steam_id: 1405790
-  tags:
-  - Strategy
-  - Action
-  - Real Time Tactics
-  - Time Management
-  - Tactical
-  - Shooter
-  - RTS
-  - Combat
-  - Singleplayer
-  - 3D
-  - Stylized
-  - Time Manipulation
-  - Story Rich
-  - Turn-Based Tactics
-  - Indie
-- !ruby/object:Game
   name: 'Amnesia: Rebirth'
   month: October
   year: 2021
@@ -3193,6 +2963,133 @@
   - Emotional
   - Gothic
   - Female Protagonist
+- !ruby/object:Game
+  name: Black Future '88
+  month: October
+  year: 2021
+  humble_scheme: choice
+  steam_id: 751820
+  tags:
+  - Action
+  - Action Roguelike
+  - Rogue-lite
+  - Cyberpunk
+  - Adventure
+  - Co-op
+  - 1980s
+  - Local Co-Op
+  - Pixel Graphics
+  - Platformer
+  - Indie
+  - Side Scroller
+  - Difficult
+  - Great Soundtrack
+  - Sci-fi
+  - 2D
+  - Rogue-like
+- !ruby/object:Game
+  name: 'Garage: Bad Trip'
+  month: October
+  year: 2021
+  humble_scheme: choice
+  steam_id: 878580
+  tags:
+  - Gore
+  - Action
+  - Violent
+  - Indie
+  - Top-Down
+  - Zombies
+  - Top-Down Shooter
+  - Horror
+  - Pixel Graphics
+  - 2D
+  - Shooter
+  - Twin Stick Shooter
+  - Retro
+  - Singleplayer
+  - Blood
+  - Controller
+  - Difficult
+  - Survival Horror
+  - Stylized
+  - Dark
+- !ruby/object:Game
+  name: Guts And Glory
+  month: October
+  year: 2021
+  humble_scheme: choice
+  steam_id: 537340
+  tags:
+  - Action
+  - Racing
+  - Casual
+  - Indie
+  - Gore
+  - Funny
+  - Physics
+  - Violent
+  - Open World
+  - Blood
+  - Comedy
+  - Sandbox
+  - Singleplayer
+  - Third Person
+  - Early Access
+  - Level Editor
+  - Difficult
+  - Dark Humor
+  - Multiplayer
+  - Survival
+- !ruby/object:Game
+  name: Hiveswap Friendsim
+  month: October
+  year: 2021
+  humble_scheme: choice
+  steam_id: 833040
+  tags:
+  - Visual Novel
+  - Indie
+  - Simulation
+  - Violent
+  - Adventure
+  - Dating Sim
+  - RPG
+  - Casual
+  - Psychological Horror
+  - Memes
+  - Singleplayer
+  - LGBTQ+
+  - Great Soundtrack
+  - Story Rich
+  - Anime
+  - Music
+  - Cartoon
+  - Cute
+  - First-Person
+  - Funny
+- !ruby/object:Game
+  name: John Wick Hex
+  month: October
+  year: 2021
+  humble_scheme: choice
+  steam_id: 1405790
+  tags:
+  - Strategy
+  - Action
+  - Real Time Tactics
+  - Time Management
+  - Tactical
+  - Shooter
+  - RTS
+  - Combat
+  - Singleplayer
+  - 3D
+  - Stylized
+  - Time Manipulation
+  - Story Rich
+  - Turn-Based Tactics
+  - Indie
 - !ruby/object:Game
   name: Katana Zero
   month: October
@@ -3221,140 +3118,108 @@
   - Noir
   - Sci-fi
 - !ruby/object:Game
-  name: Möbius Front '83
-  month: November
+  name: Ring Of Pain
+  month: October
   year: 2021
   humble_scheme: choice
-  steam_id: 971160
+  steam_id: 998740
   tags:
-  - Turn-Based Tactics
-  - Military
-  - Wargame
-  - Cold War
-  - Hex Grid
-  - Sci-fi
-  - Alternate History
-  - War
-  - 1980s
-  - Story Rich
-  - Tactical
-  - America
-  - Turn-Based Strategy
-  - Strategy
-  - Tanks
-  - Simulation
-  - Turn-Based Combat
-  - Combat
-  - Grid-Based Movement
-  - 2D
-- !ruby/object:Game
-  name: 'Wrath: Aeon Of Ruin'
-  month: November
-  year: 2021
-  humble_scheme: choice
-  steam_id: 1000410
-  tags:
-  - Action
-  - Boomer Shooter
-  - FPS
-  - Retro
-  - Gore
-  - Violent
-  - Old School
-  - First-Person
-  - Horror
-  - Shooter
-  - Arena Shooter
-  - 1990's
-  - Singleplayer
-  - Early Access
-  - Atmospheric
-  - Dark Fantasy
-  - Blood
+  - Dungeon Crawler
+  - Card Game
+  - Rogue-lite
+  - Turn-Based
   - Difficult
+  - Rogue-like
+  - Dark
+  - Strategy
+  - RPG
+  - Stylized
+  - Lore-Rich
+  - Dark Fantasy
+  - Atmospheric
+  - Horror
+  - Singleplayer
+  - Inventory Management
+  - Indie
+  - Replay Value
+  - Mouse only
+  - Roguelike Deckbuilder
+- !ruby/object:Game
+  name: Syberia 3
+  month: October
+  year: 2021
+  humble_scheme: choice
+  steam_id: 464340
+  tags:
+  - Adventure
+  - Puzzle
+  - Story Rich
+  - Point & Click
+  - Female Protagonist
+  - Atmospheric
+  - Singleplayer
   - Great Soundtrack
+  - Steampunk
+  - Hidden Object
+  - Third Person
+  - Mystery
+  - Controller
+  - Escape Room
+  - Open World
+  - Choices Matter
   - Classic
 - !ruby/object:Game
-  name: Timelie
-  month: November
+  name: 'The Textorcist: The Story Of Ray Bibbia'
+  month: October
   year: 2021
   humble_scheme: choice
-  steam_id: 1150950
-  tags:
-  - Puzzle-Platformer
-  - Puzzle
-  - Female Protagonist
-  - Time Manipulation
-  - Isometric
-  - Cute
-  - Singleplayer
-  - Point & Click
-  - Indie
-  - Relaxing
-  - Atmospheric
-  - Adventure
-  - Stealth
-  - Difficult
-  - 3D
-  - Anime
-  - Cats
-  - Third Person
-  - Sci-fi
-  - Tactical
-- !ruby/object:Game
-  name: 'Juno: New Origins'
-  month: November
-  year: 2021
-  humble_scheme: choice
-  steam_id: 870200
-  tags:
-  - Building
-  - Science
-  - Space Sim
-  - Programming
-  - Flight
-  - Jet
-  - Education
-  - Base-Building
-  - Physics
-  - Realistic
-  - Sandbox
-  - Space
-  - Open World
-  - Level Editor
-  - Moddable
-  - Indie
-  - Automation
-  - Exploration
-  - Replay Value
-  - Singleplayer
-- !ruby/object:Game
-  name: Turnip Boy Commits Tax Evasion
-  month: November
-  year: 2021
-  humble_scheme: choice
-  steam_id: 1205450
+  steam_id: 940680
   tags:
   - Indie
-  - Cute
-  - Adventure
-  - Pixel Graphics
-  - 2D
   - Action
-  - Singleplayer
-  - Casual
-  - Crime
-  - Comedy
-  - Psychological Horror
+  - Bullet Hell
+  - Typing
+  - Difficult
+  - Pixel Graphics
   - Great Soundtrack
-  - Memes
+  - Singleplayer
+  - Demons
+  - Retro
+  - 2D
   - Funny
-  - Cartoony
-  - Top-Down
-  - Exploration
+  - Gore
+  - Dark Humor
   - Story Rich
-  - Puzzle
-  - RPG
+  - Atmospheric
+  - GameMaker
+  - Beautiful
+- !ruby/object:Game
+  name: Tools Up!
+  month: October
+  year: 2021
+  humble_scheme: choice
+  steam_id: 1004490
+  tags:
+  - Casual
+  - Indie
+  - Simulation
+  - Action
+  - Adventure
+  - Local Co-Op
+  - Multiplayer
+  - Local Multiplayer
+  - 4 Player Local
+  - Co-op
+  - Funny
+  - Co-op Campaign
+  - Family Friendly
+  - Singleplayer
+  - Colorful
+  - Cute
+  - Great Soundtrack
+  - Difficult
+  - Split Screen
+  - Memes
 - !ruby/object:Game
   name: 'BPM: Bullets Per Minute'
   month: November
@@ -3383,59 +3248,32 @@
   - Procedural Generation
   - Boomer Shooter
 - !ruby/object:Game
-  name: Wingspan
+  name: Due Process
   month: November
   year: 2021
   humble_scheme: choice
-  steam_id: 1054490
+  steam_id: 753650
   tags:
-  - Building
-  - Board Game
-  - Card Game
-  - Relaxing
-  - Strategy
-  - Wholesome
-  - Nature
-  - Casual
-  - Tabletop
-  - Turn-Based Strategy
-  - Cute
-  - PvP
-  - Singleplayer
-  - Resource Management
-  - Economy
-  - Local Multiplayer
-  - 2D
-  - Co-op
-  - Local Co-Op
-  - Multiplayer
-- !ruby/object:Game
-  name: Project Wingman
-  month: November
-  year: 2021
-  humble_scheme: choice
-  steam_id: 895870
-  tags:
-  - Flight
-  - Action
-  - Jet
-  - War
-  - Military
-  - Indie
-  - Arcade
-  - Singleplayer
-  - Simulation
-  - Great Soundtrack
-  - VR
-  - Controller
-  - Shooter
-  - Story Rich
-  - Sci-fi
-  - First-Person
-  - Third Person
-  - Epic
+  - Early Access
   - Realistic
+  - Tactical
+  - Simulation
+  - Cyberpunk
+  - FPS
+  - Team-Based
+  - PvP
+  - e-sports
+  - Character Customization
+  - Online Co-Op
+  - Procedural Generation
   - Multiplayer
+  - Competitive
+  - Pixel Graphics
+  - Shooter
+  - Strategy
+  - First-Person
+  - Action
+  - Arcade
 - !ruby/object:Game
   name: House Flipper
   month: November
@@ -3464,140 +3302,194 @@
   - Indie
   - Moddable
 - !ruby/object:Game
-  name: Due Process
+  name: 'Juno: New Origins'
   month: November
   year: 2021
   humble_scheme: choice
-  steam_id: 753650
+  steam_id: 870200
   tags:
-  - Early Access
-  - Realistic
-  - Tactical
-  - Simulation
-  - Cyberpunk
-  - FPS
-  - Team-Based
-  - PvP
-  - e-sports
-  - Character Customization
-  - Online Co-Op
-  - Procedural Generation
-  - Multiplayer
-  - Competitive
-  - Pixel Graphics
-  - Shooter
-  - Strategy
-  - First-Person
-  - Action
-  - Arcade
-- !ruby/object:Game
-  name: Voidigo
-  month: December
-  year: 2021
-  humble_scheme: choice
-  steam_id: 1304680
-  tags:
-  - Action Roguelike
-  - Twin Stick Shooter
-  - Rogue-like
-  - Bullet Hell
-  - Shoot 'Em Up
-  - Local Co-Op
-  - Rogue-lite
-  - Top-Down Shooter
-  - Funny
-  - Pixel Graphics
-  - Difficult
-  - Comedy
-  - Colorful
-  - Cartoony
-  - 2D
-  - Shooter
-  - Action
-  - Singleplayer
-  - Action-Adventure
-  - Procedural Generation
-- !ruby/object:Game
-  name: Tohu
-  month: December
-  year: 2021
-  humble_scheme: choice
-  steam_id: 1075200
-  tags:
-  - Point & Click
-  - Casual
-  - Female Protagonist
-  - Cute
-  - 2D
-  - Relaxing
-  - Puzzle
-  - Story Rich
-  - Surreal
-  - Hand-drawn
-  - Stylized
-  - Family Friendly
-  - Fantasy
-  - Time Travel
-  - Atmospheric
-  - Adventure
-  - Emotional
-  - Singleplayer
-  - Soundtrack
-  - Indie
-- !ruby/object:Game
-  name: Fling To The Finish
-  month: December
-  year: 2021
-  humble_scheme: choice
-  steam_id: 1054430
-  tags:
+  - Building
+  - Science
+  - Space Sim
+  - Programming
+  - Flight
+  - Jet
+  - Education
+  - Base-Building
   - Physics
-  - Party Game
-  - Multiplayer
-  - Casual
-  - Online Co-Op
-  - Racing
-  - Competitive
-  - Local Co-Op
-  - Combat Racing
-  - Local Multiplayer
-  - Platformer
-  - Family Friendly
-  - 3D
+  - Realistic
+  - Sandbox
+  - Space
+  - Open World
+  - Level Editor
+  - Moddable
   - Indie
-  - Action
-  - Funny
-  - Colorful
-  - 4 Player Local
-  - Cute
-  - 3D Platformer
+  - Automation
+  - Exploration
+  - Replay Value
+  - Singleplayer
 - !ruby/object:Game
-  name: 'Greak: Memories Of Azur'
-  month: December
+  name: Möbius Front '83
+  month: November
   year: 2021
   humble_scheme: choice
-  steam_id: 1311070
+  steam_id: 971160
   tags:
-  - Atmospheric
-  - Fantasy
-  - Cinematic
-  - Metroidvania
-  - Singleplayer
-  - Action-Adventure
-  - Stylized
-  - Puzzle-Platformer
+  - Turn-Based Tactics
+  - Military
+  - Wargame
+  - Cold War
+  - Hex Grid
+  - Sci-fi
+  - Alternate History
+  - War
+  - 1980s
+  - Story Rich
+  - Tactical
+  - America
+  - Turn-Based Strategy
+  - Strategy
+  - Tanks
+  - Simulation
+  - Turn-Based Combat
+  - Combat
+  - Grid-Based Movement
+  - 2D
+- !ruby/object:Game
+  name: Project Wingman
+  month: November
+  year: 2021
+  humble_scheme: choice
+  steam_id: 895870
+  tags:
+  - Flight
   - Action
-  - 2D Platformer
-  - Hand-drawn
-  - Adventure
-  - Puzzle
-  - Platformer
-  - Hack and Slash
-  - Colorful
+  - Jet
+  - War
+  - Military
   - Indie
+  - Arcade
+  - Singleplayer
+  - Simulation
+  - Great Soundtrack
+  - VR
+  - Controller
+  - Shooter
+  - Story Rich
+  - Sci-fi
+  - First-Person
+  - Third Person
+  - Epic
+  - Realistic
+  - Multiplayer
+- !ruby/object:Game
+  name: Timelie
+  month: November
+  year: 2021
+  humble_scheme: choice
+  steam_id: 1150950
+  tags:
+  - Puzzle-Platformer
+  - Puzzle
+  - Female Protagonist
+  - Time Manipulation
+  - Isometric
+  - Cute
+  - Singleplayer
+  - Point & Click
+  - Indie
+  - Relaxing
+  - Atmospheric
+  - Adventure
+  - Stealth
+  - Difficult
+  - 3D
+  - Anime
+  - Cats
+  - Third Person
+  - Sci-fi
+  - Tactical
+- !ruby/object:Game
+  name: Turnip Boy Commits Tax Evasion
+  month: November
+  year: 2021
+  humble_scheme: choice
+  steam_id: 1205450
+  tags:
+  - Indie
+  - Cute
+  - Adventure
+  - Pixel Graphics
+  - 2D
+  - Action
+  - Singleplayer
+  - Casual
+  - Crime
+  - Comedy
+  - Psychological Horror
+  - Great Soundtrack
+  - Memes
+  - Funny
+  - Cartoony
+  - Top-Down
   - Exploration
-  - Side Scroller
+  - Story Rich
+  - Puzzle
+  - RPG
+- !ruby/object:Game
+  name: Wingspan
+  month: November
+  year: 2021
+  humble_scheme: choice
+  steam_id: 1054490
+  tags:
+  - Building
+  - Board Game
+  - Card Game
+  - Relaxing
+  - Strategy
+  - Wholesome
+  - Nature
+  - Casual
+  - Tabletop
+  - Turn-Based Strategy
+  - Cute
+  - PvP
+  - Singleplayer
+  - Resource Management
+  - Economy
+  - Local Multiplayer
+  - 2D
+  - Co-op
+  - Local Co-Op
+  - Multiplayer
+- !ruby/object:Game
+  name: 'Wrath: Aeon Of Ruin'
+  month: November
+  year: 2021
+  humble_scheme: choice
+  steam_id: 1000410
+  tags:
+  - Action
+  - Boomer Shooter
+  - FPS
+  - Retro
+  - Gore
+  - Violent
+  - Old School
+  - First-Person
+  - Horror
+  - Shooter
+  - Arena Shooter
+  - 1990's
+  - Singleplayer
+  - Early Access
+  - Atmospheric
   - Dark Fantasy
+  - Blood
+  - Difficult
+  - Great Soundtrack
+  - Classic
 - !ruby/object:Game
   name: '8Doors: Arum''s Afterlife Adventure'
   month: December
@@ -3624,87 +3516,6 @@
   - Multiple Endings
   - Emotional
   - Souls-like
-- !ruby/object:Game
-  name: Lacuna – A Sci-Fi Noir Adventure
-  month: December
-  year: 2021
-  humble_scheme: choice
-  steam_id: 1364100
-  tags:
-  - Detective
-  - Pixel Graphics
-  - Noir
-  - Interactive Fiction
-  - Multiple Endings
-  - Cyberpunk
-  - Crime
-  - Conversation
-  - Sci-fi
-  - Choices Matter
-  - Narration
-  - Adventure
-  - Text-Based
-  - 2D
-  - Thriller
-  - Linear
-  - Drama
-  - Futuristic
-  - Investigation
-  - Story Rich
-- !ruby/object:Game
-  name: The Survivalists
-  month: December
-  year: 2021
-  humble_scheme: choice
-  steam_id: 897450
-  tags:
-  - Crafting
-  - Survival
-  - Online Co-Op
-  - Adventure
-  - Multiplayer
-  - Singleplayer
-  - Open World Survival Craft
-  - Base-Building
-  - Open World
-  - Sandbox
-  - Pixel Graphics
-  - Co-op
-  - Exploration
-  - 2D
-  - Casual
-  - Character Customization
-  - Hunting
-  - Action
-  - Top-Down
-  - Procedural Generation
-- !ruby/object:Game
-  name: Partisans 1941
-  month: December
-  year: 2021
-  humble_scheme: choice
-  steam_id: 1227530
-  tags:
-  - Strategy
-  - Real Time Tactics
-  - World War II
-  - Stealth
-  - Tactical
-  - Singleplayer
-  - Isometric
-  - Indie
-  - War
-  - Historical
-  - Tactical RPG
-  - Atmospheric
-  - Strategy RPG
-  - Assassin
-  - Difficult
-  - Character Customization
-  - Action
-  - 3D
-  - Combat
-  - Third Person
 - !ruby/object:Game
   name: Beyond The Wire
   month: December
@@ -3760,32 +3571,86 @@
   - Atmospheric
   - Early Access
 - !ruby/object:Game
-  name: Mordhau
+  name: Fling To The Finish
   month: December
   year: 2021
   humble_scheme: choice
-  steam_id: 629760
+  steam_id: 1054430
   tags:
-  - Medieval
+  - Physics
+  - Party Game
   - Multiplayer
-  - First-Person
-  - Swordplay
-  - Gore
-  - PvP
+  - Casual
   - Online Co-Op
-  - Action
-  - Fighting
-  - PvE
-  - Character Customization
-  - Hack and Slash
-  - Third Person
-  - Team-Based
-  - Realistic
+  - Racing
   - Competitive
-  - Historical
+  - Local Co-Op
+  - Combat Racing
+  - Local Multiplayer
+  - Platformer
+  - Family Friendly
+  - 3D
   - Indie
-  - Survival
-  - FPS
+  - Action
+  - Funny
+  - Colorful
+  - 4 Player Local
+  - Cute
+  - 3D Platformer
+- !ruby/object:Game
+  name: 'Greak: Memories Of Azur'
+  month: December
+  year: 2021
+  humble_scheme: choice
+  steam_id: 1311070
+  tags:
+  - Atmospheric
+  - Fantasy
+  - Cinematic
+  - Metroidvania
+  - Singleplayer
+  - Action-Adventure
+  - Stylized
+  - Puzzle-Platformer
+  - Action
+  - 2D Platformer
+  - Hand-drawn
+  - Adventure
+  - Puzzle
+  - Platformer
+  - Hack and Slash
+  - Colorful
+  - Indie
+  - Exploration
+  - Side Scroller
+  - Dark Fantasy
+- !ruby/object:Game
+  name: Lacuna – A Sci-Fi Noir Adventure
+  month: December
+  year: 2021
+  humble_scheme: choice
+  steam_id: 1364100
+  tags:
+  - Detective
+  - Pixel Graphics
+  - Noir
+  - Interactive Fiction
+  - Multiple Endings
+  - Cyberpunk
+  - Crime
+  - Conversation
+  - Sci-fi
+  - Choices Matter
+  - Narration
+  - Adventure
+  - Text-Based
+  - 2D
+  - Thriller
+  - Linear
+  - Drama
+  - Futuristic
+  - Investigation
+  - Story Rich
 - !ruby/object:Game
   name: Maneater
   month: December
@@ -3813,3 +3678,138 @@
   - Simulation
   - Atmospheric
   - Adventure
+- !ruby/object:Game
+  name: Mordhau
+  month: December
+  year: 2021
+  humble_scheme: choice
+  steam_id: 629760
+  tags:
+  - Medieval
+  - Multiplayer
+  - First-Person
+  - Swordplay
+  - Gore
+  - PvP
+  - Online Co-Op
+  - Action
+  - Fighting
+  - PvE
+  - Character Customization
+  - Hack and Slash
+  - Third Person
+  - Team-Based
+  - Realistic
+  - Competitive
+  - Historical
+  - Indie
+  - Survival
+  - FPS
+- !ruby/object:Game
+  name: Partisans 1941
+  month: December
+  year: 2021
+  humble_scheme: choice
+  steam_id: 1227530
+  tags:
+  - Strategy
+  - Real Time Tactics
+  - World War II
+  - Stealth
+  - Tactical
+  - Singleplayer
+  - Isometric
+  - Indie
+  - War
+  - Historical
+  - Tactical RPG
+  - Atmospheric
+  - Strategy RPG
+  - Assassin
+  - Difficult
+  - Character Customization
+  - Action
+  - 3D
+  - Combat
+  - Third Person
+- !ruby/object:Game
+  name: The Survivalists
+  month: December
+  year: 2021
+  humble_scheme: choice
+  steam_id: 897450
+  tags:
+  - Crafting
+  - Survival
+  - Online Co-Op
+  - Adventure
+  - Multiplayer
+  - Singleplayer
+  - Open World Survival Craft
+  - Base-Building
+  - Open World
+  - Sandbox
+  - Pixel Graphics
+  - Co-op
+  - Exploration
+  - 2D
+  - Casual
+  - Character Customization
+  - Hunting
+  - Action
+  - Top-Down
+  - Procedural Generation
+- !ruby/object:Game
+  name: Tohu
+  month: December
+  year: 2021
+  humble_scheme: choice
+  steam_id: 1075200
+  tags:
+  - Point & Click
+  - Casual
+  - Female Protagonist
+  - Cute
+  - 2D
+  - Relaxing
+  - Puzzle
+  - Story Rich
+  - Surreal
+  - Hand-drawn
+  - Stylized
+  - Family Friendly
+  - Fantasy
+  - Time Travel
+  - Atmospheric
+  - Adventure
+  - Emotional
+  - Singleplayer
+  - Soundtrack
+  - Indie
+- !ruby/object:Game
+  name: Voidigo
+  month: December
+  year: 2021
+  humble_scheme: choice
+  steam_id: 1304680
+  tags:
+  - Action Roguelike
+  - Twin Stick Shooter
+  - Rogue-like
+  - Bullet Hell
+  - Shoot 'Em Up
+  - Local Co-Op
+  - Rogue-lite
+  - Top-Down Shooter
+  - Funny
+  - Pixel Graphics
+  - Difficult
+  - Comedy
+  - Colorful
+  - Cartoony
+  - 2D
+  - Shooter
+  - Action
+  - Singleplayer
+  - Action-Adventure
+  - Procedural Generation
