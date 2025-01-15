@@ -77,7 +77,7 @@ task :add_missing_tags do
 end
 
 desc 'Show missing Tags'
-task :show_missing_tags do
+task :missing_tags do
   GamesListFiles.show_missing('tags')
 end
 
