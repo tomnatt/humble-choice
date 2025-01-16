@@ -18,7 +18,8 @@ class Game
       month:         @month,
       year:          @year,
       humble_scheme: @humble_scheme,
-      steam_id:      @steam_id
+      steam_id:      @steam_id,
+      tags:          @tags
     }
   end
 
