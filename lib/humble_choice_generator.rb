@@ -23,7 +23,11 @@ class HumbleChoiceGenerator
     # Get the existing list and add into working list
     existing_list = GamesListFiles.read_games
     @game_list.map! do |game|
-      existing_list.select { |existing_game| games_match?(game, existing_game) }.first
+      # This select will return nil for new games, in which case return "game" object
+      g = existing_list.select { |existing_game| games_match?(game, existing_game) }.first
+      return game if g.nil?
+
+      g
     end
   end
 
