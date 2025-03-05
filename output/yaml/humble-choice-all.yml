@@ -25686,3 +25686,176 @@
   - Combat
   - Difficult
   - Destruction
+- !ruby/object:Game
+  name: Cavern of Dreams
+  month: March
+  year: 2025
+  humble_scheme: choice
+  steam_id: 2059660
+  tags:
+  - Old School
+  - 3D Platformer
+  - Cute
+  - Collectathon
+  - Action-Adventure
+  - Exploration
+  - Nonlinear
+  - Indie
+  - Magic
+  - Surreal
+  - Adventure
+  - Colorful
+  - Cartoony
+  - Fantasy
+  - Singleplayer
+  - 3D
+  - Platformer
+  - Family Friendly
+  - Casual
+  - Tutorial
+- !ruby/object:Game
+  name: Gravity Circuit
+  month: March
+  year: 2025
+  humble_scheme: choice
+  steam_id: 858710
+  tags:
+  - Action
+  - Platformer
+  - Indie
+  - Pixel Graphics
+  - 2D
+  - Singleplayer
+  - 2D Platformer
+  - Robots
+  - Fast-Paced
+  - Controller
+  - Retro
+  - Side Scroller
+  - Great Soundtrack
+  - Beat 'em up
+  - Superhero
+  - Sci-fi
+  - Soundtrack
+- !ruby/object:Game
+  name: Homeworld 3
+  month: March
+  year: 2025
+  humble_scheme: choice
+  steam_id: 1840080
+  tags:
+  - Space
+  - RTS
+  - Strategy
+  - Sci-fi
+  - Story Rich
+  - Singleplayer
+  - Multiplayer
+  - Tactical
+  - Co-op
+  - Rogue-like
+  - Atmospheric
+  - Combat
+  - Female Protagonist
+  - Real-Time
+  - 3D
+  - Competitive
+  - Isometric
+  - Simulation
+  - Rogue-lite
+  - Management
+- !ruby/object:Game
+  name: Pacific Drive
+  month: March
+  year: 2025
+  humble_scheme: choice
+  steam_id: 1458140
+  tags:
+  - Driving
+  - Survival
+  - Story Rich
+  - Exploration
+  - Survival Horror
+  - Sci-fi
+  - Crafting
+  - Adventure
+  - Atmospheric
+  - Action
+  - First-Person
+  - Post-apocalyptic
+  - Base-Building
+  - Transportation
+  - 3D
+  - Sandbox
+  - Simulation
+  - Building
+  - Action-Adventure
+  - Investigation
+- !ruby/object:Game
+  name: Racine
+  month: March
+  year: 2025
+  humble_scheme: choice
+  steam_id: 1793170
+  tags:
+  - Real Time Tactics
+  - Strategy RPG
+  - Singleplayer
+  - Management
+  - Pixel Graphics
+  - Atmospheric
+  - Fantasy
+  - Auto Battler
+  - Deckbuilding
+  - PvE
+  - Dungeon Crawler
+  - Rogue-lite
+  - Procedural Generation
+  - Tactical
+  - Strategy
+  - Adventure
+  - RPG
+  - Card Game
+  - Card Battler
+  - Rogue-like
+- !ruby/object:Game
+  name: 'Sir Whoopass™: Immortal Death'
+  month: March
+  year: 2025
+  humble_scheme: choice
+  steam_id: 1240590
+  tags:
+  - RPG
+  - Action RPG
+  - Open World
+  - Co-op
+  - Action
+  - Multiplayer
+  - Memes
+  - Arcade
+  - Funny
+  - Co-op Campaign
+  - Hack and Slash
+  - Action-Adventure
+  - Beat 'em up
+  - Adventure
+  - Satire
+  - Indie
+  - Comedy
+  - Third Person
+  - Singleplayer
+  - Online Co-Op
+- !ruby/object:Game
+  name: 'Tales of Kenzera: ZAU'
+  month: March
+  year: 2025
+  humble_scheme: choice
+  steam_id:
+  tags: []
+- !ruby/object:Game
+  name: Wild Hearts
+  month: March
+  year: 2025
+  humble_scheme: choice
+  steam_id:
+  tags: []
