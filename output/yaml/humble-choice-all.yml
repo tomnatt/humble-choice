@@ -25859,3 +25859,211 @@
   humble_scheme: choice
   steam_id:
   tags: []
+- !ruby/object:Game
+  name: 1000xRESIST
+  month: April
+  year: 2025
+  humble_scheme: choice
+  steam_id: 1675830
+  tags:
+  - Female Protagonist
+  - Thriller
+  - Futuristic
+  - 3D
+  - Post-apocalyptic
+  - Story Rich
+  - Sci-fi
+  - Psychological Horror
+  - Walking Simulator
+  - Visual Novel
+  - Anime
+  - Cinematic
+  - Narrative
+  - Multiple Endings
+  - Atmospheric
+  - Mystery
+  - Exploration
+  - Surreal
+  - Experimental
+  - Aliens
+- !ruby/object:Game
+  name: 'Aliens: Dark Descent'
+  month: April
+  year: 2025
+  humble_scheme: choice
+  steam_id: 1150440
+  tags:
+  - Strategy
+  - Action
+  - Tactical
+  - RTS
+  - Sci-fi
+  - Singleplayer
+  - Real Time Tactics
+  - Aliens
+  - Action-Adventure
+  - Dark
+  - Survival
+  - Horror
+  - 3D
+  - Space
+  - Top-Down
+  - Violent
+  - Combat
+  - Stealth
+  - Isometric
+  - Top-Down Shooter
+- !ruby/object:Game
+  name: Diplomacy is Not an Option
+  month: April
+  year: 2025
+  humble_scheme: choice
+  steam_id: 1272320
+  tags:
+  - Strategy
+  - Base-Building
+  - Colony Sim
+  - Singleplayer
+  - Sandbox
+  - RTS
+  - Management
+  - Building
+  - Difficult
+  - Medieval
+  - Action RTS
+  - City Builder
+  - Colorful
+  - Tower Defense
+  - War
+  - Combat
+  - Adventure
+  - Survival
+  - Procedural Generation
+  - 3D
+- !ruby/object:Game
+  name: Distant Worlds 2
+  month: April
+  year: 2025
+  humble_scheme: choice
+  steam_id: 1531540
+  tags:
+  - Strategy
+  - Simulation
+  - 4X
+  - Grand Strategy
+  - Sci-fi
+  - Space
+  - 3D
+  - Singleplayer
+  - Procedural Generation
+  - Combat
+  - Early Access
+  - Real-Time with Pause
+- !ruby/object:Game
+  name: Dredge
+  month: April
+  year: 2025
+  humble_scheme: choice
+  steam_id: 1562430
+  tags:
+  - Exploration
+  - Fishing
+  - Lovecraftian
+  - Open World
+  - Adventure
+  - Mystery
+  - Inventory Management
+  - Atmospheric
+  - Psychological Horror
+  - RPG
+  - Simulation
+  - Horror
+  - Singleplayer
+  - Stylized
+  - Survival Horror
+  - Psychological
+  - Story Rich
+  - Indie
+  - Sailing
+  - 3D
+- !ruby/object:Game
+  name: Nomad Survival
+  month: April
+  year: 2025
+  humble_scheme: choice
+  steam_id: 1929870
+  tags:
+  - Action Roguelike
+  - Bullet Hell
+  - Rogue-lite
+  - Auto Battler
+  - PvE
+  - Rogue-like
+  - Character Customization
+  - 2D
+  - Top-Down
+  - Pixel Graphics
+  - Action
+  - Deckbuilding
+  - Fantasy
+  - Survival
+  - Retro
+  - Combat
+  - Indie
+  - Singleplayer
+  - Shoot 'Em Up
+  - Top-Down Shooter
+- !ruby/object:Game
+  name: Nova Lands
+  month: April
+  year: 2025
+  humble_scheme: choice
+  steam_id: 1501610
+  tags:
+  - Automation
+  - Base-Building
+  - Sandbox
+  - Adventure
+  - Open World Survival Craft
+  - Survival
+  - Pixel Graphics
+  - Resource Management
+  - Open World
+  - Robots
+  - Crafting
+  - Strategy
+  - Singleplayer
+  - Building
+  - 2D
+  - Casual
+  - Simulation
+  - Exploration
+  - Indie
+  - Farming Sim
+- !ruby/object:Game
+  name: Tomb Raider I-III Remastered Starring Lara Croft
+  month: April
+  year: 2025
+  humble_scheme: choice
+  steam_id: 2478970
+  tags:
+  - Action-Adventure
+  - Action
+  - Female Protagonist
+  - Old School
+  - Exploration
+  - 3D
+  - Singleplayer
+  - Adventure
+  - Puzzle
+  - Classic
+  - Controller
+  - Atmospheric
+  - Violent
+  - Platformer
+  - Remake
+  - Difficult
+  - Great Soundtrack
+  - Story Rich
+  - Horror
+  - Nudity
