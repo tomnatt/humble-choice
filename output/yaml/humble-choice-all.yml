@@ -26067,3 +26067,226 @@
   - Story Rich
   - Horror
   - Nudity
+- !ruby/object:Game
+  name: 'Amnesia: The Bunker'
+  month: May
+  year: 2025
+  humble_scheme: choice
+  steam_id: 1944430
+  tags:
+  - Horror
+  - Survival Horror
+  - Atmospheric
+  - Immersive Sim
+  - Stealth
+  - First-Person
+  - Survival
+  - Singleplayer
+  - Difficult
+  - Action
+  - Action-Adventure
+  - Resource Management
+  - FPS
+  - Exploration
+  - Psychological Horror
+  - Open World
+  - Story Rich
+  - Sandbox
+  - Adventure
+  - Supernatural
+- !ruby/object:Game
+  name: Corpse Keeper
+  month: May
+  year: 2025
+  humble_scheme: choice
+  steam_id: 1601740
+  tags:
+  - Action RPG
+  - Dark
+  - Fantasy
+  - Singleplayer
+  - 3D
+  - Hack and Slash
+  - Dungeon Crawler
+  - Replay Value
+  - Difficult
+  - Strategy
+  - Souls-like
+  - Action Roguelike
+  - Rogue-like
+  - Gothic
+  - Atmospheric
+  - Medieval
+  - Rogue-lite
+  - Dark Fantasy
+  - Perma Death
+  - Action
+- !ruby/object:Game
+  name: 'Eiyuden Chronicle: Hundred Heroes'
+  month: May
+  year: 2025
+  humble_scheme: choice
+  steam_id: 1658280
+  tags:
+  - JRPG
+  - RPG
+  - Pixel Graphics
+  - 2.5D
+  - Story Rich
+  - Drama
+  - Fantasy
+  - Singleplayer
+  - Turn-Based Combat
+  - Adventure
+  - Anime
+  - Combat
+  - 2D
+  - Strategy
+  - Action-Adventure
+  - Action RPG
+  - Crafting
+  - Political
+  - Party-Based RPG
+  - Action
+- !ruby/object:Game
+  name: Evil West
+  month: May
+  year: 2025
+  humble_scheme: choice
+  steam_id: 1065310
+  tags:
+  - Beat 'em up
+  - Western
+  - Action-Adventure
+  - Co-op
+  - Third-Person Shooter
+  - Character Action Game
+  - Story Rich
+  - Vampire
+  - Demons
+  - Gore
+  - Action
+  - Multiplayer
+  - Singleplayer
+  - Hack and Slash
+  - Online Co-Op
+  - Violent
+  - Third Person
+  - Shooter
+  - RPG
+  - Adventure
+- !ruby/object:Game
+  name: 'STAR WARS™: Bounty Hunter™'
+  month: May
+  year: 2025
+  humble_scheme: choice
+  steam_id: 2419090
+  tags:
+  - Third-Person Shooter
+  - Action
+  - Sci-fi
+  - Action-Adventure
+  - Combat
+  - Adventure
+  - Space
+  - Platformer
+  - Assassin
+  - Shooter
+  - 3D Platformer
+  - Singleplayer
+  - Third Person
+  - 3D
+  - Futuristic
+  - Robots
+  - Classic
+  - Remake
+  - Retro
+- !ruby/object:Game
+  name: 'Shadow Gambit: The Cursed Crew'
+  month: May
+  year: 2025
+  humble_scheme: choice
+  steam_id: 1545560
+  tags:
+  - Strategy
+  - RPG
+  - Fantasy
+  - Character Customization
+  - Dark Fantasy
+  - RTS
+  - CRPG
+  - Story Rich
+  - Tactical
+  - Choices Matter
+  - War
+  - Real Time Tactics
+  - Grand Strategy
+  - Adventure
+  - Singleplayer
+  - Action
+  - Atmospheric
+  - Combat
+  - Stealth
+  - Class-Based
+- !ruby/object:Game
+  name: The Thaumaturge
+  month: May
+  year: 2025
+  humble_scheme: choice
+  steam_id: 1684350
+  tags:
+  - RPG
+  - Singleplayer
+  - CRPG
+  - Isometric
+  - Story Rich
+  - Detective
+  - Choices Matter
+  - Narrative
+  - Exploration
+  - Atmospheric
+  - Dark Fantasy
+  - Turn-Based Combat
+  - Point & Click
+  - Investigation
+  - Visual Novel
+  - Mystery
+  - Multiple Endings
+  - Fantasy
+  - Demons
+  - Adventure
+- !ruby/object:Game
+  name: 'The Thaumaturge: Digital Deluxe Content'
+  month: May
+  year: 2025
+  humble_scheme: choice
+  steam_id: 2777010
+  tags:
+  - dlc
+- !ruby/object:Game
+  name: Ultros
+  month: May
+  year: 2025
+  humble_scheme: choice
+  steam_id: 2386310
+  tags:
+  - Metroidvania
+  - Adventure
+  - Platformer
+  - Sci-fi
+  - 2D Platformer
+  - Female Protagonist
+  - Exploration
+  - Action
+  - Singleplayer
+  - Psychedelic
+  - 2D
+  - Colorful
+  - Hand-drawn
+  - Rogue-lite
+  - Roguevania
+  - Stylized
+  - Soundtrack
+  - Atmospheric
+  - Mystery
+  - Combat
