@@ -1009,3 +1009,219 @@
   - Atmospheric
   - Mystery
   - Combat
+- !ruby/object:Game
+  name: Biped
+  month: June
+  year: 2025
+  humble_scheme: choice
+  steam_id: 1071870
+  tags:
+  - Character Customization
+  - Emotional
+  - Co-op
+  - PvE
+  - Action
+  - Multiplayer
+  - Relaxing
+  - Casual
+  - Nature
+  - Funny
+  - Local Multiplayer
+  - Indie
+  - Open World
+  - Physics
+  - Level Editor
+  - Action-Adventure
+  - Parkour
+  - Cute
+  - Family Friendly
+  - Split Screen
+- !ruby/object:Game
+  name: Dungeons of Hinterberg
+  month: June
+  year: 2025
+  humble_scheme: choice
+  steam_id: 1983260
+  tags:
+  - Relaxing
+  - Puzzle
+  - Exploration
+  - Adventure
+  - Singleplayer
+  - Action
+  - Dungeon Crawler
+  - Atmospheric
+  - PvE
+  - Indie
+  - Puzzle-Platformer
+  - Platformer
+  - Action RPG
+  - Action-Adventure
+  - Female Protagonist
+  - 3D
+  - RPG
+  - Story Rich
+  - Wholesome
+  - Magic
+- !ruby/object:Game
+  name: Havendock
+  month: June
+  year: 2025
+  humble_scheme: choice
+  steam_id: 2020710
+  tags:
+  - Singleplayer
+  - Strategy
+  - City Builder
+  - Colony Sim
+  - Sandbox
+  - Agriculture
+  - Automation
+  - Building
+  - Crafting
+  - Base-Building
+  - Management
+  - Farming Sim
+  - Life Sim
+  - Relaxing
+  - Open World
+  - Casual
+  - Simulation
+  - Resource Management
+  - Immersive Sim
+  - Time Management
+- !ruby/object:Game
+  name: Legacy of Kain™ Soul Reaver 1&2 Remastered
+  month: June
+  year: 2025
+  humble_scheme: choice
+  steam_id: 2521380
+  tags:
+  - Action
+  - Adventure
+  - Dark Fantasy
+  - Third Person
+  - Action-Adventure
+  - Fantasy
+  - Platformer
+  - Atmospheric
+  - Puzzle
+  - 3D Platformer
+  - Drama
+  - Hack and Slash
+  - Puzzle-Platformer
+  - 3D
+  - Demons
+  - Magic
+  - Old School
+  - Dark
+  - Retro
+  - Combat
+- !ruby/object:Game
+  name: Nobody Wants to Die
+  month: June
+  year: 2025
+  humble_scheme: choice
+  steam_id: 1939970
+  tags:
+  - 3D
+  - Detective
+  - Noir
+  - 'Dystopian '
+  - Thriller
+  - Cyberpunk
+  - Narration
+  - First-Person
+  - Interactive Fiction
+  - Transhumanism
+  - Psychological
+  - Choices Matter
+  - Time Manipulation
+  - Story Rich
+  - Conversation
+  - Multiple Endings
+  - Investigation
+  - Realistic
+  - Philosophical
+  - Walking Simulator
+- !ruby/object:Game
+  name: Sker Ritual
+  month: June
+  year: 2025
+  humble_scheme: choice
+  steam_id: 1492070
+  tags:
+  - Story Rich
+  - Multiplayer
+  - Survival
+  - 3D
+  - Shoot 'Em Up
+  - Zombies
+  - FPS
+  - Shooter
+  - Action Roguelike
+  - Online Co-Op
+  - First-Person
+  - Singleplayer
+  - Horror
+  - PvE
+  - Character Customization
+  - Controller
+  - Action
+  - Indie
+  - Realistic
+  - Survival Horror
+- !ruby/object:Game
+  name: Tchia
+  month: June
+  year: 2025
+  humble_scheme: choice
+  steam_id: 1496590
+  tags:
+  - Adventure
+  - Open World
+  - Sandbox
+  - Colorful
+  - Physics
+  - Exploration
+  - 3D Platformer
+  - Singleplayer
+  - Character Customization
+  - Third Person
+  - Lore-Rich
+  - 3D
+  - Platformer
+  - Precision Platformer
+  - Puzzle-Platformer
+  - Cute
+  - Funny
+  - Story Rich
+  - Stealth
+  - Stylized
+- !ruby/object:Game
+  name: 'Warhammer 40,000: Boltgun'
+  month: June
+  year: 2025
+  humble_scheme: choice
+  steam_id: 2005010
+  tags:
+  - Boomer Shooter
+  - FPS
+  - Warhammer 40K
+  - Retro
+  - Shooter
+  - Pixel Graphics
+  - Action
+  - Old School
+  - First-Person
+  - Gore
+  - Arcade
+  - 1990's
+  - Violent
+  - Singleplayer
+  - Demons
+  - Sci-fi
+  - Fantasy
+  - Indie
+  - Arena Shooter
+  - Games Workshop
