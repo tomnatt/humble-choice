@@ -21622,15 +21622,15 @@
   - Atmospheric
   - Multiple Endings
   - Narration
-  - 'Dystopian '
   - Choose Your Own Adventure
+  - 'Dystopian '
   - Exploration
   - Singleplayer
   - Emotional
   - Political
   - Procedural Generation
-  - Dynamic Narration
   - Interactive Fiction
+  - Dynamic Narration
   - Action
   - Nonlinear
 - !ruby/object:Game
@@ -21676,8 +21676,8 @@
   - First-Person
   - Strategy
   - Early Access
-  - Space Sim
   - Singleplayer
+  - Space Sim
   - 3D
   - Resource Management
   - Immersive Sim
@@ -21727,8 +21727,8 @@
   - Strategy
   - Rogue-lite
   - Atmospheric
-  - Rogue-like
   - Replay Value
+  - Rogue-like
   - Tactical RPG
   - Action Roguelike
   - 3D
@@ -21803,25 +21803,25 @@
   steam_id: 1170080
   tags:
   - Card Game
-  - Narration
+  - Story Rich
+  - Dynamic Narration
   - Adventure
+  - Singleplayer
+  - Card Battler
+  - Combat
+  - Atmospheric
+  - Narration
+  - Tabletop
   - Board Game
   - Exploration
-  - Singleplayer
-  - RPG
+  - Multiple Endings
+  - Fantasy
+  - Choices Matter
   - Choose Your Own Adventure
   - Interactive Fiction
   - Strategy
-  - Card Battler
-  - Tabletop
+  - RPG
   - Cinematic
-  - Cartoony
-  - Dynamic Narration
-  - Cartoon
-  - Atmospheric
-  - Fantasy
-  - Medieval
-  - Story Rich
 - !ruby/object:Game
   name: Patch Quest
   month: September
@@ -21830,16 +21830,16 @@
   steam_id: 1347970
   tags:
   - Adventure
-  - Rogue-lite
   - Creature Collector
+  - Rogue-lite
   - Base-Building
   - Bullet Hell
   - Shoot 'Em Up
   - Arena Shooter
   - Co-op
+  - Twin Stick Shooter
   - Action Roguelike
   - Action
-  - Twin Stick Shooter
   - Metroidvania
   - Puzzle
   - Local Multiplayer
@@ -21862,8 +21862,8 @@
   - Exploration
   - Choices Matter
   - Investigation
-  - Indie
   - Story Rich
+  - Indie
   - RPG
   - First-Person
   - Multiple Endings
@@ -21871,10 +21871,10 @@
   - Atmospheric
   - Philosophical
   - Great Soundtrack
-  - Fantasy
   - Remake
-  - Open World
+  - Fantasy
   - Rome
+  - Open World
   - Silent Protagonist
 - !ruby/object:Game
   name: Tiny Tina's Wonderlands
@@ -21891,8 +21891,8 @@
   - RPG
   - FPS
   - Fantasy
-  - Action
   - Online Co-Op
+  - Action
   - Comedy
   - Co-op
   - Singleplayer
@@ -22006,8 +22006,8 @@
   - Shooter
   - Action
   - Demons
-  - Combat
   - First-Person
+  - Combat
   - Female Protagonist
   - Adventure
   - Score Attack
@@ -22037,8 +22037,8 @@
   - RPG
   - Underground
   - Point & Click
-  - Life Sim
   - 2.5D
+  - Life Sim
   - Singleplayer
   - Exploration
   - Economy
@@ -22064,13 +22064,13 @@
   - Tactical
   - Singleplayer
   - Diplomacy
-  - Realistic
   - Real-Time with Pause
+  - Realistic
   - RTS
   - Economy
   - Sandbox
-  - Addictive
   - Replay Value
+  - Addictive
   - Great Soundtrack
 - !ruby/object:Game
   name: Spirit Of The Island
@@ -22083,22 +22083,22 @@
   - Relaxing
   - Indie
   - Multiplayer
-  - Open World Survival Craft
   - Life Sim
   - Farming Sim
+  - RPG
   - Sandbox
+  - Open World Survival Craft
   - Simulation
+  - Cute
   - Action RPG
   - Online Co-Op
-  - RPG
-  - Cute
-  - Cats
+  - Story Rich
+  - Exploration
   - Agriculture
   - Singleplayer
   - Open World
   - Adventure
-  - Casual
-  - Exploration
+  - City Builder
 - !ruby/object:Game
   name: 'The Dark Pictures Anthology: House of Ashes'
   month: October
@@ -22134,25 +22134,25 @@
   steam_id: 1577120
   tags:
   - Choices Matter
-  - Horror
   - Multiple Endings
+  - Horror
   - Multiplayer
   - Cinematic
   - Story Rich
   - Quick-Time Events
   - Thriller
-  - Gore
   - Sexual Content
+  - Gore
   - Singleplayer
   - Adventure
   - Realistic
   - Violent
-  - Survival Horror
   - Narrative
+  - Survival Horror
   - Nudity
   - Blood
+  - Co-op
   - Psychological Horror
-  - Perma Death
 - !ruby/object:Game
   name: The Quarry – Deluxe Bonus Content Pack
   month: October
@@ -22216,8 +22216,8 @@
   - Strategy
   - Futuristic
   - 'Dystopian '
-  - Early Access
   - Building
+  - Early Access
   - Procedural Generation
   - Open World
   - Relaxing
@@ -22233,8 +22233,8 @@
   - Boomer Shooter
   - FPS
   - Retro
-  - Action
   - Gore
+  - Action
   - Shooter
   - Indie
   - Violent
@@ -22287,8 +22287,8 @@
   - Metroidvania
   - Pixel Graphics
   - Action
-  - Singleplayer
   - Action-Adventure
+  - Singleplayer
   - Combat
   - Difficult
   - Adventure
@@ -22296,11 +22296,10 @@
   - Souls-like
   - 2D
   - Exploration
-  - Platformer
   - 2D Platformer
+  - Platformer
   - Fantasy
   - Great Soundtrack
-  - Indie
 - !ruby/object:Game
   name: The Legend Of Tianding
   month: November
@@ -22337,8 +22336,8 @@
   tags:
   - Relaxing
   - Cute
-  - Pixel Graphics
   - Casual
+  - Pixel Graphics
   - Puzzle
   - Story Rich
   - Singleplayer
@@ -22347,8 +22346,8 @@
   - Life Sim
   - Atmospheric
   - Point & Click
-  - Female Protagonist
   - LGBTQ+
+  - Female Protagonist
   - Isometric
   - Family Friendly
   - Colorful
@@ -22361,6 +22360,7 @@
   year: 2023
   humble_scheme: choice
   steam_id:
+  tags: []
 - !ruby/object:Game
   name: Elex II
   month: December
@@ -22379,8 +22379,8 @@
   - Dark Fantasy
   - Aliens
   - Realistic
-  - Atmospheric
   - Post-apocalyptic
+  - Atmospheric
   - 'Dystopian '
   - Fantasy
   - Story Rich
@@ -22397,15 +22397,15 @@
   tags:
   - RPG
   - Strategy
-  - Party-Based RPG
   - Turn-Based Strategy
+  - Party-Based RPG
   - Rome
   - CRPG
   - Turn-Based Tactics
   - Tactical RPG
   - 3D
-  - Top-Down
   - Historical
+  - Top-Down
   - Atmospheric
   - Tactical
   - Choices Matter
@@ -22490,7 +22490,6 @@
   - Modern
   - Great Soundtrack
   - Martial Arts
-  - Character Customization
 - !ruby/object:Game
   name: Nobody Saves The World
   month: December
@@ -22503,17 +22502,17 @@
   - Co-op
   - Multiplayer
   - Action
-  - Adventure
   - Hack and Slash
+  - Adventure
   - Dungeon Crawler
   - 2D
-  - RPG
   - Local Co-Op
+  - RPG
   - Fantasy
   - Action RPG
   - Colorful
-  - Exploration
   - Action-Adventure
+  - Exploration
   - Funny
   - Procedural Generation
   - Soundtrack
@@ -22528,8 +22527,8 @@
   - Action-Adventure
   - Atmospheric
   - Sci-fi
-  - Family Friendly
   - 3D Platformer
+  - Family Friendly
   - Relaxing
   - Space
   - Female Protagonist
@@ -22557,8 +22556,8 @@
   - Choices Matter
   - Simulation
   - Singleplayer
-  - Adventure
   - Story Rich
+  - Adventure
   - Strategy
   - Narrative
   - Atmospheric
@@ -22644,10 +22643,10 @@
   - Superhero
   - Turn-Based Tactics
   - Deckbuilding
-  - Tactical RPG
   - Turn-Based Strategy
-  - Card Game
+  - Tactical RPG
   - Turn-Based Combat
+  - Card Game
   - Character Customization
   - Strategy RPG
   - Tactical
@@ -22672,21 +22671,21 @@
   - Top-Down Shooter
   - Violent
   - Bullet Time
-  - Shoot 'Em Up
   - Fast-Paced
-  - Rogue-lite
+  - Shoot 'Em Up
   - Blood
+  - Rogue-lite
   - Noir
   - Singleplayer
   - Mystery
   - Action
-  - Survival
   - Combat
+  - Survival
   - Shooter
   - Top-Down
   - Controller
-  - Rogue-like
   - Great Soundtrack
+  - Rogue-like
   - Simulation
 - !ruby/object:Game
   name: Roguebook
@@ -22702,8 +22701,8 @@
   - Strategy
   - Singleplayer
   - Rogue-lite
-  - Turn-Based
   - Rogue-like
+  - Turn-Based
   - Turn-Based Tactics
   - Card Battler
   - Turn-Based Combat
@@ -22726,8 +22725,8 @@
   - Dog
   - Choose Your Own Adventure
   - Interactive Fiction
-  - Emotional
   - Female Protagonist
+  - Emotional
   - Snow
   - Rogue-lite
   - Relaxing
@@ -22775,15 +22774,15 @@
   tags:
   - Management
   - Simulation
-  - Strategy
   - Building
+  - Strategy
   - City Builder
   - Casual
   - Sandbox
   - Funny
   - Cartoony
-  - Comedy
   - Isometric
+  - Comedy
   - Singleplayer
   - Family Friendly
   - Indie
@@ -22791,8 +22790,8 @@
   - Tactical
   - Replay Value
   - Education
-  - Retro
   - Cute
+  - Retro
 - !ruby/object:Game
   name: Beacon Pines
   month: February
@@ -22855,8 +22854,8 @@
   steam_id: 1266700
   tags:
   - Third-Person Shooter
-  - Action-Adventure
   - Aliens
+  - Action-Adventure
   - Co-op
   - Sci-fi
   - Adventure
@@ -22943,18 +22942,18 @@
   - First-Person
   - Dark
   - Nudity
-  - Adventure
   - Psychological Horror
+  - Adventure
   - Lovecraftian
   - Violent
   - Singleplayer
-  - Sci-fi
   - Walking Simulator
+  - Sci-fi
   - Surreal
   - Indie
   - Survival Horror
-  - FPS
   - Action
+  - FPS
 - !ruby/object:Game
   name: 'Snowtopia: Ski Resort Builder'
   month: February
@@ -23003,8 +23002,8 @@
   - RPG
   - Action RPG
   - Pixel Graphics
-  - Choose Your Own Adventure
   - Dark Fantasy
+  - Choose Your Own Adventure
   - Top-Down
   - Dark
   - Story Rich
@@ -23017,9 +23016,9 @@
   steam_id: 1701520
   tags:
   - Metroidvania
-  - Side Scroller
   - Female Protagonist
   - 2D Platformer
+  - Side Scroller
   - Anime
   - Exploration
   - Souls-like
@@ -23031,11 +23030,11 @@
   - RPG
   - 2D
   - Cute
-  - Open World
   - Lore-Rich
+  - Open World
   - Story Rich
-  - Choices Matter
   - Multiple Endings
+  - Choices Matter
 - !ruby/object:Game
   name: Black Skylands
   month: March
@@ -23049,20 +23048,20 @@
   - Simulation
   - Base-Building
   - Indie
+  - Top-Down Shooter
   - Atmospheric
   - RPG
-  - Top-Down Shooter
-  - Survival
   - Singleplayer
+  - Survival
   - Steampunk
   - Character Customization
-  - Procedural Generation
-  - Crafting
   - Action
+  - Crafting
+  - Procedural Generation
   - Sci-fi
   - Adventure
   - Beautiful
-  - Early Access
+  - Female Protagonist
 - !ruby/object:Game
   name: Citizen Sleeper
   month: March
@@ -23073,14 +23072,14 @@
   - RPG
   - Dice
   - Story Rich
-  - Tabletop
   - Sci-fi
   - Cyberpunk
+  - Tabletop
   - Narrative
   - 'Dystopian '
-  - Indie
-  - Hand-drawn
   - Interactive Fiction
+  - Hand-drawn
+  - Indie
   - Text-Based
   - Artificial Intelligence
   - Multiple Endings
@@ -23140,8 +23139,8 @@
   - Violent
   - Singleplayer
   - Dark
-  - Medieval
   - Atmospheric
+  - Medieval
   - Female Protagonist
   - Loot
 - !ruby/object:Game
@@ -23184,8 +23183,8 @@
   - Female Protagonist
   - Action-Adventure
   - Third Person
-  - Exploration
   - Dark Fantasy
+  - Exploration
   - 3D Platformer
   - Beat 'em up
   - Action RPG
@@ -23206,8 +23205,8 @@
   steam_id: 1844380
   tags:
   - Strategy
-  - Action
   - Action RTS
+  - Action
   - RTS
   - Real Time Tactics
   - Fantasy
@@ -23250,13 +23249,13 @@
   - Character Customization
   - Strategy
   - 2D
-  - Story Rich
-  - RPG
   - Pixel Graphics
+  - RPG
+  - Story Rich
   - Adventure
   - Cute
-  - Colorful
   - Multiplayer
+  - Colorful
   - Retro
   - Anime
   - Difficult
@@ -23277,8 +23276,8 @@
   - Action RPG
   - Pixel Graphics
   - 3D
-  - Adventure
   - Funny
+  - Adventure
   - Noir
   - Colorful
   - Comedy
@@ -23296,9 +23295,9 @@
   tags:
   - Strategy
   - Turn-Based Strategy
-  - City Builder
-  - Multiplayer
   - 4X
+  - Multiplayer
+  - City Builder
   - Historical
   - Grand Strategy
   - Management
@@ -23308,11 +23307,11 @@
   - Hex Grid
   - Simulation
   - Alternate History
-  - Tactical
   - Open World
+  - Tactical
   - Great Soundtrack
-  - Survival
   - Building
+  - Survival
   - Character Customization
 - !ruby/object:Game
   name: HUMANKIND™ - Cultures of Africa Pack
@@ -23384,9 +23383,9 @@
   - Strategy
   - 2D
   - JRPG
+  - Party-Based RPG
   - Singleplayer
   - Indie
-  - Party-Based RPG
   - Auto Battler
   - Tactical
 - !ruby/object:Game
@@ -23478,13 +23477,13 @@
   steam_id: 529340
   tags:
   - Grand Strategy
-  - Historical
   - Economy
+  - Historical
   - Political Sim
   - Strategy
   - Capitalism
-  - Diplomacy
   - Politics
+  - Diplomacy
   - Management
   - Simulation
   - Alternate History
@@ -23513,8 +23512,8 @@
   - Story Rich
   - Atmospheric
   - Adventure
-  - Point & Click
   - Interactive Fiction
+  - Point & Click
   - 3D
   - Choose Your Own Adventure
   - Exploration
@@ -23540,8 +23539,8 @@
   - Rogue-like
   - Perma Death
   - RPG
-  - Dungeon Crawler
   - Action RPG
+  - Dungeon Crawler
   - Pixel Graphics
   - Loot
   - PvE
@@ -23561,15 +23560,15 @@
   - Rhythm
   - Action
   - Hack and Slash
-  - Singleplayer
   - Great Soundtrack
+  - Singleplayer
   - Cartoony
   - Action-Adventure
   - Music
   - Platformer
   - Character Action Game
-  - Spectacle fighter
   - Colorful
+  - Spectacle fighter
   - Comedy
   - Stylized
   - Beat 'em up
@@ -23598,12 +23597,12 @@
   - Character Customization
   - 2D
   - Casual
-  - Colorful
   - Party Game
+  - Colorful
   - Management
   - Minimalist
-  - Diplomacy
   - Politics
+  - Diplomacy
   - Stylized
 - !ruby/object:Game
   name: Loddlenaut
@@ -23676,12 +23675,12 @@
   - Action RPG
   - Difficult
   - Fantasy
-  - Character Customization
   - Exploration
+  - Character Customization
   - Story Rich
   - Soundtrack
-  - Dark Fantasy
   - Violent
+  - Dark Fantasy
   - Alternate History
   - Character Action Game
   - Action-Adventure
@@ -23698,8 +23697,8 @@
   - Action
   - Turn-Based Combat
   - JRPG
-  - Turn-Based
   - Story Rich
+  - Turn-Based
   - Open World
   - Singleplayer
   - Funny
@@ -23756,8 +23755,8 @@
   - Open World
   - Exploration
   - Space Sim
-  - Voxel
   - Sandbox
+  - Voxel
   - Physics
   - Multiplayer
   - Singleplayer
@@ -23786,6 +23785,8 @@
   - Sandbox
   - City Builder
   - Open World
+  - Sexual Content
+  - Management
 - !ruby/object:Game
   name: LEGO® 2K Drive
   month: June
@@ -23858,8 +23859,8 @@
   - Loot
   - Online Co-Op
   - Shooter
-  - Difficult
   - Great Soundtrack
+  - Difficult
   - Third Person
   - Indie
   - Survival
@@ -23876,15 +23877,15 @@
   tags:
   - Interactive Fiction
   - Story Rich
-  - Female Protagonist
   - Choices Matter
+  - Female Protagonist
   - Music
   - Singleplayer
+  - Multiple Endings
   - Atmospheric
   - Adventure
-  - Multiple Endings
-  - Mythology
   - Choose Your Own Adventure
+  - Mythology
   - Romance
   - Comic Book
   - Stylized
@@ -23906,16 +23907,16 @@
   - Turn-Based Tactics
   - Turn-Based Strategy
   - 3D
+  - Tactical
   - Isometric
   - Sci-fi
-  - Tactical
   - Turn-Based Combat
   - Singleplayer
-  - PvP
+  - Multiplayer
   - Asynchronous Multiplayer
+  - PvP
   - Combat
   - Violent
-  - Multiplayer
   - War
   - Turn-Based
   - Space
@@ -23936,9 +23937,9 @@
   - Interactive Fiction
   - Third Person
   - Atmospheric
-  - 3D
   - Female Protagonist
   - Realistic
+  - 3D
   - Dark
   - Alternate History
   - Emotional
@@ -23967,12 +23968,12 @@
   - Story Rich
   - Atmospheric
   - Emotional
-  - Singleplayer
   - Adventure
+  - Singleplayer
   - Indie
   - Metroidvania
-  - Hand-drawn
   - Surreal
+  - Hand-drawn
   - Isometric
   - Funny
 - !ruby/object:Game
@@ -23982,16 +23983,16 @@
   humble_scheme: choice
   steam_id: 2144740
   tags:
-  - Action
   - Cyberpunk
+  - Action
   - Runner
   - Hack and Slash
   - Fast-Paced
   - First-Person
   - Difficult
   - Swordplay
-  - Vehicular Combat
   - Violent
+  - Vehicular Combat
   - Music
   - Adventure
   - Action-Adventure
@@ -24013,8 +24014,8 @@
   - Tower Defense
   - Arcade
   - Strategy
-  - Action
   - Card Game
+  - Action
   - Roguelike Deckbuilder
   - 2D
   - Bullet Hell
@@ -24025,8 +24026,8 @@
   - Rogue-like
   - Perma Death
   - Pixel Graphics
-  - Arena Shooter
   - Demons
+  - Arena Shooter
   - Auto Battler
   - Casual
 - !ruby/object:Game
@@ -24040,16 +24041,16 @@
   - Lovecraftian
   - FPS
   - Boomer Shooter
-  - Shooter
   - Immersive Sim
-  - RPG
+  - Shooter
   - First-Person
+  - RPG
   - Horror
   - 3D
   - Atmospheric
   - Survival Horror
-  - Story Rich
   - Sci-fi
+  - Story Rich
   - Dark
   - Action
   - Pixel Graphics
@@ -24070,8 +24071,8 @@
   - Tactical
   - War
   - Sci-fi
-  - Resource Management
   - Real-Time
+  - Resource Management
   - Wargame
   - Aliens
   - Replay Value
@@ -24091,17 +24092,17 @@
   steam_id: 2303350
   tags:
   - Casual
-  - Simulation
   - Relaxing
+  - Simulation
   - Cute
   - Indie
   - Wholesome
   - Pixel Graphics
   - Colorful
   - Puzzle
+  - LGBTQ+
   - Family Friendly
   - Singleplayer
-  - LGBTQ+
   - Life Sim
   - Cozy
   - 2D
@@ -24153,14 +24154,14 @@
   - Difficult
   - Story Rich
   - Anime
-  - Rogue-like
   - Hand-drawn
+  - Rogue-like
   - Magic
   - Perma Death
   - Action
+  - Pixel Graphics
   - Fantasy
   - Co-op
-  - Pixel Graphics
   - Singleplayer
   - Platformer
   - Local Co-Op
@@ -24172,11 +24173,11 @@
   steam_id: 1532690
   tags:
   - Story Rich
-  - Archery
   - Action-Adventure
+  - Archery
   - Mythology
-  - Atmospheric
   - Open World
+  - Atmospheric
   - Dark Fantasy
   - First-Person
   - Exploration
@@ -24187,9 +24188,9 @@
   - Surreal
   - Singleplayer
   - Colorful
-  - Medieval
-  - Action
   - FPS
+  - Action
+  - Medieval
   - Multiple Endings
 - !ruby/object:Game
   name: Diluvian Ultra
@@ -24267,11 +24268,11 @@
   - Story Rich
   - Gore
   - Colorful
-  - Combat
   - Open World
+  - Combat
   - Nudity
-  - NSFW
   - Funny
+  - NSFW
 - !ruby/object:Game
   name: Sifu
   month: August
@@ -24281,24 +24282,24 @@
   tags:
   - Action
   - Martial Arts
-  - Difficult
   - Beat 'em up
+  - Difficult
   - Third Person
   - Singleplayer
   - Souls-like
   - Crime
-  - Blood
   - Indie
+  - Blood
   - Swordplay
-  - Dark
-  - Arcade
-  - Action Roguelike
   - Fighting
+  - Dark
+  - Action Roguelike
+  - Arcade
   - Hack and Slash
+  - Rogue-like
+  - Action-Adventure
   - Dark Fantasy
   - War
-  - Action-Adventure
-  - Action RPG
 - !ruby/object:Game
   name: This Means Warp
   month: August
@@ -24359,8 +24360,8 @@
   humble_scheme: choice
   steam_id: 1755830
   tags:
-  - Roguelike Deckbuilder
   - Dice
+  - Roguelike Deckbuilder
   - Card Battler
   - Rogue-like
   - Card Game
@@ -24393,19 +24394,19 @@
   - Simulation
   - Agriculture
   - RPG
-  - Crafting
   - Character Customization
+  - Crafting
   - Singleplayer
-  - Building
   - Sandbox
+  - Building
   - Open World
   - Casual
   - Indie
   - Adventure
   - Fishing
   - Mining
-  - Cartoony
   - LGBTQ+
+  - Cartoony
 - !ruby/object:Game
   name: InfraSpace
   month: September
@@ -24476,8 +24477,8 @@
   - Choices Matter
   - Comedy
   - Sci-fi
-  - Exploration
   - Adventure
+  - Exploration
   - Space
   - Shooter
   - Cinematic
@@ -24485,14 +24486,15 @@
   - Atmospheric
   - Aliens
   - RPG
-  - Multiplayer
   - Open World
+  - Multiplayer
 - !ruby/object:Game
   name: Rue Valley - Alpha Playtest
   month: September
   year: 2024
   humble_scheme: choice
   steam_id:
+  tags: []
 - !ruby/object:Game
   name: 'SpongeBob SquarePants: The Cosmic Shake'
   month: September
@@ -24500,8 +24502,8 @@
   humble_scheme: choice
   steam_id: 1282150
   tags:
-  - Family Friendly
   - 3D Platformer
+  - Family Friendly
   - Platformer
   - Action
   - Comedy
@@ -24512,14 +24514,14 @@
   - Third Person
   - Funny
   - Cartoon
-  - Open World
-  - Story Rich
-  - Multiplayer
   - Adventure
+  - Story Rich
+  - Open World
   - Great Soundtrack
   - Collectathon
+  - Multiplayer
+  - Cute
   - Memes
-  - Mature
 - !ruby/object:Game
   name: 'Stranded: Alien Dawn'
   month: September
@@ -24533,8 +24535,8 @@
   - Strategy
   - Crafting
   - 3D
-  - Combat
   - Colony Sim
+  - Combat
   - Management
   - Destruction
   - Hunting
@@ -24571,8 +24573,8 @@
   - Comedy
   - Physics
   - Cartoon
-  - Sports
   - Singleplayer
+  - Sports
   - Action
 - !ruby/object:Game
   name: Dome Keeper
@@ -24589,16 +24591,16 @@
   - Combat
   - Resource Management
   - Tower Defense
+  - Pixel Graphics
   - Atmospheric
   - Space
-  - Pixel Graphics
   - Procedural Generation
   - Physics
   - Replay Value
-  - Retro
   - Exploration
-  - Controller
+  - Retro
   - 2D
+  - Controller
   - Tactical
   - Adventure
 - !ruby/object:Game
@@ -24618,14 +24620,14 @@
   - Character Customization
   - RPG
   - Controller
-  - 2D
   - Anime
+  - 2D
   - 'Dystopian '
   - Sci-fi
   - Hacking
   - Adventure
-  - Exploration
   - Singleplayer
+  - Exploration
   - Party-Based RPG
   - Turn-Based Tactics
 - !ruby/object:Game
@@ -24636,10 +24638,10 @@
   steam_id: 1977170
   tags:
   - Atmospheric
-  - Action-Adventure
-  - Action
   - Parkour
+  - Action-Adventure
   - Puzzle
+  - Action
   - Soundtrack
   - Exploration
   - Adventure
@@ -24663,8 +24665,8 @@
   steam_id: 1338580
   tags:
   - Adventure
-  - Point & Click
   - Pixel Graphics
+  - Point & Click
   - Funny
   - 2D
   - Casual
@@ -24717,25 +24719,25 @@
   steam_id: 1282100
   tags:
   - Souls-like
-  - Action
   - Co-op
+  - Action
   - Adventure
   - Third-Person Shooter
   - RPG
   - Shooter
   - Dark
   - Action-Adventure
-  - Post-apocalyptic
   - Online Co-Op
+  - Post-apocalyptic
   - Multiplayer
+  - Third Person
   - Combat
   - Horror
-  - Third Person
   - Atmospheric
   - PvE
   - Singleplayer
   - Controller
-  - Gore
+  - Looter Shooter
 - !ruby/object:Game
   name: Remnant Records
   month: October
@@ -24771,8 +24773,8 @@
   steam_id: 2272400
   tags:
   - Simulation
-  - Relaxing
   - Puzzle
+  - Relaxing
   - Cozy
   - Voxel
   - Trains
@@ -24809,8 +24811,8 @@
   - Collectathon
   - Sandbox
   - Cartoony
-  - JRPG
   - RPG
+  - JRPG
   - Open World
   - Adventure
   - Singleplayer
@@ -24852,24 +24854,24 @@
   tags:
   - Turn-Based
   - Card Game
+  - Resource Management
   - Simulation
-  - Online Co-Op
+  - Strategy
+  - Trading
   - 4X
   - Deckbuilding
-  - Strategy
-  - Co-op
-  - Alternate History
-  - Historical
-  - Tabletop
-  - PvP
-  - Building
-  - Turn-Based Strategy
-  - Multiplayer
   - Grand Strategy
-  - Singleplayer
+  - Historical
+  - Co-op
+  - PvP
   - Hex Grid
   - War
-  - Management
+  - Diplomacy
+  - Economy
+  - Board Game
+  - Turn-Based Strategy
+  - Building
+  - Turn-Based Combat
 - !ruby/object:Game
   name: KarmaZoo
   month: November
@@ -24913,8 +24915,8 @@
   - Singleplayer
   - Party-Based RPG
   - Mystery
-  - Multiple Endings
   - Emotional
+  - Multiple Endings
   - Turn-Based Strategy
   - Detective
   - Dating Sim
@@ -24938,15 +24940,15 @@
   - Noir
   - Story Rich
   - Lore-Rich
-  - Dark Fantasy
   - Surreal
+  - Dark Fantasy
   - Mystery
   - First-Person
   - 'Dystopian '
   - Point & Click
+  - Detective
   - Thriller
   - Exploration
-  - Detective
   - Narration
   - Drama
   - Puzzle
@@ -24985,26 +24987,26 @@
   humble_scheme: choice
   steam_id: 1361210
   tags:
-  - Action-Adventure
   - Horror
+  - Team-Based
   - Combat
-  - Warhammer 40K
-  - Co-op
   - Class-Based
-  - Games Workshop
-  - Realistic
-  - FPS
   - Hack and Slash
-  - PvE
-  - Shooter
-  - Atmospheric
-  - Character Customization
-  - War
   - Zombies
-  - Dark
+  - PvE
+  - Warhammer 40K
+  - Shooter
+  - FPS
+  - Co-op
+  - Action-Adventure
+  - Character Customization
   - First-Person
+  - Dark
+  - Realistic
+  - Narration
   - Action
-  - Survival Horror
+  - Dark Fantasy
+  - Atmospheric
 - !ruby/object:Game
   name: 'Atlas Fallen: Reign of Sand'
   month: December
@@ -25069,21 +25071,21 @@
   - Action
   - Shooter
   - FPS
+  - Multiplayer
+  - Co-op
   - Heist
   - Action Roguelike
-  - Co-op
-  - Multiplayer
   - Crime
   - Realistic
   - Looter Shooter
   - Singleplayer
-  - Tactical
   - Online Co-Op
+  - Tactical
   - America
   - 3D
+  - Team-Based
   - PvE
   - Combat
-  - Team-Based
   - Stealth
   - Funny
 - !ruby/object:Game
@@ -25134,8 +25136,8 @@
   - Deckbuilding
   - Dark Humor
   - Hand-drawn
-  - PvP
   - 2D
+  - PvP
   - Stylized
   - Strategy RPG
   - PvE
@@ -25154,16 +25156,16 @@
   tags:
   - Visual Novel
   - LGBTQ+
+  - Dating Sim
   - Comedy
   - Multiplayer
-  - Dating Sim
   - Choices Matter
   - Story Rich
   - Dark Humor
   - Funny
   - Multiple Endings
-  - Memes
   - Choose Your Own Adventure
+  - Memes
   - Romance
   - Survival
   - Indie
@@ -25208,23 +25210,23 @@
   tags:
   - Strategy
   - Simulation
-  - Grand Strategy
   - 4X
+  - Grand Strategy
   - Turn-Based Strategy
   - Historical
-  - Multiplayer
   - War
+  - Multiplayer
   - Tactical
-  - Management
-  - Sandbox
   - Turn-Based
+  - Sandbox
+  - Management
   - Moddable
   - Co-op
   - Singleplayer
   - Replay Value
   - Economy
-  - Military
   - Diplomacy
+  - Military
   - Hex Grid
 - !ruby/object:Game
   name: The Invincible
@@ -25244,14 +25246,14 @@
   - Multiple Endings
   - Mystery
   - Space
-  - Thriller
   - Story Rich
+  - Thriller
   - Science
-  - Aliens
   - Singleplayer
+  - Aliens
   - Interactive Fiction
-  - Nonlinear
   - First-Person
+  - Nonlinear
   - Narration
 - !ruby/object:Game
   name: Venba
@@ -25272,8 +25274,8 @@
   - Cinematic
   - Interactive Fiction
   - Visual Novel
-  - Story Rich
   - Indie
+  - Story Rich
   - Choices Matter
   - Soundtrack
   - Atmospheric
@@ -25288,25 +25290,25 @@
   steam_id: 1336490
   tags:
   - Strategy
-  - Simulation
   - City Builder
+  - Simulation
   - Base-Building
-  - Management
   - Colony Sim
+  - Management
   - Building
-  - Grand Strategy
   - Resource Management
-  - Moddable
-  - Sandbox
-  - RTS
-  - Open World
+  - Rogue-like
   - Survival
-  - Singleplayer
-  - Historical
-  - Economy
+  - Dark Fantasy
+  - Sandbox
   - Real-Time with Pause
-  - 4X
+  - Open World
+  - Singleplayer
+  - Moddable
+  - RTS
+  - Economy
   - Replay Value
+  - Automation
 - !ruby/object:Game
   name: Beneath Oresa
   month: January
@@ -25348,16 +25350,16 @@
   - Adventure
   - 2D Platformer
   - Pixel Graphics
-  - Side Scroller
   - Difficult
+  - Side Scroller
   - Hack and Slash
   - Unforgiving
   - 2D
   - Platformer
   - Action RPG
   - Horror
-  - Action-Adventure
   - Lore-Rich
+  - Action-Adventure
   - Story Rich
   - Nonlinear
   - Multiple Endings
@@ -25371,16 +25373,16 @@
   - Puzzle
   - Adventure
   - Mystery
-  - Casual
   - Point & Click
+  - Casual
   - 3D
   - Atmospheric
   - Hidden Object
-  - Story Rich
   - Indie
+  - Story Rich
   - Clicker
-  - Cinematic
   - Singleplayer
+  - Cinematic
   - 3D Vision
   - Stylized
   - Narration
@@ -25418,26 +25420,26 @@
   humble_scheme: choice
   steam_id: 1931730
   tags:
-  - Thriller
+  - Walking Simulator
+  - Cinematic
   - Mars
+  - Narration
+  - Narrative
+  - Space
   - Story Rich
+  - Linear
+  - Thriller
+  - Immersive
+  - Atmospheric
   - Sci-fi
   - Futuristic
-  - Space
-  - Walking Simulator
-  - Narration
   - Mystery
   - Adventure
-  - Cinematic
   - Exploration
   - Third Person
   - Realistic
   - 3D
-  - Linear
   - Singleplayer
-  - Interactive Fiction
-  - Quick-Time Events
-  - Dark
 - !ruby/object:Game
   name: Jagged Alliance 3
   month: January
@@ -25455,8 +25457,8 @@
   - Singleplayer
   - Strategy RPG
   - Co-op Campaign
-  - Loot
   - Isometric
+  - Loot
   - Action
   - 3D
   - Turn-Based
@@ -25532,8 +25534,8 @@
   - Choices Matter
   - RPG
   - Turn-Based
-  - Card Game
   - Story Rich
+  - Card Game
   - Strategy
   - Dark Humor
   - Rogue-like
@@ -25556,20 +25558,22 @@
   - Action
   - Adventure
   - Magic
-  - Fantasy
   - FPS
+  - Fantasy
   - Action-Adventure
   - Singleplayer
   - Fast-Paced
   - Sci-fi
   - PvE
-  - Dragons
-  - Shooter
   - Open World
+  - Shooter
+  - Dragons
   - Atmospheric
   - Story Rich
   - First-Person
   - RPG
+  - Multiplayer
+  - LGBTQ+
 - !ruby/object:Game
   name: My Little Universe
   month: February
@@ -25668,8 +25672,8 @@
   tags:
   - Shooter
   - Singleplayer
-  - Gore
   - FPS
+  - Gore
   - Horror
   - Violent
   - Action
@@ -25683,8 +25687,8 @@
   - Stealth
   - Atmospheric
   - Sci-fi
-  - Combat
   - Difficult
+  - Combat
   - Destruction
 - !ruby/object:Game
   name: Cavern of Dreams
@@ -25709,8 +25713,8 @@
   - Fantasy
   - Singleplayer
   - 3D
-  - Platformer
   - Family Friendly
+  - Platformer
   - Casual
   - Tutorial
 - !ruby/object:Game
@@ -25722,8 +25726,8 @@
   tags:
   - Action
   - Platformer
-  - Indie
   - Pixel Graphics
+  - Indie
   - 2D
   - Singleplayer
   - 2D Platformer
@@ -25760,8 +25764,8 @@
   - Real-Time
   - 3D
   - Competitive
-  - Isometric
   - Simulation
+  - Isometric
   - Rogue-lite
   - Management
 - !ruby/object:Game
@@ -25778,16 +25782,16 @@
   - Survival Horror
   - Sci-fi
   - Crafting
-  - Adventure
   - Atmospheric
+  - Adventure
   - Action
   - First-Person
   - Post-apocalyptic
   - Base-Building
   - Transportation
+  - Simulation
   - 3D
   - Sandbox
-  - Simulation
   - Building
   - Action-Adventure
   - Investigation
@@ -25869,18 +25873,18 @@
   - Female Protagonist
   - Thriller
   - Futuristic
-  - 3D
   - Post-apocalyptic
+  - 3D
   - Story Rich
   - Sci-fi
-  - Psychological Horror
   - Walking Simulator
+  - Psychological Horror
   - Visual Novel
   - Anime
-  - Cinematic
   - Narrative
-  - Multiple Endings
+  - Cinematic
   - Atmospheric
+  - Multiple Endings
   - Mystery
   - Exploration
   - Surreal
@@ -25898,16 +25902,16 @@
   - Tactical
   - RTS
   - Sci-fi
-  - Singleplayer
   - Real Time Tactics
+  - Singleplayer
   - Aliens
-  - Action-Adventure
   - Dark
-  - Survival
+  - Action-Adventure
   - Horror
-  - 3D
-  - Space
+  - Survival
   - Top-Down
+  - Space
+  - 3D
   - Violent
   - Combat
   - Stealth
@@ -25920,26 +25924,26 @@
   humble_scheme: choice
   steam_id: 1272320
   tags:
+  - Real-Time with Pause
+  - Resource Management
+  - Simulation
+  - Tactical
+  - Military
   - Strategy
-  - Base-Building
-  - Colony Sim
-  - Singleplayer
-  - Sandbox
   - RTS
-  - Management
-  - Building
-  - Difficult
-  - Medieval
-  - Action RTS
-  - City Builder
-  - Colorful
-  - Tower Defense
+  - Base-Building
   - War
-  - Combat
-  - Adventure
+  - Singleplayer
+  - Medieval
+  - City Builder
+  - Historical
+  - PvE
+  - Action RTS
+  - Difficult
+  - Tower Defense
+  - Zombies
   - Survival
-  - Procedural Generation
-  - 3D
+  - Colony Sim
 - !ruby/object:Game
   name: Distant Worlds 2
   month: April
@@ -25951,14 +25955,16 @@
   - Simulation
   - 4X
   - Grand Strategy
-  - Sci-fi
   - Space
+  - Sci-fi
   - 3D
   - Singleplayer
   - Procedural Generation
   - Combat
   - Early Access
   - Real-Time with Pause
+  - RTS
+  - Economy
 - !ruby/object:Game
   name: Dredge
   month: April
@@ -25969,15 +25975,15 @@
   - Exploration
   - Fishing
   - Lovecraftian
-  - Open World
   - Adventure
+  - Open World
   - Mystery
   - Inventory Management
   - Atmospheric
   - Psychological Horror
+  - Horror
   - RPG
   - Simulation
-  - Horror
   - Singleplayer
   - Stylized
   - Survival Horror
@@ -25999,8 +26005,8 @@
   - Auto Battler
   - PvE
   - Rogue-like
-  - Character Customization
   - 2D
+  - Character Customization
   - Top-Down
   - Pixel Graphics
   - Action
@@ -26047,11 +26053,11 @@
   humble_scheme: choice
   steam_id: 2478970
   tags:
+  - Female Protagonist
   - Action-Adventure
   - Action
-  - Female Protagonist
-  - Old School
   - Exploration
+  - Old School
   - 3D
   - Singleplayer
   - Adventure
@@ -26059,8 +26065,8 @@
   - Classic
   - Controller
   - Atmospheric
-  - Violent
   - Platformer
+  - Violent
   - Remake
   - Difficult
   - Great Soundtrack
@@ -26155,15 +26161,15 @@
   humble_scheme: choice
   steam_id: 1065310
   tags:
-  - Beat 'em up
   - Western
+  - Beat 'em up
   - Action-Adventure
   - Co-op
   - Third-Person Shooter
   - Character Action Game
-  - Story Rich
   - Vampire
   - Demons
+  - Story Rich
   - Gore
   - Action
   - Multiplayer
@@ -26187,14 +26193,14 @@
   - Sci-fi
   - Action-Adventure
   - Combat
-  - Adventure
   - Space
+  - Adventure
   - Platformer
   - Assassin
   - Shooter
   - 3D Platformer
-  - Singleplayer
   - Third Person
+  - Singleplayer
   - 3D
   - Futuristic
   - Robots
@@ -26212,21 +26218,21 @@
   - RPG
   - Fantasy
   - Character Customization
-  - Dark Fantasy
   - RTS
+  - Dark Fantasy
   - CRPG
-  - Story Rich
   - Tactical
+  - Story Rich
   - Choices Matter
-  - War
   - Real Time Tactics
+  - War
+  - Singleplayer
   - Grand Strategy
   - Adventure
-  - Singleplayer
   - Action
   - Atmospheric
-  - Combat
   - Stealth
+  - Combat
   - Class-Based
 - !ruby/object:Game
   name: The Thaumaturge
@@ -26278,8 +26284,8 @@
   - Female Protagonist
   - Exploration
   - Action
-  - Singleplayer
   - Psychedelic
+  - Singleplayer
   - 2D
   - Colorful
   - Hand-drawn
@@ -26332,8 +26338,8 @@
   - Action
   - Dungeon Crawler
   - Atmospheric
-  - PvE
   - Indie
+  - PvE
   - Puzzle-Platformer
   - Platformer
   - Action RPG
@@ -26506,3 +26512,217 @@
   - Indie
   - Arena Shooter
   - Games Workshop
+- !ruby/object:Game
+  name: Blanc
+  month: July
+  year: 2025
+  humble_scheme: choice
+  steam_id: 1982340
+  tags:
+  - Adventure
+  - Emotional
+  - Co-op
+  - Atmospheric
+  - Relaxing
+  - Stylized
+  - Hand-drawn
+  - Multiplayer
+  - Local Co-Op
+  - Online Co-Op
+  - Walking Simulator
+  - Casual
+  - Indie
+  - Family Friendly
+  - Music
+  - Short
+  - 3D
+  - Exploration
+  - Cute
+  - Local Multiplayer
+- !ruby/object:Game
+  name: Cat Quest III
+  month: July
+  year: 2025
+  humble_scheme: choice
+  steam_id: 2305840
+  tags:
+  - Action
+  - Adventure
+  - Cats
+  - Action RPG
+  - Local Co-Op
+  - Exploration
+  - Cute
+  - Pirates
+  - Character Customization
+  - 2.5D
+  - Combat
+  - Open World
+  - Cartoon
+  - Colorful
+  - Singleplayer
+  - Family Friendly
+  - Isometric
+  - Fantasy
+  - Loot
+  - Funny
+- !ruby/object:Game
+  name: DAEMON X MACHINA
+  month: July
+  year: 2025
+  humble_scheme: choice
+  steam_id: 1167450
+  tags:
+  - Mechs
+  - Action
+  - Character Customization
+  - Robots
+  - Anime
+  - Sci-fi
+  - Singleplayer
+  - Post-apocalyptic
+  - Multiplayer
+  - PvP
+  - Third-Person Shooter
+  - Great Soundtrack
+  - Third Person
+  - Cyberpunk
+  - Co-op
+  - Shooter
+  - Epic
+  - RPG
+- !ruby/object:Game
+  name: Death's Door
+  month: July
+  year: 2025
+  humble_scheme: choice
+  steam_id: 894020
+  tags:
+  - Cute
+  - Souls-like
+  - 3D Platformer
+  - Cartoony
+  - Dark Fantasy
+  - Action
+  - Adventure
+  - Action-Adventure
+  - RPG
+  - Hack and Slash
+  - Exploration
+  - Isometric
+  - Action RPG
+  - Dungeon Crawler
+  - 3D
+  - Metroidvania
+  - Indie
+  - Controller
+  - Colorful
+  - Combat
+- !ruby/object:Game
+  name: Everafter Falls
+  month: July
+  year: 2025
+  humble_scheme: choice
+  steam_id: 1416960
+  tags:
+  - Simulation
+  - Farming Sim
+  - Story Rich
+  - Life Sim
+  - Local Co-Op
+  - RPG
+  - Crafting
+  - 2D
+  - Split Screen
+  - Top-Down
+  - Character Customization
+  - Fishing
+  - Farming
+  - Open World Survival Craft
+  - Indie
+  - Co-op
+  - Casual
+  - Mining
+  - Family Friendly
+  - Relaxing
+- !ruby/object:Game
+  name: Neo Cab
+  month: July
+  year: 2025
+  humble_scheme: choice
+  steam_id: 794540
+  tags:
+  - Visual Novel
+  - Cyberpunk
+  - Interactive Fiction
+  - Story Rich
+  - Atmospheric
+  - Choices Matter
+  - Noir
+  - Multiple Endings
+  - Conversation
+  - Point & Click
+  - Stylized
+  - Sci-fi
+  - Comic Book
+  - Emotional
+  - 2.5D
+  - Adventure
+  - Futuristic
+  - Soundtrack
+  - Narrative
+  - Singleplayer
+- !ruby/object:Game
+  name: 'Warhammer 40,000: Rogue Trader'
+  month: July
+  year: 2025
+  humble_scheme: choice
+  steam_id: 2186680
+  tags:
+  - Character Customization
+  - Cinematic
+  - Story Rich
+  - Turn-Based Strategy
+  - Dark Fantasy
+  - Romance
+  - Turn-Based Tactics
+  - Strategy
+  - Action
+  - RPG
+  - Turn-Based
+  - Singleplayer
+  - Warhammer 40K
+  - Choices Matter
+  - Futuristic
+  - Multiplayer
+  - Adventure
+  - CRPG
+  - Turn-Based Combat
+  - Online Co-Op
+- !ruby/object:Game
+  name: Wizard with a Gun
+  month: July
+  year: 2025
+  humble_scheme: choice
+  steam_id: 1150530
+  tags:
+  - Action
+  - Adventure
+  - Sandbox
+  - Action-Adventure
+  - Dungeon Crawler
+  - Exploration
+  - Rogue-like
+  - Hack and Slash
+  - Top-Down Shooter
+  - Rogue-lite
+  - 2.5D
+  - Cartoon
+  - Colorful
+  - Cute
+  - Isometric
+  - Stylized
+  - Crafting
+  - Third Person
+  - Dark Fantasy
+  - Multiplayer

@@ -27,12 +27,19 @@ class SteamStore
   end
 
   def find_id(name)
-    g = @entries.select { |game| game.name.downcase == name.downcase }
+    g = @entries.select do |game|
+      normalise_emoji_variants(game.name.downcase) == normalise_emoji_variants(name.downcase)
+    end
 
     # Return nil if we don't find the game
     return nil if g.empty?
 
     g.first.steam_id
+  end
+
+  # Strip off the Variation Selector
+  def normalise_emoji_variants(str)
+    str.gsub("\uFE0F", '')
   end
 
   def load_entries_from_steam_api
