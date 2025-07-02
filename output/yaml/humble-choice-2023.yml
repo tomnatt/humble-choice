@@ -1726,15 +1726,15 @@
   - Atmospheric
   - Multiple Endings
   - Narration
-  - 'Dystopian '
   - Choose Your Own Adventure
+  - 'Dystopian '
   - Exploration
   - Singleplayer
   - Emotional
   - Political
   - Procedural Generation
-  - Dynamic Narration
   - Interactive Fiction
+  - Dynamic Narration
   - Action
   - Nonlinear
 - !ruby/object:Game
@@ -1780,8 +1780,8 @@
   - First-Person
   - Strategy
   - Early Access
-  - Space Sim
   - Singleplayer
+  - Space Sim
   - 3D
   - Resource Management
   - Immersive Sim
@@ -1831,8 +1831,8 @@
   - Strategy
   - Rogue-lite
   - Atmospheric
-  - Rogue-like
   - Replay Value
+  - Rogue-like
   - Tactical RPG
   - Action Roguelike
   - 3D
@@ -1907,25 +1907,25 @@
   steam_id: 1170080
   tags:
   - Card Game
-  - Narration
+  - Story Rich
+  - Dynamic Narration
   - Adventure
+  - Singleplayer
+  - Card Battler
+  - Combat
+  - Atmospheric
+  - Narration
+  - Tabletop
   - Board Game
   - Exploration
-  - Singleplayer
-  - RPG
+  - Multiple Endings
+  - Fantasy
+  - Choices Matter
   - Choose Your Own Adventure
   - Interactive Fiction
   - Strategy
-  - Card Battler
-  - Tabletop
+  - RPG
   - Cinematic
-  - Cartoony
-  - Dynamic Narration
-  - Cartoon
-  - Atmospheric
-  - Fantasy
-  - Medieval
-  - Story Rich
 - !ruby/object:Game
   name: Patch Quest
   month: September
@@ -1934,16 +1934,16 @@
   steam_id: 1347970
   tags:
   - Adventure
-  - Rogue-lite
   - Creature Collector
+  - Rogue-lite
   - Base-Building
   - Bullet Hell
   - Shoot 'Em Up
   - Arena Shooter
   - Co-op
+  - Twin Stick Shooter
   - Action Roguelike
   - Action
-  - Twin Stick Shooter
   - Metroidvania
   - Puzzle
   - Local Multiplayer
@@ -1966,8 +1966,8 @@
   - Exploration
   - Choices Matter
   - Investigation
-  - Indie
   - Story Rich
+  - Indie
   - RPG
   - First-Person
   - Multiple Endings
@@ -1975,10 +1975,10 @@
   - Atmospheric
   - Philosophical
   - Great Soundtrack
-  - Fantasy
   - Remake
-  - Open World
+  - Fantasy
   - Rome
+  - Open World
   - Silent Protagonist
 - !ruby/object:Game
   name: Tiny Tina's Wonderlands
@@ -1995,8 +1995,8 @@
   - RPG
   - FPS
   - Fantasy
-  - Action
   - Online Co-Op
+  - Action
   - Comedy
   - Co-op
   - Singleplayer
@@ -2110,8 +2110,8 @@
   - Shooter
   - Action
   - Demons
-  - Combat
   - First-Person
+  - Combat
   - Female Protagonist
   - Adventure
   - Score Attack
@@ -2141,8 +2141,8 @@
   - RPG
   - Underground
   - Point & Click
-  - Life Sim
   - 2.5D
+  - Life Sim
   - Singleplayer
   - Exploration
   - Economy
@@ -2168,13 +2168,13 @@
   - Tactical
   - Singleplayer
   - Diplomacy
-  - Realistic
   - Real-Time with Pause
+  - Realistic
   - RTS
   - Economy
   - Sandbox
-  - Addictive
   - Replay Value
+  - Addictive
   - Great Soundtrack
 - !ruby/object:Game
   name: Spirit Of The Island
@@ -2187,22 +2187,22 @@
   - Relaxing
   - Indie
   - Multiplayer
-  - Open World Survival Craft
   - Life Sim
   - Farming Sim
+  - RPG
   - Sandbox
+  - Open World Survival Craft
   - Simulation
+  - Cute
   - Action RPG
   - Online Co-Op
-  - RPG
-  - Cute
-  - Cats
+  - Story Rich
+  - Exploration
   - Agriculture
   - Singleplayer
   - Open World
   - Adventure
-  - Casual
-  - Exploration
+  - City Builder
 - !ruby/object:Game
   name: 'The Dark Pictures Anthology: House of Ashes'
   month: October
@@ -2238,25 +2238,25 @@
   steam_id: 1577120
   tags:
   - Choices Matter
-  - Horror
   - Multiple Endings
+  - Horror
   - Multiplayer
   - Cinematic
   - Story Rich
   - Quick-Time Events
   - Thriller
-  - Gore
   - Sexual Content
+  - Gore
   - Singleplayer
   - Adventure
   - Realistic
   - Violent
-  - Survival Horror
   - Narrative
+  - Survival Horror
   - Nudity
   - Blood
+  - Co-op
   - Psychological Horror
-  - Perma Death
 - !ruby/object:Game
   name: The Quarry – Deluxe Bonus Content Pack
   month: October
@@ -2320,8 +2320,8 @@
   - Strategy
   - Futuristic
   - 'Dystopian '
-  - Early Access
   - Building
+  - Early Access
   - Procedural Generation
   - Open World
   - Relaxing
@@ -2337,8 +2337,8 @@
   - Boomer Shooter
   - FPS
   - Retro
-  - Action
   - Gore
+  - Action
   - Shooter
   - Indie
   - Violent
@@ -2391,8 +2391,8 @@
   - Metroidvania
   - Pixel Graphics
   - Action
-  - Singleplayer
   - Action-Adventure
+  - Singleplayer
   - Combat
   - Difficult
   - Adventure
@@ -2400,11 +2400,10 @@
   - Souls-like
   - 2D
   - Exploration
-  - Platformer
   - 2D Platformer
+  - Platformer
   - Fantasy
   - Great Soundtrack
-  - Indie
 - !ruby/object:Game
   name: The Legend Of Tianding
   month: November
@@ -2441,8 +2440,8 @@
   tags:
   - Relaxing
   - Cute
-  - Pixel Graphics
   - Casual
+  - Pixel Graphics
   - Puzzle
   - Story Rich
   - Singleplayer
@@ -2451,8 +2450,8 @@
   - Life Sim
   - Atmospheric
   - Point & Click
-  - Female Protagonist
   - LGBTQ+
+  - Female Protagonist
   - Isometric
   - Family Friendly
   - Colorful
@@ -2465,6 +2464,7 @@
   year: 2023
   humble_scheme: choice
   steam_id:
+  tags: []
 - !ruby/object:Game
   name: Elex II
   month: December
@@ -2483,8 +2483,8 @@
   - Dark Fantasy
   - Aliens
   - Realistic
-  - Atmospheric
   - Post-apocalyptic
+  - Atmospheric
   - 'Dystopian '
   - Fantasy
   - Story Rich
@@ -2501,15 +2501,15 @@
   tags:
   - RPG
   - Strategy
-  - Party-Based RPG
   - Turn-Based Strategy
+  - Party-Based RPG
   - Rome
   - CRPG
   - Turn-Based Tactics
   - Tactical RPG
   - 3D
-  - Top-Down
   - Historical
+  - Top-Down
   - Atmospheric
   - Tactical
   - Choices Matter
@@ -2594,7 +2594,6 @@
   - Modern
   - Great Soundtrack
   - Martial Arts
-  - Character Customization
 - !ruby/object:Game
   name: Nobody Saves The World
   month: December
@@ -2607,17 +2606,17 @@
   - Co-op
   - Multiplayer
   - Action
-  - Adventure
   - Hack and Slash
+  - Adventure
   - Dungeon Crawler
   - 2D
-  - RPG
   - Local Co-Op
+  - RPG
   - Fantasy
   - Action RPG
   - Colorful
-  - Exploration
   - Action-Adventure
+  - Exploration
   - Funny
   - Procedural Generation
   - Soundtrack
@@ -2632,8 +2631,8 @@
   - Action-Adventure
   - Atmospheric
   - Sci-fi
-  - Family Friendly
   - 3D Platformer
+  - Family Friendly
   - Relaxing
   - Space
   - Female Protagonist
@@ -2661,8 +2660,8 @@
   - Choices Matter
   - Simulation
   - Singleplayer
-  - Adventure
   - Story Rich
+  - Adventure
   - Strategy
   - Narrative
   - Atmospheric

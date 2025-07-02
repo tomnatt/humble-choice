@@ -21611,8 +21611,28 @@
   month: August
   year: 2023
   humble_scheme: choice
-  steam_id:
-  tags: []
+  steam_id: 1466640
+  tags:
+  - First-Person
+  - Colorful
+  - 1990's
+  - Adventure
+  - Choices Matter
+  - Story Rich
+  - Atmospheric
+  - Multiple Endings
+  - Narration
+  - Choose Your Own Adventure
+  - 'Dystopian '
+  - Exploration
+  - Singleplayer
+  - Emotional
+  - Political
+  - Procedural Generation
+  - Interactive Fiction
+  - Dynamic Narration
+  - Action
+  - Nonlinear
 - !ruby/object:Game
   name: 'SuchArt: Genius Artist Simulator'
   month: August
