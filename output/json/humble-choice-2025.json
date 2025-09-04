@@ -1786,5 +1786,272 @@
       "Lore-Rich",
       "Online Co-Op"
     ]
+  },
+  {
+    "name": "Destiny 2: Beyond Light Pack",
+    "month": "September",
+    "year": 2025,
+    "humble_scheme": "choice",
+    "steam_id": 1314563,
+    "tags": [
+      "dlc"
+    ]
+  },
+  {
+    "name": "Destiny 2: Bungie 30th Anniversary Pack",
+    "month": "September",
+    "year": 2025,
+    "humble_scheme": "choice",
+    "steam_id": 1656370,
+    "tags": [
+      "dlc"
+    ]
+  },
+  {
+    "name": "Destiny 2: Forsaken Pack",
+    "month": "September",
+    "year": 2025,
+    "humble_scheme": "choice",
+    "steam_id": 1090150,
+    "tags": [
+      "dlc"
+    ]
+  },
+  {
+    "name": "Destiny 2: Lightfall",
+    "month": "September",
+    "year": 2025,
+    "humble_scheme": "choice",
+    "steam_id": 1945340,
+    "tags": [
+      "dlc"
+    ]
+  },
+  {
+    "name": "Destiny 2: Shadowkeep Pack",
+    "month": "September",
+    "year": 2025,
+    "humble_scheme": "choice",
+    "steam_id": 1090200,
+    "tags": [
+      "dlc"
+    ]
+  },
+  {
+    "name": "Destiny 2: The Final Shape",
+    "month": "September",
+    "year": 2025,
+    "humble_scheme": "choice",
+    "steam_id": 2336880,
+    "tags": [
+      "dlc"
+    ]
+  },
+  {
+    "name": "Destiny 2: The Witch Queen",
+    "month": "September",
+    "year": 2025,
+    "humble_scheme": "choice",
+    "steam_id": 1656330,
+    "tags": [
+      "dlc"
+    ]
+  },
+  {
+    "name": "Grapple Dog",
+    "month": "September",
+    "year": 2025,
+    "humble_scheme": "choice",
+    "steam_id": 1345860,
+    "tags": [
+      "2D Platformer",
+      "Platformer",
+      "Action",
+      "2D",
+      "Cute",
+      "Funny",
+      "Pixel Graphics",
+      "Adventure",
+      "Dog",
+      "Cartoony",
+      "Relaxing",
+      "Colorful",
+      "Indie",
+      "Family Friendly",
+      "Stylized",
+      "Retro",
+      "Singleplayer",
+      "Side Scroller",
+      "Difficult"
+    ]
+  },
+  {
+    "name": "Return to Monkey Island",
+    "month": "September",
+    "year": 2025,
+    "humble_scheme": "choice",
+    "steam_id": 2060130,
+    "tags": [
+      "Point & Click",
+      "Adventure",
+      "Comedy",
+      "Puzzle",
+      "Funny",
+      "Singleplayer",
+      "Story Rich",
+      "2D",
+      "Hand-drawn",
+      "Pirates",
+      "Nostalgia",
+      "Cartoon",
+      "Drama",
+      "Choices Matter",
+      "Colorful",
+      "Family Friendly",
+      "Casual",
+      "1990's",
+      "Cartoony",
+      "Stylized"
+    ]
+  },
+  {
+    "name": "SpellForce: Conquest of Eo",
+    "month": "September",
+    "year": 2025,
+    "humble_scheme": "choice",
+    "steam_id": 1581770,
+    "tags": [
+      "Strategy",
+      "RPG",
+      "Turn-Based Strategy",
+      "Tactical RPG",
+      "Grand Strategy",
+      "Strategy RPG",
+      "3D",
+      "Fantasy",
+      "Top-Down",
+      "Crafting",
+      "Singleplayer",
+      "Dwarf",
+      "Dark Fantasy",
+      "Lore-Rich",
+      "Horses",
+      "Magic",
+      "Old School",
+      "Medieval",
+      "Turn-Based Tactics",
+      "Military"
+    ]
+  },
+  {
+    "name": "The Plucky Squire",
+    "month": "September",
+    "year": 2025,
+    "humble_scheme": "choice",
+    "steam_id": 1627570,
+    "tags": [
+      "Adventure",
+      "3D Platformer",
+      "Action-Adventure",
+      "2D Platformer",
+      "Puzzle-Platformer",
+      "2D",
+      "3D",
+      "Cartoony",
+      "Cute",
+      "Family Friendly",
+      "Singleplayer",
+      "Fantasy",
+      "Controller",
+      "Combat",
+      "Indie",
+      "Multiplayer",
+      "Platformer"
+    ]
+  },
+  {
+    "name": "WWE 2K25",
+    "month": "September",
+    "year": 2025,
+    "humble_scheme": "choice",
+    "steam_id": 2878960,
+    "tags": [
+      "Simulation",
+      "Sports",
+      "Wrestling",
+      "Character Customization",
+      "Realistic",
+      "Sandbox",
+      "Co-op",
+      "PvP",
+      "3D Fighter",
+      "Controller",
+      "3D",
+      "Local Co-Op",
+      "Online Co-Op",
+      "Multiplayer",
+      "Singleplayer",
+      "Fighting",
+      "Local Multiplayer",
+      "Sexual Content"
+    ]
+  },
+  {
+    "name": "Warhammer 40,000: Speed Freeks",
+    "month": "September",
+    "year": 2025,
+    "humble_scheme": "choice",
+    "steam_id": 2078450,
+    "tags": [
+      "Vehicular Combat",
+      "Games Workshop",
+      "Warhammer 40K",
+      "Combat Racing",
+      "Driving",
+      "PvP",
+      "Multiplayer",
+      "Racing",
+      "Shooter",
+      "Third-Person Shooter",
+      "Arcade",
+      "Class-Based",
+      "Team-Based",
+      "Character Customization",
+      "Combat",
+      "Third Person",
+      "Destruction",
+      "Futuristic",
+      "3D",
+      "Dark Fantasy"
+    ]
+  },
+  {
+    "name": "斩妖行 Eastern Exorcist",
+    "month": "September",
+    "year": 2025,
+    "humble_scheme": "choice",
+    "steam_id": 1120810,
+    "tags": [
+      "Action",
+      "RPG",
+      "Side Scroller",
+      "Adventure",
+      "2D",
+      "Souls-like",
+      "Hack and Slash",
+      "Action RPG",
+      "Platformer",
+      "Strategy",
+      "Hand-drawn",
+      "Fantasy",
+      "Singleplayer",
+      "Magic",
+      "Violent",
+      "Indie",
+      "Martial Arts",
+      "Difficult",
+      "Metroidvania",
+      "Early Access"
+    ]
   }
 ]
