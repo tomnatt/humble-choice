@@ -27181,3 +27181,219 @@
   - Difficult
   - Metroidvania
   - Early Access
+- !ruby/object:Game
+  name: Atomic Heart
+  month: October
+  year: 2025
+  humble_scheme: choice
+  steam_id: 668580
+  tags:
+  - Sexual Content
+  - FPS
+  - Horror
+  - Singleplayer
+  - Puzzle
+  - Robots
+  - Mystery
+  - Action
+  - Shooter
+  - Sci-fi
+  - First-Person
+  - Open World
+  - Action-Adventure
+  - Alternate History
+  - Exploration
+  - Atmospheric
+  - Gore
+  - Cyberpunk
+  - Action RPG
+  - RPG
+- !ruby/object:Game
+  name: Caravan SandWitch
+  month: October
+  year: 2025
+  humble_scheme: choice
+  steam_id: 1582650
+  tags:
+  - Exploration
+  - Adventure
+  - Singleplayer
+  - Interactive Fiction
+  - Driving
+  - Mystery
+  - Post-apocalyptic
+  - Colorful
+  - Third Person
+  - 3D Platformer
+  - Cute
+  - Casual
+  - Stylized
+  - Robots
+  - Action-Adventure
+  - Metroidvania
+  - Futuristic
+  - 1980s
+  - 3D
+  - Retro
+- !ruby/object:Game
+  name: Cryptmaster
+  month: October
+  year: 2025
+  humble_scheme: choice
+  steam_id: 1885110
+  tags:
+  - Typing
+  - Dungeon Crawler
+  - Word Game
+  - Party-Based RPG
+  - Fishing
+  - Action-Adventure
+  - Action RPG
+  - 3D
+  - RPG
+  - First-Person
+  - Funny
+  - Third Person
+  - Lore-Rich
+  - Psychological Horror
+  - Surreal
+  - Story Rich
+  - Stylized
+  - Action
+  - Fantasy
+  - Psychedelic
+- !ruby/object:Game
+  name: Hotel Renovator
+  month: October
+  year: 2025
+  humble_scheme: choice
+  steam_id: 1214470
+  tags:
+  - Simulation
+  - Adventure
+  - Design & Illustration
+  - Casual
+  - Immersive Sim
+  - Building
+  - Destruction
+  - Economy
+  - Family Friendly
+  - Management
+  - Funny
+  - Education
+  - Trading
+  - Resource Management
+  - Life Sim
+  - Atmospheric
+  - City Builder
+  - Memes
+  - Realistic
+  - First-Person
+- !ruby/object:Game
+  name: Shogun Showdown
+  month: October
+  year: 2025
+  humble_scheme: choice
+  steam_id: 2084000
+  tags:
+  - Replay Value
+  - Strategy RPG
+  - Turn-Based
+  - Rogue-like
+  - Pixel Graphics
+  - Turn-Based Strategy
+  - Strategy
+  - Roguelike Deckbuilder
+  - Turn-Based Combat
+  - Turn-Based Tactics
+  - Deckbuilding
+  - Singleplayer
+  - Ninja
+  - Rogue-lite
+  - Procedural Generation
+  - Card Game
+  - Difficult
+  - 2D
+  - Tactical RPG
+  - RPG
+- !ruby/object:Game
+  name: 'Story of Seasons: Pioneers of Olive Town'
+  month: October
+  year: 2025
+  humble_scheme: choice
+  steam_id: 1392960
+  tags:
+  - Farming Sim
+  - Casual
+  - RPG
+  - Simulation
+  - Life Sim
+  - Romance
+  - Anime
+  - Agriculture
+  - Cartoon
+  - Cute
+  - 3D
+  - Building
+  - Top-Down
+  - Cats
+  - Cooking
+  - Dog
+  - Family Friendly
+  - Relaxing
+  - Character Customization
+  - Story Rich
+- !ruby/object:Game
+  name: System Shock
+  month: October
+  year: 2025
+  humble_scheme: choice
+  steam_id: 482400
+  tags:
+  - Action
+  - Immersive Sim
+  - Adventure
+  - Cyberpunk
+  - Sci-fi
+  - Horror
+  - Remake
+  - FPS
+  - First-Person
+  - Atmospheric
+  - Singleplayer
+  - Survival Horror
+  - Space
+  - Shooter
+  - Story Rich
+  - Gore
+  - Violent
+  - RPG
+  - Kickstarter
+  - Survival
+- !ruby/object:Game
+  name: V Rising
+  month: October
+  year: 2025
+  humble_scheme: choice
+  steam_id: 1604030
+  tags:
+  - Survival
+  - Open World
+  - Base-Building
+  - Vampire
+  - Multiplayer
+  - Crafting
+  - Online Co-Op
+  - PvP
+  - PvE
+  - Building
+  - Hack and Slash
+  - Sandbox
+  - Exploration
+  - Massively Multiplayer
+  - Dark Fantasy
+  - Action-Adventure
+  - Singleplayer
+  - Action
+  - Adventure
+  - Co-op
