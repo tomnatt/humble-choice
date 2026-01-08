@@ -20,7 +20,7 @@ class Config
   end
 
   def self.years
-    (2015..2025).to_a
+    (2015..2026).to_a
   end
 
   def self.steam_store
