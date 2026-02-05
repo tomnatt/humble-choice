@@ -208,3 +208,200 @@
   - 2.5D
   - RPG
   - Replay Value
+- !ruby/object:Game
+  name: Big Helmet Heroes
+  month: February
+  year: 2026
+  humble_scheme: choice
+  steam_id: 2397250
+  tags:
+  - Co-op
+  - Beat 'em up
+  - Hack and Slash
+  - Arcade
+  - Local Co-Op
+  - Side Scroller
+  - Funny
+  - Action
+  - Adventure
+  - Cartoony
+  - Linear
+  - Family Friendly
+  - PvE
+  - Singleplayer
+  - Score Attack
+  - Controller
+  - 'Parody '
+  - 3D
+  - Cinematic
+  - Cartoon
+- !ruby/object:Game
+  name: Bus Simulator 21 Next Stop
+  month: February
+  year: 2026
+  humble_scheme: choice
+  steam_id: 976590
+  tags:
+  - Simulation
+  - Automobile Sim
+  - Driving
+  - 3D
+  - Immersive Sim
+  - Realistic
+  - First-Person
+  - Colorful
+  - Third Person
+  - Family Friendly
+  - Modern
+  - Relaxing
+  - Multiplayer
+  - Character Customization
+  - Controller
+  - Open World
+  - Co-op
+  - Online Co-Op
+  - Singleplayer
+  - Management
+- !ruby/object:Game
+  name: Core Keeper
+  month: February
+  year: 2026
+  humble_scheme: choice
+  steam_id: 1621690
+  tags:
+  - Pixel Graphics
+  - Open World Survival Craft
+  - Online Co-Op
+  - Sandbox
+  - Survival
+  - Adventure
+  - Crafting
+  - Exploration
+  - 2D
+  - Building
+  - Mining
+  - Dungeon Crawler
+  - Procedural Generation
+  - Farming Sim
+  - Relaxing
+  - Cooking
+  - Simulation
+  - Atmospheric
+  - Mystery
+  - Casual
+- !ruby/object:Game
+  name: Date Everything!
+  month: February
+  year: 2026
+  humble_scheme: choice
+  steam_id: 2201320
+  tags:
+  - dlc
+- !ruby/object:Game
+  name: Resident Evil Village
+  month: February
+  year: 2026
+  humble_scheme: choice
+  steam_id: 1196590
+  tags:
+  - Survival Horror
+  - Horror
+  - First-Person
+  - Singleplayer
+  - Action
+  - Sexual Content
+  - Zombies
+  - Gore
+  - Story Rich
+  - FPS
+  - Atmospheric
+  - Violent
+  - Dark
+  - Survival
+  - Psychological Horror
+  - VR
+  - Adventure
+  - Open World
+  - Multiplayer
+  - Nudity
+- !ruby/object:Game
+  name: Squirrel with a Gun
+  month: February
+  year: 2026
+  humble_scheme: choice
+  steam_id: 2067050
+  tags:
+  - Action
+  - Simulation
+  - Third-Person Shooter
+  - Sandbox
+  - Shooter
+  - Platformer
+  - Action-Adventure
+  - 3D Platformer
+  - Collectathon
+  - Exploration
+  - Shoot 'Em Up
+  - 3D
+  - Cartoony
+  - Cute
+  - America
+  - Third Person
+  - Comedy
+  - Funny
+  - Memes
+  - Conspiracy
+- !ruby/object:Game
+  name: StarVaders
+  month: February
+  year: 2026
+  humble_scheme: choice
+  steam_id: 2097570
+  tags:
+  - Roguelike Deckbuilder
+  - Deckbuilding
+  - Turn-Based Tactics
+  - Rogue-lite
+  - Visual Novel
+  - Difficult
+  - Card Game
+  - Turn-Based Strategy
+  - Board Game
+  - Rogue-like
+  - Female Protagonist
+  - Strategy
+  - Card Battler
+  - 2D
+  - Retro
+  - Mechs
+  - Cute
+  - Turn-Based Combat
+  - Anime
+  - Colorful
+- !ruby/object:Game
+  name: SteamWorld Build
+  month: February
+  year: 2026
+  humble_scheme: choice
+  steam_id: 2134770
+  tags:
+  - City Builder
+  - Relaxing
+  - Casual
+  - Economy
+  - Singleplayer
+  - Resource Management
+  - Cartoony
+  - Colorful
+  - Controller
+  - Cute
+  - Management
+  - Family Friendly
+  - Western
+  - Atmospheric
+  - Strategy
+  - Building
+  - Steampunk
+  - Sandbox
+  - Capitalism
+  - Base-Building
