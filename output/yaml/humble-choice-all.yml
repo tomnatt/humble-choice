@@ -28233,3 +28233,217 @@
   - Sandbox
   - Capitalism
   - Base-Building
+- !ruby/object:Game
+  name: Bread & Fred
+  month: March
+  year: 2026
+  humble_scheme: choice
+  steam_id: 1607680
+  tags:
+  - Co-op
+  - Local Co-Op
+  - Cute
+  - Pixel Graphics
+  - 2D Platformer
+  - Multiplayer
+  - Difficult
+  - Precision Platformer
+  - 2D
+  - Platformer
+  - Local Multiplayer
+  - Funny
+  - Family Friendly
+  - Comedy
+  - Online Co-Op
+  - Snow
+  - Side Scroller
+  - Controller
+  - Casual
+  - Colorful
+- !ruby/object:Game
+  name: Chants of Sennaar
+  month: March
+  year: 2026
+  humble_scheme: choice
+  steam_id: 1931770
+  tags:
+  - Puzzle
+  - Adventure
+  - Singleplayer
+  - Indie
+  - Colorful
+  - Point & Click
+  - Word Game
+  - Atmospheric
+  - Stylized
+  - Detective
+  - Action-Adventure
+  - Mythology
+  - Puzzle-Platformer
+  - Great Soundtrack
+  - Stealth
+  - Exploration
+  - Story Rich
+  - Mystery
+  - Relaxing
+  - Difficult
+- !ruby/object:Game
+  name: Etrian Odyssey III HD
+  month: March
+  year: 2026
+  humble_scheme: choice
+  steam_id: 1810820
+  tags:
+  - RPG
+  - Dungeon Crawler
+  - Adventure
+  - JRPG
+  - Turn-Based Combat
+  - 2D
+  - Singleplayer
+  - Fantasy
+  - 3D
+  - Party-Based RPG
+  - Cute
+  - Anime
+  - Character Customization
+  - Grid-Based Movement
+  - First-Person
+  - Funny
+  - Multiplayer
+  - Great Soundtrack
+- !ruby/object:Game
+  name: Hard West 2
+  month: March
+  year: 2026
+  humble_scheme: choice
+  steam_id: 1282410
+  tags:
+  - Turn-Based Strategy
+  - Western
+  - Turn-Based Tactics
+  - RPG
+  - Strategy
+  - Isometric
+  - Turn-Based
+  - Tactical RPG
+  - Tactical
+  - Turn-Based Combat
+  - Story Rich
+  - Singleplayer
+  - Supernatural
+  - Action
+  - Top-Down
+  - Horror
+  - Grid-Based Movement
+  - Demons
+  - Dark Fantasy
+  - Combat
+- !ruby/object:Game
+  name: 'Smalland: Survive the Wilds'
+  month: March
+  year: 2026
+  humble_scheme: choice
+  steam_id: 768200
+  tags:
+  - Survival
+  - Multiplayer
+  - Open World Survival Craft
+  - Base-Building
+  - Online Co-Op
+  - Open World
+  - Building
+  - Crafting
+  - Co-op
+  - Exploration
+  - Singleplayer
+  - Sandbox
+  - Adventure
+  - RPG
+  - Character Customization
+  - Action-Adventure
+  - Third Person
+  - First-Person
+  - City Builder
+  - Action
+- !ruby/object:Game
+  name: Sworn
+  month: March
+  year: 2026
+  humble_scheme: choice
+  steam_id: 1763250
+  tags:
+  - Early Access
+  - Rogue-lite
+  - Indie
+  - Co-op
+  - Action Roguelike
+  - Hack and Slash
+  - Action
+  - RPG
+  - Rogue-like
+  - Mythology
+  - Online Co-Op
+  - Hand-drawn
+  - Dungeon Crawler
+  - Isometric
+  - Replay Value
+  - Action RPG
+  - Difficult
+  - Atmospheric
+  - Perma Death
+  - Souls-like
+- !ruby/object:Game
+  name: Tempest Rising
+  month: March
+  year: 2026
+  humble_scheme: choice
+  steam_id: 1486920
+  tags:
+  - RTS
+  - Strategy
+  - Base-Building
+  - Singleplayer
+  - Multiplayer
+  - Isometric
+  - 3D
+  - Real-Time
+  - War
+  - Action
+  - PvP
+  - Action RTS
+  - Great Soundtrack
+  - Military
+  - Wargame
+  - Futuristic
+  - FMV
+  - Cinematic
+  - Top-Down
+  - Modern
+- !ruby/object:Game
+  name: Zero Hour
+  month: March
+  year: 2026
+  humble_scheme: choice
+  steam_id: 1359090
+  tags:
+  - Tactical
+  - Shooter
+  - FPS
+  - Realistic
+  - Multiplayer
+  - Action
+  - Singleplayer
+  - Co-op
+  - Military
+  - First-Person
+  - Online Co-Op
+  - Third-Person Shooter
+  - PvP
+  - Team-Based
+  - Strategy
+  - Simulation
+  - Immersive Sim
+  - Combat
+  - Stealth
+  - PvE
