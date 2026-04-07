@@ -619,3 +619,195 @@
   - Combat
   - Stealth
   - PvE
+- !ruby/object:Game
+  name: Artisan TD
+  month: April
+  year: 2026
+  humble_scheme: choice
+  steam_id: 2224640
+  tags:
+  - Tower Defense
+  - Strategy
+  - Difficult
+  - Puzzle
+  - Building
+  - Tactical
+  - Real Time Tactics
+  - Fantasy
+  - Singleplayer
+  - Stylized
+  - 3D
+  - Top-Down
+  - Management
+  - Indie
+  - Turn-Based Tactics
+- !ruby/object:Game
+  name: Assassin's Creed Valhalla
+  month: April
+  year: 2026
+  humble_scheme: choice
+  steam_id: 2208920
+  tags:
+  - Open World
+  - Action
+  - RPG
+  - Adventure
+  - Singleplayer
+  - Vikings
+  - Multiplayer
+  - Third Person
+  - Action-Adventure
+  - Stealth
+  - Violent
+  - Assassin
+  - Action RPG
+  - Story Rich
+  - Historical
+  - Female Protagonist
+  - Atmospheric
+  - Medieval
+  - Character Customization
+  - Mythology
+- !ruby/object:Game
+  name: Buddy Simulator 1984
+  month: April
+  year: 2026
+  humble_scheme: choice
+  steam_id: 1269950
+  tags:
+  - Psychological Horror
+  - Indie
+  - Horror
+  - Retro
+  - Story Rich
+  - 1980s
+  - Pixel Graphics
+  - Simulation
+  - RPG
+  - Cute
+  - Text-Based
+  - Singleplayer
+  - Adventure
+  - Casual
+  - 2D
+  - Interactive Fiction
+  - Exploration
+  - Choose Your Own Adventure
+  - Typing
+  - Atmospheric
+- !ruby/object:Game
+  name: 'Daemon X Machina: Titanic Scion'
+  month: April
+  year: 2026
+  humble_scheme: choice
+  steam_id: 1342490
+  tags:
+  - dlc
+- !ruby/object:Game
+  name: Planet of Lana
+  month: April
+  year: 2026
+  humble_scheme: choice
+  steam_id: 1608230
+  tags:
+  - Action
+  - Female Protagonist
+  - Puzzle-Platformer
+  - Puzzle
+  - 2D Platformer
+  - Atmospheric
+  - Singleplayer
+  - Anime
+  - Platformer
+  - Adventure
+  - Indie
+  - Casual
+  - Emotional
+  - Soundtrack
+  - Cute
+  - Controller
+  - Side Scroller
+  - 2D
+  - Sci-fi
+  - Hand-drawn
+- !ruby/object:Game
+  name: 'The Lord of the Rings: Return to Moria™'
+  month: April
+  year: 2026
+  humble_scheme: choice
+  steam_id: 2933130
+  tags:
+  - Open World Survival Craft
+  - Base-Building
+  - Dwarf
+  - Survival
+  - Exploration
+  - Crafting
+  - Online Co-Op
+  - Building
+  - Adventure
+  - Action-Adventure
+  - Open World
+  - Multiplayer
+  - PvE
+  - Sandbox
+  - RPG
+  - Action
+  - Character Customization
+  - Third Person
+  - Singleplayer
+  - 3D
+- !ruby/object:Game
+  name: The Procession to Calvary
+  month: April
+  year: 2026
+  humble_scheme: choice
+  steam_id: 1071130
+  tags:
+  - Dark Comedy
+  - Funny
+  - Medieval
+  - Point & Click
+  - Surreal
+  - Indie
+  - Female Protagonist
+  - Story Rich
+  - Puzzle
+  - Comedy
+  - Singleplayer
+  - 2D
+  - Philosophical
+  - Historical
+  - Short
+  - Violent
+  - Gore
+  - Adventure
+  - Beautiful
+  - Action
+- !ruby/object:Game
+  name: Until Then
+  month: April
+  year: 2026
+  humble_scheme: choice
+  steam_id: 1574820
+  tags:
+  - Visual Novel
+  - Pixel Graphics
+  - Emotional
+  - Interactive Fiction
+  - Story Rich
+  - Drama
+  - 2D
+  - Psychological
+  - Adventure
+  - Mystery
+  - LGBTQ+
+  - Romance
+  - Casual
+  - Linear
+  - Side Scroller
+  - Colorful
+  - Singleplayer
+  - Multiple Endings
+  - Foreign
+  - Conversation
