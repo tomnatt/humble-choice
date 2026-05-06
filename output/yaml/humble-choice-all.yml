@@ -28639,3 +28639,199 @@
   - Multiple Endings
   - Foreign
   - Conversation
+- !ruby/object:Game
+  name: Crysis 3 Remastered
+  month: May
+  year: 2026
+  humble_scheme: choice
+  steam_id: 2096610
+  tags:
+  - Action
+  - FPS
+  - Shooter
+  - Aliens
+  - Sci-fi
+  - Hero Shooter
+  - Post-apocalyptic
+  - First-Person
+  - 'Dystopian '
+  - Sandbox
+  - Futuristic
+  - War
+  - Shoot 'Em Up
+  - Combat
+  - Physics
+  - PvE
+  - Stealth
+  - Singleplayer
+  - Story Rich
+  - Violent
+- !ruby/object:Game
+  name: Cubic Odyssey
+  month: May
+  year: 2026
+  humble_scheme: choice
+  steam_id: 3400000
+  tags:
+  - Open World Survival Craft
+  - Base-Building
+  - Co-op
+  - Sandbox
+  - Sci-fi
+  - Building
+  - Exploration
+  - Action-Adventure
+  - RPG
+  - First-Person
+  - Open World
+  - 3D
+  - Action
+  - Procedural Generation
+  - Colorful
+  - Space
+  - Survival
+  - Crafting
+  - Adventure
+  - Atmospheric
+- !ruby/object:Game
+  name: Diablo IV
+  month: May
+  year: 2026
+  humble_scheme: choice
+  steam_id:
+  tags: []
+- !ruby/object:Game
+  name: Heroes Of Hammerwatch II
+  month: May
+  year: 2026
+  humble_scheme: choice
+  steam_id: 619820
+  tags:
+  - RPG
+  - Action RPG
+  - Action Roguelike
+  - Action
+  - Rogue-like
+  - Dungeon Crawler
+  - Adventure
+  - Rogue-lite
+  - Procedural Generation
+  - Hack and Slash
+  - Pixel Graphics
+  - 2D
+  - Top-Down
+  - Fantasy
+  - Character Customization
+  - Medieval
+  - Combat
+  - Multiplayer
+  - Class-Based
+  - Retro
+- !ruby/object:Game
+  name: Mini Settlers
+  month: May
+  year: 2026
+  humble_scheme: choice
+  steam_id: 2521630
+  tags:
+  - Base-Building
+  - Automation
+  - Minimalist
+  - Colony Sim
+  - Farming
+  - Sandbox
+  - Management
+  - City Builder
+  - Strategy
+  - Simulation
+  - Singleplayer
+  - Real-Time
+  - Transportation
+  - Building
+  - Casual
+  - Relaxing
+  - Procedural Generation
+  - Trains
+  - Resource Management
+  - Abstract
+- !ruby/object:Game
+  name: Nordhold
+  month: May
+  year: 2026
+  humble_scheme: choice
+  steam_id: 3028310
+  tags:
+  - Rogue-lite
+  - Tower Defense
+  - City Builder
+  - Top-Down
+  - Management
+  - Strategy
+  - 3D
+  - Casual
+  - Procedural Generation
+  - Singleplayer
+  - Medieval
+  - PvE
+  - Choices Matter
+  - Tactical
+  - Resource Management
+  - Replay Value
+  - Indie
+  - Turn-Based Strategy
+  - Rogue-like
+  - Base-Building
+- !ruby/object:Game
+  name: Rogue Waters
+  month: May
+  year: 2026
+  humble_scheme: choice
+  steam_id: 1691190
+  tags:
+  - Tactical RPG
+  - Turn-Based Tactics
+  - Rogue-lite
+  - Story Rich
+  - Turn-Based
+  - Puzzle
+  - Turn-Based Strategy
+  - Strategy
+  - Rogue-like
+  - Pirates
+  - RPG
+  - Isometric
+  - Turn-Based Combat
+  - Choices Matter
+  - Procedural Generation
+  - Sailing
+  - Fantasy
+  - Naval
+  - Tactical
+  - Combat
+- !ruby/object:Game
+  name: 'Shin Megami Tensei V: Vengeance'
+  month: May
+  year: 2026
+  humble_scheme: choice
+  steam_id: 1875830
+  tags:
+  - JRPG
+  - RPG
+  - Story Rich
+  - Demons
+  - Adventure
+  - Choices Matter
+  - Exploration
+  - Anime
+  - Turn-Based Strategy
+  - Creature Collector
+  - Third Person
+  - Atmospheric
+  - 3D
+  - Turn-Based
+  - Dark
+  - Multiple Endings
+  - Difficult
+  - Destruction
+  - Singleplayer
+  - Post-apocalyptic
