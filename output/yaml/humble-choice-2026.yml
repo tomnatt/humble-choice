@@ -1007,3 +1007,181 @@
   - Destruction
   - Singleplayer
   - Post-apocalyptic
+- !ruby/object:Game
+  name: 'Citizen Sleeper 2: Starward Vector'
+  month: June
+  year: 2026
+  humble_scheme: choice
+  steam_id: 2442460
+  tags:
+  - RPG
+  - Dice
+  - Cyberpunk
+  - Story Rich
+  - Sci-fi
+  - Narrative
+  - Tabletop
+  - Hand-drawn
+  - 'Dystopian '
+  - Artificial Intelligence
+  - Interactive Fiction
+  - Text-Based
+  - Multiple Endings
+  - Space
+  - Futuristic
+  - Exploration
+  - Atmospheric
+  - Conversation
+  - Indie
+  - Adventure
+- !ruby/object:Game
+  name: Construction Simulator
+  month: June
+  year: 2026
+  humble_scheme: choice
+  steam_id: 1273400
+  tags:
+  - Simulation
+  - Multiplayer
+  - Building
+  - Online Co-Op
+  - Relaxing
+  - Open World
+  - Realistic
+  - Driving
+  - Education
+  - Immersive Sim
+  - Transportation
+  - Automobile Sim
+  - Physics
+  - First-Person
+  - Casual
+  - Third Person
+  - City Builder
+  - Family Friendly
+  - Singleplayer
+  - Female Protagonist
+- !ruby/object:Game
+  name: Hell Clock
+  month: June
+  year: 2026
+  humble_scheme: choice
+  steam_id: 1782460
+  tags:
+  - dlc
+- !ruby/object:Game
+  name: Indika
+  month: June
+  year: 2026
+  humble_scheme: choice
+  steam_id: 1373960
+  tags:
+  - Surreal
+  - Puzzle
+  - Horror
+  - Third Person
+  - Story Rich
+  - Psychedelic
+  - Dark
+  - Exploration
+  - Psychological
+  - Mature
+  - Narration
+  - Cinematic
+  - Mystery
+  - Adventure
+  - Female Protagonist
+  - Linear
+  - Singleplayer
+  - Walking Simulator
+  - Conversation
+  - Atmospheric
+- !ruby/object:Game
+  name: 'Life is Strange: Double Exposure'
+  month: June
+  year: 2026
+  humble_scheme: choice
+  steam_id: 1874000
+  tags:
+  - Choices Matter
+  - LGBTQ+
+  - Female Protagonist
+  - Story Rich
+  - Choose Your Own Adventure
+  - Romance
+  - Third Person
+  - Action
+  - Mystery
+  - Emotional
+  - Drama
+  - Atmospheric
+  - Adventure
+  - Stylized
+  - Cinematic
+  - Supernatural
+  - Singleplayer
+  - Narrative
+  - Multiple Endings
+  - Great Soundtrack
+- !ruby/object:Game
+  name: Octopath Traveler II
+  month: June
+  year: 2026
+  humble_scheme: choice
+  steam_id: 1971650
+  tags:
+  - RPG
+  - Turn-Based
+  - JRPG
+  - 2.5D
+  - Party-Based RPG
+  - Story Rich
+  - Open World
+  - Pixel Graphics
+  - Turn-Based Combat
+  - Choices Matter
+  - Cute
+  - Strategy
+  - Anime
+  - Fantasy
+  - Casual
+  - Magic
+  - Adventure
+  - Atmospheric
+  - Singleplayer
+  - Emotional
+- !ruby/object:Game
+  name: Overlooting
+  month: June
+  year: 2026
+  humble_scheme: choice
+  steam_id: 3410180
+  tags:
+  - dlc
+- !ruby/object:Game
+  name: The Riftbreaker
+  month: June
+  year: 2026
+  humble_scheme: choice
+  steam_id: 780310
+  tags:
+  - Base-Building
+  - Tower Defense
+  - Survival
+  - Strategy
+  - Hack and Slash
+  - Crafting
+  - Resource Management
+  - Sci-fi
+  - Building
+  - Exploration
+  - Action RPG
+  - Adventure
+  - RPG
+  - Isometric
+  - Loot
+  - Sandbox
+  - Simulation
+  - Mechs
+  - Action
+  - Atmospheric
