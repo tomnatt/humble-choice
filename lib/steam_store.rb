@@ -65,9 +65,9 @@ class SteamStore
 
   def save_entries
     # Write steam store to file
-    f = File.open(Config.steam_store, 'w+')
-    f << @entries.to_yaml
-    f.close
+    File.open(Config.steam_store, 'w+') do |f|
+      f << @entries.to_yaml
+    end
   end
 
   def delete_entries_file
