@@ -26,4 +26,8 @@ class Config
   def self.steam_store
     'steam/steam-store.yml'
   end
+
+  def self.steam_store_db
+    'steam/steam-store.db'
+  end
 end

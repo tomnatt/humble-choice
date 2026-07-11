@@ -24,15 +24,15 @@
   - Mythology
   - Action
   - Indie
-  - Hand-drawn
   - Female Protagonist
+  - Hand-drawn
   - Difficult
   - Singleplayer
   - Atmospheric
   - Exploration
   - Great Soundtrack
-  - 2D
   - Isometric
+  - 2D
   - Fantasy
   - Vikings
   - Controller
@@ -52,8 +52,8 @@
   - Violent
   - Action
   - Pixel Graphics
-  - Indie
   - Great Soundtrack
+  - Indie
   - Co-op
   - Local Co-Op
   - 2D
@@ -61,8 +61,8 @@
   - Mature
   - Atmospheric
   - Multiplayer
-  - 4 Player Local
   - Difficult
+  - 4 Player Local
   - Psychological Horror
   - Female Protagonist
   - Nudity
@@ -100,6 +100,7 @@
   year: 2017
   humble_scheme: monthly
   steam_id:
+  tags: []
 - !ruby/object:Game
   name: 'The Legend of Heroes: Trails in the Sky'
   month: January
@@ -124,8 +125,8 @@
   - Strategy
   - Romance
   - Action
-  - Strategy RPG
   - Isometric
+  - Strategy RPG
   - Tactical
 - !ruby/object:Game
   name: 'Warhammer: End Times - Vermintide'
@@ -139,8 +140,8 @@
   - Co-op
   - Dark Fantasy
   - First-Person
-  - Gore
   - Games Workshop
+  - Gore
   - Multiplayer
   - FPS
   - Fantasy
@@ -172,8 +173,8 @@
   - Colorful
   - Indie
   - Beautiful
-  - Family Friendly
   - Fantasy
+  - Family Friendly
   - Short
   - Open World
   - Story Rich
@@ -255,7 +256,6 @@
   - City Builder
   - Pixel Graphics
   - Base-Building
-  - Multiplayer
 - !ruby/object:Game
   name: 'Ryse: Son of Rome'
   month: February
@@ -317,26 +317,26 @@
   humble_scheme: monthly
   steam_id: 268500
   tags:
-  - Strategy
-  - Turn-Based
-  - Turn-Based Strategy
-  - Tactical
+  - Isometric
+  - Turn-Based Combat
+  - Post-apocalyptic
   - Turn-Based Tactics
-  - Aliens
+  - Military
+  - PvE
+  - Top-Down
+  - Turn-Based
   - Sci-fi
   - Character Customization
-  - Singleplayer
-  - Difficult
-  - Multiplayer
+  - Logic
+  - War
+  - Turn-Based Strategy
   - RPG
-  - Moddable
+  - Grid-Based Movement
+  - Alternate History
+  - Tactical
   - Perma Death
-  - Futuristic
   - Action
-  - Atmospheric
-  - Great Soundtrack
-  - Co-op
-  - Base-Building
+  - Singleplayer
 - !ruby/object:Game
   name: Flat Heroes
   month: March
@@ -380,8 +380,8 @@
   - Singleplayer
   - Turn-Based Strategy
   - Top-Down
-  - 2D
   - Turn-Based Tactics
+  - 2D
   - GameMaker
   - Rogue-lite
 - !ruby/object:Game
@@ -394,13 +394,13 @@
   - Anime
   - Action
   - Pirates
-  - Hack and Slash
   - Adventure
+  - Hack and Slash
   - Fighting
   - Beat 'em up
   - Multiplayer
-  - Third Person
   - Musou
+  - Third Person
   - Singleplayer
   - Local Co-Op
   - Comedy
@@ -431,15 +431,15 @@
   - Level Editor
   - Great Soundtrack
   - Education
-  - Crafting
   - Cartoon
+  - Crafting
   - Colorful
   - Cute
   - Stylized
   - Strategy
   - Choices Matter
 - !ruby/object:Game
-  name: 'RIVE: Wreck, Hack, Die, Retry!'
+  name: RIVE
   month: March
   year: 2017
   humble_scheme: monthly
@@ -490,8 +490,8 @@
   - Action
   - Singleplayer
   - Turn-Based
-  - Atmospheric
   - Dwarf
+  - Atmospheric
   - Co-op
   - Story Rich
   - Open World
@@ -572,9 +572,9 @@
   - Side Scroller
   - Singleplayer
   - Soundtrack
+  - Pixel Graphics
   - Adventure
   - Fantasy
-  - Pixel Graphics
   - Medieval
   - Open World
   - Simulation
@@ -652,8 +652,8 @@
   - Adventure
   - Mystery
   - Nonlinear
-  - Relaxing
   - Philosophical
+  - Relaxing
   - Surreal
   - Casual
   - Great Soundtrack
@@ -692,6 +692,7 @@
   year: 2017
   humble_scheme: monthly
   steam_id:
+  tags: []
 - !ruby/object:Game
   name: GoNNER
   month: May
@@ -721,6 +722,7 @@
   year: 2017
   humble_scheme: monthly
   steam_id:
+  tags: []
 - !ruby/object:Game
   name: Inside
   month: May
@@ -733,20 +735,20 @@
   - Atmospheric
   - Dark
   - Story Rich
-  - Cinematic
   - Indie
   - Horror
+  - Cinematic
   - Singleplayer
   - Adventure
   - Multiple Endings
   - 2D Platformer
-  - Minimalist
-  - Platformer
-  - Action-Adventure
-  - Ambient
-  - Controller
   - Puzzle
+  - Ambient
+  - Platformer
+  - Minimalist
+  - Action-Adventure
   - Narrative
+  - Controller
   - Action
 - !ruby/object:Game
   name: Metrico+
@@ -755,12 +757,26 @@
   humble_scheme: monthly
   steam_id: 373990
   tags:
-  - Indie
-  - Adventure
   - Puzzle-Platformer
   - Abstract
-  - Platformer
   - Puzzle
+  - Indie
+  - Side Scroller
+  - Minimalist
+  - Adventure
+  - Exploration
+  - Atmospheric
+  - Experimental
+  - Modern
+  - Female Protagonist
+  - Singleplayer
+  - Psychedelic
+  - 2D Platformer
+  - Platformer
+  - Action
+  - 2.5D
+  - Multiple Endings
+  - Futuristic
 - !ruby/object:Game
   name: Super Rude Bear Resurrection
   month: May
@@ -775,8 +791,8 @@
   - Platformer
   - 2D
   - Side Scroller
-  - Great Soundtrack
   - Fast-Paced
+  - Great Soundtrack
   - Replay Value
   - Time Attack
 - !ruby/object:Game
@@ -829,8 +845,8 @@
   - Villain Protagonist
   - Visual Novel
   - Kickstarter
+  - Nudity
   - Memes
-  - Sexual Content
 - !ruby/object:Game
   name: UNDERTALE
   month: May
@@ -847,8 +863,8 @@
   - RPG
   - Singleplayer
   - Indie
-  - Comedy
   - 2D
+  - Comedy
   - Replay Value
   - Bullet Hell
   - Cute
@@ -901,8 +917,8 @@
   - Destruction
   - Cyberpunk
   - Rogue-lite
-  - Action Roguelike
   - Isometric
+  - Action Roguelike
   - Vehicular Combat
   - Shooter
   - Top-Down
@@ -910,8 +926,8 @@
   - 'Dystopian '
   - Atmospheric
   - Capitalism
-  - Soundtrack
   - Robots
+  - Soundtrack
 - !ruby/object:Game
   name: Maize
   month: June
@@ -978,8 +994,8 @@
   - Bullet Time
   - Time Manipulation
   - Indie
-  - First-Person
   - Singleplayer
+  - First-Person
   - Shooter
   - Puzzle
   - Minimalist
@@ -1063,8 +1079,8 @@
   - Dark Fantasy
   - 3D
   - Atmospheric
-  - 2D
   - Hand-drawn
+  - 2D
   - Tabletop
   - Multiple Endings
   - Fantasy
@@ -1138,8 +1154,8 @@
   - Great Soundtrack
   - Atmospheric
   - Adventure
-  - Difficult
   - Indie
+  - Difficult
   - Action
   - Hack and Slash
   - Singleplayer
@@ -1223,9 +1239,9 @@
   - Exploration
   - Racing
   - Automobile Sim
+  - Combat Racing
   - Controller
   - Military
-  - Combat Racing
   - 3D
   - Open World
   - Strategy
@@ -1241,6 +1257,7 @@
   year: 2017
   humble_scheme: monthly
   steam_id:
+  tags: []
 - !ruby/object:Game
   name: 'Nongunz: Doppelganger Edition'
   month: August
@@ -1300,12 +1317,12 @@
   - Atmospheric
   - 3D
   - PvP
-  - Sci-fi
   - Strategy
+  - Sci-fi
   - Simulation
   - Colorful
-  - Resource Management
   - Economy
+  - Resource Management
   - Colony Sim
   - City Builder
   - Multiplayer
@@ -1313,8 +1330,8 @@
   - Management
   - Singleplayer
   - Space
-  - Survival
   - Base-Building
+  - Survival
   - Online Co-Op
 - !ruby/object:Game
   name: Overcooked
@@ -1339,8 +1356,8 @@
   - Cute
   - Singleplayer
   - Colorful
-  - Difficult
   - Split Screen
+  - Difficult
   - Great Soundtrack
   - Adventure
 - !ruby/object:Game
@@ -1351,16 +1368,16 @@
   steam_id: 291650
   tags:
   - RPG
-  - Fantasy
   - Isometric
+  - Fantasy
   - Story Rich
   - Singleplayer
   - CRPG
   - Party-Based RPG
   - Real-Time with Pause
   - Adventure
-  - Kickstarter
   - Character Customization
+  - Kickstarter
   - Atmospheric
   - Dark Fantasy
   - Open World
@@ -1377,24 +1394,24 @@
   humble_scheme: monthly
   steam_id: 230190
   tags:
+  - Dungeon Crawler
+  - Base-Building
+  - Villain Protagonist
+  - Sandbox
+  - Management
+  - Dark Comedy
+  - Old School
   - Simulation
   - God Game
   - Strategy
   - RTS
   - City Builder
-  - Villain Protagonist
-  - Base-Building
-  - Dungeon Crawler
-  - Management
   - Fantasy
   - Underground
-  - Dark Comedy
   - Singleplayer
   - Funny
   - Indie
   - Level Editor
-  - Sandbox
-  - Old School
   - Colony Sim
   - Comedy
 - !ruby/object:Game
@@ -1430,6 +1447,7 @@
   year: 2017
   humble_scheme: monthly
   steam_id:
+  tags: []
 - !ruby/object:Game
   name: HackyZack
   month: September
@@ -1465,8 +1483,8 @@
   - First-Person
   - Survival
   - Co-op
-  - Team-Based
   - Survival Horror
+  - Team-Based
   - Atmospheric
   - PvE
   - Character Customization
@@ -1482,11 +1500,11 @@
   - 2D Platformer
   - Side Scroller
   - Exploration
-  - Female Protagonist
   - Pixel Graphics
+  - Female Protagonist
   - Souls-like
-  - 2D
   - Spectacle fighter
+  - 2D
   - Difficult
   - Cute
   - Platformer
@@ -1538,8 +1556,8 @@
   - Turn-Based Strategy
   - Indie
   - Choices Matter
-  - Atmospheric
   - Turn-Based
+  - Atmospheric
   - Fantasy
   - Singleplayer
   - Tactical
@@ -1586,20 +1604,20 @@
   humble_scheme: monthly
   steam_id: 423230
   tags:
-  - Hack and Slash
   - Bullet Hell
+  - Hack and Slash
   - Difficult
   - Shoot 'Em Up
   - Beat 'em up
   - Top-Down
+  - Boss Rush
   - Third Person
   - Atmospheric
   - Sci-fi
   - Controller
   - Action
-  - Boss Rush
-  - Cyberpunk
   - Story Rich
+  - Cyberpunk
   - Fast-Paced
   - Violent
   - Replay Value
@@ -1668,8 +1686,8 @@
   steam_id: 475190
   tags:
   - Exploration
-  - Walking Simulator
   - Horror
+  - Walking Simulator
   - Atmospheric
   - Indie
   - Adventure
@@ -1686,7 +1704,7 @@
   - Jump Scare
   - Underground
   - Linear
-  - Mystery Dungeon
+  - Abstract
 - !ruby/object:Game
   name: Seasons after Fall
   month: October
@@ -1701,8 +1719,8 @@
   - Atmospheric
   - Puzzle-Platformer
   - Cute
-  - Hand-drawn
   - Singleplayer
+  - Hand-drawn
   - 2D
   - Fantasy
   - Puzzle
@@ -1711,8 +1729,8 @@
   - Side Scroller
   - Relaxing
   - Beautiful
-  - Colorful
   - Nature
+  - Colorful
 - !ruby/object:Game
   name: The Shrouded Isle
   month: October
@@ -1781,9 +1799,9 @@
   - Adventure
   - Online Co-Op
   - Third Person
+  - Multiplayer
   - Gore
   - Comedy
-  - Multiplayer
   - Survival
   - Funny
   - Character Customization
@@ -1899,8 +1917,8 @@
   - Atmospheric
   - Third Person
   - Adventure
-  - Survival
   - Puzzle
+  - Survival
   - Great Soundtrack
 - !ruby/object:Game
   name: Silence
@@ -1921,15 +1939,15 @@
   - Casual
   - 2D
   - Retro
-  - Cult Classic
   - Short
-  - Classic
+  - Cult Classic
 - !ruby/object:Game
   name: 'The Elder Scrolls: Legends'
   month: November
   year: 2017
   humble_scheme: monthly
   steam_id:
+  tags: []
 - !ruby/object:Game
   name: The Elder Scrolls® Online
   month: November
@@ -1942,8 +1960,8 @@
   - Open World
   - Fantasy
   - Adventure
-  - Exploration
   - Multiplayer
+  - Exploration
   - Singleplayer
   - Massively Multiplayer
   - Action
@@ -1953,8 +1971,8 @@
   - Lore-Rich
   - Story Rich
   - Choose Your Own Adventure
-  - Magic
   - Class-Based
+  - Magic
   - Action RPG
   - Atmospheric
 - !ruby/object:Game
@@ -1999,17 +2017,17 @@
   - Story Rich
   - Visual Novel
   - Arcade
-  - Multiplayer
   - 2D
+  - Multiplayer
   - Local Multiplayer
   - e-sports
-  - Singleplayer
   - Controller
+  - Singleplayer
   - Cute
   - Difficult
   - Nudity
-  - Comedy
   - Competitive
+  - Comedy
   - Mature
 - !ruby/object:Game
   name: Nex Machina
@@ -2026,15 +2044,15 @@
   - Indie
   - Shoot 'Em Up
   - Cyberpunk
-  - Local Co-Op
   - Difficult
+  - Local Co-Op
   - Shooter
   - Top-Down
   - Sci-fi
   - Controller
   - Singleplayer
-  - Co-op
   - Top-Down Shooter
+  - Co-op
   - Replay Value
   - Competitive
   - Rogue-like
@@ -2059,10 +2077,11 @@
   - Multiplayer
   - Great Soundtrack
   - Action
-  - Cute
   - Cartoony
+  - Cute
   - Strategy
   - Memes
+  - Psychological Horror
 - !ruby/object:Game
   name: Rivals of Aether
   month: December
@@ -2079,9 +2098,9 @@
   - Competitive
   - Platformer
   - Games Workshop
-  - Great Soundtrack
-  - 2D
   - Moddable
+  - 2D
+  - Great Soundtrack
   - 4 Player Local
   - Action
   - Controller
@@ -2105,16 +2124,16 @@
   - Action Roguelike
   - Retro
   - Violent
-  - Indie
   - Rogue-like
+  - Indie
   - Gore
   - Boomer Shooter
   - Fast-Paced
   - 1990's
   - Difficult
   - Soundtrack
-  - Pixel Graphics
   - Procedural Generation
+  - Pixel Graphics
   - Singleplayer
   - Blood
 - !ruby/object:Game
@@ -2125,25 +2144,25 @@
   steam_id: 552590
   tags:
   - Puzzle
-  - Adventure
   - Mystery
-  - Indie
+  - Adventure
   - Time Manipulation
+  - Indie
   - Sexual Content
   - Detective
   - Time Travel
   - Great Soundtrack
   - Story Rich
   - Singleplayer
-  - Stealth
   - Atmospheric
+  - Stealth
   - Mature
   - Point & Click
   - Nudity
   - Dark
   - Isometric
   - Horror
-  - NSFW
+  - Investigation
 - !ruby/object:Game
   name: Way of the Passive Fist
   month: December

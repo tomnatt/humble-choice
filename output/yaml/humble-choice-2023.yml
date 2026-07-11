@@ -19,12 +19,12 @@
   - Character Customization
   - Dungeon Crawler
   - Multiplayer
+  - Party Game
   - Action-Adventure
   - RPG
   - Funny
   - Arcade
   - Fantasy
-  - Party Game
   - 4 Player Local
 - !ruby/object:Game
   name: DOOM Eternal
@@ -35,8 +35,8 @@
   tags:
   - FPS
   - Action
-  - Great Soundtrack
   - Gore
+  - Great Soundtrack
   - Fast-Paced
   - Violent
   - Demons
@@ -47,8 +47,8 @@
   - Multiplayer
   - Sci-fi
   - Post-apocalyptic
-  - Atmospheric
   - Mature
+  - Atmospheric
   - Story Rich
   - Difficult
   - Adventure
@@ -114,14 +114,14 @@
   humble_scheme: choice
   steam_id: 824000
   tags:
-  - Farming Sim
   - Life Sim
-  - Simulation
+  - Farming Sim
   - Casual
+  - Simulation
   - Farming
   - Adventure
-  - Agriculture
   - Fishing
+  - Agriculture
   - RPG
   - Indie
   - Cute
@@ -184,8 +184,8 @@
   - Sandbox
   - Exploration
   - RPG
-  - Action RPG
   - Action
+  - Action RPG
   - Fantasy
   - Third Person
   - Magic
@@ -220,8 +220,8 @@
   - Boss Rush
   - Procedural Generation
   - Indie
-  - Singleplayer
   - Hack and Slash
+  - Singleplayer
   - Spectacle fighter
 - !ruby/object:Game
   name: Fallout 76
@@ -232,8 +232,8 @@
   tags:
   - Open World
   - Multiplayer
-  - Dark Comedy
   - Post-apocalyptic
+  - Dark Comedy
   - RPG
   - Capitalism
   - Survival
@@ -284,19 +284,19 @@
   humble_scheme: choice
   steam_id: 1353270
   tags:
-  - FMV
   - Dating Sim
+  - FMV
   - Choose Your Own Adventure
   - Choices Matter
   - Adventure
   - Visual Novel
-  - Point & Click
   - Interactive Fiction
+  - Point & Click
   - Sexual Content
   - Nudity
   - Simulation
-  - Controller
   - Story Rich
+  - Controller
   - Multiple Endings
   - Realistic
   - Relaxing
@@ -348,15 +348,15 @@
   - Turn-Based
   - Dark
   - Tactical
-  - Turn-Based Strategy
   - Horror
+  - Turn-Based Strategy
+  - Gothic
   - Rogue-like
   - Difficult
-  - Gothic
-  - Atmospheric
   - Singleplayer
-  - Unforgiving
+  - Atmospheric
   - Great Soundtrack
+  - Unforgiving
   - Perma Death
 - !ruby/object:Game
   name: 'Pathfinder: Wrath of the Righteous - Enhanced Edition'
@@ -365,26 +365,26 @@
   humble_scheme: choice
   steam_id: 1184370
   tags:
-  - Medieval
-  - Open World
-  - Psychological Horror
-  - Combat
-  - Dark
-  - Multiple Endings
-  - PvE
-  - Controller
-  - Mystery
-  - Nature
-  - Quick-Time Events
-  - CRPG
+  - Singleplayer
+  - Action RPG
+  - 3D
+  - Third Person
+  - Lore-Rich
+  - Adventure
+  - Turn-Based Combat
+  - Rogue-lite
   - RPG
-  - Character Customization
-  - Dark Fantasy
+  - Action
+  - PvE
+  - Open World
+  - Party-Based RPG
+  - Romance
+  - Strategy
+  - Turn-Based Strategy
+  - Sexual Content
   - Story Rich
   - Fantasy
-  - Tabletop
-  - Choices Matter
-  - Atmospheric
+  - CRPG
 - !ruby/object:Game
   name: Scourgebringer
   month: February
@@ -400,11 +400,11 @@
   - Action Roguelike
   - Rogue-like
   - Platformer
-  - 2D
   - Roguevania
+  - 2D
   - Metroidvania
-  - Singleplayer
   - Bullet Hell
+  - Singleplayer
   - Difficult
   - Great Soundtrack
   - Procedural Generation
@@ -422,8 +422,8 @@
   - Indie
   - Puzzle
   - Atmospheric
-  - Platformer
   - Female Protagonist
+  - Platformer
   - Psychological
   - Singleplayer
   - Adventure
@@ -460,8 +460,8 @@
   - Dark Fantasy
   - Puzzle
   - Medieval
-  - Open World
   - Mature
+  - Open World
   - Atmospheric
   - Turn-Based
   - Multiplayer
@@ -478,14 +478,14 @@
   - Singleplayer
   - RPG
   - Adventure
-  - Post-apocalyptic
   - Character Customization
+  - Post-apocalyptic
   - Third Person
   - Hack and Slash
   - Fantasy
   - Atmospheric
-  - Action RPG
   - Exploration
+  - Action RPG
   - Multiplayer
   - Martial Arts
   - Cute
@@ -501,14 +501,14 @@
   steam_id: 1325900
   tags:
   - Exploration
-  - Precision Platformer
   - 3D Platformer
+  - Precision Platformer
   - Collectathon
   - Platformer
   - Cute
+  - Funny
   - Action-Adventure
   - Female Protagonist
-  - Funny
   - Third Person
   - 2.5D
   - Pixel Graphics
@@ -554,8 +554,8 @@
   humble_scheme: choice
   steam_id: 1245430
   tags:
-  - Action
   - 3D
+  - Action
   - Singleplayer
   - Stealth
   - Adventure
@@ -567,13 +567,13 @@
   - First-Person
   - Psychedelic
   - Surreal
+  - Rogue-like
   - Stylized
   - Retro
-  - Rogue-like
   - Indie
   - PvP
-  - Rogue-lite
   - Psychological Horror
+  - Rogue-lite
 - !ruby/object:Game
   name: Hero's Hour
   month: March
@@ -624,9 +624,9 @@
   - Atmospheric
   - Sequel
   - Action
-  - Survival
-  - Base-Building
   - Multiplayer
+  - Base-Building
+  - Survival
   - Casual
 - !ruby/object:Game
   name: Monster Crown
@@ -724,17 +724,17 @@
   - Great Soundtrack
   - Exploration
   - Post-apocalyptic
-  - Singleplayer
   - Cinematic
-  - Action
+  - Singleplayer
   - Third Person
+  - Action
   - Sci-fi
   - Horror
-  - Action-Adventure
   - Relaxing
+  - Action-Adventure
   - Stealth
-  - Multiplayer
   - Third-Person Shooter
+  - Multiplayer
   - Combat
 - !ruby/object:Game
   name: Founders' Fortune
@@ -850,8 +850,8 @@
   - Funny
   - Singleplayer
   - Dark Comedy
-  - Romance
   - Text-Based
+  - Romance
   - 2D
   - Fantasy
   - Choose Your Own Adventure
@@ -882,8 +882,8 @@
   - Procedural Generation
   - Colorful
   - Adventure
-  - Score Attack
   - Old School
+  - Score Attack
   - Retro
 - !ruby/object:Game
   name: Rollerdrome
@@ -920,8 +920,8 @@
   steam_id: 1272160
   tags:
   - Choices Matter
-  - RPG
   - Story Rich
+  - RPG
   - Interactive Fiction
   - Choose Your Own Adventure
   - Visual Novel
@@ -929,8 +929,8 @@
   - Indie
   - Medieval
   - Adventure
-  - Simulation
   - Singleplayer
+  - Simulation
   - Atmospheric
   - Replay Value
   - Dark Fantasy
@@ -955,14 +955,14 @@
   - RPG
   - Exploration
   - Anime
-  - First-Person
   - Narrative
+  - First-Person
   - Interactive Fiction
   - Cute
   - Point & Click
+  - Hand-drawn
   - Clicker
   - Hidden Object
-  - Hand-drawn
   - Cinematic
   - Drama
   - 360 Video
@@ -1002,8 +1002,8 @@
   tags:
   - Simulation
   - Building
-  - Design & Illustration
   - Singleplayer
+  - Design & Illustration
   - Sandbox
   - Education
   - Relaxing
@@ -1031,10 +1031,10 @@
   - Puzzle
   - Co-op Campaign
   - Adventure
-  - Casual
   - Co-op
-  - Hacking
+  - Casual
   - Multiplayer
+  - Hacking
   - Wholesome
   - Family Friendly
   - Female Protagonist
@@ -1058,8 +1058,8 @@
   - Story Rich
   - Indie
   - Management
-  - Building
   - Relaxing
+  - Building
   - Adventure
   - Hand-drawn
   - Exploration
@@ -1069,8 +1069,8 @@
   - Platformer
   - Co-op
   - Crafting
-  - Funny
   - Simulation
+  - Funny
   - Cartoony
   - Farming Sim
   - Fishing
@@ -1168,8 +1168,8 @@
   - Rogue-lite
   - Difficult
   - Action
-  - Souls-like
   - Rogue-like
+  - Souls-like
   - Fighting
   - Dungeon Crawler
   - Adventure
@@ -1195,15 +1195,15 @@
   - Multiple Endings
   - Singleplayer
   - Investigation
-  - Emotional
   - Adventure
+  - Emotional
   - Atmospheric
   - Narrative
   - Thriller
   - Puzzle
   - Mystery
-  - Exploration
   - Time Travel
+  - Exploration
   - Interactive Fiction
   - Romance
   - Sexual Content
@@ -1305,8 +1305,8 @@
   - Isometric
   - Base-Building
   - Building
-  - Resource Management
   - Colony Sim
+  - Resource Management
   - Survival
   - Management
   - Moddable
@@ -1397,8 +1397,8 @@
   - Funny
   - Adventure
   - Dark Humor
-  - Time Travel
   - Comedy
+  - Time Travel
   - Indie
   - Anime
   - Story Rich
@@ -1407,8 +1407,8 @@
   - Interactive Fiction
   - RPG
   - Casual
-  - Singleplayer
   - Exploration
+  - Singleplayer
   - 2D
   - Cute
   - Dating Sim
@@ -1429,8 +1429,8 @@
   - Economy
   - Sandbox
   - Building
-  - 2D
   - Strategy
+  - 2D
   - Experimental
   - Cute
   - Relaxing
@@ -1494,7 +1494,7 @@
   - Detective
   - Drama
   - Crime
-  - Great Soundtrack
+  - LGBTQ+
 - !ruby/object:Game
   name: 'Shotgun King: The Final Checkmate'
   month: July
@@ -1511,8 +1511,8 @@
   - Tabletop
   - Pixel Graphics
   - Choices Matter
-  - Atmospheric
   - Retro
+  - Atmospheric
   - Action
   - Shooter
   - Rogue-lite
@@ -1556,8 +1556,8 @@
   humble_scheme: choice
   steam_id: 1920490
   tags:
-  - Action
   - RPG
+  - Action
   - Adventure
   - Action RPG
   - Shooter
@@ -1592,16 +1592,16 @@
   - Third Person
   - Story Rich
   - Crime
-  - Comedy
   - Drama
+  - Comedy
   - Violent
   - Singleplayer
   - Funny
   - JRPG
-  - Sexual Content
   - Combat
   - Anime
   - Great Soundtrack
+  - Sexual Content
 - !ruby/object:Game
   name: Arcade Paradise
   month: August
@@ -1645,13 +1645,13 @@
   - Historical
   - Action
   - PvP
-  - First-Person
   - War
+  - First-Person
   - Combat
   - Military
   - 3D
-  - FPS
   - Third Person
+  - FPS
   - Wargame
   - Atmospheric
   - Comedy
@@ -1673,13 +1673,13 @@
   - Point & Click
   - CRPG
   - Noir
-  - Surreal
   - Political
+  - Surreal
   - Visual Novel
   - Exploration
   - Funny
-  - Adventure
   - Indie
+  - Adventure
   - Open World
   - Character Customization
   - Sexual Content
@@ -2359,28 +2359,8 @@
   month: November
   year: 2023
   humble_scheme: choice
-  steam_id: 1718130
-  tags:
-  - Adventure
-  - Story Rich
-  - Psychological Horror
-  - Atmospheric
-  - Mystery
-  - Puzzle
-  - Horror
-  - Walking Simulator
-  - 3D
-  - Singleplayer
-  - Exploration
-  - Immersive Sim
-  - First-Person
-  - Indie
-  - Drama
-  - Emotional
-  - RPG
-  - Thriller
-  - Quick-Time Events
-  - Multiplayer
+  steam_id:
+  tags: []
 - !ruby/object:Game
   name: Souldiers
   month: November

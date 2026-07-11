@@ -109,6 +109,7 @@ GEM
       addressable (~> 2.8)
       faraday (>= 0.17.5, < 3.a)
       jwt (>= 1.5, < 4.0)
+    sqlite3 (2.9.5-x86_64-linux-gnu)
     trailblazer-option (0.1.2)
     uber (0.1.0)
     unicode-display_width (3.2.0)
@@ -126,6 +127,7 @@ DEPENDENCIES
   rake
   rubocop
   rubocop-rake
+  sqlite3
 
 RUBY VERSION
    ruby 3.4.4p34
