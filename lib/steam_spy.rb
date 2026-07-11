@@ -16,7 +16,9 @@ class SteamSpy
       # Skip this one unless month matches or no month set
       next unless month.nil? || game.month.downcase == Date::MONTHNAMES[month].downcase
 
-      game.tags = get_tags_for(game.steam_id) unless game.steam_id.nil?
+      next if game.steam_id.nil?
+
+      game.tags = get_tags_for(game.steam_id)
       # Wait between each API call to avoid hammering the API
       sleep 1
     end
