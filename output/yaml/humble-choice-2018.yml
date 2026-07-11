@@ -6,26 +6,26 @@
   humble_scheme: monthly
   steam_id: 534290
   tags:
-  - Indie
   - 2D Platformer
-  - Retro
-  - Action
-  - Platformer
-  - Pixel Graphics
-  - 2D
+  - Multiple Endings
+  - Side Scroller
+  - Mythology
+  - Fantasy
   - Adventure
   - Medieval
+  - Platformer
   - Action-Adventure
-  - Mythology
-  - Difficult
-  - Arcade
+  - Indie
+  - Zombies
+  - Pixel Graphics
+  - Action
   - Singleplayer
+  - Arcade
+  - Difficult
+  - 2D
+  - Retro
   - GameMaker
-  - Side Scroller
-  - Cult Classic
-  - Fantasy
   - Inventory Management
-  - Metroidvania
 - !ruby/object:Game
   name: 'HIVESWAP: Act 1'
   month: January
@@ -44,8 +44,8 @@
   - Story Rich
   - Cute
   - 2D
-  - Puzzle
   - Singleplayer
+  - Puzzle
   - Atmospheric
   - Exploration
   - Sci-fi
@@ -125,8 +125,8 @@
   - Adventure
   - Multiplayer
   - Gore
-  - Racing
   - Mature
+  - Racing
   - Atmospheric
   - Shooter
   - Third-Person Shooter
@@ -158,11 +158,11 @@
   - Survival Horror
   - Strategy
   - Difficult
-  - Action
   - Co-op
+  - Action
   - Early Access
 - !ruby/object:Game
-  name: Tomb Raider
+  name: Tomb Raider Game of the Year
   month: January
   year: 2018
   humble_scheme: monthly
@@ -180,8 +180,8 @@
   - Action-Adventure
   - Quick-Time Events
   - Atmospheric
-  - Shooter
   - Puzzle
+  - Shooter
   - Stealth
   - Cinematic
   - Platformer
@@ -203,8 +203,8 @@
   - Action
   - Games Workshop
   - MOBA
-  - Singleplayer
   - Base-Building
+  - Singleplayer
   - Gore
   - War
   - Atmospheric
@@ -230,15 +230,15 @@
   - Puzzle-Platformer
   - Puzzle
   - 'Dystopian '
-  - 2.5D
   - Story Rich
   - Dark
+  - 2.5D
   - Singleplayer
   - Political
   - Horror
   - Stealth
-  - Sci-fi
   - Side Scroller
+  - Sci-fi
   - Cinematic
   - Survival
   - Classic
@@ -337,16 +337,16 @@
   - 2D
   - Story Rich
   - Atmospheric
-  - Action
   - Fantasy
+  - Action
   - Puzzle-Platformer
   - Singleplayer
   - Retro
   - Action-Adventure
   - Flight
   - Funny
-  - 2D Platformer
   - Cute
+  - 2D Platformer
   - Great Soundtrack
   - Pirates
 - !ruby/object:Game
@@ -365,8 +365,8 @@
   - Turn-Based
   - 4X
   - War
-  - Simulation
   - City Builder
+  - Simulation
   - Tactical
   - Management
   - Building
@@ -415,8 +415,8 @@
   - Adventure
   - Sci-fi
   - Indie
-  - Female Protagonist
   - Space
+  - Female Protagonist
   - Exploration
   - First-Person
   - Atmospheric
@@ -465,8 +465,8 @@
   steam_id: 384630
   tags:
   - Visual Novel
-  - Indie
   - Adventure
+  - Indie
   - Detective
   - Mystery
   - Story Rich
@@ -547,14 +547,14 @@
   - Atmospheric
   - Story Rich
   - Choices Matter
-  - Drama
   - Great Soundtrack
+  - Drama
   - Romance
   - Relaxing
   - Singleplayer
   - Cinematic
-  - Casual
   - Beautiful
+  - Casual
   - Walking Simulator
   - Time Travel
   - Third Person
@@ -574,8 +574,8 @@
   - Beat 'em up
   - Side Scroller
   - Dungeon Crawler
-  - Hack and Slash
   - Rogue-lite
+  - Hack and Slash
   - Multiplayer
   - Rogue-like
   - PvP
@@ -586,8 +586,8 @@
   - 2D
   - Action RPG
   - Loot
-  - Colorful
   - Multiple Endings
+  - Colorful
   - Singleplayer
 - !ruby/object:Game
   name: Overgrowth
@@ -604,8 +604,8 @@
   - Fighting
   - Fast-Paced
   - Physics
-  - Moddable
   - Gore
+  - Moddable
   - Combat
   - Open World
   - Ninja
@@ -633,6 +633,8 @@
   - Singleplayer
   - Great Soundtrack
   - Funny
+  - Precision Platformer
+  - 2D Platformer
 - !ruby/object:Game
   name: AER Memories of Old
   month: April
@@ -677,9 +679,9 @@
   - Singleplayer
   - Futuristic
   - First-Person
+  - Immersive Sim
   - Illuminati
   - FPS
-  - Immersive Sim
   - Great Soundtrack
   - Open World
   - Shooter
@@ -709,8 +711,8 @@
   - Third Person
   - Story Rich
   - Online Co-Op
-  - Female Protagonist
   - Atmospheric
+  - Female Protagonist
   - Open World
   - Nudity
   - Mature
@@ -747,6 +749,7 @@
   year: 2018
   humble_scheme: monthly
   steam_id:
+  tags: []
 - !ruby/object:Game
   name: 'Mafia III: Definitive Edition'
   month: April
@@ -820,8 +823,8 @@
   - Singleplayer
   - Survival Horror
   - 2D
-  - Dark
   - Rogue-like
+  - Dark
   - Horror
   - Procedural Generation
   - Pixel Graphics
@@ -837,8 +840,8 @@
   tags:
   - Simulation
   - Puzzle
-  - Strategy
   - Physics
+  - Strategy
   - Sandbox
   - Singleplayer
   - Multiplayer
@@ -884,8 +887,8 @@
   - Simulation
   - First-Person
   - Management
-  - Open World
   - Survival
+  - Open World
   - Adventure
   - Singleplayer
   - Indie
@@ -948,8 +951,8 @@
   - Rogue-like
   - Choices Matter
   - Story Rich
-  - Conversation
   - Local Co-Op
+  - Conversation
   - Multiple Endings
   - Adventure
   - Procedural Generation
@@ -959,6 +962,7 @@
   year: 2018
   humble_scheme: monthly
   steam_id:
+  tags: []
 - !ruby/object:Game
   name: RUINER
   month: May
@@ -970,12 +974,12 @@
   - Action
   - Top-Down Shooter
   - Great Soundtrack
-  - Indie
   - Violent
+  - Indie
   - Twin Stick Shooter
   - Gore
-  - Atmospheric
   - Isometric
+  - Atmospheric
   - Difficult
   - Singleplayer
   - Sci-fi
@@ -1001,16 +1005,16 @@
   - Open World
   - Sandbox
   - Wargame
-  - Moddable
   - Top-Down
+  - Moddable
   - Multiplayer
-  - Loot
   - Singleplayer
+  - Loot
   - PvE
   - Co-op
   - Online Co-Op
-  - Co-op Campaign
   - Shooter
+  - Co-op Campaign
   - RPG
   - Isometric
 - !ruby/object:Game
@@ -1063,10 +1067,10 @@
   - Comedy
   - Story Rich
   - Dark Humor
-  - Indie
   - Dark Fantasy
-  - Puzzle
+  - Indie
   - Episodic
+  - Puzzle
 - !ruby/object:Game
   name: Bear With Me - Episode Three
   month: June
@@ -1121,10 +1125,10 @@
   tags:
   - Free to Play
   - Open World
-  - Looter Shooter
   - Multiplayer
-  - FPS
+  - Looter Shooter
   - MMORPG
+  - FPS
   - Co-op
   - PvE
   - PvP
@@ -1148,8 +1152,8 @@
   tags:
   - Choices Matter
   - Adventure
-  - Visual Novel
   - Story Rich
+  - Visual Novel
   - Point & Click
   - Medieval
   - Indie
@@ -1174,25 +1178,25 @@
   steam_id: 355790
   tags:
   - Stealth
-  - Action
   - Singleplayer
+  - Action
   - Adventure
-  - Atmospheric
-  - Multiplayer
   - Story Rich
+  - Atmospheric
   - Third Person
-  - Co-op
   - Assassin
-  - Puzzle
-  - Indie
   - Violent
-  - Open World
-  - Gore
   - Parkour
-  - RPG
-  - Fantasy
   - Dark Fantasy
+  - Co-op
+  - Fantasy
   - Dark Humor
+  - Multiplayer
+  - Open World
+  - Memes
+  - RPG
+  - Difficult
+  - Comedy
 - !ruby/object:Game
   name: Yooka-Laylee
   month: June
@@ -1269,8 +1273,8 @@
   - Memes
   - Singleplayer
   - Funny
-  - Indie
   - Level Editor
+  - Indie
   - Retro
   - Pixel Graphics
   - Lemmings
@@ -1291,15 +1295,15 @@
   - Multiplayer
   - Simulation
   - Tactical
-  - Real-Time with Pause
   - Singleplayer
+  - Real-Time with Pause
   - RTS
   - Diplomacy
   - Sandbox
   - Co-op
   - Strategy RPG
-  - Competitive
   - Open World
+  - Competitive
   - Action
 - !ruby/object:Game
   name: 'Interplanetary: Enhanced Edition'
@@ -1361,13 +1365,14 @@
   - Blood
   - Singleplayer
   - Top-Down
-  - Casual
   - Crime
+  - Casual
   - Adventure
   - Puzzle
   - Great Soundtrack
   - Multiplayer
   - Stylized
+  - Arcade
 - !ruby/object:Game
   name: 'Shiness: The Lightning Kingdom'
   month: July
@@ -1381,8 +1386,8 @@
   - Indie
   - Anime
   - Fighting
-  - Great Soundtrack
   - Fantasy
+  - Great Soundtrack
   - Open World
   - Action RPG
   - JRPG
@@ -1444,8 +1449,8 @@
   - Collectathon
   - Great Soundtrack
   - Female Protagonist
-  - Adventure
   - Funny
+  - Adventure
   - Indie
   - Platformer
   - Colorful
@@ -1460,7 +1465,7 @@
   - Action
   - Kickstarter
 - !ruby/object:Game
-  name: Conan Exiles
+  name: Conan Exiles Enhanced
   month: August
   year: 2018
   humble_scheme: monthly
@@ -1468,8 +1473,8 @@
   tags:
   - Survival
   - Open World
-  - Building
   - Nudity
+  - Building
   - Open World Survival Craft
   - Crafting
   - Multiplayer
@@ -1499,6 +1504,7 @@
   - Indie
   - Multiplayer
   - Singleplayer
+  - Base-Building
 - !ruby/object:Game
   name: Kona
   month: August
@@ -1506,8 +1512,8 @@
   humble_scheme: monthly
   steam_id: 365160
   tags:
-  - Adventure
   - Survival
+  - Adventure
   - Detective
   - Atmospheric
   - First-Person
@@ -1538,9 +1544,9 @@
   - Survival
   - Psychological Horror
   - Cult Classic
-  - First-Person
-  - Horror
   - Dark
+  - Horror
+  - First-Person
   - RPG
   - Singleplayer
   - Great Soundtrack
@@ -1566,8 +1572,8 @@
   - War
   - Multiplayer
   - Historical
-  - Tanks
   - Real-Time
+  - Tanks
   - Realistic
   - Real Time Tactics
   - Military
@@ -1587,16 +1593,16 @@
   - Co-op
   - 2D
   - Crafting
-  - Simulation
   - Local Co-Op
+  - Simulation
   - Singleplayer
   - Indie
   - Sandbox
   - Stealth
   - Character Customization
   - Funny
-  - Puzzle
   - Split Screen
+  - Puzzle
   - Open World
   - Action
   - Difficult
@@ -1624,8 +1630,8 @@
   - Action RPG
   - Gore
   - Adventure
-  - Futuristic
   - Horror
+  - Futuristic
   - Story Rich
 - !ruby/object:Game
   name: Battle Chef Brigade Deluxe
@@ -1669,8 +1675,8 @@
   - Singleplayer
   - Third Person
   - Fantasy
-  - Story Rich
   - Puzzle
+  - Story Rich
   - Great Soundtrack
   - Action RPG
   - Dark Fantasy
@@ -1680,7 +1686,7 @@
   - Gore
   - Controller
   - Multiplayer
-  - Souls-like
+  - Metroidvania
 - !ruby/object:Game
   name: Figment
   month: September
@@ -1690,13 +1696,13 @@
   tags:
   - Adventure
   - Indie
-  - Action
   - Puzzle
+  - Action
   - Hand-drawn
-  - Singleplayer
-  - Isometric
   - Great Soundtrack
+  - Singleplayer
   - Surreal
+  - Isometric
   - Atmospheric
   - Colorful
   - Cute
@@ -1787,8 +1793,8 @@
   - Adventure
   - Tactical
   - Mature
-  - First-Person
   - Strategy
+  - First-Person
 - !ruby/object:Game
   name: Staxel
   month: September
@@ -1799,8 +1805,8 @@
   - Farming Sim
   - Character Customization
   - Cute
-  - Agriculture
   - Sandbox
+  - Agriculture
   - Nature
   - Relaxing
   - Building
@@ -1839,8 +1845,8 @@
   - Cute
   - Local Co-Op
   - Mature
-  - Co-op
   - Sexual Content
+  - Co-op
   - Multiplayer
   - Nudity
 - !ruby/object:Game
@@ -1865,8 +1871,8 @@
   - Comedy
   - Great Soundtrack
   - Blood
-  - Survival
   - Platformer
+  - Survival
   - Retro
   - Difficult
   - Funny
@@ -2011,6 +2017,7 @@
   year: 2018
   humble_scheme: monthly
   steam_id:
+  tags: []
 - !ruby/object:Game
   name: We Were Here Too
   month: October
@@ -2051,19 +2058,19 @@
   - Open World
   - Open World Survival Craft
   - Base-Building
-  - Voxel
   - Post-apocalyptic
+  - Voxel
   - Online Co-Op
   - Building
   - Exploration
   - Sandbox
   - FPS
   - Simulation
-  - Character Customization
   - Tower Defense
+  - Character Customization
   - Action
-  - Strategy
   - Horror
+  - Strategy
   - Procedural Generation
 - !ruby/object:Game
   name: Dead Island Definitive Edition
@@ -2074,8 +2081,8 @@
   tags:
   - Zombies
   - Open World
-  - Multiplayer
   - Co-op
+  - Multiplayer
   - Survival
   - Action
   - Gore
@@ -2098,6 +2105,7 @@
   year: 2018
   humble_scheme: monthly
   steam_id:
+  tags: []
 - !ruby/object:Game
   name: Hard Reset Redux
   month: November
@@ -2114,10 +2122,10 @@
   - Singleplayer
   - Sci-fi
   - First-Person
-  - Nudity
-  - Horror
   - Fast-Paced
   - Multiplayer
+  - Nudity
+  - Horror
 - !ruby/object:Game
   name: Hollow Knight
   month: November
@@ -2138,8 +2146,8 @@
   - Adventure
   - Story Rich
   - Hand-drawn
-  - Action
   - Multiple Endings
+  - Action
   - Dark Fantasy
   - Open World
   - Cute
@@ -2152,8 +2160,8 @@
   humble_scheme: monthly
   steam_id: 222480
   tags:
-  - Action
   - Horror
+  - Action
   - Zombies
   - Survival Horror
   - Third-Person Shooter
@@ -2171,7 +2179,7 @@
   - Sci-fi
   - Great Soundtrack
   - Story Rich
-  - Local Co-Op
+  - Anime
 - !ruby/object:Game
   name: Sniper Elite
   month: November
@@ -2196,8 +2204,8 @@
   - Tactical
   - Simulation
   - Open World
-  - Military
   - Online Co-Op
+  - Military
   - Cold War
 - !ruby/object:Game
   name: Sniper Elite V2
@@ -2361,8 +2369,8 @@
   - Atmospheric
   - Adventure
   - Horses
-  - Multiplayer
   - Third-Person Shooter
+  - Multiplayer
   - Shooter
   - Replay Value
   - Sandbox
@@ -2393,8 +2401,8 @@
   - Remake
   - Shooter
   - Anime
-  - Controller
   - Old School
+  - Controller
   - 2D Platformer
 - !ruby/object:Game
   name: NeuroVoider
@@ -2407,22 +2415,22 @@
   - Indie
   - Action Roguelike
   - RPG
-  - Twin Stick Shooter
   - Local Co-Op
+  - Twin Stick Shooter
   - Great Soundtrack
-  - Pixel Graphics
   - Rogue-lite
+  - Pixel Graphics
   - Cyberpunk
   - Rogue-like
   - Bullet Hell
   - Top-Down
   - Robots
-  - Co-op
   - Futuristic
-  - Co-op Campaign
+  - Co-op
   - Perma Death
-  - Sci-fi
   - 2D
+  - Sci-fi
+  - Co-op Campaign
 - !ruby/object:Game
   name: Purrfect Date - Visual Novel/Dating Simulator
   month: December
@@ -2437,8 +2445,8 @@
   - Adventure
   - Simulation
   - RPG
-  - Romance
   - Multiple Endings
+  - Romance
   - Psychological Horror
   - Singleplayer
   - 'Parody '
@@ -2459,8 +2467,8 @@
   tags:
   - Action RPG
   - Stealth
-  - Cyberpunk
   - Isometric
+  - Cyberpunk
   - Open World
   - Singleplayer
   - Indie
@@ -2502,5 +2510,5 @@
   - War
   - FPS
   - Open World
-  - Female Protagonist
   - First-Person
+  - Female Protagonist

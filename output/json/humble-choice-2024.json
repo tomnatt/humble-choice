@@ -1322,29 +1322,8 @@
     "month": "June",
     "year": 2024,
     "humble_scheme": "choice",
-    "steam_id": 1451810,
-    "tags": [
-      "Racing",
-      "LEGO",
-      "Building",
-      "Sandbox",
-      "Funny",
-      "Family Friendly",
-      "Combat Racing",
-      "Exploration",
-      "Colorful",
-      "Comedy",
-      "Driving",
-      "Offroad",
-      "3D",
-      "Third Person",
-      "Arcade",
-      "Open World",
-      "Character Customization",
-      "PvP",
-      "PvE",
-      "Sports"
-    ]
+    "steam_id": null,
+    "tags": []
   },
   {
     "name": "Miasma Chronicles",

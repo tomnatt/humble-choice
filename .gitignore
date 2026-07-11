@@ -3,6 +3,7 @@ test.rb
 keys
 steam/*
 !steam/.keep
+TODO.md
 
 # Ruby directories
 *.gem

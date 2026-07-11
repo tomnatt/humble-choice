@@ -1,5 +1,7 @@
+require 'fileutils'
 require 'json'
 require 'net/http'
+require 'sqlite3'
 require 'uri'
 require_relative 'config'
 require_relative 'game'
@@ -9,15 +11,14 @@ class SteamStore
 
   def initialize(load_file: true)
     @entries = []
+    @db = nil
 
-    load_entries_from_file if load_file
-  end
+    return unless load_file
 
-  def load_entries_from_file
-    if File.exist?(Config.steam_store)
-      @entries = YAML.load_file(Config.steam_store, permitted_classes: [Game])
+    if File.exist?(Config.steam_store_db)
+      @db = SQLite3::Database.new(Config.steam_store_db)
     else
-      puts 'Load entries from Steam API'
+      puts 'Steam store DB not found - run get_steam first'
     end
   end
 
@@ -27,19 +28,11 @@ class SteamStore
   end
 
   def find_id(name)
-    g = @entries.select do |game|
-      normalise_emoji_variants(game.name.downcase) == normalise_emoji_variants(name.downcase)
-    end
+    return nil if @db.nil?
 
-    # Return nil if we don't find the game
-    return nil if g.empty?
-
-    g.first.steam_id
-  end
-
-  # Strip off the Variation Selector
-  def normalise_emoji_variants(str)
-    str.gsub("\uFE0F", '')
+    normalised = normalise_emoji_variants(name.downcase)
+    row = @db.get_first_row('SELECT steam_id FROM apps WHERE normalised_name = ?', normalised)
+    row&.first
   end
 
   def load_entries_from_steam_api
@@ -68,21 +61,38 @@ class SteamStore
     File.open(Config.steam_store, 'w+') do |f|
       f << @entries.to_yaml
     end
+
+    save_entries_to_db
   end
 
   def delete_entries_file
     FileUtils.rm_f(Config.steam_store)
+    FileUtils.rm_f(Config.steam_store_db)
   end
 
   private
 
-  def steam_api_url(last_appid_number = '')
-    steam_api_url = "https://api.steampowered.com/IStoreService/GetAppList/v1/?key=#{ENV.fetch('STEAM_API_KEY')}"
-    max_results = '&max_results=50000'
-    include_dlc = '&include_dlc=true'
-    last_appid = "&last_appid=#{last_appid_number}"
+  def save_entries_to_db
+    FileUtils.rm_f(Config.steam_store_db)
+    db = SQLite3::Database.new(Config.steam_store_db)
+    db.execute('CREATE TABLE apps (normalised_name TEXT PRIMARY KEY, steam_id INTEGER)')
+    db.transaction do
+      @entries.each do |game|
+        normalised = normalise_emoji_variants(game.name.downcase)
+        db.execute('INSERT OR IGNORE INTO apps (normalised_name, steam_id) VALUES (?, ?)', [normalised, game.steam_id])
+      end
+    end
+    db.close
+  end
 
-    "#{steam_api_url}#{max_results}#{include_dlc}#{last_appid}"
+  # Strip off the Variation Selector
+  def normalise_emoji_variants(str)
+    str.gsub('️', '')
+  end
+
+  def steam_api_url(last_appid_number = '')
+    base = "https://api.steampowered.com/IStoreService/GetAppList/v1/?key=#{ENV.fetch('STEAM_API_KEY')}"
+    "#{base}&max_results=50000&include_dlc=true&last_appid=#{last_appid_number}"
   end
 
   def load_json(last_appid)
