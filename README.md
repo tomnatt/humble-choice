@@ -45,6 +45,7 @@ All rake tasks (run through bundle, obv):
 ```
 rake add_missing_tags                     # Add missing tags
 rake add_tags[month,year]                 # Add tags - very slow with no params
+rake check_ignore_list                    # Check ignore list for games that now have a Steam ID
 rake delete_steam                         # Delete local Steam datastore
 rake generate_games                       # Generate Game objects with no change to Steam Ids
 rake generate_games_list                  # Generate Game objects with no Steam Ids
