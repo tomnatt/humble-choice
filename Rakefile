@@ -81,6 +81,31 @@ task :missing_tags do
   GamesListFiles.show_missing('tags')
 end
 
+# Ignore list
+
+desc 'Check ignore list for games that now have a Steam ID'
+task :check_ignore_list do
+  store = SteamStore.new
+  found = []
+
+  File.open(Config.ignore_list, 'r') do |f|
+    f.each_line do |line|
+      next if line.strip.empty? || line.chars.first == '#'
+
+      name = line.chomp
+      steam_id = store.find_id(name)
+      found << "#{name}: #{steam_id}" unless steam_id.nil?
+    end
+  end
+
+  if found.empty?
+    puts 'No games on the ignore list were found in the Steam store'
+  else
+    puts 'Games on the ignore list that now have a Steam ID:'
+    found.each { |g| puts "  #{g}" }
+  end
+end
+
 # Convenience methods
 
 desc 'Monthly task - run when adding new games (default)'
