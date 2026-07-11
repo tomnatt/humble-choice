@@ -25,7 +25,7 @@ class HumbleChoiceGenerator
     @game_list.map! do |game|
       # This select will return nil for new games, in which case return "game" object
       g = existing_list.select { |existing_game| games_match?(game, existing_game) }.first
-      return game if g.nil?
+      next game if g.nil?
 
       g
     end
