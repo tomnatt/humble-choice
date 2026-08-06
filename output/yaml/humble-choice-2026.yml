@@ -1409,3 +1409,224 @@
   - Controller
   - Stylized
   - Indie
+- !ruby/object:Game
+  name: Conquest Dark
+  month: August
+  year: 2026
+  humble_scheme: choice
+  steam_id: 3238670
+  tags:
+  - Action
+  - Action RPG
+  - Action Roguelike
+  - Rogue-lite
+  - RPG
+  - Rogue-like
+  - Bullet Hell
+  - Isometric
+  - Dark Fantasy
+  - Alternate History
+  - Fantasy
+  - Nudity
+  - Medieval
+  - Early Access
+  - Violent
+  - Indie
+  - Mythology
+  - Dark
+  - Linear
+  - Controller
+- !ruby/object:Game
+  name: Dark Envoy
+  month: August
+  year: 2026
+  humble_scheme: choice
+  steam_id: 945770
+  tags:
+  - Steampunk
+  - Real Time Tactics
+  - Exploration
+  - Dungeon Crawler
+  - Party-Based RPG
+  - Real-Time with Pause
+  - Isometric
+  - RPG
+  - Action RPG
+  - Dark Fantasy
+  - Atmospheric
+  - Singleplayer
+  - Story Rich
+  - Lore-Rich
+  - CRPG
+  - Fantasy
+  - Character Customization
+  - Combat
+  - Adventure
+  - Class-Based
+- !ruby/object:Game
+  name: Dead Cells
+  month: August
+  year: 2026
+  humble_scheme: choice
+  steam_id: 588650
+  tags:
+  - Adventure
+  - Action Roguelike
+  - Metroidvania
+  - Pixel Graphics
+  - Rogue-like
+  - 2D
+  - Souls-like
+  - Rogue-lite
+  - Difficult
+  - Hack and Slash
+  - Replay Value
+  - Platformer
+  - Singleplayer
+  - Roguevania
+  - Action
+  - Dark Fantasy
+  - Atmospheric
+  - Procedural Generation
+  - Funny
+  - Indie
+- !ruby/object:Game
+  name: 'Dead Cells: The Bad Seed'
+  month: August
+  year: 2026
+  humble_scheme: choice
+  steam_id: 1204130
+  tags:
+  - dlc
+- !ruby/object:Game
+  name: Decktamer
+  month: August
+  year: 2026
+  humble_scheme: choice
+  steam_id: 2870340
+  tags:
+  - dlc
+- !ruby/object:Game
+  name: Gatekeeper
+  month: August
+  year: 2026
+  humble_scheme: choice
+  steam_id: 2106670
+  tags:
+  - Early Access
+  - Online Co-Op
+  - Action Roguelike
+  - Bullet Hell
+  - Aliens
+  - Rogue-lite
+  - Top-Down Shooter
+  - Multiplayer
+  - PvE
+  - Arena Shooter
+  - Shooter
+  - Combat
+  - Action
+  - Top-Down
+  - Arcade
+  - Sci-fi
+  - Space
+  - Score Attack
+  - Atmospheric
+  - Dark
+- !ruby/object:Game
+  name: 'Like a Dragon: Infinite Wealth'
+  month: August
+  year: 2026
+  humble_scheme: choice
+  steam_id: 2072450
+  tags:
+  - Action
+  - JRPG
+  - Adventure
+  - Turn-Based Combat
+  - Sexual Content
+  - Comedy
+  - Story Rich
+  - Singleplayer
+  - Emotional
+  - Funny
+  - Action RPG
+  - Violent
+  - Turn-Based
+  - Action-Adventure
+  - RPG
+  - Beat 'em up
+  - Gore
+  - Martial Arts
+  - Great Soundtrack
+  - Colorful
+- !ruby/object:Game
+  name: Pile Up!
+  month: August
+  year: 2026
+  humble_scheme: choice
+  steam_id: 2094910
+  tags:
+  - Relaxing
+  - Indie
+  - Base-Building
+  - Casual
+  - Atmospheric
+  - Sandbox
+  - Minimalist
+  - Stylized
+  - Colorful
+  - Rogue-lite
+  - Cute
+  - Building
+  - Turn-Based
+  - City Builder
+  - Isometric
+  - Management
+  - Strategy
+  - Early Access
+  - Choices Matter
+  - Singleplayer
+- !ruby/object:Game
+  name: 'Teenage Mutant Ninja Turtles: Shredder''s Revenge'
+  month: August
+  year: 2026
+  humble_scheme: choice
+  steam_id: 1361510
+  tags:
+  - Beat 'em up
+  - Multiplayer
+  - Side Scroller
+  - Pixel Graphics
+  - Co-op Campaign
+  - 2D
+  - Action-Adventure
+  - Ninja
+  - Arcade
+  - Martial Arts
+  - Action
+  - Colorful
+  - Indie
+  - Cartoon
+  - Family Friendly
+  - Singleplayer
+  - Local Co-Op
+  - Comic Book
+  - Adventure
+  - Atmospheric
+- !ruby/object:Game
+  name: 'Teenage Mutant Ninja Turtles: Shredder''s Revenge - Dimension Shellshock'
+  month: August
+  year: 2026
+  humble_scheme: choice
+  steam_id: 2348930
+  tags:
+  - dlc
+- !ruby/object:Game
+  name: 'Teenage Mutant Ninja Turtles: Shredder''s Revenge - Radical Reptiles'
+  month: August
+  year: 2026
+  humble_scheme: choice
+  steam_id: 2925190
+  tags:
+  - dlc
