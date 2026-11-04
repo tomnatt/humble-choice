@@ -1996,5 +1996,162 @@
       "PvE",
       "Level Editor"
     ]
+  },
+  {
+    "name": "Crisol: Theater of Idols",
+    "month": "October",
+    "year": 2026,
+    "humble_scheme": "choice",
+    "steam_id": 1790930,
+    "tags": [
+      "dlc"
+    ]
+  },
+  {
+    "name": "DYSMANTLE",
+    "month": "October",
+    "year": 2026,
+    "humble_scheme": "choice",
+    "steam_id": 846770,
+    "tags": [
+      "Survival",
+      "Open World",
+      "Crafting",
+      "Zombies",
+      "Base-Building",
+      "RPG",
+      "Adventure",
+      "Exploration",
+      "Action",
+      "Destruction",
+      "Top-Down",
+      "Indie",
+      "Dystopian ",
+      "Hunting",
+      "Fishing",
+      "Sandbox",
+      "Loot",
+      "Agriculture",
+      "Simulation",
+      "Atmospheric"
+    ]
+  },
+  {
+    "name": "Mafia: The Old Country",
+    "month": "October",
+    "year": 2026,
+    "humble_scheme": "choice",
+    "steam_id": 1941540,
+    "tags": [
+      "dlc"
+    ]
+  },
+  {
+    "name": "Mafia: The Old Country - Gatto Nero Pack",
+    "month": "October",
+    "year": 2026,
+    "humble_scheme": "choice",
+    "steam_id": 3269270,
+    "tags": [
+      "dlc"
+    ]
+  },
+  {
+    "name": "Mafia: The Old Country - Padrino Pack",
+    "month": "October",
+    "year": 2026,
+    "humble_scheme": "choice",
+    "steam_id": 3269260,
+    "tags": [
+      "dlc"
+    ]
+  },
+  {
+    "name": "SHINOBI: Art of Vengeance",
+    "month": "October",
+    "year": 2026,
+    "humble_scheme": "choice",
+    "steam_id": 2361770,
+    "tags": [
+      "dlc"
+    ]
+  },
+  {
+    "name": "Space Haven",
+    "month": "October",
+    "year": 2026,
+    "humble_scheme": "choice",
+    "steam_id": 979110,
+    "tags": [
+      "Base-Building",
+      "Space",
+      "Colony Sim",
+      "Simulation",
+      "Strategy",
+      "Survival",
+      "Sci-fi",
+      "Sandbox",
+      "City Builder",
+      "Management",
+      "Resource Management",
+      "Building",
+      "Indie",
+      "Space Sim",
+      "Exploration",
+      "Open World",
+      "Pixel Graphics",
+      "Early Access",
+      "Singleplayer",
+      "Crafting"
+    ]
+  },
+  {
+    "name": "Squeakross: Home Squeak Home",
+    "month": "October",
+    "year": 2026,
+    "humble_scheme": "choice",
+    "steam_id": 2871440,
+    "tags": [
+      "dlc"
+    ]
+  },
+  {
+    "name": "The Outer Worlds 2",
+    "month": "October",
+    "year": 2026,
+    "humble_scheme": "choice",
+    "steam_id": 1449110,
+    "tags": [
+      "dlc"
+    ]
+  },
+  {
+    "name": "Yakuza 6: The Song of Life",
+    "month": "October",
+    "year": 2026,
+    "humble_scheme": "choice",
+    "steam_id": 1388590,
+    "tags": [
+      "Action",
+      "Adventure",
+      "Open World",
+      "Beat 'em up",
+      "RPG",
+      "Action RPG",
+      "Crime",
+      "Story Rich",
+      "Third Person",
+      "Comedy",
+      "Drama",
+      "Violent",
+      "JRPG",
+      "Singleplayer",
+      "Sexual Content",
+      "Funny",
+      "Combat",
+      "Anime",
+      "Great Soundtrack",
+      "Mature"
+    ]
   }
 ]
